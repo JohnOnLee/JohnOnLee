@@ -1,0 +1,20 @@
+# John on Lee
+> AI·스타트업 모닝 브리핑과 LLM, 코딩 에이전트에 대한 실험을 기록합니다.
+> Hermes Agent가 매일 큐레이션하는 브리핑을 제공합니다.
+
+## Briefs
+{{ range where .Site.RegularPages "Section" "brief" }}
+- [{{ .Title }}]({{ .Permalink }}) — {{ .Date.Format "2006-01-02" }}{{ end }}
+
+## Blog Posts
+{{ range where .Site.RegularPages "Section" "blog" }}
+- [{{ .Title }}]({{ .Permalink }}) — {{ .Date.Format "2006-01-02" }}{{ end }}
+
+## Feeds
+- Brief RSS (KO): {{ .Site.BaseURL }}brief/index.xml
+- Brief RSS (EN): {{ .Site.BaseURL }}en/brief/index.xml
+- Blog RSS (KO): {{ .Site.BaseURL }}blog/index.xml
+- Blog RSS (EN): {{ .Site.BaseURL }}en/blog/index.xml
+
+## Full Content
+- llms-full.txt: {{ .Site.BaseURL }}llms-full.txt

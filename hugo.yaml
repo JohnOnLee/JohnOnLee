@@ -80,12 +80,18 @@ outputFormats:
     baseName: llms-full
     isPlainText: true
     notAlternative: true
+  LLMS:
+    mediaType: text/plain
+    baseName: llms
+    isPlainText: true
+    notAlternative: true
 
 outputs:
   home:
     - HTML
     - RSS
     - LLMSFULL
+    - LLMS
 
 params:
   description: "AI·스타트업 모닝 브리핑과 LLM, 코딩 에이전트에 대한 생각과 실험을 기록합니다."
