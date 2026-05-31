@@ -73,6 +73,7 @@ languages:
 
 googleAnalytics: G-XQLLNDLGC0
 enableRobotsTXT: true
+buildFuture: true
 
 outputFormats:
   LLMS:
