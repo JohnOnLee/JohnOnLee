@@ -24,7 +24,7 @@ languages:
       main:
         - identifier: brief
           name: 모닝 브리프
-          url: /JohnOnLee/brief/
+          url: /brief/
           weight: 10
   en:
     label: English
@@ -44,7 +44,7 @@ languages:
       main:
         - identifier: brief
           name: Morning Brief
-          url: /JohnOnLee/brief/
+          url: /brief/
           weight: 10
 
 params:
