@@ -47,7 +47,7 @@ menu:
   main:
     - identifier: brief
       name: 모닝 브리프
-      url: /JohnOnLee/brief/
+      pageRef: /brief
       weight: 10
 
 markup:
