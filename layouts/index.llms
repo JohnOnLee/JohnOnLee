@@ -2,16 +2,18 @@
 > Personal site for AI/startup morning briefings, LLMs, and coding agents.
 > Daily briefings curated by Hermes Agent.
 
-## Briefs
-{{ range where .Site.RegularPages "Section" "brief" }}
+{{ range hugo.Sites }}
+## Briefs ({{ upper .Language.Lang }})
+{{ range where .RegularPages "Section" "brief" }}
 - [Brief — {{ .Date.Format "2006-01-02" }}]({{ .Permalink }}){{ end }}
 
-## Blog Posts
-{{ range where .Site.RegularPages "Section" "blog" }}
+## Blog Posts ({{ upper .Language.Lang }})
+{{ range where .RegularPages "Section" "blog" }}
 - [{{ .Title }}]({{ .Permalink }}) — {{ .Date.Format "2006-01-02" }}{{ end }}
+{{ end }}
 
 ## Feeds
-- Brief RSS (KO): {{ .Site.BaseURL }}brief/index.xml
-- Brief RSS (EN): {{ .Site.BaseURL }}en/brief/index.xml
-- Blog RSS (KO): {{ .Site.BaseURL }}blog/index.xml
-- Blog RSS (EN): {{ .Site.BaseURL }}en/blog/index.xml
+- KO Brief RSS: {{ .Site.BaseURL }}brief/index.xml
+- KO Blog RSS: {{ .Site.BaseURL }}blog/index.xml
+- EN Brief RSS: {{ .Site.BaseURL }}en/brief/index.xml
+- EN Blog RSS: {{ .Site.BaseURL }}en/blog/index.xml
