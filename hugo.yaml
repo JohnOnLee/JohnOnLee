@@ -1,0 +1,56 @@
+baseURL: https://johnonlee.github.io/JohnOnLee/
+title: John on Lee
+theme: PaperMod
+
+defaultContentLanguage: ko
+defaultContentLanguageInSubdir: false
+
+languages:
+  ko:
+    label: 한국어
+    weight: 1
+    title: John on Lee
+    params:
+      homeInfoParams:
+        Title: 👋 John on Lee
+        Content: |
+          생각과 실험을 기록하는 개인 사이트입니다.
+
+          ### 📋 AI·스타트업 모닝 브리프
+          격일 아침, 놓치면 안 될 AI/스타트업 소식을 큐레이션합니다.
+          핵심 변화, 미래 신호, 현실적인 기회까지 — 단순 요약이 아닌 통찰을 전달합니다.
+          → [브리프 보기](/brief/)
+  en:
+    label: English
+    weight: 2
+    title: John on Lee
+    params:
+      homeInfoParams:
+        Title: 👋 John on Lee
+        Content: |
+          A personal site for thoughts, experiments, and things worth sharing.
+
+          ### 📋 AI / Startup Morning Brief
+          Bi-daily curation of AI/startup news that matters.
+          Key shifts, future signals, and grounded opportunities — insight, not just summaries.
+          → [View briefs](/brief/)
+
+params:
+  ShowReadingTime: false
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  defaultTheme: auto
+  DateFormat: "2006-01-02"
+
+menu:
+  main:
+    - identifier: brief
+      name: 모닝 브리프
+      url: /brief/
+      weight: 10
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
