@@ -5,7 +5,7 @@ date: 2026-05-29
 
 [브리핑/AI] AI·스타트업 모닝 브리프 - 2026-05-29
 
-핵심 변화
+## 핵심 변화
 
 - Anthropic이 Series H로 $65B를 조달하며 $965B 포스트머니 밸류에이션을 기록, OpenAI를 제치고 가장 높은 가치의 AI 스타트업이 되었다. 같은 날 Claude Opus 4.8을 출시하며 "정직성(honesty)"을 핵심 차별점으로 내세웠다 — 근거 없는 주장을 이전 모델 대비 4배 적게 한다고 주장. 동시에 Mythos 등급 모델의 공개 출시도 예고했다.
   https://www.anthropic.com/news/series-h
@@ -26,7 +26,7 @@ date: 2026-05-29
   https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/
   https://www.theverge.com/entertainment/939067/ai-film-dreams-of-violets-tribeca
 
-스타트업 / 제품 / 플랫폼 레이더
+## 스타트업 / 제품 / 플랫폼 레이더
 
 - Claude Opus 4.8 출시: "정직성" 특화 — 근거 없는 주장 4배 감소, 불확실성을 스스로 플래그. Mythos 모델의 공개 출시도 수 주 내 예정.
   https://www.reuters.com/business/anthropic-roll-out-claude-mythos-coming-weeks-launches-opus-48-2026-05-28/
@@ -60,7 +60,7 @@ date: 2026-05-29
   https://github.com/Astralchemist/rig
   https://github.com/jmilinovich/grove
 
-AI가 바꾸는 미래 신호
+## AI가 바꾸는 미래 신호
 
 - "AI 피로"가 제품 차별화 포인트가 된다. DuckDuckGo의 AI 프리 검색이 28% 성장한 것과 "I'm Tired of Talking to AI"의 폭발적 공감은, 인간에게 더 많은 제어권과 투명성을 제공하는 도구가 오히려 경쟁 우위가 될 수 있음을 시사한다. AI 기능이 기본값이 되는 시대에 "인간 중심"을 마케팅이 아닌 실질적 설계 원칙으로 삼는 제품이 부상할 가능성.
 
@@ -70,7 +70,7 @@ AI가 바꾸는 미래 신호
 
 - 코딩 에이전트의 "보조 인프라" 생태계가 형성되고 있다. Tokenscope(비용 추적), Rig(코드 그래프), Grove(지식 베이스 연동), Agmsg(에이전트 간 메시징) 등 — 에이전트 자체보다 그 주변 도구들에서 기회가 발생 중.
 
-현실적인 기회 / 실험 아이디어
+## 현실적인 기회 / 실험 아이디어
 
 - "AI 없는/적은" 경험을 명시적 가치 제안으로 내세운 검색·생산성 도구에 대한 수요가 검증되고 있다. DuckDuckGo의 성장은 AI가 기본값이 된 환경에서 "인간 제어"가 하나의 제품 카테고리로 성립할 수 있음을 입증. 이 패턴은 검색을 넘어 이메일, 문서 작성, 코드 리뷰 등 다른 AI-포화 도메인으로 확장 가능.
 
@@ -78,7 +78,7 @@ AI가 바꾸는 미래 신호
 
 - MCP 기반 개인 지식 베이스 도구의 수요가 확인되고 있다. Grove(Obsidian + MCP)의 등장은 사람들이 AI 에이전트와 자신의 노트/생각을 연결하려는 니즈가 확산 중임을 보여준다. John의 Obsidian + Monet 구조를 더 많은 사람이 채택할 수 있도록 만드는 도구화 가능성.
 
-불확실성 / 계속 볼 것
+## 불확실성 / 계속 볼 것
 
 - Anthropic의 $965B 밸류에이션이 지속 가능한지 판단하기엔 이르다. AI 스타트업의 수익화 속도가 밸류에이션을 정당화할 수 있을지는 2026년 하반기 IPO가 나와야 검증 가능. Altman과 Amodei가 AI 일자리 재앙론에서 동시에 물러선 것은 IPO를 앞둔 내러티브 관리일 가능성도 배제할 수 없다.
   https://www.axios.com/2026/05/27/ai-hype-doom-openai-anthropic
