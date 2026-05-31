@@ -14,7 +14,8 @@ body {
   --subtle-border: #e8e5e1;
 }
 
-.dark {
+.dark,
+[data-theme="dark"] {
   --content-bg: #1a1a1c;
   --subtle-border: #2e2e32;
 }
