@@ -4,7 +4,7 @@
 
 ## Briefs
 {{ range where .Site.RegularPages "Section" "brief" }}
-- [{{ .Title }}]({{ .Permalink }}) — {{ .Date.Format "2006-01-02" }}{{ end }}
+- [Brief — {{ .Date.Format "2006-01-02" }}]({{ .Permalink }}){{ end }}
 
 ## Blog Posts
 {{ range where .Site.RegularPages "Section" "blog" }}
