@@ -7,21 +7,14 @@ body {
   -webkit-font-smoothing: antialiased;
 }
 
-/* ── Page background ── */
+/* ── PaperMod theme tweaks ── */
 
 :root {
-  --content-bg: #fdfcfb;
-  --subtle-border: #e8e5e1;
+  --theme: #fdfcfc;
 }
 
-.dark,
 [data-theme="dark"] {
-  --content-bg: #1a1a1c;
-  --subtle-border: #2e2e32;
-}
-
-.main {
-  background: var(--content-bg);
+  --theme: #1a1a1c;
 }
 
 /* ── Post content ── */
@@ -32,16 +25,15 @@ body {
   word-break: keep-all;
   overflow-wrap: break-word;
   max-width: 800px;
-  color: var(--primary);
 }
 
-/* Section headings — bold, larger, strong visual */
+/* Section headings */
 .post-content h2 {
   font-size: 1.35em;
   font-weight: 700;
   margin: 2.5em 0 0.7em 0;
   padding-bottom: 0.4em;
-  border-bottom: 2px solid var(--subtle-border);
+  border-bottom: 2px solid var(--border);
   letter-spacing: -0.01em;
 }
 
@@ -51,7 +43,6 @@ body {
   margin: 1.8em 0 0.5em 0;
 }
 
-/* First heading after the title should have less top margin */
 .post-content h2:first-of-type {
   margin-top: 1.8em;
 }
@@ -68,7 +59,7 @@ body {
   line-height: 1.8;
 }
 
-/* Links — keep URLs from breaking layout, subtle underline */
+/* Links */
 .post-content a {
   word-break: break-all;
   text-decoration: underline;
@@ -80,28 +71,14 @@ body {
   text-decoration-color: var(--primary);
 }
 
-/* Inline code */
-.post-content code {
-  font-size: 0.88em;
-  padding: 0.15em 0.45em;
-  border-radius: 3px;
-  background: var(--code-bg);
-}
-
-/* List page — post entries */
+/* Post entries on list pages */
 .post-entry {
-  border-bottom: 1px solid var(--subtle-border);
+  border-bottom: 1px solid var(--border);
   padding-bottom: 1.2em;
   margin-bottom: 1.2em;
 }
 
 .post-meta {
   font-size: 0.88rem;
-  color: var(--secondary);
-}
-
-/* ── Breadcrumb ── */
-.breadcrumbs {
-  font-size: 0.9rem;
   color: var(--secondary);
 }
