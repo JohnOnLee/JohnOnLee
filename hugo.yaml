@@ -1,4 +1,4 @@
-baseURL: https://johnonlee.github.io/JohnOnLee/
+baseURL: https://john.onlee.io/
 title: John on Lee
 theme: PaperMod
 
@@ -19,11 +19,11 @@ languages:
           ### 📋 AI·스타트업 모닝 브리프
           매일 아침, 놓치면 안 될 AI/스타트업 소식을 큐레이션합니다.
           핵심 변화, 미래 신호, 현실적인 기회까지 — 단순 요약이 아닌 통찰을 전달합니다.
-          → [브리프 보기](/JohnOnLee/brief/)
+          → [브리프 보기](/brief/)
           
           ### ✍️ 블로그
           LLM, 코딩 에이전트, AI 스타트업에 대한 생각과 실험.
-          → [블로그 읽기](/JohnOnLee/blog/)
+          → [블로그 읽기](/blog/)
     menu:
       main:
         - identifier: brief
@@ -47,11 +47,11 @@ languages:
           ### 📋 AI / Startup Morning Brief
           Daily curation of AI/startup news that matters.
           Key shifts, future signals, and grounded opportunities — insight, not just summaries.
-          → [View briefs](/JohnOnLee/en/brief/)
+          → [View briefs](/en/brief/)
           
           ### ✍️ Blog
           Thoughts and experiments on LLMs, coding agents, and AI startups.
-          → [Read blog](/JohnOnLee/en/blog/)
+          → [Read blog](/en/blog/)
     menu:
       main:
         - identifier: brief
