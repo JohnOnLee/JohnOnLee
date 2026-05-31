@@ -3,12 +3,6 @@ title: "How Are You Managing Your AI's Context Window?"
 date: 2026-05-11
 ---
 
-**Status:** ✍️ Draft (v3 — outline-aligned)
-**Target:** dev.to
-**Type:** Deep — technical depth + practical insights, conversational
-
----
-
 Your AI coding agent has a 200K token context window. Maybe 500K. Maybe a million.
 
 So... what actually changed?
@@ -123,16 +117,12 @@ What actually determines real-world productivity isn't benchmark scores. It's **
 
 ### Four Questions
 
-**1. Experience Replication:**
 Is your senior engineer's AI know-how and business context being transferred to other team members — or is it trapped inside individual chat windows? How many Genius Silos exist on your team?
 
-**2. The Noise Paradox:**
 As windows grow bigger, AI paradoxically loses the plot (Lost in the Middle). What filtering are you doing to counter this? Not just "use less context" — are there smarter ways to structure it?
 
-**3. Knowledge Expiration:**
 In the "store it and forget it" pile, is stale, contaminated context quietly poisoning your AI's judgment? Is last year's "never touch `legacy/`" silently overriding this year's "migration complete, it's safe now"?
 
-**4. Building the Team Brain:**
 Is your team's AI getting smarter over time — or stuck in an endless loop of Groundhog Day explanations? Do you have any way to tell?
 
 ---

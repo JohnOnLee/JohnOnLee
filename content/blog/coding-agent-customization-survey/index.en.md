@@ -3,14 +3,6 @@ title: "How Deep Does Your Coding Agent Setup Go?"
 date: 2026-05-31
 ---
 
-# How Deep Does Your Coding Agent Setup Go?
-
-**상태:** ✍️ John 승인 대기
-**포스트 유형:** Reaction (800-1,200 words)
-**발행 채널:** dev.to(영문) → GeekNews(한글 GN⁺) → LinkedIn(John 직접) → HN/Reddit(링크)
-
----
-
 Two developers. Both use Claude Code.
 
 One opens a terminal, types `claude`, and asks it to fix a bug. The other has 500 lines of CLAUDE.md, five custom MCP servers, and a sub-agent pipeline that reviews PRs while they sleep.

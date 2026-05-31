@@ -3,15 +3,6 @@ title: "Claude Opus 가격이 67% 폭락했습니다. Anthropic은 과연 얼마
 date: 2026-05-20
 ---
 
-# Claude Opus 가격이 67% 폭락했습니다. Anthropic은 과연 얼마를 벌고 있을까요?
-
-**Status:** Draft — John review pending
-**Target:** dev.to (Tue)
-**Type:** Deep — but short & punchy
-**Tags:** `#ai` `#programming` `#discuss`
-
----
-
 Claude Opus의 가격이 **1년 만에 67% 폭락**했습니다.
 
 1년 전 Opus 4: 출력 $75/MTok
@@ -79,9 +70,7 @@ Opus 4.7은 "새 토크나이저"를 써서 같은 텍스트를 **35% 더 많은
 
 ## 그래서 Anthropic은 얼마를 벌까요?
 
-**토큰당:** 100만 토큰에 약 **$15** 순이익 (추정)
 
-**회사 전체:** 연간 **$10-20억 적자** (추정)
 
 네. 토큰 하나하나는 남지만, 회사는 여전히 불타고 있습니다.
 
