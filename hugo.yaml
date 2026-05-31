@@ -63,8 +63,11 @@ languages:
           url: /blog/
           weight: 20
 
+googleAnalytics: G-XQLLNDLGC0
+
 params:
   ShowReadingTime: false
+  ShowRssButtonInSectionTermList: true
   ShowPostNavLinks: true
   ShowBreadCrumbs: true
   ShowCodeCopyButtons: true
