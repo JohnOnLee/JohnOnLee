@@ -72,8 +72,11 @@ languages:
           weight: 30
 
 googleAnalytics: G-XQLLNDLGC0
+enableRobotsTXT: true
 
 params:
+  description: "AI·스타트업 모닝 브리핑과 LLM, 코딩 에이전트에 대한 생각과 실험을 기록합니다."
+  author: John Lee
   ShowReadingTime: false
   ShowRssButtonInSectionTermList: true
   ShowPostNavLinks: true
