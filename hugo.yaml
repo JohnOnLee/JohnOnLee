@@ -44,7 +44,7 @@ languages:
       main:
         - identifier: brief
           name: Morning Brief
-          url: /JohnOnLee/en/brief/
+          url: /JohnOnLee/brief/
           weight: 10
 
 params:
