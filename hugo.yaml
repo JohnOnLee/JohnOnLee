@@ -74,6 +74,19 @@ languages:
 googleAnalytics: G-XQLLNDLGC0
 enableRobotsTXT: true
 
+outputFormats:
+  LLMSFULL:
+    mediaType: text/plain
+    baseName: llms-full
+    isPlainText: true
+    notAlternative: true
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - LLMSFULL
+
 params:
   description: "AI·스타트업 모닝 브리핑과 LLM, 코딩 에이전트에 대한 생각과 실험을 기록합니다."
   author: John Lee
