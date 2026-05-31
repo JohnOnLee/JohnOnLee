@@ -3,16 +3,6 @@ title: "Token Economics: The Real Cost of AI Coding Agents"
 date: 2026-05-21
 ---
 
-# Token Economics: The Real Cost of AI Coding Agents
-
-**Status:** ✅ Published 2026-05-21
-**Target:** dev.to
-**URL:** https://dev.to/johnonlee/token-economics-the-real-cost-of-ai-coding-agents-3a92
-**Type:** Reaction (Thursday)
-**Tags:** `#ai` `#programming` `#productivity`
-
----
-
 A strange thing happened while I was running coding agent experiments last week.
 
 I looked at my OpenCode Go usage dashboard and saw something that didn't make sense:

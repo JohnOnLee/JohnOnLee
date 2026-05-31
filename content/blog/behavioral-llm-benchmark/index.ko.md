@@ -1,7 +1,7 @@
 ---
 title: "LLM 평가의 맹점: 우리는 왜 '행동'이 아니라 '지식'만 보는가?"
 date: 2026-05-26
-tags: ["llm", "evaluation", "behavioral-benchmark", "coding-agent", "ai"]
+tags: ['llm', 'evaluation', 'behavioral-benchmark', 'coding-agent', 'ai']
 ---
 
 **SAT 점수로 엔지니어를 뽑겠다는 채용 공고를 본 적이 있는가?**

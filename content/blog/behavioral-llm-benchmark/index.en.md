@@ -3,18 +3,6 @@ title: "Why We Need Behavioral Benchmarks for LLMs — Not Just More Knowledge T
 date: 2026-05-26
 ---
 
-# Why We Need Behavioral Benchmarks for LLMs — Not Just More Knowledge Tests
-
-**Would you hire an engineer based on their SAT score?**
-
-Of course not. You look at how they solve problems. How they handle ambiguity. Whether they adapt when their first approach fails. You're evaluating behavior, not just knowledge.
-
-Yet somehow, this is exactly what we do with LLMs. We test them like students — multiple choice, fill in the blank, write a function from a spec — and call it "evaluation." We rank models by MMLU scores and HumanEval pass rates as if those numbers tell us everything we need to know.
-
-They don't. Here's why.
-
----
-
 ## What Are We Actually Measuring?
 
 Let's look at three of the most widely-used LLM benchmarks. Not at their scores, but at what they actually measure.

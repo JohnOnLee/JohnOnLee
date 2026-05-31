@@ -3,15 +3,6 @@ title: "Claude Opus Prices Just Crashed 67%. Is Anthropic Still Making Money?"
 date: 2026-05-20
 ---
 
-# Claude Opus Prices Just Crashed 67%. Is Anthropic Still Making Money?
-
-**Published:** 2026-05-19 (Tue)
-**Platform:** dev.to
-**URL:** https://dev.to/johnonlee/claude-opus-prices-just-crashed-67-is-anthropic-still-making-money-173c
-**Tags:** `#ai` `#programming` `#discuss`
-
----
-
 Claude Opus pricing just collapsed. **67% in one year.**
 
 | | Opus 4 (2025) | Opus 4.7 (2026) |
@@ -83,9 +74,7 @@ Is this intentional margin engineering, or a genuine technical trade-off? You te
 
 ## So how much does Anthropic actually make?
 
-**Per token:** ~$15 per million tokens in gross margin (my guess)
 
-**Per year:** Still burning **$1-2 billion**
 
 R&D alone is $500M-$1B/yr. A hundred million free users. Safety research. Sales team. The next training run.
 

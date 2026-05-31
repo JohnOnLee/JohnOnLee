@@ -3,15 +3,6 @@ title: "Does Your Coding Agent Need Memory?"
 date: 2026-05-14
 ---
 
-# Does Your Coding Agent Need Memory?
-
-**상태:** ✅ 발행 완료
-**타겟:** dev.to
-**발행 URL:** https://dev.to/johnonlee/does-your-coding-agent-need-memory-4io9
-**예상 분량:** 1,400~1,700단어
-
----
-
 You start a coding agent. You tell it what you need. It searches the repo, reads a few files, thinks for a moment, and writes the change.
 
 It works.
