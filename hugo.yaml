@@ -20,6 +20,12 @@ languages:
           매일 아침, 놓치면 안 될 AI/스타트업 소식을 큐레이션합니다.
           핵심 변화, 미래 신호, 현실적인 기회까지 — 단순 요약이 아닌 통찰을 전달합니다.
           → [브리프 보기](/JohnOnLee/brief/)
+    menu:
+      main:
+        - identifier: brief
+          name: 모닝 브리프
+          url: /JohnOnLee/brief/
+          weight: 10
   en:
     label: English
     weight: 2
@@ -34,6 +40,12 @@ languages:
           Daily curation of AI/startup news that matters.
           Key shifts, future signals, and grounded opportunities — insight, not just summaries.
           → [View briefs](/JohnOnLee/en/brief/)
+    menu:
+      main:
+        - identifier: brief
+          name: Morning Brief
+          url: /JohnOnLee/en/brief/
+          weight: 10
 
 params:
   ShowReadingTime: false
@@ -42,13 +54,6 @@ params:
   ShowCodeCopyButtons: true
   defaultTheme: auto
   DateFormat: "2006-01-02"
-
-menu:
-  main:
-    - identifier: brief
-      name: 모닝 브리프
-      pageRef: /brief
-      weight: 10
 
 markup:
   goldmark:
