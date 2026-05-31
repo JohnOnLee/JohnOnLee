@@ -1,0 +1,67 @@
+/* ── Korean readability ── */
+
+.post-content {
+  font-size: 1.05rem;
+  line-height: 1.85;
+  word-break: keep-all;
+  overflow-wrap: break-word;
+}
+
+/* Section headings */
+.post-content h2 {
+  margin-top: 2.2em;
+  margin-bottom: 0.6em;
+  font-size: 1.25em;
+  border-bottom: 2px solid var(--border);
+  padding-bottom: 0.35em;
+}
+
+.post-content h3 {
+  margin-top: 1.6em;
+  margin-bottom: 0.5em;
+  font-size: 1.1em;
+}
+
+.post-content h4 {
+  margin-top: 1.2em;
+}
+
+/* List spacing */
+.post-content ul,
+.post-content ol {
+  padding-left: 1.3em;
+}
+
+.post-content li {
+  margin-bottom: 0.5em;
+}
+
+/* Long URLs shouldn't break layout */
+.post-content a {
+  word-break: break-all;
+}
+
+/* Wider reading area */
+.main .post-content {
+  max-width: 780px;
+}
+
+/* Inline code */
+.post-content code {
+  font-size: 0.9em;
+  padding: 0.15em 0.4em;
+  border-radius: 3px;
+}
+
+/* Separator between brief posts on list page */
+.post-entry {
+  border-bottom: 1px solid var(--border);
+  padding-bottom: 1em;
+  margin-bottom: 1em;
+}
+
+/* Tag / meta subtlety */
+.post-meta {
+  font-size: 0.88rem;
+  color: var(--secondary);
+}
