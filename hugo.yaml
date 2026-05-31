@@ -34,6 +34,10 @@ languages:
           name: 블로그
           url: /blog/
           weight: 20
+        - identifier: rss
+          name: RSS
+          url: /brief/index.xml
+          weight: 30
   en:
     label: English
     weight: 2
@@ -62,6 +66,10 @@ languages:
           name: Blog
           url: /blog/
           weight: 20
+        - identifier: rss
+          name: RSS
+          url: /en/brief/index.xml
+          weight: 30
 
 googleAnalytics: G-XQLLNDLGC0
 
