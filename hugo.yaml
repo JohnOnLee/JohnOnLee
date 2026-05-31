@@ -20,12 +20,20 @@ languages:
           매일 아침, 놓치면 안 될 AI/스타트업 소식을 큐레이션합니다.
           핵심 변화, 미래 신호, 현실적인 기회까지 — 단순 요약이 아닌 통찰을 전달합니다.
           → [브리프 보기](/JohnOnLee/brief/)
+          
+          ### ✍️ 블로그
+          LLM, 코딩 에이전트, AI 스타트업에 대한 생각과 실험.
+          → [블로그 읽기](/JohnOnLee/blog/)
     menu:
       main:
         - identifier: brief
           name: 모닝 브리프
           url: /brief/
           weight: 10
+        - identifier: blog
+          name: 블로그
+          url: /blog/
+          weight: 20
   en:
     label: English
     weight: 2
@@ -40,12 +48,20 @@ languages:
           Daily curation of AI/startup news that matters.
           Key shifts, future signals, and grounded opportunities — insight, not just summaries.
           → [View briefs](/JohnOnLee/en/brief/)
+          
+          ### ✍️ Blog
+          Thoughts and experiments on LLMs, coding agents, and AI startups.
+          → [Read blog](/JohnOnLee/en/blog/)
     menu:
       main:
         - identifier: brief
           name: Morning Brief
           url: /brief/
           weight: 10
+        - identifier: blog
+          name: Blog
+          url: /blog/
+          weight: 20
 
 params:
   ShowReadingTime: false
