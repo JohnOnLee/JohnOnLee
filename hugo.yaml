@@ -33,7 +33,7 @@ languages:
           ### 📋 AI / Startup Morning Brief
           Daily curation of AI/startup news that matters.
           Key shifts, future signals, and grounded opportunities — insight, not just summaries.
-          → [View briefs](/JohnOnLee/brief/)
+          → [View briefs](/JohnOnLee/en/brief/)
 
 params:
   ShowReadingTime: false
