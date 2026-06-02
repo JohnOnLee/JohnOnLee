@@ -1,6 +1,7 @@
 ---
 title: "Surveys"
 date: 2026-06-03
+hideMeta: true
 ---
 
 I occasionally run surveys to understand how developers work with AI tools. All anonymous. Live results visible after you submit.
