@@ -1,33 +1,33 @@
 ---
 title: "AI / Startup Morning Brief — 2026-06-03"
 date: 2026-06-03
+summary: "Anthropic files for IPO + launches Project Glasswing: Confidential IPO filing follows a $65B raise at a ~$1T valuation. Simultaneously launches Project Glasswing, a consortium spa…"
+description: "Anthropic files for IPO + launches Project Glasswing: Confidential IPO filing follows a $65B raise at a ~$1T valuation. Simultaneously launches Project Glasswing, a consortium spa…"
 ---
 
 [AI/Startup Morning Brief — 2026-06-03]
 
 ## Key Shifts
 - **Anthropic files for IPO + launches Project Glasswing**: Confidential IPO filing follows a $65B raise at a ~$1T valuation. Simultaneously launches Project Glasswing, a consortium spanning Apple, AWS, Google, Microsoft, NVIDIA, CrowdStrike, and others. Claude Mythos Preview found thousands of zero-days — including a 27-year-old OpenBSD vulnerability and a 16-year-old FFmpeg bug. Samsung, SK Hynix, and SK Telecom are among the 15+ countries now receiving Mythos access for critical infrastructure
-  - https://techcrunch.com/2026/06/02/anthropic-scales-claude-mythos-to-critical-infrastructure-in-15-countries/
-  - https://www.anthropic.com/glasswing
+  출처: [TechCrunch](https://techcrunch.com/2026/06/02/anthropic-scales-claude-mythos-to-critical-infrastructure-in-15-countries/) · [Anthropic](https://www.anthropic.com/glasswing)
+<!--more-->
 - **Enterprise AI ROI crisis surfaces**: Uber blew its annual AI budget in four months and imposed a $1,500/month per-employee cap. COO: "it's very hard to draw a line between AI usage and new consumer features." On HN, "AI Doesn't Have ROI" essay hits 56 points as skepticism spreads
-  - https://techcrunch.com/2026/06/02/uber-caps-employee-ai-spending-after-blowing-through-budget-in-four-months/
-  - https://www.wheresyoured.at/ai-doesnt-have-roi/
+  출처: [TechCrunch](https://techcrunch.com/2026/06/02/uber-caps-employee-ai-spending-after-blowing-through-budget-in-four-months/) · [Wheresyoured](https://www.wheresyoured.at/ai-doesnt-have-roi/)
 - **Agent workplace race accelerates**: Microsoft unveils Scout, an always-on autonomous agent integrated with M365 apps. OpenAI ships six job-specific Codex plug-ins (data analytics, sales, investment banking, creative production, product design, equity investing). Codex hits 5M+ weekly active users; knowledge workers are 20% of the base and growing 3x faster than developers
-  - https://www.computerworld.com/article/4180103/microsoft-unveils-scout-an-autonomous-ai-agent-built-on-openclaw.html
-  - https://techcrunch.com/2026/06/02/openai-launches-new-codex-tools-for-white-collar-work/
+  출처: [Computerworld](https://www.computerworld.com/article/4180103/microsoft-unveils-scout-an-autonomous-ai-agent-built-on-openclaw.html) · [TechCrunch](https://techcrunch.com/2026/06/02/openai-launches-new-codex-tools-for-white-collar-work/)
 - **AI cybersecurity arms race**: Claude Mythos autonomously chained multiple Linux kernel exploits for privilege escalation. OpenAI counters with GPT-5.5-Cyber. 404 Media reports Microsoft internal docs aim to "make people addicted" to Scout
-  - https://www.404media.co/microsoft-wants-to-make-people-addicted-to-scout-its-new-ai-assistant-internal-documents-reveal/
+  출처: [404 Media](https://www.404media.co/microsoft-wants-to-make-people-addicted-to-scout-its-new-ai-assistant-internal-documents-reveal/)
 
 ## Startup / Product / Platform Radar
 - **Anthropic**: Opus 4.8 with "dynamic workflow" tool. Claude Mythos expanded to 15+ countries' critical infrastructure. Confidential IPO filing
 - **Microsoft**: Scout (autonomous agent), MAI-Code-1-Flash and MAI-Thinking-1 new models, agent behavior control tools, text-based AI behavior testing tools
 - **OpenAI**: Six Codex job plug-ins + Sites (hosted web output) + Annotations. GPT-5.5-Cyber for security
 - **GitHub Copilot**: Switches to usage-based token billing, developer community erupts ("What a joke")
-  - https://arstechnica.com/ai/2026/06/ai-costs-how-much-github-copilot-users-react-to-new-usage-based-pricing-system/
+  출처: [Ars Technica](https://arstechnica.com/ai/2026/06/ai-costs-how-much-github-copilot-users-react-to-new-usage-based-pricing-system/)
 - **DeepSeek-V4-Flash**: Successfully running on AMD MI300X
 - **Google**: Fake call detection against AI deepfake impersonation scams
 - **DuckDuckGo**: 'No-AI' search engine traffic surges, accessibility enhanced
-  - https://techcrunch.com/2026/06/01/duckduckgo-makes-its-no-ai-search-engine-easier-to-access-as-its-traffic-booms/
+  출처: [TechCrunch](https://techcrunch.com/2026/06/01/duckduckgo-makes-its-no-ai-search-engine-easier-to-access-as-its-traffic-booms/)
 - **YC P26**: Expanse (unlock wasted GPU capacity), Rudus (AI for concrete contractors)
 - **Also**: Skillhound (public SKILL.md access), vLLM session-aware agentic routing, RSS revival driven by AI agents
 
