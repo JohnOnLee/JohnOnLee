@@ -1,12 +1,15 @@
 ---
 title: "AI / Startup Morning Brief — 2026-06-02"
 date: 2026-06-02
+summary: "Anthropic files confidentially for IPO. Fortune reports a preceding $65B funding round at a $965B valuation. CNBC, Bloomberg, NYT, FT, Reuters, and virtually every major outlet ca…"
+description: "Anthropic files confidentially for IPO. Fortune reports a preceding $65B funding round at a $965B valuation. CNBC, Bloomberg, NYT, FT, Reuters, and virtually every major outlet ca…"
 ---
 
 [AI/Startup Morning Brief — 2026-06-02]
 
 ## Key Shifts
 - **Anthropic files confidentially for IPO.** Fortune reports a preceding $65B funding round at a $965B valuation. CNBC, Bloomberg, NYT, FT, Reuters, and virtually every major outlet call it a landmark AI deal — and Anthropic has jumped ahead of OpenAI in the race to go public. [CNBC](https://www.cnbc.com/2026/06/01/anthropic-confidentially-files-ipo-prospectus-with-sec.html) [Fortune](https://fortune.com/2026/06/01/anthropic-confidentially-files-ipo-65-billion-965-billion-valuation/)
+<!--more-->
 - **NVIDIA launches Cosmos 3**, an open Physical AI model built on Mixture-of-Transformers architecture — a direct push into robotics, autonomous driving, and embodied AI. [Yellow.com](https://yellow.com/news/nvidia-launches-cosmos-3-open-physical-ai-model)
 - **Google Gemini surpasses 900M monthly active users**, announced by Sundar Pichai at Google I/O 2026. The gap with ChatGPT has closed considerably in under a year. [StartupHub.ai](https://www.startuphub.ai/sundar-pichai-google-io-2026-gemini-900m-users/)
 - **Ford commits $2B to an energy business powering AI data centers.** Non-tech incumbents pivoting hard into AI infrastructure is now a clear, multi-industry pattern. [fundsforNGOs News](https://news.fundsforngos.org/ford-launches-2-billion-energy-business-to-power-ai-data-centers/)

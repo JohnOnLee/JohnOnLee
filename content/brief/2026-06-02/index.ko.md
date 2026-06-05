@@ -1,12 +1,15 @@
 ---
 title: "AI·스타트업 모닝 브리프 - 2026-06-02"
 date: 2026-06-02
+summary: "Anthropic, IPO를 위한 기밀 서류를 SEC에 제출. Fortune에 따르면 직전 $650억 규모 펀딩 라운드에서 $9,650억 밸류에이션을 기록했으며, CNBC·Bloomberg·NYT·FT·Reuters 등 모든 주요 매체가 '랜드마크급 AI 딜'로 보도. OpenAI보다 먼저 IPO 레이스에서 앞서 나간…"
+description: "Anthropic, IPO를 위한 기밀 서류를 SEC에 제출. Fortune에 따르면 직전 $650억 규모 펀딩 라운드에서 $9,650억 밸류에이션을 기록했으며, CNBC·Bloomberg·NYT·FT·Reuters 등 모든 주요 매체가 '랜드마크급 AI 딜'로 보도. OpenAI보다 먼저 IPO 레이스에서 앞서 나간…"
 ---
 
 [AI·스타트업 모닝 브리프 — 2026-06-02]
 
 ## 핵심 변화
 - **Anthropic, IPO를 위한 기밀 서류를 SEC에 제출.** Fortune에 따르면 직전 $650억 규모 펀딩 라운드에서 $9,650억 밸류에이션을 기록했으며, CNBC·Bloomberg·NYT·FT·Reuters 등 모든 주요 매체가 "랜드마크급 AI 딜"로 보도. OpenAI보다 먼저 IPO 레이스에서 앞서 나간 모양새다. [CNBC](https://www.cnbc.com/2026/06/01/anthropic-confidentially-files-ipo-prospectus-with-sec.html) [Fortune](https://fortune.com/2026/06/01/anthropic-confidentially-files-ipo-65-billion-965-billion-valuation/)
+<!--more-->
 - **NVIDIA, Cosmos 3 출시.** Mixture-of-Transformers 아키텍처 기반의 오픈 Physical AI 모델. 로보틱스·자율주행 등 물리 세계 AI로의 확장을 본격화. [Yellow.com](https://yellow.com/news/nvidia-launches-cosmos-3-open-physical-ai-model)
 - **Google Gemini, 월간 활성 사용자 9억 명 돌파.** Google I/O 2026에서 Sundar Pichai가 발표. 1년도 안 되어 ChatGPT와의 격차를 상당히 좁힘. [StartupHub.ai](https://www.startuphub.ai/sundar-pichai-google-io-2026-gemini-900m-users/)
 - **Ford, AI 데이터센터용 에너지 사업에 $20억 투자 발표.** 비(非)테크 대기업이 AI 인프라로 사업 영역을 확장하는 흐름이 뚜렷해지고 있음. [fundsforNGOs News](https://news.fundsforngos.org/ford-launches-2-billion-energy-business-to-power-ai-data-centers/)

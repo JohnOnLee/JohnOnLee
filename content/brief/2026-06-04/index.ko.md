@@ -1,36 +1,38 @@
 ---
 title: "AI·스타트업 모닝 브리프 - 2026-06-04"
 date: 2026-06-04
+summary: "Alphabet, 구글 AI 사업에 $85B 규모 주식 매각: 사상 최대 규모의 AI 자금 조달. 다음 분기에 $40B 추가 예정. Q1 매출만 $110B. Anthropic IPO(예상 $1T), SpaceX IPO, OpenAI IPO의 투자 수요에 청신호. Goldman Sachs CEO도 시장이 AI에 '탐욕 모…"
+description: "Alphabet, 구글 AI 사업에 $85B 규모 주식 매각: 사상 최대 규모의 AI 자금 조달. 다음 분기에 $40B 추가 예정. Q1 매출만 $110B. Anthropic IPO(예상 $1T), SpaceX IPO, OpenAI IPO의 투자 수요에 청신호. Goldman Sachs CEO도 시장이 AI에 '탐욕 모…"
 ---
 
 [브리핑/AI] AI·스타트업 모닝 브리프 - 2026-06-04
 
 ## 핵심 변화
 - **Alphabet, 구글 AI 사업에 $85B 규모 주식 매각**: 사상 최대 규모의 AI 자금 조달. 다음 분기에 $40B 추가 예정. Q1 매출만 $110B. Anthropic IPO(예상 $1T), SpaceX IPO, OpenAI IPO의 투자 수요에 청신호. Goldman Sachs CEO도 시장이 AI에 '탐욕 모드'라고 평가
-  - https://techcrunch.com/2026/06/03/alphabets-record-breaking-85b-raise-for-googles-ai-business-is-a-helluva-good-signal/
-  - https://www.cnbc.com/2026/06/02/goldman-ceo-david-solomon-greed-mode-ai-firms-ipos.html
+  출처: [TechCrunch](https://techcrunch.com/2026/06/03/alphabets-record-breaking-85b-raise-for-googles-ai-business-is-a-helluva-good-signal/) · [CNBC](https://www.cnbc.com/2026/06/02/goldman-ceo-david-solomon-greed-mode-ai-firms-ipos.html)
+<!--more-->
 - **Google Gemma 4 12B: 인코더 없는 멀티모달, 노트북에서 구동**: 별도 비전·오디오 인코더 없이 이미지와 음성을 직접 처리하는 통합 아키텍처. 16GB RAM 소비자 노트북에서 실행 가능. 26B MoE 대비 절반 이하 메모리로 유사 성능. 온디바이스 멀티모달 AI의 분수령
-  - https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/
+  출처: [Google Blog](https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/)
 - **Meta, WhatsApp 비즈니스 AI 에이전트 글로벌 출시**: 인도·멕시코에서 2년간 테스트 후 전 세계 WhatsApp·Instagram DM으로 확대. 고객 문의 응대, 제품 추천, 예약, 리드 선별까지 수행. WhatsApp Business Premium 구독 과금 예정. 중소기업 대상 'AI 워크플로 소프트웨어'로 WhatsApp 재정의 시도
-  - https://techcrunch.com/2026/06/03/metas-ai-agent-for-whatsapp-business-is-now-available-globally/
+  출처: [TechCrunch](https://techcrunch.com/2026/06/03/metas-ai-agent-for-whatsapp-business-is-now-available-globally/)
 - **Google, AI 검색에서 퍼블리셔 제외(opt-out) 허용**: 규제 압박으로 AI Overviews·AI Mode·Discover에서 제외 옵션 제공. 영국 퍼블리셔 대상 시범 후 글로벌 확대. 전통 검색 순위에는 영향 없음. Google은 AI Overviews 25억 MAU, AI Mode 10억 MAU라고 강조
-  - https://techcrunch.com/2026/06/03/publishers-will-be-able-to-opt-out-of-ai-search-thanks-to-new-regulation/
+  출처: [TechCrunch](https://techcrunch.com/2026/06/03/publishers-will-be-able-to-opt-out-of-ai-search-thanks-to-new-regulation/)
 - **U of Toronto, 오픈 가중치 모델 기반 AI 웜 공개**: 무료 AI 모델로 모든 온라인 기기에 전파 가능한 자율 증식 멀웨어 시연. 기존 방어 체계로 탐지 어려움. 연구팀은 국가 보안 기관과 사전 공유 후 공개 — 누구나 다운로드 가능한 오픈 모델의 위험성 경고
-  - https://www.utoronto.ca/news/u-t-researchers-demonstrate-ai-worm-could-target-any-online-device
+  출처: [Utoronto](https://www.utoronto.ca/news/u-t-researchers-demonstrate-ai-worm-could-target-any-online-device)
 
 ## 스타트업 / 제품 / 플랫폼 레이더
 - **Coralogix**: AI 에이전트 모니터링 계층에 $200M 투자 유치. 5,000+ 고객, 연매출 $100M+ 돌파, 전년 대비 60% 성장. 엔터프라이즈 고객 절반 이상이 대시보드 대신 AI 에이전트로 플랫폼 조회 — '에이전트가 에이전트를 감시하는' 패러다임
-  - https://techcrunch.com/2026/06/03/coralogix-raises-200m-in-race-to-build-the-monitoring-layer-for-ai-agents/
+  출처: [TechCrunch](https://techcrunch.com/2026/06/03/coralogix-raises-200m-in-race-to-build-the-monitoring-layer-for-ai-agents/)
 - **AethexAI**: Goldman·Meta 출신 창업자들이 아프리카·중동 시장 겨냥한 음성 AI 구축. 300M~1.7B 파라미터 소형 모델(Kora 시리즈), 일 17,000+ 콜 처리. 지역 방언·코드스위칭 대응, 하드드라이브로 라디오 방송국 데이터 수집 — 서구 시장용으로 설계된 ElevenLabs·Sierra와 근본적 차별화
-  - https://techcrunch.com/2026/06/03/these-two-founders-left-goldman-and-meta-to-build-voice-ai-for-markets-everyone-else-overlooked/
+  출처: [TechCrunch](https://techcrunch.com/2026/06/03/these-two-founders-left-goldman-and-meta-to-build-voice-ai-for-markets-everyone-else-overlooked/)
 - **Google Dreambeans**: 사용자의 Gmail·캘린더·사진·YouTube 데이터를 분석해 매일 아침 AI 생성 '스토리'(장소·이벤트·시도할 것 추천)를 큐레이션. 야간에 데이터 처리. 개인정보보호 설계 강조
-  - https://techcrunch.com/2026/06/03/googles-dreambeans-its-weirdest-named-ai-tool-to-date-will-turn-your-life-into-a-cartoon/
+  출처: [TechCrunch](https://techcrunch.com/2026/06/03/googles-dreambeans-its-weirdest-named-ai-tool-to-date-will-turn-your-life-into-a-cartoon/)
 - **Amazon, AI 생성 상품 이미지로 검색 결과 표시**: 실제 상품 대신 AI가 만든 가상 이미지로 쇼핑 검색 유도. "가짜 사진으로 진짜 쇼핑을?" — 소비자 혼란·신뢰 문제 제기
-  - https://techcrunch.com/2026/06/03/amazon-will-show-ai-product-images-when-you-search-for-some-reason/
+  출처: [TechCrunch](https://techcrunch.com/2026/06/03/amazon-will-show-ai-product-images-when-you-search-for-some-reason/)
 - **Stanford Law 연구**: AI가 로스쿨 교수보다 법률 과제에서 우수한 성과 (HN 387포인트)
-  - https://law.stanford.edu/press/ai-outperforms-law-professors-in-stanford-law-study/
+  출처: [Law](https://law.stanford.edu/press/ai-outperforms-law-professors-in-stanford-law-study/)
 - **DDR5 RAM 급등**: AI 수요로 32GB DDR5 최저가 $375 — PC 시장까지 영향
-  - https://www.tomshardware.com/pc-components/ddr5/32gb-of-ddr5-now-costs-usd375-minimum-ai-shortage-continues-to-squeeze-pc-building
+  출처: [Tomshardware](https://www.tomshardware.com/pc-components/ddr5/32gb-of-ddr5-now-costs-usd375-minimum-ai-shortage-continues-to-squeeze-pc-building)
 - **YC P26**: Hyper (에이전트 개발 가속화를 위한 '기업 두뇌'), Rudus (콘크리트 시공사 AI)
 
 ## AI가 바꾸는 미래 신호

@@ -1,36 +1,38 @@
 ---
 title: "AI / Startup Morning Brief — 2026-06-04"
 date: 2026-06-04
+summary: "Alphabet raises $85B for Google's AI business: Record-breaking stock sale — another $40B planned next quarter. Alphabet posted $110B in Q1 revenue alone (22% YoY growth). Signals…"
+description: "Alphabet raises $85B for Google's AI business: Record-breaking stock sale — another $40B planned next quarter. Alphabet posted $110B in Q1 revenue alone (22% YoY growth). Signals…"
 ---
 
 [AI/Startup Morning Brief — 2026-06-04]
 
 ## Key Shifts
 - **Alphabet raises $85B for Google's AI business**: Record-breaking stock sale — another $40B planned next quarter. Alphabet posted $110B in Q1 revenue alone (22% YoY growth). Signals strong investor appetite for Anthropic's expected ~$1T IPO, SpaceX IPO, and OpenAI waiting in the wings. Goldman Sachs CEO calls market sentiment "greed mode" for AI
-  - https://techcrunch.com/2026/06/03/alphabets-record-breaking-85b-raise-for-googles-ai-business-is-a-helluva-good-signal/
-  - https://www.cnbc.com/2026/06/02/goldman-ceo-david-solomon-greed-mode-ai-firms-ipos.html
+  출처: [TechCrunch](https://techcrunch.com/2026/06/03/alphabets-record-breaking-85b-raise-for-googles-ai-business-is-a-helluva-good-signal/) · [CNBC](https://www.cnbc.com/2026/06/02/goldman-ceo-david-solomon-greed-mode-ai-firms-ipos.html)
+<!--more-->
 - **Google Gemma 4 12B: encoder-free multimodal that runs on laptops**: A unified architecture that processes images and audio directly — no separate encoders needed. Runs on consumer laptops with 16GB RAM. Near 26B MoE performance at less than half the memory. A watershed for on-device multimodal AI
-  - https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/
+  출처: [Google Blog](https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/)
 - **Meta launches WhatsApp Business AI agent globally**: After two years of testing in India and Mexico, the AI customer support bot is now available worldwide on WhatsApp and Instagram DMs. Handles inquiries, product recommendations, bookings, and lead qualification. Meta plans to charge via WhatsApp Business Premium subscription. An attempt to redefine WhatsApp as workflow software for SMBs
-  - https://techcrunch.com/2026/06/03/metas-ai-agent-for-whatsapp-business-is-now-available-globally/
+  출처: [TechCrunch](https://techcrunch.com/2026/06/03/metas-ai-agent-for-whatsapp-business-is-now-available-globally/)
 - **Google allows publishers to opt out of AI Search**: Regulatory pressure forces opt-out options for AI Overviews, AI Mode, and Discover. Testing with UK publishers first, then global rollout. Traditional search rankings unaffected. Google notes AI Overviews has 2.5B MAU and AI Mode has surpassed 1B MAU — transparently signaling what publishers would be leaving
-  - https://techcrunch.com/2026/06/03/publishers-will-be-able-to-opt-out-of-ai-search-thanks-to-new-regulation/
+  출처: [TechCrunch](https://techcrunch.com/2026/06/03/publishers-will-be-able-to-opt-out-of-ai-search-thanks-to-new-regulation/)
 - **U of Toronto demonstrates AI worm using open-weight models**: Researchers built autonomously propagating malware powered by freely downloadable AI models, capable of targeting any online device. Existing defenses are not ready. Findings were shared with national security bodies before publication — a deliberate warning about the risks of unregulated open-weight models
-  - https://www.utoronto.ca/news/u-t-researchers-demonstrate-ai-worm-could-target-any-online-device
+  출처: [Utoronto](https://www.utoronto.ca/news/u-t-researchers-demonstrate-ai-worm-could-target-any-online-device)
 
 ## Startup / Product / Platform Radar
 - **Coralogix**: Raised $200M to build the monitoring layer for AI agents. 5,000+ customers, $100M+ ARR, 60% YoY revenue growth. Over half of enterprise customers now use AI agents to query the platform — dashboards are fading, "agents watching agents" is becoming the norm
-  - https://techcrunch.com/2026/06/03/coralogix-raises-200m-in-race-to-build-the-monitoring-layer-for-ai-agents/
+  출처: [TechCrunch](https://techcrunch.com/2026/06/03/coralogix-raises-200m-in-race-to-build-the-monitoring-layer-for-ai-agents/)
 - **AethexAI**: Ex-Goldman and Meta founders building voice AI specifically for Africa and the Middle East. Tiny models (300M–1.7B params, Kora series) to minimize latency, 17,000+ calls/day. Ships hard drives to radio stations for data collection, recruits university students for dialect annotation. Fundamentally different from ElevenLabs/Sierra which were built for Western markets
-  - https://techcrunch.com/2026/06/03/these-two-founders-left-goldman-and-meta-to-build-voice-ai-for-markets-everyone-else-overlooked/
+  출처: [TechCrunch](https://techcrunch.com/2026/06/03/these-two-founders-left-goldman-and-meta-to-build-voice-ai-for-markets-everyone-else-overlooked/)
 - **Google Dreambeans**: New AI app that curates personalized "stories" (places, events, things to try) from your Google data — Gmail, Calendar, Photos, YouTube, Search history. Processes overnight, delivers in the morning. Privacy-forward design emphasized
-  - https://techcrunch.com/2026/06/03/googles-dreambeans-its-weirdest-named-ai-tool-to-date-will-turn-your-life-into-a-cartoon/
+  출처: [TechCrunch](https://techcrunch.com/2026/06/03/googles-dreambeans-its-weirdest-named-ai-tool-to-date-will-turn-your-life-into-a-cartoon/)
 - **Amazon shows AI-generated product images in search**: Displays AI-made fake images to guide shopping searches instead of real product photos. Consumer confusion and trust concerns immediately raised
-  - https://techcrunch.com/2026/06/03/amazon-will-show-ai-product-images-when-you-search-for-some-reason/
+  출처: [TechCrunch](https://techcrunch.com/2026/06/03/amazon-will-show-ai-product-images-when-you-search-for-some-reason/)
 - **Stanford Law study**: AI outperformed law professors on legal tasks (387 points on HN)
-  - https://law.stanford.edu/press/ai-outperforms-law-professors-in-stanford-law-study/
+  출처: [Law](https://law.stanford.edu/press/ai-outperforms-law-professors-in-stanford-law-study/)
 - **DDR5 RAM price surge**: 32GB DDR5 now costs minimum $375 as AI demand squeezes the PC building market
-  - https://www.tomshardware.com/pc-components/ddr5/32gb-of-ddr5-now-costs-usd375-minimum-ai-shortage-continues-to-squeeze-pc-building
+  출처: [Tomshardware](https://www.tomshardware.com/pc-components/ddr5/32gb-of-ddr5-now-costs-usd375-minimum-ai-shortage-continues-to-squeeze-pc-building)
 - **YC P26**: Hyper ("company brain" for agentic development), Rudus (AI for concrete contractors)
 
 ## AI Future Signals

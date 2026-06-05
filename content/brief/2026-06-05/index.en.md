@@ -1,12 +1,15 @@
 ---
 title: "AI / Startup Morning Brief — 2026-06-05"
 date: 2026-06-05
+summary: "Anthropic calls for a global pause in AI development, flagging 'self-improvement' risk. According to the WSJ, Anthropic formally urged an international halt to frontier AI trainin…"
+description: "Anthropic calls for a global pause in AI development, flagging 'self-improvement' risk. According to the WSJ, Anthropic formally urged an international halt to frontier AI trainin…"
 ---
 
 [AI/Startup Morning Brief — 2026-06-05]
 
 ## Key Shifts
 - **Anthropic calls for a global pause in AI development, flagging "self-improvement" risk.** According to the WSJ, Anthropic formally urged an international halt to frontier AI training until safety verification mechanisms catch up to models' growing autonomous improvement capabilities (WSJ, 2026-06-04)
+<!--more-->
 - **US House lawmakers release bipartisan draft bill to preempt state-level AI rules.** Reuters and Politico report that the proposed federal framework would replace the emerging patchwork of state AI regulations with a unified national standard, including tiered requirements based on company size and mandatory pre-deployment reporting for frontier models (Reuters, Politico, 2026-06-04)
 - **Meta keeps delaying its next AI model release to developers.** A WSJ exclusive reveals Meta has repeatedly pushed back the launch of its next-generation open model, with internal debates ongoing around the balance between performance, safety, and open-source strategy (WSJ, 2026-06-04)
 - **Nvidia moves deeper into the model layer with Nemotron 3 Ultra.** No longer just the picks-and-shovels provider, Nvidia is vertically integrating by releasing its own foundation models — a signal that the chip-model-platform convergence is accelerating (Startup Fortune, 2026-06-04)

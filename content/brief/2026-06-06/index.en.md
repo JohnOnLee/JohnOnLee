@@ -1,12 +1,15 @@
 ---
 title: "AI / Startup Morning Brief — 2026-06-06"
 date: 2026-06-06
+summary: "Anthropic issues an unprecedented 'pause' warning: The company publicly stated that AI will soon be capable of recursive self-improvement without human intervention and urged indu…"
+description: "Anthropic issues an unprecedented 'pause' warning: The company publicly stated that AI will soon be capable of recursive self-improvement without human intervention and urged indu…"
 ---
 
 [AI/Startup Morning Brief — 2026-06-06]
 
 ## Key Shifts
 - **Anthropic issues an unprecedented "pause" warning**: The company publicly stated that AI will soon be capable of recursive self-improvement without human intervention and urged industry and governments to prepare a global "pause" mechanism. Co-founder Jack Clark told the BBC that "AI needs a brake pedal." The same day, Sakana AI launched its Recursive Self-Improvement Lab — timing that amplifies the warning's weight. (CNN, The Guardian, AP News, Scientific American, BBC — June 5, 2026)
+<!--more-->
 - **Trump administration explores taking equity stakes in AI companies**: U.S. officials are discussing acquiring shares in major AI firms, including OpenAI. Trump confirmed he would "look into it." Simultaneously signed a memo addressing the Anthropic-Pentagon feud. The government's role may shift from regulator to co-investor — a fundamentally new model for AI governance. (WSJ, CNBC, USA Today, Financial Times, Reuters — June 5, 2026)
 - **AI CEOs set aside rivalries to jointly push for bioweapon regulation**: CEOs from OpenAI, Anthropic, Google, and Microsoft sent a joint letter to Congress urging synthetic DNA screening legislation. An unprecedented moment of competitors speaking with one voice on safety. (Fortune, WIRED, inc.com — June 5, 2026)
 - **Meta weighs raising tens of billions for AI infrastructure**: Stock dipped after FT reported the company is exploring massive equity and debt financing to fund its AI push. The AI infrastructure race is now shaking capital markets. (CNBC, Reuters — June 5, 2026)

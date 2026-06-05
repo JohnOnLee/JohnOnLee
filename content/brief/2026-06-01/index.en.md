@@ -1,12 +1,15 @@
 ---
 title: "AI / Startup Morning Brief — 2026-06-01"
 date: 2026-06-01
+summary: "NVIDIA teases N1/N1X ARM processors at Computex 2026, signals Microsoft partnership: Jensen Huang's GTC Taipei keynote on May 31 is expected to unveil next-gen ARM processors, wit…"
+description: "NVIDIA teases N1/N1X ARM processors at Computex 2026, signals Microsoft partnership: Jensen Huang's GTC Taipei keynote on May 31 is expected to unveil next-gen ARM processors, wit…"
 ---
 
 [AI/Startup Morning Brief — 2026-06-01]
 
 ## Key Shifts
 - **NVIDIA teases N1/N1X ARM processors at Computex 2026, signals Microsoft partnership**: Jensen Huang's GTC Taipei keynote on May 31 is expected to unveil next-gen ARM processors, with Microsoft simultaneously teasing a "new era of PC" for its Surface lineup. NVIDIA's first serious push into the x86-dominated PC processor market. [The Verge](https://www.theverge.com/tech/940540/how-to-watch-nvidias-computex-keynote)
+<!--more-->
 - **Meta developing AI pendant and next-gen smart glasses — wearables race intensifies**: Internal Meta memos obtained by The Information detail an AI pendant with transcription capabilities, plus new smart glasses with unfamiliar form factors. Meta is carving out a "wearables for work" category. [TechCrunch](https://techcrunch.com/2026/05/30/meta-is-reportedly-developing-an-ai-pendant/), [The Information](https://www.theinformation.com/articles/meta-memo-outlines-ambitious-hardware-plans-including-new-ai-pendant)
 - **Apple targets late-2027 for AI glasses launch at $200-$500 mass-market pricing**: Per Bloomberg's Mark Gurman, Apple plans to compete not just with Meta and Samsung but with Oakley, Ray-Ban, and Warby Parker in the mid-range eyewear market. Vision Air delayed to 2029. [Bloomberg](https://www.bloomberg.com/news/articles/2026-05-31/apple-seeks-to-disrupt-the-glasses-market-the-way-it-did-with-watches), [9to5Mac](https://9to5mac.com/2026/05/31/apple-ai-glasses-launch-pushed-back-to-late-2027-vision-air-to-arrive-by-2029-report/)
 - **GitHub Copilot's token-based billing triggers developer backlash**: The new usage-metered pricing is being called "a joke" by devs across social platforms. Signals a broader tension in how AI coding tools will monetize — the all-you-can-eat subscription era may be ending. [TechCrunch](https://techcrunch.com/2026/05/30/what-a-joke-github-copilots-new-token-based-billing-spurs-consternation-among-devs/)

@@ -1,6 +1,8 @@
 ---
 title: "AI·스타트업 모닝 브리프 - 2026-05-29"
 date: 2026-05-29
+summary: "매일 아침 AI/스타트업 핵심 변화, 미래 신호, 현실적인 기회를 정리한 브리프."
+description: "매일 아침 AI/스타트업 핵심 변화, 미래 신호, 현실적인 기회를 정리한 브리프."
 ---
 
 [브리핑/AI] AI·스타트업 모닝 브리프 - 2026-05-29
@@ -8,57 +10,58 @@ date: 2026-05-29
 ## 핵심 변화
 
 - Anthropic이 Series H로 $65B를 조달하며 $965B 포스트머니 밸류에이션을 기록, OpenAI를 제치고 가장 높은 가치의 AI 스타트업이 되었다. 같은 날 Claude Opus 4.8을 출시하며 "정직성(honesty)"을 핵심 차별점으로 내세웠다 — 근거 없는 주장을 이전 모델 대비 4배 적게 한다고 주장. 동시에 Mythos 등급 모델의 공개 출시도 예고했다.
-  https://www.anthropic.com/news/series-h
-  https://www.anthropic.com/news/claude-opus-4-8
+  [Anthropic](https://www.anthropic.com/news/series-h)
+  [Anthropic](https://www.anthropic.com/news/claude-opus-4-8)
 
+<!--more-->
 - "I'm Tired of Talking to AI" 글이 HN에서 1,959포인트/933댓글로 폭발적 반응을 얻었다. AI 생성 답변과의 대화에 대한 피로감이 개발자 커뮤니티에서 주류 정서로 부상 중. 동시에 DuckDuckGo는 Google의 AI 모드 강화 이후 검색 트래픽이 28% 증가했다고 밝혔다.
-  https://orchidfiles.com/im-tired-of-ai-generated-answers/
-  https://www.pcgamer.com/hardware/duckduckgos-ai-free-search-saw-nearly-28-percent-more-visits-in-the-week-following-googles-insistence-that-people-love-ai-mode/
+  [Orchidfiles](https://orchidfiles.com/im-tired-of-ai-generated-answers/)
+  [Pcgamer](https://www.pcgamer.com/hardware/duckduckgos-ai-free-search-saw-nearly-28-percent-more-visits-in-the-week-following-googles-insistence-that-people-love-ai-mode/)
 
 - Simon Willison이 "Anthropic과 OpenAI는 제품-시장 적합성을 찾았다"는 분석을 내놓으며 큰 주목을 받았다(1,067pts/1,193댓글). AI 도구의 실제 업무 활용도가 임계점을 넘었다는 주장이 핵심. 반면 Mitchell Hashimoto(Terraform 창시자)는 "기업 전체가 AI 사이코시스에 빠져 있다"고 비판.
-  https://simonwillison.net/2026/May/27/product-market-fit/
-  https://techcrunch.com/2026/05/27/tech-ceos-are-apparently-suffering-from-ai-psychosis/
+  [Simonwillison](https://simonwillison.net/2026/May/27/product-market-fit/)
+  [TechCrunch](https://techcrunch.com/2026/05/27/tech-ceos-are-apparently-suffering-from-ai-psychosis/)
 
 - Altman과 Amodei가 IPO를 앞두고 "AI가 일자리를 대량 소멸시킬 것"이라는 기존 예언에서 동시에 한발 물러서고 있다. Fortune誌 보도에 따르면 양측 모두 기존의 재앙적 고용 전망을 완화하는 발언으로 전환.
-  https://fortune.com/2026/05/26/sam-altman-dario-amodei-walking-back-ai-jobs-apocalypse-prophecies-ipo/
+  [Fortune](https://fortune.com/2026/05/26/sam-altman-dario-amodei-walking-back-ai-jobs-apocalypse-prophecies-ipo/)
 
 - YouTube가 AI 생성 동영상을 자동 라벨링하는 정책을 발표했다(1,257pts). 플랫폼의 AI 콘텐츠 거버넌스가 본격화되는 신호. Tribeca 영화제에선 $2,000 예산으로 제작된 AI 장편 영화 "Dreams of Violets"가 공식 초청되었다.
-  https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/
-  https://www.theverge.com/entertainment/939067/ai-film-dreams-of-violets-tribeca
+  [Blog](https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/)
+  [The Verge](https://www.theverge.com/entertainment/939067/ai-film-dreams-of-violets-tribeca)
 
 ## 스타트업 / 제품 / 플랫폼 레이더
 
 - Claude Opus 4.8 출시: "정직성" 특화 — 근거 없는 주장 4배 감소, 불확실성을 스스로 플래그. Mythos 모델의 공개 출시도 수 주 내 예정.
-  https://www.reuters.com/business/anthropic-roll-out-claude-mythos-coming-weeks-launches-opus-48-2026-05-28/
+  [Reuters](https://www.reuters.com/business/anthropic-roll-out-claude-mythos-coming-weeks-launches-opus-48-2026-05-28/)
 
 - Microsoft 365 Copilot 리디자인: 로딩 속도 2배 개선, "프로그레시브 디스클로저" 기능 탑재. 프롬프트 박스 안에서 직접 텍스트 포매팅 가능.
-  https://www.theverge.com/tech/939273/microsoft-365-copilot-redesign
+  [The Verge](https://www.theverge.com/tech/939273/microsoft-365-copilot-redesign)
 
 - Asana, AI 에이전트 플랫폼 StackAI 인수. 인간-에이전트 협업 워크플로우가 기업용 SaaS의 표준 기능으로 흡수되는 추세.
-  https://asana.com/press/releases/pr/asana-acquires-stackai-adding-cross-system-execution-for-human-agent-teams/
+  [Asana](https://asana.com/press/releases/pr/asana-acquires-stackai-adding-cross-system-execution-for-human-agent-teams/)
 
 - Uber, 분기 AI 예산을 이미 초과 소진. Claude Code 등 코딩 에이전트의 기업 도입에서 비용 통제가 현실적 이슈로 부상.
-  https://fortune.com/2026/05/26/uber-coo-ai-spending-tokens-claude-code/
+  [Fortune](https://fortune.com/2026/05/26/uber-coo-ai-spending-tokens-claude-code/)
 
 - Amazon, 내부 AI 리더보드 폐지 — 직원들이 사용량 점수에 집착하는 부작용 때문. 기업 내 AI 도입의 인간적 부작용을 보여주는 사례.
-  https://www.ft.com/content/b1a62a7f-6df5-4c90-94ce-64ce9c9961b6
+  [Ft](https://www.ft.com/content/b1a62a7f-6df5-4c90-94ce-64ce9c9961b6)
 
 - Cloudflare Flagship 출시 (348pts) — 주요 신제품. 자세한 정보는 아직 초기.
-  https://developers.cloudflare.com/flagship/
+  [Developers](https://developers.cloudflare.com/flagship/)
 
 - Qualcomm, ByteDance에 AI 칩 공급 계약 체결. TikTok의 추천/AI 인프라 자체 확보 움직임.
-  https://www.reuters.com/business/qualcomm-strikes-ai-chip-deal-with-tiktok-owner-bytedance-bloomberg-news-reports-2026-05-26/
+  [Reuters](https://www.reuters.com/business/qualcomm-strikes-ai-chip-deal-with-tiktok-owner-bytedance-bloomberg-news-reports-2026-05-26/)
 
 - Oura Ring 5 발표: AI 보조 의료 상담(Counsel Health 파트너십), 야간 호흡·혈압 패턴 모니터링 탑재. 웨어러블 + AI 헬스케어 융합 가속.
-  https://www.theverge.com/gadgets/938380/oura-ring-5-preorder-price-release-date-availability
+  [The Verge](https://www.theverge.com/gadgets/938380/oura-ring-5-preorder-price-release-date-availability)
 
 - Figure의 로봇, 200시간 연속 택배 분류 작업 성공. AI 로보틱스의 실전 배치 임계점에 근접.
-  https://sherwood.news/tech/figures-robots-just-sorted-packages-for-200-hours-straight/
+  [Sherwood](https://sherwood.news/tech/figures-robots-just-sorted-packages-for-200-hours-straight/)
 
 - HN Show HN 동향: 코딩 에이전트 생태계 폭발적 성장 — Tokenscope(Claude Code 비용 추적), Rig(로컬 코드 그래프), Grove(Obsidian MCP 서버), Agmsg(Claude Code ↔ Codex 메시징), Agentic Intent Benchmark 등.
-  https://github.com/wartzar-bee/tokenscope
-  https://github.com/Astralchemist/rig
-  https://github.com/jmilinovich/grove
+  [GitHub](https://github.com/wartzar-bee/tokenscope)
+  [GitHub](https://github.com/Astralchemist/rig)
+  [GitHub](https://github.com/jmilinovich/grove)
 
 ## AI가 바꾸는 미래 신호
 
@@ -81,9 +84,9 @@ date: 2026-05-29
 ## 불확실성 / 계속 볼 것
 
 - Anthropic의 $965B 밸류에이션이 지속 가능한지 판단하기엔 이르다. AI 스타트업의 수익화 속도가 밸류에이션을 정당화할 수 있을지는 2026년 하반기 IPO가 나와야 검증 가능. Altman과 Amodei가 AI 일자리 재앙론에서 동시에 물러선 것은 IPO를 앞둔 내러티브 관리일 가능성도 배제할 수 없다.
-  https://www.axios.com/2026/05/27/ai-hype-doom-openai-anthropic
+  [Axios](https://www.axios.com/2026/05/27/ai-hype-doom-openai-anthropic)
 
 - YouTube의 AI 라벨링과 Tribeca의 AI 영화 상영 사이의 간극 — 플랫폼이 AI 콘텐츠를 규제하는 동시에 AI 창작물이 주요 영화제에 진입하는 모순적 흐름. 규제와 수용이 동시에 진행 중이며 어느 쪽으로 수렴할지 불확실.
 
 - 코딩 에이전트의 프론트엔드 프레임워크 대체 가능성("Does Claude Code remove the need for so many front-end frameworks?")은 흥미롭지만 아직 초기 가설 단계. 에이전트가 생성한 코드의 품질·보안·유지보수성에 대한 검증 체계가 부재하다는 점이 "Protestware for Coding Agents" 이슈로 이미 현실화되고 있다.
-  https://nesbitt.io/2026/05/28/protestware-for-coding-agents.html
+  [Nesbitt](https://nesbitt.io/2026/05/28/protestware-for-coding-agents.html)
