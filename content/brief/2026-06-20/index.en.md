@@ -1,0 +1,31 @@
+---
+title: "AI / Startup Morning Brief — 2026-06-20"
+date: 2026-06-20
+summary: "Transformer co-author Noam Shazeer leaves Google to join OpenAI: Shazeer, co-author of 'Attention Is All You Need' and Gemini co-lead, is joining OpenAI alongside former Trump Whi…"
+description: "Transformer co-author Noam Shazeer leaves Google to join OpenAI: Shazeer, co-author of 'Attention Is All You Need' and Gemini co-lead, is joining OpenAI alongside former Trump Whi…"
+---
+
+[AI/Startup Morning Brief — 2026-06-20]
+
+## Key Shifts
+- **Transformer co-author Noam Shazeer leaves Google to join OpenAI**: Shazeer, co-author of "Attention Is All You Need" and Gemini co-lead, is joining OpenAI alongside former Trump White House AI policy official Dean Ball. The move intensifies the top-tier AI talent war and carries major symbolic weight as OpenAI gears up for its IPO. [Reuters](https://www.reuters.com/technology/googles-gemini-co-lead-noam-shazeer-join-openai-2026-06-18/) · [TechCrunch](https://techcrunch.com/2026/06/18/openai-is-bringing-on-some-big-guns-in-the-lead-up-to-its-ipo/)
+<!--more-->
+- **Google and Amazon mount simultaneous challenges to Nvidia's AI chip dominance**: The WSJ reports Google is building a cloud-agnostic AI chip business using Nvidia's own playbook. On the same day, Amazon confirmed it is in talks to sell its Trainium chips directly to third parties. CEO Andy Jassy noted Trainium would represent a ~$50B annual run rate as a standalone business. The AI chip market is fragmenting fast. [WSJ](https://www.wsj.com/tech/ai/google-is-using-nvidias-playbook-to-build-a-rival-ai-chip-business-1eac86f9) · [TechCrunch](https://techcrunch.com/2026/06/18/amazon-hopes-to-challenge-nvidia-more-directly-by-selling-its-ai-chips/)
+- **The data black hole at the center of AI — it's not sample efficiency, it's data**: Dwarkesh Patel's analysis shows that recent AI progress has come overwhelmingly from more and better data, not from fundamentally improved sample efficiency. RL and synthetic data generation ultimately depend on human expert trajectory data — task-specific, bespoke, and enormously expensive to produce. The real constraint is the expert data pipeline, not compute. [Dwarkesh](https://www.dwarkesh.com/p/the-sample-efficiency-black-hole-2)
+
+## Startup / Product / Platform Radar
+- **Elastic acquires AI bug-catching startup Deductive AI for up to $85M**: Founded in 2023 and just seven months removed from a $7.5M seed at $33M valuation. The surge in AI-written code is driving demand for AI-powered SRE tooling. Established incumbents are rapidly absorbing agentic AI startups. [TechCrunch](https://techcrunch.com/2026/06/18/source-elastic-agrees-to-buy-crv-backed-deductiveai-for-up-to-85m/)
+- **AI inference startup Baseten reportedly raising $1.5B at $13B valuation**: A 160% valuation jump in five months, using a split-priced round structure (some investors at $13B, others at $11B). The inference gold rush shows no signs of cooling, but the complexity of the deal structure raises questions. [TechCrunch](https://techcrunch.com/2026/06/18/ai-inference-startup-baseten-reportedly-raising-1-5b-months-after-its-last-mega-round/)
+- **Snap spins off AI video team into Dotmo, explicitly citing costs**: CTO Bobby Murphy is lead investor in personal capacity. Snap retains a license to Dotmo's technology. The spinoff-and-license-back model is emerging as a pattern for big tech companies that can't justify the cost of internal AI R&D. [TechCrunch](https://techcrunch.com/2026/06/18/snap-spins-off-ai-video-team-into-new-company-dotmo-due-to-costs/)
+
+## AI Future Signals
+- **Self-improving memory for agents reaches product stage**: Perplexity has detailed an architecture where agents learn and improve from interaction history. Agent memory is evolving beyond simple RAG into genuine learning loops — meaning agents that get smarter the longer you use them. [Perplexity](https://www.perplexity.ai/hub/blog/self-improving-memory-for-agents)
+- **Business AI agents are the next product battleground for Big Tech**: Google, Microsoft, OpenAI, and Amazon are all pivoting from chatbots to autonomous business agents that execute multi-step workflows. The shift from "ask an AI" to "let an AI do it" defines the next platform war. [RNZ](https://www.rnz.co.nz/news/science-and-technology/600928/more-than-chatbots-why-business-ai-agents-are-big-tech-s-next-product-battleground)
+
+## Realistic Opportunities / Experiments
+- **Expert trajectory data is the real bottleneck — and a market opportunity**: Dwarkesh's analysis makes it clear: the binding constraint on AI progress is the pipeline for producing human expert work data at scale. Companies like Mercor and Surge are growing fast in this space, but vertical-specific expert data marketplaces are still an early-stage opportunity for founders. [Dwarkesh](https://www.dwarkesh.com/p/the-sample-efficiency-black-hole-2)
+- **AI chip diversification is a procurement opportunity right now**: With both Google and Amazon entering the merchant chip market, teams running GPU-heavy infrastructure should begin evaluating non-Nvidia options. Early adopters can lock in favorable pricing and supply contracts before the market tightens. [WSJ](https://www.wsj.com/tech/ai/google-is-using-nvidias-playbook-to-build-a-rival-ai-chip-business-1eac86f9) · [TechCrunch](https://techcrunch.com/2026/06/18/amazon-hopes-to-challenge-nvidia-more-directly-by-selling-its-ai-chips/)
+
+## Uncertainties / Keep Watching
+- **Are AI inference startup valuations sustainable?** Baseten's 160% markup in five months with a split-priced round structure suggests market froth. If inference commoditizes faster than expected, today's valuations will be hard to justify. [TechCrunch](https://techcrunch.com/2026/06/18/ai-inference-startup-baseten-reportedly-raising-1-5b-months-after-its-last-mega-round/)
+- **Can Amazon and Google actually dent Nvidia's dominance?** Both have massive advantages — AWS's ecosystem, Google's TPU track record — but Nvidia's CUDA moat remains deep and widening. Enterprise adoption data over the next 6–12 months will be decisive. [WSJ](https://www.wsj.com/tech/ai/google-is-using-nvidias-playbook-to-build-a-rival-ai-chip-business-1eac86f9) · [TechCrunch](https://techcrunch.com/2026/06/18/amazon-hopes-to-challenge-nvidia-more-directly-by-selling-its-ai-chips/)
