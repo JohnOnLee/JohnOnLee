@@ -40,13 +40,11 @@ radar:
   readLabel: "최신 레이더 읽기"
   empty: "최신 AI 레이더를 준비하고 있습니다."
 
-about:
-  label: "About"
-  title: "직접 만들고, 배우고, 기록합니다."
-  paragraphs:
-    - "소프트웨어와 AI 제품을 직접 만들고 운영하며 발견한 시행착오와 판단을 기록합니다. 아이디어를 실제 제품으로 옮기는 사람들을 위한 사이트입니다."
-  links:
-    - label: "About 더 보기"
-      url: "/about/"
-    - label: "GitHub"
-      url: "https://github.com/JohnOnLee"
+guides:
+  label: "Guides & Tools"
+  title: "판단을 실행으로 옮깁니다"
+  description: "실제 시스템과 작업 방식으로 옮기는 실전 가이드. 사용법이 아니라 실행 능력을 다룹니다."
+  allLabel: "가이드 & 툴 모두 보기"
+  allUrl: "/guides/"
+  readLabel: "가이드 읽기"
+  empty: "첫 가이드를 준비하고 있습니다."

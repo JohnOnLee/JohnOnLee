@@ -3,6 +3,7 @@
 {{- $copy := index .Site.Data.home $lang -}}
 {{- $posts := first 4 (where .Site.RegularPages.ByDate.Reverse "Section" "blog") -}}
 {{- $briefs := first 1 (where .Site.RegularPages.ByDate.Reverse "Section" "brief") -}}
+{{- $guides := first 3 (where .Site.RegularPages.ByDate.Reverse "Section" "guides") -}}
 
 <div id="john-home" class="editorial-home">
   <section class="editorial-hero" aria-labelledby="home-title">
@@ -76,19 +77,24 @@
     {{- end }}
   </section>
 
-  <section class="editorial-about" aria-labelledby="about-title">
-    <p class="editorial-label">{{ $copy.about.label }}</p>
-    <div>
-      <h2 id="about-title">{{ $copy.about.title }}</h2>
-      {{- range $copy.about.paragraphs }}
-      <p>{{ . }}</p>
-      {{- end }}
-      {{- with $copy.about.links }}
-      <nav class="editorial-about__links" aria-label="{{ $copy.about.label }}">
-        {{- range . }}
-        <a href="{{ .url }}">{{ .label }} <span aria-hidden="true">→</span></a>
-        {{- end }}
-      </nav>
+  <section class="editorial-guides" aria-labelledby="guides-title">
+    <div class="editorial-guides__intro">
+      <p class="editorial-label">{{ $copy.guides.label }}</p>
+      <h2 id="guides-title">{{ $copy.guides.title }}</h2>
+      <p>{{ $copy.guides.description }}</p>
+      <a href="{{ $copy.guides.allUrl }}">{{ $copy.guides.allLabel }} <span aria-hidden="true">→</span></a>
+    </div>
+
+    <div class="editorial-guides__list">
+      {{- range $guides }}
+      <article class="editorial-guides__item">
+        <p class="editorial-post__meta"><time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "2006.01.02" }}</time></p>
+        <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+        <p>{{ (.Params.summary | default .Summary) | plainify | truncate 150 }}</p>
+        <a class="editorial-read" href="{{ .RelPermalink }}">{{ $copy.guides.readLabel }} <span aria-hidden="true">→</span></a>
+      </article>
+      {{- else }}
+      <p class="editorial-empty">{{ $copy.guides.empty }}</p>
       {{- end }}
     </div>
   </section>

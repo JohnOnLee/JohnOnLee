@@ -40,13 +40,11 @@ radar:
   readLabel: "Read latest radar"
   empty: "The latest AI Radar is on the way."
 
-about:
-  label: "About"
-  title: "I build, learn, and write it down."
-  paragraphs:
-    - "I record the trial and error and the judgment calls from building and operating software and AI products — for people turning ideas into real products."
-  links:
-    - label: "More about me"
-      url: "/en/about/"
-    - label: "GitHub"
-      url: "https://github.com/JohnOnLee"
+guides:
+  label: "Guides & Tools"
+  title: "Turning judgment into execution"
+  description: "Hands-on guides for real systems and ways of working — execution, not how-tos."
+  allLabel: "View all Guides & Tools"
+  allUrl: "/en/guides/"
+  readLabel: "Read the guide"
+  empty: "The first guide is on the way."
