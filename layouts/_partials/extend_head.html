@@ -1,0 +1,5 @@
+{{- /* AdSense loads only on Guides & Tools pages, and only once
+       site.Params.adsenseClient is set in hugo.yaml. */ -}}
+{{- if and site.Params.adsenseClient (eq .Section "guides") }}
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client={{ site.Params.adsenseClient }}" crossorigin="anonymous"></script>
+{{- end }}

@@ -205,6 +205,14 @@ body:has(#john-home) .footer { border-top: 1px solid var(--j-line); }
   display: block;
 }
 
+#john-home .editorial-sidebar li a {
+  display: block;
+}
+
+#john-home .editorial-sidebar li a:hover strong {
+  color: var(--j-accent);
+}
+
 #john-home .editorial-sidebar strong {
   font-size: .94rem;
   line-height: 1.45;

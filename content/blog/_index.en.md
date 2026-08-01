@@ -1,4 +1,4 @@
 ---
-title: "Blog"
-description: "Thoughts and experiments on LLMs, coding agents, and AI startups."
+title: "Insights"
+description: "Interpreting what changes mean and naming the problems that keep recurring — judgment frames, not information."
 ---

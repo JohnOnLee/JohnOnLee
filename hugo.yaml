@@ -31,13 +31,17 @@ languages:
           url: /brief/
           weight: 10
         - identifier: blog
-          name: 블로그
+          name: 인사이트
           url: /blog/
           weight: 20
+        - identifier: guides
+          name: 가이드 & 툴
+          url: /guides/
+          weight: 30
         - identifier: rss
           name: RSS
           url: /brief/index.xml
-          weight: 30
+          weight: 40
   en:
     label: English
     weight: 2
@@ -63,13 +67,17 @@ languages:
           url: /brief/
           weight: 10
         - identifier: blog
-          name: Blog
+          name: Insights
           url: /blog/
           weight: 20
+        - identifier: guides
+          name: Guides & Tools
+          url: /guides/
+          weight: 30
         - identifier: rss
           name: RSS
           url: /en/brief/index.xml
-          weight: 30
+          weight: 40
 
 googleAnalytics: G-XQLLNDLGC0
 enableRobotsTXT: true
@@ -89,6 +97,7 @@ outputs:
     - LLMS
 
 params:
+  # adsenseClient: "ca-pub-XXXXXXXXXXXXXXXX"  # set to load AdSense on /guides/ pages only
   description: "AI·스타트업 모닝 브리핑과 LLM, 코딩 에이전트에 대한 생각과 실험을 기록합니다."
   author: John Lee
   ShowReadingTime: false

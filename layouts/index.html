@@ -45,8 +45,10 @@
       <ul>
         {{- range $copy.topics.items }}
         <li>
-          <strong>{{ .title }}</strong>
+          {{- with .url }}<a href="{{ . }}">{{ end }}
+          <strong>{{ .title }}{{ if .url }} <span aria-hidden="true">→</span>{{ end }}</strong>
           <span>{{ .description }}</span>
+          {{- if .url }}</a>{{ end }}
         </li>
         {{- end }}
       </ul>

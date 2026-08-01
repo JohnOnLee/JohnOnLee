@@ -3,13 +3,13 @@ hero:
   title: "누구나 자신의 아이디어를 제품으로 만들고, 그것을 자산으로 소유할 수 있는 미래를 꿈꿉니다."
   intro: "AI로 더 잘 만들고, 실제로 출시하고, 지속 가능한 제품으로 성장시키는 과정에서 배운 것들을 공유합니다."
   navLabel: "홈페이지 주요 링크"
-  primaryLabel: "최근 글 읽기"
+  primaryLabel: "인사이트 읽기"
   primaryUrl: "/blog/"
   secondaryLabel: "AI 레이더 보기"
   secondaryUrl: "/brief/"
 
 writing:
-  label: "Writing"
+  label: "Insights"
   title: "최근 글"
   allLabel: "모든 글"
   allUrl: "/blog/"
@@ -17,15 +17,18 @@ writing:
   empty: "새 글을 준비하고 있습니다."
 
 topics:
-  label: "What I write about"
+  label: "Sections"
   title: "만드는 사람에게 필요한 것"
   items:
-    - title: "AI로 더 잘 만들기"
-      description: "도구와 모델을 실제 작업에 맞게 사용하는 방법"
-    - title: "실제 제품으로 출시하기"
-      description: "데모를 넘어 품질, 검증과 운영까지 가져가는 판단"
-    - title: "내가 만든 것을 키우기"
-      description: "아이디어를 직접 소유하고 지속 가능한 자산으로 발전시키는 과정"
+    - title: "AI 레이더"
+      url: "/brief/"
+      description: "좋은 빌더가 놓치지 말아야 할 변화를 발견합니다. 뉴스가 아니라 무엇을 중요하게 봐야 하는지를 전합니다."
+    - title: "인사이트"
+      url: "/blog/"
+      description: "변화의 의미를 해석하고, 현장에서 반복되는 문제에 이름을 붙입니다. 정보가 아니라 판단 프레임을 다룹니다."
+    - title: "가이드 & 툴"
+      url: "/guides/"
+      description: "그 판단을 실제 시스템과 작업 방식으로 옮깁니다. 사용법이 아니라 실행 능력을 다룹니다."
   note: "성공 공식을 이야기하기보다, 직접 만들며 확인한 것과 아직 모르는 것을 구분해 기록합니다."
 
 radar:
