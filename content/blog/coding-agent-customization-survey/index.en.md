@@ -1,6 +1,7 @@
 ---
 title: "How Deep Does Your Coding Agent Setup Go?"
 date: 2026-05-31
+summary: "Two developers, same tool, wildly different setups. How deep coding agent customization goes — from bare defaults to full pipelines — and what actually pays off."
 ---
 
 Two developers. Both use Claude Code.

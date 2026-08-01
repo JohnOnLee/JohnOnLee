@@ -1,6 +1,7 @@
 ---
 title: "LLM 평가의 맹점: 우리는 왜 '행동'이 아니라 '지식'만 보는가?"
 date: 2026-05-26
+summary: "널리 쓰이는 LLM 벤치마크가 무엇을 측정하고 무엇을 놓치는지 뜯어보고, 지식 시험이 아닌 행동 벤치마크가 왜 필요한지 정리합니다."
 tags: ['llm', 'evaluation', 'behavioral-benchmark', 'coding-agent', 'ai']
 ---
 

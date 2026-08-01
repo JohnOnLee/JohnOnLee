@@ -1,6 +1,7 @@
 ---
 title: "How to Make an AI Coding Agent Actually Yours"
 date: 2026-06-23
+summary: "I built Monet to fix the agent that forgets yesterday's conventions. How an agent that writes its own memory, reads what mattered, and grows with use actually works."
 ---
 
 If you work with an AI coding agent every day, you know the feeling.

@@ -1,6 +1,7 @@
 ---
 title: "Does Your Coding Agent Need Memory?"
 date: 2026-05-14
+summary: "Coding agents re-read the same files and re-ask the same questions every day. What memory actually does for an agent, how it differs from docs, and when it pays off."
 ---
 
 You start a coding agent. You tell it what you need. It searches the repo, reads a few files, thinks for a moment, and writes the change.
