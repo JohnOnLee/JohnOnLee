@@ -98,6 +98,4 @@ AI 인프라, 클라우드 가격 책정, Anthropic의 실제 비용 구조를 �
 
 ---
 
-*이런 걸 고민하며 [Monet](https://github.com/team-monet/monet)을 만들고 있습니다. AI 에이전트를 위한 오픈소스 메모리 플랫폼이에요.*
-
-*파일럿 파트너 팀을 찾고 있습니다. 여러분 팀에 Monet 세팅을 도와드리고, 워크플로우에 맞춰 자동화할 지점을 함께 찾아가겠습니다. 관심 있으시면 댓글이나 GitHub Issue로 알려주세요.*
+*이런 걸 고민하며 [Monet](https://github.com/team-monet/monet)을 만들고 있습니다.*
