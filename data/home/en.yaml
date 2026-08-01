@@ -19,13 +19,13 @@ topics:
   items:
     - title: "AI Radar"
       url: "/en/brief/"
-      description: "Spotting the shifts good builders can't afford to miss — not the news, but what to pay attention to."
+      description: "The changes worth your attention, hand-picked."
     - title: "Insights"
       url: "/en/blog/"
-      description: "Interpreting what changes mean and naming the problems that keep recurring — judgment frames, not information."
+      description: "Making sense of what's changing and the problems that keep coming back."
     - title: "Guides & Tools"
       url: "/en/guides/"
-      description: "Turning that judgment into real systems and ways of working — execution, not how-tos."
+      description: "Ways of working I actually use, written up."
   note: "I keep what I've verified firsthand separate from what I'm still testing."
 
 radar:
