@@ -109,7 +109,7 @@ outputs:
     - LLMS
 
 params:
-  # adsenseClient: "ca-pub-XXXXXXXXXXXXXXXX"  # set to load AdSense on /guides/ pages only
+  adsenseClient: "ca-pub-5591251330042614"  # ownership meta site-wide; ad script loads on /guides/ only
   # Search engine ownership verification — paste each console's meta-tag content value:
   analytics:
     google:

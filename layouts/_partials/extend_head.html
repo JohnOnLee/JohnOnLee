@@ -1,5 +1,9 @@
-{{- /* AdSense loads only on Guides & Tools pages, and only once
-       site.Params.adsenseClient is set in hugo.yaml. */ -}}
+{{- /* AdSense: ownership-verification meta on every page; the ad script
+       itself loads only on Guides & Tools pages. Both keyed off
+       site.Params.adsenseClient in hugo.yaml. */ -}}
+{{- with site.Params.adsenseClient }}
+<meta name="google-adsense-account" content="{{ . }}">
+{{- end }}
 {{- if and site.Params.adsenseClient (eq .Section "guides") }}
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client={{ site.Params.adsenseClient }}" crossorigin="anonymous"></script>
 {{- end }}
