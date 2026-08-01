@@ -110,6 +110,11 @@ outputs:
 
 params:
   adsenseClient: "ca-pub-5591251330042614"  # ownership meta site-wide; ad script loads on /guides/ only
+  assets:
+    favicon: "favicon.png"
+    favicon16x16: "favicon.png"
+    favicon32x32: "favicon.png"
+    apple_touch_icon: "apple-touch-icon.png"
   # Search engine ownership verification — paste each console's meta-tag content value:
   analytics:
     google:
