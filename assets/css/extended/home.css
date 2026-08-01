@@ -98,6 +98,7 @@ body:has(#john-home) .footer { border-top: 1px solid var(--j-line); }
 #john-home .editorial-links a,
 #john-home .editorial-section-heading > a,
 #john-home .editorial-radar__intro > a,
+#john-home .editorial-about__links a,
 #john-home .editorial-read {
   color: var(--j-accent);
   font-size: .9rem;
@@ -273,6 +274,13 @@ body:has(#john-home) .footer { border-top: 1px solid var(--j-line); }
   color: var(--j-muted);
   font-size: 1rem;
   line-height: 1.78;
+}
+
+#john-home .editorial-about__links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 22px;
+  margin-top: 26px;
 }
 
 #john-home .editorial-empty {

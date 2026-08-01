@@ -80,7 +80,16 @@
     <p class="editorial-label">{{ $copy.about.label }}</p>
     <div>
       <h2 id="about-title">{{ $copy.about.title }}</h2>
-      <p>{{ $copy.about.body }}</p>
+      {{- range $copy.about.paragraphs }}
+      <p>{{ . }}</p>
+      {{- end }}
+      {{- with $copy.about.links }}
+      <nav class="editorial-about__links" aria-label="{{ $copy.about.label }}">
+        {{- range . }}
+        <a href="{{ .url }}">{{ .label }} <span aria-hidden="true">→</span></a>
+        {{- end }}
+      </nav>
+      {{- end }}
     </div>
   </section>
 </div>

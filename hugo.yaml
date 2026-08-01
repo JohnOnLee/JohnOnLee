@@ -11,6 +11,8 @@ languages:
     weight: 1
     title: John on Lee
     params:
+      footer:
+        text: "[개인정보처리방침](/privacy/)"
       homeInfoParams:
         Title: 👋 John on Lee
         Content: |
@@ -47,6 +49,8 @@ languages:
     weight: 2
     title: John on Lee
     params:
+      footer:
+        text: "[Privacy Policy](/en/privacy/)"
       homeInfoParams:
         Title: 👋 John on Lee
         Content: |

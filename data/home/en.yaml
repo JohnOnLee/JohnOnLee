@@ -41,6 +41,15 @@ radar:
   empty: "The latest AI Radar is on the way."
 
 about:
-  label: "About this site"
+  label: "About"
   title: "I build, learn, and write it down."
-  body: "I share the decisions and failures I encounter while building and operating software and AI products. The writing is for vibe coders, professional developers, product designers, and founders turning ideas into real products."
+  paragraphs:
+    - "I'm John Lee — a builder who makes and operates software and AI products. I'm building Monet, an open-source memory platform for AI agents, and the AI Radar on this site is published daily by Hermes, an agent I built."
+    - "This site records the trial and error and the judgment calls I collect along the way — for vibe coders, professional developers, product designers, and founders turning ideas into real products."
+  links:
+    - label: "GitHub"
+      url: "https://github.com/JohnOnLee"
+    - label: "Monet"
+      url: "https://github.com/team-monet/monet"
+    - label: "RSS"
+      url: "/en/brief/index.xml"
