@@ -1,17 +1,14 @@
 ---
-title: "AI / Startup Morning Brief — 2026-07-05"
+title: "AI has torched the market for junior programmers — Stanford data confirms the structural shift"
 date: 2026-07-05
-summary: "AI has torched the market for junior programmers — Stanford data confirms the structural shift: Stanford Digital Economy Lab analysis of ADP payroll data shows employment for soft…"
-description: "AI has torched the market for junior programmers — Stanford data confirms the structural shift: Stanford Digital Economy Lab analysis of ADP payroll data shows employment for soft…"
+summary: "Stanford Digital Economy Lab analysis of ADP payroll data shows employment for soft…"
+description: "Stanford Digital Economy Lab analysis of ADP payroll data shows employment for soft…"
 ---
-
-[AI/Startup Morning Brief — 2026-07-05]
 
 ## Key Shifts
 
 - **AI has torched the market for junior programmers — Stanford data confirms the structural shift**: Stanford Digital Economy Lab analysis of ADP payroll data shows employment for software developers aged 22–25 is down 19% from its late-2022 peak, while developers aged 41–49 grew 14% over the same period. Entry-level postings are down 28%, and CS graduates now face 6.1% unemployment — higher than liberal arts majors. The inflection point was not ChatGPT (Nov 2022) but the rise of agentic coding tools in 2024–2025. The industry is evolving toward a senior-only structure, and the pipeline to replace retiring seniors is being dismantled in real time. [Seldo.com](https://seldo.com/posts/ai-has-torched-the-market-for-junior-programmers/)
 
-<!--more-->
 - **ByteDance discovers a new scaling law for AI agents**: ByteDance's Seed AI team published research showing that AI agents can double their learning speed every three months by interacting with real-world environments over extended periods. The team tested five frontier models — including Claude Opus 4.8, GPT-5.5, GPT-5.4, Zhipu AI, and DeepSeek — across 38,000 hours on EdgeBench, a suite of 134 ultra-long-horizon tasks spanning software engineering, scientific discovery, and formal mathematics. As the industry confronts the limits of pre-training data scaling, agent-based learning in deployment environments emerges as a plausible next growth vector. [SCMP](https://www.scmp.com/tech/big-tech/article/3359373/chinas-bytedance-discovers-new-scaling-law-could-sustain-ai-boom)
 
 ## Startup / Product / Platform Radar

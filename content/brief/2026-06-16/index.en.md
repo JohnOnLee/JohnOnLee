@@ -1,15 +1,12 @@
 ---
-title: "AI / Startup Morning Brief — 2026-06-16"
+title: "India accelerates AI sovereignty — Sarvam AI reaches unicorn status"
 date: 2026-06-16
-summary: "India accelerates AI sovereignty — Sarvam AI reaches unicorn status: Indian AI startup Sarvam AI has raised $234 million in a Series B round led by HCLTech, reaching a $1.5 billio…"
-description: "India accelerates AI sovereignty — Sarvam AI reaches unicorn status: Indian AI startup Sarvam AI has raised $234 million in a Series B round led by HCLTech, reaching a $1.5 billio…"
+summary: "Indian AI startup Sarvam AI has raised $234 million in a Series B round led by HCLTech, reaching a $1.5 billio…"
+description: "Indian AI startup Sarvam AI has raised $234 million in a Series B round led by HCLTech, reaching a $1.5 billio…"
 ---
-
-[AI/Startup Morning Brief — 2026-06-16]
 
 ## Key Shifts
 - **India accelerates AI sovereignty — Sarvam AI reaches unicorn status**: Indian AI startup Sarvam AI has raised $234 million in a Series B round led by HCLTech, reaching a $1.5 billion valuation. This is not just a funding milestone — it represents a coordinated push by India's government, enterprises, and startup ecosystem toward sovereign AI capability. The paradox is becoming clear: US-led restrictions on frontier AI access are accelerating AI investment in non-Western markets. [Startup Fortune](https://startupfortune.com/sarvam-ai-is-indias-newest-ai-unicorn-after-raising-234-million-from-hcltech/) · [NDTV](https://www.ndtv.com/india-news/ai-startup-sarvam-turns-unicorn-after-raising-234-million-in-series-b-round-11640266)
-<!--more-->
 - **Salesforce acquires AI agent maker Fin for $3.6 billion**: Salesforce has acquired Fin, the AI customer service platform formerly known as Intercom's AI division, for $3.6 billion. Coming just days after significant layoffs, the deal shows that enterprise software giants are intensifying their AI agent arms race on both the "build" and "buy" fronts. [TechCrunch](https://techcrunch.com/2026/06/15/salesforce-acquires-ai-customer-service-platform-fin-for-3-6b/)
 - **Qualcomm in talks to acquire AI chip startup Tenstorrent**: Qualcomm is reportedly negotiating to acquire Tenstorrent, the AI semiconductor startup led by legendary chip architect Jim Keller. The move signals accelerating consolidation in the AI chip layer as Big Tech and semiconductor firms scramble to find alternatives to Nvidia's dominance. [The Information](https://www.theinformation.com/articles/qualcomm-talks-buy-tenstorrent-expand-ai-chip-capabilities)
 - **US government's Anthropic ban was never about an "AI jailbreak"**: A TechCrunch analysis reveals that the US government's restrictions on Anthropic's Fable 5 and Mythos 5 models were driven primarily by AI technology dominance and national security framing, not AI safety concerns. This sets a precedent for future AI model export controls and will act as a structural constraint on AI companies' global strategies. [TechCrunch](https://techcrunch.com/2026/06/15/the-us-governments-anthropic-models-ban-was-never-about-an-ai-jailbreak/)

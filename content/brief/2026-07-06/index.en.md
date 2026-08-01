@@ -1,15 +1,12 @@
 ---
-title: "AI / Startup Morning Brief — 2026-07-06"
+title: "Amazon stops accepting new Mechanical Turk customers"
 date: 2026-07-06
-summary: "Amazon stops accepting new Mechanical Turk customers: MTurk, the backbone of AI data labeling for 20 years, is closing to new customers. This signals a fundamental shift in how AI…"
-description: "Amazon stops accepting new Mechanical Turk customers: MTurk, the backbone of AI data labeling for 20 years, is closing to new customers. This signals a fundamental shift in how AI…"
+summary: "MTurk, the backbone of AI data labeling for 20 years, is closing to new customers. This signals a fundamental shift in how AI…"
+description: "MTurk, the backbone of AI data labeling for 20 years, is closing to new customers. This signals a fundamental shift in how AI…"
 ---
-
-[AI/Startup Morning Brief — 2026-07-06]
 
 ## Key Shifts
 - **Amazon stops accepting new Mechanical Turk customers**: MTurk, the backbone of AI data labeling for 20 years, is closing to new customers. This signals a fundamental shift in how AI training data is sourced — toward synthetic data and specialized labeling platforms like Scale AI. [TechCrunch](https://techcrunch.com/2026/07/05/amazon-will-stop-accepting-new-customers-for-mechanical-turk/)
-<!--more-->
 - **Jim Keller's Fab2 building a factory to mass-produce small chip fabs**: The legendary chip architect (ex-Apple, AMD, Tesla) is building a "fab fab" in Texas — a factory that produces small-scale semiconductor manufacturing lines. Democratizing chip fabrication could fundamentally change hardware startup economics. [Tom's Hardware](https://www.tomshardware.com/tech-industry/atomic-semi-rebrands-as-fab2-and-shifts-operations-to-texas)
 - **Alibaba reportedly bans employees from using Claude Code**: The Chinese tech giant has prohibited internal use of Anthropic's Claude Code. Geopolitical fragmentation of AI development tools is accelerating, creating real compliance challenges for teams operating globally. [TechCrunch](https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/)
 - **Midjourney demands Hollywood reveal AI usage details**: Midjourney has formally asked major Hollywood studios to disclose how they use AI. The transparency battle between AI image generation tools and the content industry has entered a new phase. [TechCrunch](https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/)

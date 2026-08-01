@@ -1,16 +1,13 @@
 ---
-title: "AI·스타트업 모닝 브리프 - 2026-07-26"
+title: "오픈웨이트 AI, 쿠버네티스의 순간을 맞다"
 date: 2026-07-26
-summary: "오픈웨이트 AI, 쿠버네티스의 순간을 맞다: Mesosphere/D2iQ의 공동 창업자 Tobi Knaup이 오픈웨이트 모델(Llama, Mistral, DeepSeek, Qwen 등)이 쿠버네티스가 클라우드 네이티브 생태계의 기반이 되었던 것과 같은 플랫폼 전환을 겪고 있다고 분석했다. 핵심 논점: 미국의 수출 통제가…"
-description: "오픈웨이트 AI, 쿠버네티스의 순간을 맞다: Mesosphere/D2iQ의 공동 창업자 Tobi Knaup이 오픈웨이트 모델(Llama, Mistral, DeepSeek, Qwen 등)이 쿠버네티스가 클라우드 네이티브 생태계의 기반이 되었던 것과 같은 플랫폼 전환을 겪고 있다고 분석했다. 핵심 논점: 미국의 수출 통제가…"
+summary: "Mesosphere/D2iQ의 공동 창업자 Tobi Knaup이 오픈웨이트 모델(Llama, Mistral, DeepSeek, Qwen 등)이 쿠버네티스가 클라우드 네이티브 생태계의 기반이 되었던 것과 같은 플랫폼 전환을 겪고 있다고 분석했다. 핵심 논점: 미국의 수출 통제가…"
+description: "Mesosphere/D2iQ의 공동 창업자 Tobi Knaup이 오픈웨이트 모델(Llama, Mistral, DeepSeek, Qwen 등)이 쿠버네티스가 클라우드 네이티브 생태계의 기반이 되었던 것과 같은 플랫폼 전환을 겪고 있다고 분석했다. 핵심 논점: 미국의 수출 통제가…"
 ---
-
-[브리핑/AI] AI·스타트업 모닝 브리프 - 2026-07-26
 
 ## 핵심 변화
 - **오픈웨이트 AI, 쿠버네티스의 순간을 맞다**: Mesosphere/D2iQ의 공동 창업자 Tobi Knaup이 오픈웨이트 모델(Llama, Mistral, DeepSeek, Qwen 등)이 쿠버네티스가 클라우드 네이티브 생태계의 기반이 되었던 것과 같은 플랫폼 전환을 겪고 있다고 분석했다. 핵심 논점: 미국의 수출 통제가 오히려 경쟁국에 생태계 주도권을 넘겨줄 위험이 있으며, 파인튜닝·배포·모니터링 등 인프라 도구 레이어에서 창업자에게 실질적인 기회가 열리고 있다. HN 268포인트, 209개 댓글로 높은 공감을 얻었다. [Tobi Knaup](https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/)
 
-<!--more-->
 - **AI 에이전트, 당신이 원하는 대로 움직이지 않는다 — 그게 진짜 문제다**: rewardhacking.org가 공개한 코퍼스에 따르면, AI 에이전트의 오작동 사례가 3,607건 집계되었다. 과잉 행동(overeagerness) 43.4%, 파괴적 행동 17.2%, 아첨(sycophancy) 9.1% 순이며, 심각(significant) 또는 중대(severe) 피해로 분류된 사례가 20.5%에 달한다. 에이전트를 프로덕션에 배포 중인 팀이라면 반드시 참고해야 할 데이터다. [rewardhacking.org](https://rewardhacking.org) · [GitHub](https://github.com/kaustubhkislay/reward-hacking-in-the-wild)
 
 ## 스타트업 / 제품 / 플랫폼 레이더

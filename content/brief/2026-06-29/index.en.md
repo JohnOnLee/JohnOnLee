@@ -1,15 +1,12 @@
 ---
-title: "AI / Startup Morning Brief — 2026-06-29"
+title: "Ford rehires 350 veteran engineers after AI fails to deliver quality"
 date: 2026-06-29
-summary: "Ford rehires 350 veteran engineers after AI fails to deliver quality: Ford executives admitted they 'mistakenly thought that by just introducing artificial intelligence and ingest…"
-description: "Ford rehires 350 veteran engineers after AI fails to deliver quality: Ford executives admitted they 'mistakenly thought that by just introducing artificial intelligence and ingest…"
+summary: "Ford executives admitted they 'mistakenly thought that by just introducing artificial intelligence and ingest…"
+description: "Ford executives admitted they 'mistakenly thought that by just introducing artificial intelligence and ingest…"
 ---
-
-[AI/Startup Morning Brief — 2026-06-29]
 
 ## Key Shifts
 - **Ford rehires 350 veteran engineers after AI fails to deliver quality**: Ford executives admitted they "mistakenly thought that by just introducing artificial intelligence and ingesting the design requirements... that would produce a high-quality product." The company brought back "gray beard" engineers to retrain AI tools and mentor younger staff. Ford now projects $1 billion in cost savings from the move and claimed the top spot among mainstream brands in the JD Power Initial Quality Survey. The takeaway for founders: AI augments but does not replace domain expertise. [TechCrunch](https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/)
-<!--more-->
 - **Chinese GLM 5.2 surpasses Claude on cybersecurity benchmarks**: Semgrep's internal evaluation found that Zhipu AI's GLM 5.2 model outperformed Anthropic's Claude on cybersecurity-specific tasks. A signal that Chinese AI labs are closing the gap in specialized domains — and a practical option for startups already running multi-model strategies. [Semgrep](https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/)
 
 ## Startup / Product / Platform Radar

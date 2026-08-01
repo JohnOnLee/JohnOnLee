@@ -1,15 +1,12 @@
 ---
-title: "AI·스타트업 모닝 브리프 - 2026-06-13"
+title: "AI 가격 전쟁 본격화 — OpenAI, 이용자 확보 위해 대폭 가격 인하 검토"
 date: 2026-06-13
-summary: "AI 가격 전쟁 본격화 — OpenAI, 이용자 확보 위해 대폭 가격 인하 검토: OpenAI가 Anthropic과의 경쟁 속에서 대규모 가격 인하를 고려 중이라고 WSJ가 보도. 모델 가격이 빠르게 하락하며 파운데이션 모델 레이어의 수익성이 압박받기 시작. 파운데이션 모델을 단순 리셀링하는 스타트업은 마진 압박에 대비…"
-description: "AI 가격 전쟁 본격화 — OpenAI, 이용자 확보 위해 대폭 가격 인하 검토: OpenAI가 Anthropic과의 경쟁 속에서 대규모 가격 인하를 고려 중이라고 WSJ가 보도. 모델 가격이 빠르게 하락하며 파운데이션 모델 레이어의 수익성이 압박받기 시작. 파운데이션 모델을 단순 리셀링하는 스타트업은 마진 압박에 대비…"
+summary: "OpenAI가 Anthropic과의 경쟁 속에서 대규모 가격 인하를 고려 중이라고 WSJ가 보도. 모델 가격이 빠르게 하락하며 파운데이션 모델 레이어의 수익성이 압박받기 시작. 파운데이션 모델을 단순 리셀링하는 스타트업은 마진 압박에 대비…"
+description: "OpenAI가 Anthropic과의 경쟁 속에서 대규모 가격 인하를 고려 중이라고 WSJ가 보도. 모델 가격이 빠르게 하락하며 파운데이션 모델 레이어의 수익성이 압박받기 시작. 파운데이션 모델을 단순 리셀링하는 스타트업은 마진 압박에 대비…"
 ---
-
-[브리핑/AI] AI·스타트업 모닝 브리프 - 2026-06-13
 
 ## 핵심 변화
 - **AI 가격 전쟁 본격화 — OpenAI, 이용자 확보 위해 대폭 가격 인하 검토**: OpenAI가 Anthropic과의 경쟁 속에서 대규모 가격 인하를 고려 중이라고 WSJ가 보도. 모델 가격이 빠르게 하락하며 파운데이션 모델 레이어의 수익성이 압박받기 시작. 파운데이션 모델을 단순 리셀링하는 스타트업은 마진 압박에 대비해야 함. [WSJ](https://www.wsj.com/tech/ai/openai-considers-drastic-price-cuts-anticipating-war-for-users-with-anthropic-9b8c178e) · [WSJ(심층)](https://www.wsj.com/tech/ai/the-ai-price-war-is-here-piling-pressure-on-openai-and-anthropic-86e1d21b)
-<!--more-->
 - **구글 디렉터, 군사 AI 계약에 반발해 사임 — "경영진이 도덕적 나침반을 잃었다"**: 구글의 Android 보안 및 개인정보보호 담당 디렉터 René Mayrhofer가 펜타곤과의 Gemini 군사 계약에 항의하며 사임. 빅테크 내 AI 윤리와 수익 간 긴장이 고조되고 있으며, 인재 유치에도 영향. [Business Insider](https://www.businessinsider.com/google-director-resigned-pentagon-ai-deal-military-artificial-intelligence-gemini-2026-6)
 - **Apple, Apple Intelligence에 구글 모델 미사용 공식 확인**: Apple이 자사 AI 시스템에 구글 모델·앱·검색을 전혀 사용하지 않는다고 공식 확인. 플랫폼 기업의 AI 독립성 전략이 뚜렷해지고 있음. 폐쇄형 생태계 내 AI 통합을 고민하는 오퍼레이터에게 의미 있는 신호. [Asymco](https://asymco.com/2026/06/12/apple-confirms-not-using-google-models-apps-or-search-in-apple-intelligence/)
 

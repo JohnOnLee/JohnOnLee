@@ -1,15 +1,12 @@
 ---
-title: "AI·스타트업 모닝 브리프 - 2026-07-04"
+title: "Meta, 차세대 LLM 'Watermelon'이 GPT-5.5 수준에 도달"
 date: 2026-07-04
-summary: "Meta, 차세대 LLM 'Watermelon'이 GPT-5.5 수준에 도달: Alexandr Wang(Meta AI VP) 내부 타운홀에서 Watermelon이 OpenAI GPT-5.5와 동등 수준이라고 밝힘. Muse Spark의 후속 모델로, 코드명 Avocado 대비 10배 이상의 컴퓨팅 사용. 별도로 Muse…"
-description: "Meta, 차세대 LLM 'Watermelon'이 GPT-5.5 수준에 도달: Alexandr Wang(Meta AI VP) 내부 타운홀에서 Watermelon이 OpenAI GPT-5.5와 동등 수준이라고 밝힘. Muse Spark의 후속 모델로, 코드명 Avocado 대비 10배 이상의 컴퓨팅 사용. 별도로 Muse…"
+summary: "Alexandr Wang(Meta AI VP) 내부 타운홀에서 Watermelon이 OpenAI GPT-5.5와 동등 수준이라고 밝힘. Muse Spark의 후속 모델로, 코드명 Avocado 대비 10배 이상의 컴퓨팅 사용. 별도로 Muse…"
+description: "Alexandr Wang(Meta AI VP) 내부 타운홀에서 Watermelon이 OpenAI GPT-5.5와 동등 수준이라고 밝힘. Muse Spark의 후속 모델로, 코드명 Avocado 대비 10배 이상의 컴퓨팅 사용. 별도로 Muse…"
 ---
-
-[브리핑/AI] AI·스타트업 모닝 브리프 - 2026-07-04
 
 ## 핵심 변화
 - **Meta, 차세대 LLM 'Watermelon'이 GPT-5.5 수준에 도달**: Alexandr Wang(Meta AI VP) 내부 타운홀에서 Watermelon이 OpenAI GPT-5.5와 동등 수준이라고 밝힘. Muse Spark의 후속 모델로, 코드명 Avocado 대비 10배 이상의 컴퓨팅 사용. 별도로 Muse Spark 업데이트가 곧 출시되며 코딩 및 에이전트 능력이 대폭 향상될 예정. [Business Insider](https://www.businessinsider.com/meta-ai-model-catches-up-openai-gpt-5-says-2026-7) · [SiliconANGLE](https://siliconangle.com/2026/07/03/meta-release-new-ai-model-advanced-coding-capabilities-soon/)
-<!--more-->
 - **Microsoft, 25억 달러·6,000명 규모 'Frontier Company' 신설**: 기업 고객에게 AI 구현을 엔드투엔드로 제공하는 새 사업부. "지능을 증폭시키고 IP를 보호하는 AI 엔지니어링"을 표방하며, AI 투자에서 실질적 비즈니스 성과로의 전환을 목표로 함. [Microsoft Blog](https://blogs.microsoft.com/blog/2026/07/02/microsoft-frontier-company-ai-engineering-that-amplifies-and-protects-your-intelligence/)
 - **중국 GLM 5.2, 오픈소스로 Anthropic 추격**: Zhipu AI의 새 모델이 주요 벤치마크에서 Claude와 경쟁. 100만 토큰 컨텍스트 윈도우, 오픈소스에 지역 제한 없는 전략으로 DeepSeek 이후 두 번째 중국발 파장. [Euronews](https://www.euronews.com/next/2026/07/03/what-is-glm-52-the-new-chinese-ai-model-thats-rivalling-anthropic)
 - **글로벌 VC 투자 H1 2026 사상 최대 $510B**: AI 붐이 전체 벤처 투자를 견인. IPO와 M&A도 급증하며 출구 시장이 살아나는 중. 분기별로도 역대 최고치. [Crunchbase News](https://news.crunchbase.com/venture/global-startup-exits-ipo-ma-soar-ai-q2-h1-2026/) · [SiliconANGLE](https://siliconangle.com/2026/07/02/global-venture-funding-hits-record-510b-first-half-ai-boom-accelerates/)

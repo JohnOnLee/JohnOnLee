@@ -1,15 +1,12 @@
 ---
-title: "AI / Startup Morning Brief — 2026-06-12"
+title: "Anthropic partners with TCS, revealing lean org structure"
 date: 2026-06-12
-summary: "Anthropic partners with TCS, revealing lean org structure: Anthropic has struck a deal with Indian IT giant TCS to create a dedicated business unit for enterprise AI deployments.…"
-description: "Anthropic partners with TCS, revealing lean org structure: Anthropic has struck a deal with Indian IT giant TCS to create a dedicated business unit for enterprise AI deployments.…"
+summary: "Anthropic has struck a deal with Indian IT giant TCS to create a dedicated business unit for enterprise AI deployments.…"
+description: "Anthropic has struck a deal with Indian IT giant TCS to create a dedicated business unit for enterprise AI deployments.…"
 ---
-
-[AI/Startup Morning Brief — 2026-06-12]
 
 ## Key Shifts
 - **Anthropic partners with TCS, revealing lean org structure**: Anthropic has struck a deal with Indian IT giant TCS to create a dedicated business unit for enterprise AI deployments. Separately, CEO Dario Amodei was revealed to have just one direct report — a radically flat org design for one of the fastest-growing AI companies. [TechCrunch](https://techcrunch.com/2026/06/11/anthropic-taps-tcs-to-scale-its-enterprise-ai-deployments/) · [TechCrunch](https://techcrunch.com/2026/06/10/anthropics-dario-amodei-has-just-one-direct-report/)
-<!--more-->
 - **AI infrastructure spending continues aggressive expansion**: Amazon borrowed $17.5B from banks immediately after an $8B bond sale, fueling its AI buildout. Meta signed its first AI data center deal in India — a 168MW facility with Reliance. Meanwhile, Ramp's AI Index shows 'AI-pilled' companies spending $7,500 per employee per month on AI. [TechCrunch](https://techcrunch.com/2026/06/10/fresh-off-bond-sale-amazon-borrows-17-5-billion-from-banks-as-ai-spending-continues/) · [TechCrunch](https://techcrunch.com/2026/06/10/meta-signs-first-ai-data-center-deal-in-india-with-reliance/) · [TechCrunch](https://techcrunch.com/2026/06/10/ai-pilled-firms-spend-7500-per-employee-each-month-on-ai/)
 - **Waymo Premier: autonomous ride-hailing enters the subscription economy**: Waymo launched an invite-only membership program with priority matching, 10% cash back, early access to new cities, and flexible cancellations for a monthly fee. Autonomous ride-hailing is moving from novelty to mass-market service tiering. [Waymo](https://waymo.com/blog/2026/06/waymo-premier/)
 - **Xiaomi open-sources MiMo Code, an AI coding model**: Xiaomi released its in-house AI coding assistant MiMo Code as open source, quickly gaining 379 points on Hacker News. A sign that consumer electronics giants are actively building and releasing AI developer tools. [MiMo](https://mimo.xiaomi.com/mimocode) · [Hacker News](https://news.ycombinator.com/item?id=48490826)

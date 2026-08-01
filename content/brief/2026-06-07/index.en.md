@@ -1,15 +1,12 @@
 ---
-title: "AI / Startup Morning Brief — 2026-06-07"
+title: "OpenAI unveils Lockdown Mode to defend against prompt injection attacks"
 date: 2026-06-07
-summary: "OpenAI unveils Lockdown Mode to defend against prompt injection attacks: A new security feature designed to protect sensitive enterprise data entered into ChatGPT from prompt inje…"
-description: "OpenAI unveils Lockdown Mode to defend against prompt injection attacks: A new security feature designed to protect sensitive enterprise data entered into ChatGPT from prompt inje…"
+summary: "A new security feature designed to protect sensitive enterprise data entered into ChatGPT from prompt inje…"
+description: "A new security feature designed to protect sensitive enterprise data entered into ChatGPT from prompt inje…"
 ---
-
-[AI/Startup Morning Brief — 2026-06-07]
 
 ## Key Shifts
 - **OpenAI unveils Lockdown Mode to defend against prompt injection attacks**: A new security feature designed to protect sensitive enterprise data entered into ChatGPT from prompt injection exploits. Not a silver bullet, but the first direct attempt to address the top barrier to enterprise adoption. [TechCrunch](https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/)
-<!--more-->
 - **Trump administration considers taking an equity stake in OpenAI**: President Trump says his team is discussing deals "where the American people can benefit from the success of AI." A national-AI-sovereignty move with major implications ahead of Anthropic's IPO. [TechCrunch](https://techcrunch.com/2026/06/06/the-trump-administration-might-take-an-equity-stake-in-openai/) · [Reuters](https://www.reuters.com/business/trump-says-his-team-will-look-into-us-taking-stake-ai-companies-2026-06-05/) · [Bloomberg](https://www.bloomberg.com/news/articles/2026-06-05/us-exploring-government-partnerships-with-ai-firms-trump-says)
 - **Sriram Krishnan departs as White House AI advisor after just six months**: The former a16z partner and key AI policy voice in the Trump administration is leaving abruptly, raising questions about continuity and direction of federal AI policy. [TechCrunch](https://techcrunch.com/2026/06/06/sriram-krishnan-is-leaving-his-role-as-white-house-ai-advisor/)
 - **Meta keeps delaying its new AI model release to developers**: The WSJ reports repeated postponements of Meta's next-generation open model, casting doubt on the execution and competitiveness of its open-source AI strategy. [WSJ](https://www.wsj.com/tech/ai/meta-keeps-delaying-the-release-of-its-new-ai-model-to-developers-f8569c8c)

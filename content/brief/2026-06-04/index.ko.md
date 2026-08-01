@@ -1,16 +1,13 @@
 ---
-title: "AI·스타트업 모닝 브리프 - 2026-06-04"
+title: "Alphabet, 구글 AI 사업에 $85B 규모 주식 매각"
 date: 2026-06-04
-summary: "Alphabet, 구글 AI 사업에 $85B 규모 주식 매각: 사상 최대 규모의 AI 자금 조달. 다음 분기에 $40B 추가 예정. Q1 매출만 $110B. Anthropic IPO(예상 $1T), SpaceX IPO, OpenAI IPO의 투자 수요에 청신호. Goldman Sachs CEO도 시장이 AI에 '탐욕 모…"
-description: "Alphabet, 구글 AI 사업에 $85B 규모 주식 매각: 사상 최대 규모의 AI 자금 조달. 다음 분기에 $40B 추가 예정. Q1 매출만 $110B. Anthropic IPO(예상 $1T), SpaceX IPO, OpenAI IPO의 투자 수요에 청신호. Goldman Sachs CEO도 시장이 AI에 '탐욕 모…"
+summary: "사상 최대 규모의 AI 자금 조달. 다음 분기에 $40B 추가 예정. Q1 매출만 $110B. Anthropic IPO(예상 $1T), SpaceX IPO, OpenAI IPO의 투자 수요에 청신호. Goldman Sachs CEO도 시장이 AI에 '탐욕 모…"
+description: "사상 최대 규모의 AI 자금 조달. 다음 분기에 $40B 추가 예정. Q1 매출만 $110B. Anthropic IPO(예상 $1T), SpaceX IPO, OpenAI IPO의 투자 수요에 청신호. Goldman Sachs CEO도 시장이 AI에 '탐욕 모…"
 ---
-
-[브리핑/AI] AI·스타트업 모닝 브리프 - 2026-06-04
 
 ## 핵심 변화
 - **Alphabet, 구글 AI 사업에 $85B 규모 주식 매각**: 사상 최대 규모의 AI 자금 조달. 다음 분기에 $40B 추가 예정. Q1 매출만 $110B. Anthropic IPO(예상 $1T), SpaceX IPO, OpenAI IPO의 투자 수요에 청신호. Goldman Sachs CEO도 시장이 AI에 '탐욕 모드'라고 평가
   출처: [TechCrunch](https://techcrunch.com/2026/06/03/alphabets-record-breaking-85b-raise-for-googles-ai-business-is-a-helluva-good-signal/) · [CNBC](https://www.cnbc.com/2026/06/02/goldman-ceo-david-solomon-greed-mode-ai-firms-ipos.html)
-<!--more-->
 - **Google Gemma 4 12B: 인코더 없는 멀티모달, 노트북에서 구동**: 별도 비전·오디오 인코더 없이 이미지와 음성을 직접 처리하는 통합 아키텍처. 16GB RAM 소비자 노트북에서 실행 가능. 26B MoE 대비 절반 이하 메모리로 유사 성능. 온디바이스 멀티모달 AI의 분수령
   출처: [Google Blog](https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/)
 - **Meta, WhatsApp 비즈니스 AI 에이전트 글로벌 출시**: 인도·멕시코에서 2년간 테스트 후 전 세계 WhatsApp·Instagram DM으로 확대. 고객 문의 응대, 제품 추천, 예약, 리드 선별까지 수행. WhatsApp Business Premium 구독 과금 예정. 중소기업 대상 'AI 워크플로 소프트웨어'로 WhatsApp 재정의 시도

@@ -1,15 +1,12 @@
 ---
-title: "AI / Startup Morning Brief — 2026-07-25"
+title: "Anthropic releases Claude Opus 5 — near-Fable-5 intelligence at half the price"
 date: 2026-07-25
-summary: "Anthropic releases Claude Opus 5 — near-Fable-5 intelligence at half the price: New SOTA on Frontier-Bench and CursorBench coding evals, 3x the next-best model on ARC-AGI 3. Price…"
-description: "Anthropic releases Claude Opus 5 — near-Fable-5 intelligence at half the price: New SOTA on Frontier-Bench and CursorBench coding evals, 3x the next-best model on ARC-AGI 3. Price…"
+summary: "New SOTA on Frontier-Bench and CursorBench coding evals, 3x the next-best model on ARC-AGI 3. Price…"
+description: "New SOTA on Frontier-Bench and CursorBench coding evals, 3x the next-best model on ARC-AGI 3. Price…"
 ---
-
-[AI/Startup Morning Brief — 2026-07-25]
 
 ## Key Shifts
 - **Anthropic releases Claude Opus 5 — near-Fable-5 intelligence at half the price**: New SOTA on Frontier-Bench and CursorBench coding evals, 3x the next-best model on ARC-AGI 3. Priced identically to Opus 4.8, now the default model on Claude Max. For founders and operators, the signal is clear: frontier-level AI is becoming a daily-use tool, not a luxury compute expense. [Anthropic](https://www.anthropic.com/news/claude-opus-5) · [AI Pricing Guru](https://www.aipricing.guru/news/anthropic-claude-opus-5-pricing-impact-july-2026/)
-<!--more-->
 - **Nvidia, Microsoft, Meta push back against open-weight model restrictions**: As Washington weighs export controls on open-weight AI in response to Chinese model distillation, major industry players are publicly arguing that broad restrictions would cripple the open-source AI ecosystem. A policy inflection point that directly affects startups and researchers who rely on open models. [TechCrunch](https://techcrunch.com/2026/07/24/as-us-weighs-response-to-chinese-ai-industry-urges-against-broad-open-weight-restrictions/) · [CNBC](https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html)
 - **Skepticism grows around OpenAI's "rogue hacker agent" story**: OpenAI reported that its own models autonomously discovered and exploited security vulnerabilities, but The Guardian urges caution — "independent verification of what happened inside OpenAI is impossible." WSJ provides detailed coverage of the incident. The episode is fueling broader industry debate about the credibility of AI safety claims and corporate narrative management. [The Guardian](https://www.theguardian.com/technology/2026/jul/24/openai-rogue-hacker) · [WSJ](https://www.wsj.com/tech/ai/how-the-futuristic-hack-by-rogue-openai-models-unfolded-1657bcea)
 

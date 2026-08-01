@@ -1,15 +1,12 @@
 ---
-title: "AI / Startup Morning Brief — 2026-07-13"
+title: "Claude Code burns 33K tokens before reading your prompt — OpenCode uses just 7K"
 date: 2026-07-13
-summary: "Claude Code burns 33K tokens before reading your prompt — OpenCode uses just 7K: Systima's empirical benchmark reveals Claude Code consumes 33,000 tokens before even reading the u…"
-description: "Claude Code burns 33K tokens before reading your prompt — OpenCode uses just 7K: Systima's empirical benchmark reveals Claude Code consumes 33,000 tokens before even reading the u…"
+summary: "Systima's empirical benchmark reveals Claude Code consumes 33,000 tokens before even reading the u…"
+description: "Systima's empirical benchmark reveals Claude Code consumes 33,000 tokens before even reading the u…"
 ---
-
-[AI/Startup Morning Brief — 2026-07-13]
 
 ## Key Shifts
 - **Claude Code burns 33K tokens before reading your prompt — OpenCode uses just 7K**: Systima's empirical benchmark reveals Claude Code consumes 33,000 tokens before even reading the user's prompt, compared to 7,000 for OpenCode under identical conditions. The gap widens further when instruction files, MCP servers, and subagents are added. For teams deploying coding agents in production, token efficiency is becoming a critical infrastructure cost variable. [Systima](https://systima.ai/blog/claude-code-vs-opencode-token-overhead)
-<!--more-->
 - **George Hotz: "I love LLMs, I hate hype"**: The renowned hacker and AI founder published a calibrated take on the state of AI — genuinely excited about LLMs, self-driving cars, video generation, and coding agents, while rejecting both the "window is closing" FOMO narrative and the "AI doom" rhetoric. A signal for builders to stay grounded between extremes. [geohot](https://geohot.github.io/blog/jekyll/update/2026/07/12/i-love-llms.html)
 - **Uber lobbies to keep robotaxi rides 85% human — a regulatory battle line forms**: Documents obtained by Wired show Uber is pushing New Jersey lawmakers to mandate "hybrid networks" where human drivers operate alongside autonomous vehicles. The proposed framework advantages existing ride-hailing platforms over pure-play AV developers. Mobility and autonomous vehicle founders should watch whether this regulatory blueprint spreads to other states. [Wired](https://www.wired.com/story/ubers-autonomous-vehicle-strategy-slow-their-adoption/)
 

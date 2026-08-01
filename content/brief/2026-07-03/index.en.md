@@ -1,15 +1,12 @@
 ---
-title: "AI / Startup Morning Brief — 2026-07-03"
+title: "Microsoft launches Frontier Company, a $2.5B AI deployment subsidiary"
 date: 2026-07-03
-summary: "Microsoft launches Frontier Company, a $2.5B AI deployment subsidiary: A new operating business combining deep industry knowledge, change management, and enterprise-grade AI engin…"
-description: "Microsoft launches Frontier Company, a $2.5B AI deployment subsidiary: A new operating business combining deep industry knowledge, change management, and enterprise-grade AI engin…"
+summary: "A new operating business combining deep industry knowledge, change management, and enterprise-grade AI engin…"
+description: "A new operating business combining deep industry knowledge, change management, and enterprise-grade AI engin…"
 ---
-
-[AI/Startup Morning Brief — 2026-07-03]
 
 ## Key Shifts
 - **Microsoft launches Frontier Company, a $2.5B AI deployment subsidiary**: A new operating business combining deep industry knowledge, change management, and enterprise-grade AI engineering. Explicitly guarantees customer IP is never used to train models. Led by Rodrigo Kede Lima. Signals that enterprise AI services are becoming a distinct business category, not just a feature of cloud platforms. [Microsoft Blog](https://blogs.microsoft.com/blog/2026/07/02/microsoft-frontier-company-ai-engineering-that-amplifies-and-protects-your-intelligence/) · [TechCrunch](https://techcrunch.com/2026/07/02/microsoft-launches-its-own-ai-deployment-company-with-2-5-billion-commitment/)
-<!--more-->
 - **OpenAI in early talks to give 5% stake to US government**: Sam Altman proposes sharing AI wealth with the public via a sovereign fund-style vehicle. Other major AI firms including Anthropic, Google, and Meta may be asked to contribute similar stakes. A novel approach to the industry's regulatory and political challenges. [The Guardian](https://www.theguardian.com/technology/2026/jul/02/openai-stake-us-government-ai-sam-altman)
 - **Kimi K2.7 Code becomes first open-weight model in GitHub Copilot**: The model is now selectable in the Copilot model picker across VS Code, JetBrains, Xcode, and other surfaces. A watershed moment for open-weight models entering mainstream developer tooling — and a lower-cost option for coding workflows. [GitHub Changelog](https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot/)
 

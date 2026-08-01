@@ -1,15 +1,12 @@
 ---
-title: "AI / Startup Morning Brief — 2026-06-20"
+title: "Transformer co-author Noam Shazeer leaves Google to join OpenAI"
 date: 2026-06-20
-summary: "Transformer co-author Noam Shazeer leaves Google to join OpenAI: Shazeer, co-author of 'Attention Is All You Need' and Gemini co-lead, is joining OpenAI alongside former Trump Whi…"
-description: "Transformer co-author Noam Shazeer leaves Google to join OpenAI: Shazeer, co-author of 'Attention Is All You Need' and Gemini co-lead, is joining OpenAI alongside former Trump Whi…"
+summary: "Shazeer, co-author of 'Attention Is All You Need' and Gemini co-lead, is joining OpenAI alongside former Trump Whi…"
+description: "Shazeer, co-author of 'Attention Is All You Need' and Gemini co-lead, is joining OpenAI alongside former Trump Whi…"
 ---
-
-[AI/Startup Morning Brief — 2026-06-20]
 
 ## Key Shifts
 - **Transformer co-author Noam Shazeer leaves Google to join OpenAI**: Shazeer, co-author of "Attention Is All You Need" and Gemini co-lead, is joining OpenAI alongside former Trump White House AI policy official Dean Ball. The move intensifies the top-tier AI talent war and carries major symbolic weight as OpenAI gears up for its IPO. [Reuters](https://www.reuters.com/technology/googles-gemini-co-lead-noam-shazeer-join-openai-2026-06-18/) · [TechCrunch](https://techcrunch.com/2026/06/18/openai-is-bringing-on-some-big-guns-in-the-lead-up-to-its-ipo/)
-<!--more-->
 - **Google and Amazon mount simultaneous challenges to Nvidia's AI chip dominance**: The WSJ reports Google is building a cloud-agnostic AI chip business using Nvidia's own playbook. On the same day, Amazon confirmed it is in talks to sell its Trainium chips directly to third parties. CEO Andy Jassy noted Trainium would represent a ~$50B annual run rate as a standalone business. The AI chip market is fragmenting fast. [WSJ](https://www.wsj.com/tech/ai/google-is-using-nvidias-playbook-to-build-a-rival-ai-chip-business-1eac86f9) · [TechCrunch](https://techcrunch.com/2026/06/18/amazon-hopes-to-challenge-nvidia-more-directly-by-selling-its-ai-chips/)
 - **The data black hole at the center of AI — it's not sample efficiency, it's data**: Dwarkesh Patel's analysis shows that recent AI progress has come overwhelmingly from more and better data, not from fundamentally improved sample efficiency. RL and synthetic data generation ultimately depend on human expert trajectory data — task-specific, bespoke, and enormously expensive to produce. The real constraint is the expert data pipeline, not compute. [Dwarkesh](https://www.dwarkesh.com/p/the-sample-efficiency-black-hole-2)
 

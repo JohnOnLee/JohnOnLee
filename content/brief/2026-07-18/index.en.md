@@ -1,15 +1,12 @@
 ---
-title: "AI / Startup Morning Brief — 2026-07-18"
+title: "Moonshot AI unveils Kimi K3, a 2.8T-parameter open-weight model"
 date: 2026-07-18
-summary: "Moonshot AI unveils Kimi K3, a 2.8T-parameter open-weight model: Chinese startup Moonshot AI announced Kimi K3, a 2.8 trillion parameter open-weight model that beats Claude Opus 4…"
-description: "Moonshot AI unveils Kimi K3, a 2.8T-parameter open-weight model: Chinese startup Moonshot AI announced Kimi K3, a 2.8 trillion parameter open-weight model that beats Claude Opus 4…"
+summary: "Chinese startup Moonshot AI announced Kimi K3, a 2.8 trillion parameter open-weight model that beats Claude Opus 4…"
+description: "Chinese startup Moonshot AI announced Kimi K3, a 2.8 trillion parameter open-weight model that beats Claude Opus 4…"
 ---
-
-[AI/Startup Morning Brief — 2026-07-18]
 
 ## Key Shifts
 - **Moonshot AI unveils Kimi K3, a 2.8T-parameter open-weight model**: Chinese startup Moonshot AI announced Kimi K3, a 2.8 trillion parameter open-weight model that beats Claude Opus 4.8 and GPT-5.5 on most self-reported benchmarks, and surpasses even Claude Fable 5 on Arena.ai's frontend coding arena. Pricing at $3/M input and $15/M output tokens makes it the most expensive model from a Chinese AI lab yet. Open weights promised by July 27. This is the second major wave of Chinese open models after DeepSeek. [Simon Willison](https://simonwillison.net/2026/Jul/16/kimi-k3/) · [Reuters](https://www.reuters.com/technology/artificial-intelligence/chinas-moonshot-unveils-worlds-largest-open-ai-model-closing-us-rivals-2026-07-17/)
-<!--more-->
 - **Apple sends legal letters to dozens of OpenAI employees**: Apple has issued legal notices to former engineers who left for OpenAI, citing potential trade secret and contract violations. Signals that the AI talent war is escalating beyond compensation into legal territory. [Financial Times](https://www.ft.com/content/1b8c9d52-88a9-426b-ba47-f1811f859166)
 
 ## Startup / Product / Platform Radar

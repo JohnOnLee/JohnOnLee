@@ -1,15 +1,12 @@
 ---
-title: "AI / Startup Morning Brief — 2026-06-11"
+title: "Google unveils DiffusionGemma — 4x faster text generation using diffusion models"
 date: 2026-06-11
-summary: "Google unveils DiffusionGemma — 4x faster text generation using diffusion models: A Gemma-based open model that generates text via diffusion rather than autoregressive decoding. T…"
-description: "Google unveils DiffusionGemma — 4x faster text generation using diffusion models: A Gemma-based open model that generates text via diffusion rather than autoregressive decoding. T…"
+summary: "A Gemma-based open model that generates text via diffusion rather than autoregressive decoding. T…"
+description: "A Gemma-based open model that generates text via diffusion rather than autoregressive decoding. T…"
 ---
-
-[AI/Startup Morning Brief — 2026-06-11]
 
 ## Key Shifts
 - **Google unveils DiffusionGemma — 4x faster text generation using diffusion models**: A Gemma-based open model that generates text via diffusion rather than autoregressive decoding. The 4x speed improvement could fundamentally reshape inference cost structures for real-time AI products. [Google Blog](https://blog.google/innovation-and-ai/technology/developers-tools/diffusion-gemma-faster-text-generation/)
-<!--more-->
 - **German court rules Google liable for false AI Overview answers — "AI results are the platform's own speech"**: A landmark ruling draws a bright line: when a search engine quotes third-party sites, it enjoys liability protection; when its AI generates answers directly, those are the platform's own words and it bears responsibility. A watershed moment for AI-generated content liability. [The Decoder](https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/) · [Ars Technica](https://arstechnica.com/tech-policy/2026/06/nobody-needs-ai-to-search-the-internet-court-says-in-ruling-against-google/)
 - **Dario Amodei publishes "Policy on the AI Exponential" — political institutions can't keep up with AI pace**: The Anthropic CEO uses the Lord of the Rings Ents (Treebeard) as a metaphor for the speed mismatch between AI progress and policy-making, then proposes a concrete governance framework. Founders and operators should read this as a leading indicator of future regulatory direction. [Dario Amodei](https://darioamodei.com/post/policy-on-the-ai-exponential)
 

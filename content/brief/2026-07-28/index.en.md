@@ -1,15 +1,12 @@
 ---
-title: "AI / Startup Morning Brief — 2026-07-28"
+title: "Moonshot AI releases Kimi-K3 as open-source — 1,200+ points on HN instantly"
 date: 2026-07-28
-summary: "Moonshot AI releases Kimi-K3 as open-source — 1,200+ points on HN instantly: Chinese AI lab Moonshot AI has released its new flagship model Kimi-K3 on HuggingFace, complete with a…"
-description: "Moonshot AI releases Kimi-K3 as open-source — 1,200+ points on HN instantly: Chinese AI lab Moonshot AI has released its new flagship model Kimi-K3 on HuggingFace, complete with a…"
+summary: "Chinese AI lab Moonshot AI has released its new flagship model Kimi-K3 on HuggingFace, complete with a…"
+description: "Chinese AI lab Moonshot AI has released its new flagship model Kimi-K3 on HuggingFace, complete with a…"
 ---
-
-[AI/Startup Morning Brief — 2026-07-28]
 
 ## Key Shifts
 - **Moonshot AI releases Kimi-K3 as open-source — 1,200+ points on HN instantly**: Chinese AI lab Moonshot AI has released its new flagship model Kimi-K3 on HuggingFace, complete with a technical report and full open-weight strategy. The HN community response was explosive (1,274 points, 498 comments), signaling that the open-source LLM race is heating up once again. [HuggingFace](https://huggingface.co/moonshotai/Kimi-K3) · [Technical Report (PDF)](https://github.com/MoonshotAI/Kimi-K3/blob/main/k3_tech_report.pdf)
-<!--more-->
 - **Nvidia's $750B deal footprint reignites circular financing fears**: Bloomberg reports that AI startups receiving Nvidia investment are using that capital to buy Nvidia GPUs, reviving concerns about the sustainability of AI infrastructure funding. A fundamental question about whether the AI buildout can ever pay for itself. [Bloomberg](https://www.bloomberg.com/news/articles/2026-07-27/nvidia-s-750-billion-deals-revive-fear-of-ai-circular-financing)
 - **Chinese chipmaker CXMT surges 470% on debut, becomes mainland China's most valuable listed company at $487B**: ChangXin Memory Technologies (CXMT), China's largest memory chip maker, saw its shares soar nearly 470% on its first day of trading on Shanghai's STAR Market. DRAM demand from AI data centers is the growth engine. Only 7% of shares were available for trading, amplifying the move, but the symbolic weight of Chinese semiconductor self-sufficiency in the US-China chip rivalry is immense. [BBC](https://www.bbc.com/news/articles/c9q9w3x9qn2o)
 - **EU fines Google $1.02B for favoring its own services in search results**: The European Commission has hit Google with a €1 billion-plus fine over self-preferencing. A clear signal that big tech antitrust enforcement is escalating, with direct implications for how AI search, recommendations, and agent results will be regulated. [WSJ](https://www.wsj.com/tech/google-fined-1-02-billion-under-eus-tech-antitrust-rules-7e8ae1fb)

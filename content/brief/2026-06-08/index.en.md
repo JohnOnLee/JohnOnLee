@@ -1,15 +1,12 @@
 ---
-title: "AI / Startup Morning Brief — 2026-06-08"
+title: "The \"Tokenpocalypse\" debate goes mainstream"
 date: 2026-06-08
 summary: "The 'Tokenpocalypse' debate goes mainstream: Following GitHub Copilot's shift to usage-based pricing, the broader AI industry is grappling with an inevitable pricing-model reset.…"
 description: "The 'Tokenpocalypse' debate goes mainstream: Following GitHub Copilot's shift to usage-based pricing, the broader AI industry is grappling with an inevitable pricing-model reset.…"
 ---
 
-[AI/Startup Morning Brief — 2026-06-08]
-
 ## Key Shifts
 - **The "Tokenpocalypse" debate goes mainstream**: Following GitHub Copilot's shift to usage-based pricing, the broader AI industry is grappling with an inevitable pricing-model reset. As AI firms prepare for IPOs, real inference costs are being passed downstream — the era of nearly-free AI tools is visibly ending. [TechCrunch](https://techcrunch.com/2026/06/07/is-this-the-dawn-of-the-tokenpocalypse/)
-<!--more-->
 - **OpenAI declares "Chat is dead," accelerates super-app pivot**: The FT reports OpenAI is reshaping ChatGPT into a single super-app bundling coding tools, AI agents, and more — with free chat serving as a gateway to paid products like Codex. Standalone products like Sora are now dismissed as "side quests." [TechCrunch](https://techcrunch.com/2026/06/07/openai-is-still-working-on-that-super-app/) · [FT](https://www.ft.com/)
 - **Anthropic Opus 4.7/4.8 service disruption forces Notion to disable integration**: Degraded performance in Anthropic's latest models led Notion to disable all Anthropic model access for roughly 12 hours. The single-point-of-failure risk inherent in API-dependent AI products has now materialized. [TechCrunch](https://techcrunch.com/2026/06/07/notion-restores-access-to-anthropic-after-service-disruption/)
 - **Global banks lay groundwork for mass AI-driven workforce cuts**: Bloomberg reports major banks are concretely planning organizational slim-downs, with AI as the instrument. AI adoption in finance is shifting from "efficiency" to "headcount replacement." [Bloomberg](https://www.bloomberg.com/news/articles/2026-06-07/banks-lay-groundwork-for-mass-workforce-cuts-as-ai-takes-hold)

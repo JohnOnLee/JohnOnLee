@@ -1,5 +1,5 @@
 ---
-title: "AI·스타트업 모닝 브리프 - 2026-06-06"
+title: "Anthropic, 전례 없는 \"일시정지\" 경고 발표"
 date: 2026-06-06
 summary: "Anthropic, 전례 없는 '일시정지' 경고 발표: AI가 곧 인간 개입 없이 스스로를 개선할 수 있게 될 것이며, 업계와 정부가 글로벌 개발 일시정지(pause) 옵션을 마련해야 한다고 공개 촉구. Jack Clark 공동창업자는 BBC에 'AI에 브레이크 페달이 필요하다'고 말함. 같은 날 Sakana AI도 R…"
 description: "Anthropic, 전례 없는 '일시정지' 경고 발표: AI가 곧 인간 개입 없이 스스로를 개선할 수 있게 될 것이며, 업계와 정부가 글로벌 개발 일시정지(pause) 옵션을 마련해야 한다고 공개 촉구. Jack Clark 공동창업자는 BBC에 'AI에 브레이크 페달이 필요하다'고 말함. 같은 날 Sakana AI도 R…"
@@ -9,7 +9,6 @@ description: "Anthropic, 전례 없는 '일시정지' 경고 발표: AI가 곧 �
 
 ## 핵심 변화
 - **Anthropic, 전례 없는 "일시정지" 경고 발표**: AI가 곧 인간 개입 없이 스스로를 개선할 수 있게 될 것이며, 업계와 정부가 글로벌 개발 일시정지(pause) 옵션을 마련해야 한다고 공개 촉구. Jack Clark 공동창업자는 BBC에 "AI에 브레이크 페달이 필요하다"고 말함. 같은 날 Sakana AI도 Recursive Self-Improvement Lab 출범 발표 — 경고가 현실화되는 타이밍. (CNN, The Guardian, AP News, Scientific American, BBC — 2026-06-05)
-<!--more-->
 - **트럼프 행정부, AI 기업 지분 취득 검토**: 미 정부가 OpenAI 등 주요 AI 기업의 지분을 취득하는 방안을 논의 중. 트럼프 대통령이 직접 "검토하겠다"고 확인. 동시에 Anthropic-국방부 간 갈등을 해소하는 행정명령 서명. AI 산업과 정부의 관계가 '규제자'에서 '공동 투자자'로 전환될 가능성. (WSJ, CNBC, USA Today, Financial Times, Reuters — 2026-06-05)
 - **AI CEO들, 생물무기 규제 위해 경쟁 접고 연합**: OpenAI, Anthropic, Google, Microsoft CEO들이 의회에 합성 DNA 검열법 제정을 공동 촉구. 경쟁사들이 안전 문제에서 전례 없이 한목소리를 낸 사건. (Fortune, WIRED, inc.com — 2026-06-05)
 - **Meta, AI 인프라 위해 수백억 달러 규모 자금 조달 검토**: FT 보도 후 Meta 주가 하락. AI 인프라 투자 경쟁이 자본시장까지 뒤흔드는 국면. (CNBC, Reuters — 2026-06-05)

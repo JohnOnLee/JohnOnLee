@@ -1,16 +1,13 @@
 ---
-title: "AI·스타트업 모닝 브리프 - 2026-06-17"
+title: "Anthropic, 백악관과의 충돌로 Claude 고급 모델 접근 차단"
 date: 2026-06-17
-summary: "Anthropic, 백악관과의 충돌로 Claude 고급 모델 접근 차단: 하워드 러트닉 상무장관이 Anthropic에 보낸 서한에서 Claude Fable 5 등 고급 모델에 대한 외국인 접근 제한을 요구했고, Anthropic은 이에 대응해 Mythos 모델을 비활성화했다. 트럼프 행정부는 G7 동맹국들의 접근도 차단…"
-description: "Anthropic, 백악관과의 충돌로 Claude 고급 모델 접근 차단: 하워드 러트닉 상무장관이 Anthropic에 보낸 서한에서 Claude Fable 5 등 고급 모델에 대한 외국인 접근 제한을 요구했고, Anthropic은 이에 대응해 Mythos 모델을 비활성화했다. 트럼프 행정부는 G7 동맹국들의 접근도 차단…"
+summary: "하워드 러트닉 상무장관이 Anthropic에 보낸 서한에서 Claude Fable 5 등 고급 모델에 대한 외국인 접근 제한을 요구했고, Anthropic은 이에 대응해 Mythos 모델을 비활성화했다. 트럼프 행정부는 G7 동맹국들의 접근도 차단…"
+description: "하워드 러트닉 상무장관이 Anthropic에 보낸 서한에서 Claude Fable 5 등 고급 모델에 대한 외국인 접근 제한을 요구했고, Anthropic은 이에 대응해 Mythos 모델을 비활성화했다. 트럼프 행정부는 G7 동맹국들의 접근도 차단…"
 ---
-
-[브리핑/AI] AI·스타트업 모닝 브리프 - 2026-06-17
 
 ## 핵심 변화
 - **Anthropic, 백악관과의 충돌로 Claude 고급 모델 접근 차단**: 하워드 러트닉 상무장관이 Anthropic에 보낸 서한에서 Claude Fable 5 등 고급 모델에 대한 외국인 접근 제한을 요구했고, Anthropic은 이에 대응해 Mythos 모델을 비활성화했다. 트럼프 행정부는 G7 동맹국들의 접근도 차단했으며, 국방부는 Anthropic 의존도를 줄이고 경쟁사로 전환 중이다. AI 거버넌스가 무역·안보 지형으로 급격히 재편되고 있다. [Wired](https://www.wired.com/story/anthropic-is-still-at-odds-with-the-white-house-over-claude-fable-5/) · [NY Post](https://nypost.com/2026/06/16/business/trump-admin-open-to-talks-with-anthropic-over-foreigner-ban/) · [Crypto Briefing](https://cryptobriefing.com/pentagon-reduces-anthropic-reliance-competitors/) · [Bloomberg](https://www.bloomberg.com/news/articles/2026-06-16/lutnick-s-letter-to-anthropic-warned-of-curbs-on-top-ai-models) · [Techdirt](https://www.techdirt.com/2026/06/16/apparently-the-real-reason-anthropics-models-are-offline-a-six-year-old-trump-grudge/)
 
-<!--more-->
 - **SpaceX, AI 코딩 도구 Cursor를 약 600억 달러에 인수**: 일론 머스크의 SpaceX가 Claude Code·OpenAI Codex의 경쟁자인 Cursor를 인수했다. AI 코딩 도구 시장이 단순한 개발자 도구를 넘어 국가 안보·우주 인프라 수준의 전략 자산으로 격상되고 있다. [9to5Mac](https://9to5mac.com/2026/06/16/spacex-lands-deal-to-likely-purchase-claude-code-and-openai-codex-competitor/) · [Pentesty](https://www.pentesty.co/blog/spacex-acquires-cursor-60-billion-software-security)
 
 ## 스타트업 / 제품 / 플랫폼 레이더

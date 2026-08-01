@@ -1,17 +1,14 @@
 ---
-title: "AI·스타트업 모닝 브리프 - 2026-07-08"
+title: "중국 AI 모델, 미국 기업들 사이에서 빠르게 점유율 확대"
 date: 2026-07-08
-summary: "중국 AI 모델, 미국 기업들 사이에서 빠르게 점유율 확대: OpenRouter 기준 미국 기업의 중국 모델 토큰 사용 비중이 2월 이후 매주 30% 이상을 기록 중이며, 최고 46%까지 치솟았다. 지난 12개월 평균 11%, 2025년 상반기 평균 4.5%와 비교하면 극적인 변화다. DeepSeek과 Z.ai의 최신…"
-description: "중국 AI 모델, 미국 기업들 사이에서 빠르게 점유율 확대: OpenRouter 기준 미국 기업의 중국 모델 토큰 사용 비중이 2월 이후 매주 30% 이상을 기록 중이며, 최고 46%까지 치솟았다. 지난 12개월 평균 11%, 2025년 상반기 평균 4.5%와 비교하면 극적인 변화다. DeepSeek과 Z.ai의 최신…"
+summary: "OpenRouter 기준 미국 기업의 중국 모델 토큰 사용 비중이 2월 이후 매주 30% 이상을 기록 중이며, 최고 46%까지 치솟았다. 지난 12개월 평균 11%, 2025년 상반기 평균 4.5%와 비교하면 극적인 변화다. DeepSeek과 Z.ai의 최신…"
+description: "OpenRouter 기준 미국 기업의 중국 모델 토큰 사용 비중이 2월 이후 매주 30% 이상을 기록 중이며, 최고 46%까지 치솟았다. 지난 12개월 평균 11%, 2025년 상반기 평균 4.5%와 비교하면 극적인 변화다. DeepSeek과 Z.ai의 최신…"
 ---
-
-[브리핑/AI] AI·스타트업 모닝 브리프 - 2026-07-08
 
 ## 핵심 변화
 
 - **중국 AI 모델, 미국 기업들 사이에서 빠르게 점유율 확대**: OpenRouter 기준 미국 기업의 중국 모델 토큰 사용 비중이 2월 이후 매주 30% 이상을 기록 중이며, 최고 46%까지 치솟았다. 지난 12개월 평균 11%, 2025년 상반기 평균 4.5%와 비교하면 극적인 변화다. DeepSeek과 Z.ai의 최신 모델이 Anthropic·OpenAI와 성능 격차를 좁히는 가운데, 토큰 가격은 최대 20배 이상 저렴하다. [CNBC](https://www.cnbc.com/2026/07/07/chinese-ai-models-costs-us-openai-anthropic.html)
 
-<!--more-->
 - **FTC, AI 정확성 억제에 대한 정책 성명 발표**: 연방거래위원회(FTC)가 AI 시스템의 출력을 이념적 이유로 조정하거나 정확성을 의도적으로 억제하는 행위를 Section 5 위반으로 간주할 수 있다는 정책 성명 초안을 발표했다. 콜로라도의 개정 AI법 등 주 정부 규제에 대응해 AI 출력을 조정하는 행위도 기만 행위로 볼 수 있다는 입장이다. 7월 31일까지 공개 의견 수렴 중. [Federal Register](https://www.federalregister.gov/documents/2026/07/07/2026-13628/policy-statement-concerning-the-suppression-of-accuracy-in-artificial-intelligence-systems)
 
 - **AI 코딩 시대, 코드 유지보수성 급락**: GitClear와 GitKraken이 2023~2026년 6억 2,300만 건의 실제 코드 변경을 분석한 결과, AI 도입 이후 코드 중복이 81% 증가하고 재사용은 70% 감소했다. 레거시 리팩토링은 74% 줄었다. AI 커밋이 전체의 25%를 차지하는 가운데, "매번 새로운 패키지를 만드는" 방식이 기술 부채를 빠르게 쌓고 있다. [LeadDev](https://leaddev.com/ai/code-maintainability-plummets-in-the-ai-coding-era)

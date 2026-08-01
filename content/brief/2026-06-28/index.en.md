@@ -1,15 +1,12 @@
 ---
-title: "AI / Startup Morning Brief — 2026-06-28"
+title: "US government takes direct control of GPT-5.6 rollout — frontier model deployment enters national-security territory"
 date: 2026-06-28
-summary: "US government takes direct control of GPT-5.6 rollout — frontier model deployment enters national-security territory: OpenAI announced GPT-5.6 (Sol, Terra, Luna), but at the US go…"
-description: "US government takes direct control of GPT-5.6 rollout — frontier model deployment enters national-security territory: OpenAI announced GPT-5.6 (Sol, Terra, Luna), but at the US go…"
+summary: "OpenAI announced GPT-5.6 (Sol, Terra, Luna), but at the US go…"
+description: "OpenAI announced GPT-5.6 (Sol, Terra, Luna), but at the US go…"
 ---
-
-[AI/Startup Morning Brief — 2026-06-28]
 
 ## Key Shifts
 - **US government takes direct control of GPT-5.6 rollout — frontier model deployment enters national-security territory**: OpenAI announced GPT-5.6 (Sol, Terra, Luna), but at the US government's request, only a limited preview for trusted partners is available. Access is granted on a "consumer by consumer" basis with no clear timeline for general availability. This follows the earlier halt of Anthropic's Fable 5 and signals a structural shift — government intervention in AI deployment is no longer a one-off. [TechCrunch](https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm/)
-<!--more-->
 - **Trump administration releases Anthropic Mythos to 100+ US companies and agencies**: The administration approved Mythos — previously subject to export controls — for use by over 100 US firms and government agencies. The dual approach (controlling some frontier models while distributing others under a security framework) is becoming explicit. [TechCrunch](https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/)
 - **Asian AI startups launch Mythos-class models as Anthropic's export ban drags on**: With Anthropic's China export ban still in place, Asian startups are rapidly shipping their own frontier-class alternatives. The paradox: export controls are accelerating, not slowing, model proliferation outside the US. [TechCrunch](https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/)
 - **Chinese hedge funds warn AI "super bubble" is ready to burst; enterprise ROI skepticism grows**: Chinese hedge funds are sounding alarms on AI overvaluation. Simultaneously, enterprise customers report mounting costs from OpenAI and Anthropic with unclear returns — spending pullback signals are emerging. [Bloomberg](https://www.bloomberg.com/news/articles/2026-06-26/chinese-hedge-funds-warn-the-ai-super-bubble-is-ready-to-burst) · [Quartz](https://qz.com/enterprise-ai-spending-openai-anthropic-roi-pullback-062626)

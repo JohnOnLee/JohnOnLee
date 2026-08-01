@@ -1,15 +1,12 @@
 ---
-title: "AI·스타트업 모닝 브리프 - 2026-07-06"
+title: "아마존, Mechanical Turk 신규 고객 접수 중단"
 date: 2026-07-06
-summary: "아마존, Mechanical Turk 신규 고객 접수 중단: 20년간 AI 데이터 라벨링의 중추였던 MTurk가 신규 고객을 받지 않는다. AI 학습용 데이터 조달 방식의 근본적 전환 신호. 합성 데이터와 전문 라벨링 플랫폼(Scale AI 등)으로의 이동이 가속화될 전망. TechCrunch"
-description: "아마존, Mechanical Turk 신규 고객 접수 중단: 20년간 AI 데이터 라벨링의 중추였던 MTurk가 신규 고객을 받지 않는다. AI 학습용 데이터 조달 방식의 근본적 전환 신호. 합성 데이터와 전문 라벨링 플랫폼(Scale AI 등)으로의 이동이 가속화될 전망. TechCrunch"
+summary: "20년간 AI 데이터 라벨링의 중추였던 MTurk가 신규 고객을 받지 않는다. AI 학습용 데이터 조달 방식의 근본적 전환 신호. 합성 데이터와 전문 라벨링 플랫폼(Scale AI 등)으로의 이동이 가속화될 전망. TechCrunch"
+description: "20년간 AI 데이터 라벨링의 중추였던 MTurk가 신규 고객을 받지 않는다. AI 학습용 데이터 조달 방식의 근본적 전환 신호. 합성 데이터와 전문 라벨링 플랫폼(Scale AI 등)으로의 이동이 가속화될 전망. TechCrunch"
 ---
-
-[브리핑/AI] AI·스타트업 모닝 브리프 - 2026-07-06
 
 ## 핵심 변화
 - **아마존, Mechanical Turk 신규 고객 접수 중단**: 20년간 AI 데이터 라벨링의 중추였던 MTurk가 신규 고객을 받지 않는다. AI 학습용 데이터 조달 방식의 근본적 전환 신호. 합성 데이터와 전문 라벨링 플랫폼(Scale AI 등)으로의 이동이 가속화될 전망. [TechCrunch](https://techcrunch.com/2026/07/05/amazon-will-stop-accepting-new-customers-for-mechanical-turk/)
-<!--more-->
 - **짐 켈러의 Fab2, 소형 반도체 팹 양산 공장 건설**: 전 애플·AMD·테슬라 칩 설계자 짐 켈러의 스타트업이 텍사스에 소형 반도체 생산라인을 찍어내는 "팹의 팹" 공장을 짓는다. 칩 제조의 민주화가 하드웨어 스타트업의 경제성을 근본적으로 바꿀 수 있는 움직임. [Tom's Hardware](https://www.tomshardware.com/tech-industry/atomic-semi-rebrands-as-fab2-and-shifts-operations-to-texas)
 - **알리바바, Claude Code 사내 사용 금지**: 중국 알리바바가 앤트로픽의 Claude Code를 사내에서 금지했다는 보도. AI 개발 도구의 지정학적 단절이 현실화되고 있으며, 글로벌 팀을 운영하는 창업자들에게 실질적인 컴플라이언스 리스크로 다가오고 있다. [TechCrunch](https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/)
 - **미드저니, 할리우드에 AI 사용 내역 공개 요구**: 미드저니가 주요 할리우드 스튜디오에 AI 사용 실태를 공개하라고 공식 요청. AI 이미지 생성 도구와 콘텐츠 업계 간 투명성 싸움이 새로운 국면으로 접어들었다. [TechCrunch](https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/)

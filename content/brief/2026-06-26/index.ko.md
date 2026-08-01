@@ -1,16 +1,13 @@
 ---
-title: "AI·스타트업 모닝 브리프 - 2026-06-26"
+title: "OpenAI, 트럼프 행정부 요청으로 GPT-5.6 출시 연기"
 date: 2026-06-26
-summary: "OpenAI, 트럼프 행정부 요청으로 GPT-5.6 출시 연기: 백악관이 보안 우려를 이유로 GPT-5.6의 단계적 출시를 요청. 샘 알트먼은 사내 Q&A에서 엔터프라이즈 고객 일부에게만 제한적 프리뷰를 제공하며, 행정부가 고객별로 접근을 승인할 것이라고 밝힘. Anthropic에는 이보다 더 엄격한 조건이 적용된 것과…"
-description: "OpenAI, 트럼프 행정부 요청으로 GPT-5.6 출시 연기: 백악관이 보안 우려를 이유로 GPT-5.6의 단계적 출시를 요청. 샘 알트먼은 사내 Q&A에서 엔터프라이즈 고객 일부에게만 제한적 프리뷰를 제공하며, 행정부가 고객별로 접근을 승인할 것이라고 밝힘. Anthropic에는 이보다 더 엄격한 조건이 적용된 것과…"
+summary: "백악관이 보안 우려를 이유로 GPT-5.6의 단계적 출시를 요청. 샘 알트먼은 사내 Q&A에서 엔터프라이즈 고객 일부에게만 제한적 프리뷰를 제공하며, 행정부가 고객별로 접근을 승인할 것이라고 밝힘. Anthropic에는 이보다 더 엄격한 조건이 적용된 것과…"
+description: "백악관이 보안 우려를 이유로 GPT-5.6의 단계적 출시를 요청. 샘 알트먼은 사내 Q&A에서 엔터프라이즈 고객 일부에게만 제한적 프리뷰를 제공하며, 행정부가 고객별로 접근을 승인할 것이라고 밝힘. Anthropic에는 이보다 더 엄격한 조건이 적용된 것과…"
 ---
-
-[브리핑/AI] AI·스타트업 모닝 브리프 - 2026-06-26
 
 ## 핵심 변화
 - **OpenAI, 트럼프 행정부 요청으로 GPT-5.6 출시 연기**: 백악관이 보안 우려를 이유로 GPT-5.6의 단계적 출시를 요청. 샘 알트먼은 사내 Q&A에서 엔터프라이즈 고객 일부에게만 제한적 프리뷰를 제공하며, 행정부가 고객별로 접근을 승인할 것이라고 밝힘. Anthropic에는 이보다 더 엄격한 조건이 적용된 것과 대조적. [The Verge](https://www.theverge.com/ai-artificial-intelligence/957372/openai-will-delay-gpt-5-6-after-trump-administration-request)
 
-<!--more-->
 ## 스타트업 / 제품 / 플랫폼 레이더
 - **Meta, Facebook Creator Studio를 AI 컴패니언 앱으로 부활**: 2023년에 종료했던 Creator Studio를 AI 기반 독립형 앱으로 재출시. AI Creator Assistant가 퍼포먼스 인사이트, 맞춤형 성장 추천, 댓글 초안 작성까지 지원. 창작자 도구 시장에서의 AI 통합 가속화. [The Verge](https://www.theverge.com/tech/956668/meta-facebook-creator-studio-ai-app-relaunch) · [Meta](https://about.fb.com/news/2026/06/creator-assistant-more-languages-for-ai-translations-on-facebook/)
 - **Amperity, AI로 인한 사업 구조 변화 속 정리해고**: 고객 데이터 플랫폼 스타트업 Amperity가 AI 도구 도입으로 운영 방식이 근본적으로 변화하면서 인력 감축을 단행. AI가 스타트업 자체의 인력 구조까지 재편하고 있다는 구체적 사례. [GeekWire](https://www.geekwire.com/2026/amperity-hit-with-layoffs-as-ai-changes-the-shape-of-the-customer-data-startup-and-how-it-operates/)

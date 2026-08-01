@@ -1,15 +1,12 @@
 ---
-title: "AI·스타트업 모닝 브리프 - 2026-06-15"
+title: "AI 기업 IPO 러시, FAANG에서 MANGOS로"
 date: 2026-06-15
-summary: "AI 기업 IPO 러시, FAANG에서 MANGOS로: SpaceX가 사상 최대 규모의 IPO를 완료하며 일론 머스크가 최초의 트릴리어네어가 된 가운데, Anthropic과 OpenAI도 비공개 IPO 신청을 마쳤다. 기술 산업의 중심축이 FAANG(Meta, Amazon, Apple, Netflix, Google)에서…"
-description: "AI 기업 IPO 러시, FAANG에서 MANGOS로: SpaceX가 사상 최대 규모의 IPO를 완료하며 일론 머스크가 최초의 트릴리어네어가 된 가운데, Anthropic과 OpenAI도 비공개 IPO 신청을 마쳤다. 기술 산업의 중심축이 FAANG(Meta, Amazon, Apple, Netflix, Google)에서…"
+summary: "SpaceX가 사상 최대 규모의 IPO를 완료하며 일론 머스크가 최초의 트릴리어네어가 된 가운데, Anthropic과 OpenAI도 비공개 IPO 신청을 마쳤다. 기술 산업의 중심축이 FAANG(Meta, Amazon, Apple, Netflix, Google)에서…"
+description: "SpaceX가 사상 최대 규모의 IPO를 완료하며 일론 머스크가 최초의 트릴리어네어가 된 가운데, Anthropic과 OpenAI도 비공개 IPO 신청을 마쳤다. 기술 산업의 중심축이 FAANG(Meta, Amazon, Apple, Netflix, Google)에서…"
 ---
-
-[브리핑/AI] AI·스타트업 모닝 브리프 - 2026-06-15
 
 ## 핵심 변화
 - **AI 기업 IPO 러시, FAANG에서 MANGOS로**: SpaceX가 사상 최대 규모의 IPO를 완료하며 일론 머스크가 최초의 트릴리어네어가 된 가운데, Anthropic과 OpenAI도 비공개 IPO 신청을 마쳤다. 기술 산업의 중심축이 FAANG(Meta, Amazon, Apple, Netflix, Google)에서 MANGOS(Meta, Anthropic, NVIDIA, Google, OpenAI, SpaceX)로 재편되고 있다. 공개 시장의 자본이 AI 랩으로 이동하는 구조적 변화다. [TechCrunch](https://techcrunch.com/2026/06/14/as-ai-companies-race-to-go-public-who-else-is-along-for-the-ride/) · [TechCrunch MANGOS](https://techcrunch.com/2026/06/09/its-not-faang-anymore-its-mangos/)
-<!--more-->
 - **인도, AI 주권 논쟁 점화**: 미국 정부의 지시로 Anthropic이 Fable 5/Mythos 5 모델의 외국인 접근을 차단하자, 프론티어 AI의 두 번째로 큰 시장인 인도에서 자국 AI 역량 구축과 오픈소스 대안 투자에 대한 논의가 급물살을 타고 있다. 인도 스타트업·VC 생태계는 미중 지정학적 결정에 AI 접근이 좌우되는 현실을 '경종'으로 받아들이고 있다. [TechCrunch](https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future/)
 - **메타, 2조원대 Manus 인수 강제 해체**: 중국 당국의 압력으로 메타가 에이전틱 AI 스타트업 Manus의 20억 달러 인수를 해체 중이다. Manus 공동창업자들은 약 10억 달러 규모의 외부 투자 유치를 통해 스타트업을 되찾고 홍콩 상장을 추진 중이다. 중국은 자국 AI 기업에 대한 외국인 투자 승인 절차까지 강화하며 기술 통제를 가속화하고 있다. [TechCrunch](https://techcrunch.com/2026/06/13/meta-reportedly-moves-to-unwind-2b-manus-deal-after-beijings-demand/)
 

@@ -1,15 +1,12 @@
 ---
-title: "AI·스타트업 모닝 브리프 - 2026-06-28"
+title: "美 정부, GPT-5.6 출시 통제 — AI 모델 배포가 국가 안보 프레임으로 전환"
 date: 2026-06-28
-summary: "美 정부, GPT-5.6 출시 통제 — AI 모델 배포가 국가 안보 프레임으로 전환: OpenAI가 GPT-5.6(Sol, Terra, Luna)을 발표했지만, 美 정부 요청으로 신뢰 파트너 대상 제한적 프리뷰만 허용됐다. 소비자별 승인 방식이며 일반 공개 시점은 불투명하다. 이는 앞서 Anthropic의 Fable 5…"
-description: "美 정부, GPT-5.6 출시 통제 — AI 모델 배포가 국가 안보 프레임으로 전환: OpenAI가 GPT-5.6(Sol, Terra, Luna)을 발표했지만, 美 정부 요청으로 신뢰 파트너 대상 제한적 프리뷰만 허용됐다. 소비자별 승인 방식이며 일반 공개 시점은 불투명하다. 이는 앞서 Anthropic의 Fable 5…"
+summary: "OpenAI가 GPT-5.6(Sol, Terra, Luna)을 발표했지만, 美 정부 요청으로 신뢰 파트너 대상 제한적 프리뷰만 허용됐다. 소비자별 승인 방식이며 일반 공개 시점은 불투명하다. 이는 앞서 Anthropic의 Fable 5…"
+description: "OpenAI가 GPT-5.6(Sol, Terra, Luna)을 발표했지만, 美 정부 요청으로 신뢰 파트너 대상 제한적 프리뷰만 허용됐다. 소비자별 승인 방식이며 일반 공개 시점은 불투명하다. 이는 앞서 Anthropic의 Fable 5…"
 ---
-
-[브리핑/AI] AI·스타트업 모닝 브리프 - 2026-06-28
 
 ## 핵심 변화
 - **美 정부, GPT-5.6 출시 통제 — AI 모델 배포가 국가 안보 프레임으로 전환**: OpenAI가 GPT-5.6(Sol, Terra, Luna)을 발표했지만, 美 정부 요청으로 신뢰 파트너 대상 제한적 프리뷰만 허용됐다. 소비자별 승인 방식이며 일반 공개 시점은 불투명하다. 이는 앞서 Anthropic의 Fable 5 배포 중단에 이은 조치로, 프런티어 모델에 대한 정부 개입이 일회성이 아닌 구조적 변화로 자리잡고 있다. [TechCrunch](https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm/)
-<!--more-->
 - **Anthropic Mythos, 100개 이상 美 기업·기관에 전격 배포**: Trump 행정부가 이전까지 수출 통제 대상이던 Anthropic의 Mythos 모델을 100곳 이상의 美 기업과 정부 기관에 사용 승인했다. 안보 프레임 안에서 특정 모델은 통제하고 특정 모델은 배포하는 이중적 접근이 뚜렷해지고 있다. [TechCrunch](https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/)
 - **아시아 AI 스타트업, 수출 통제 틈새서 Mythos급 모델 출시**: Anthropic의 對중국 수출 금지가 장기화되면서 아시아 스타트업들이 Mythos에 준하는 자체 모델을 속속 내놓고 있다. 수출 통제가 오히려 대체 모델 개발을 가속화하는 역설적 결과. [TechCrunch](https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/)
 - **중국 헤지펀드 "AI 슈퍼버블 붕괴 임박" 경고**: 중국계 헤지펀드들이 AI 투자 과열을 경고하며 밸류에이션 조정 가능성을 제기했다. 엔터프라이즈 고객들의 OpenAI·Anthropic 비용 부담도 동시에 증가하며 ROI 회의론이 확산 중이다. [Bloomberg](https://www.bloomberg.com/news/articles/2026-06-26/chinese-hedge-funds-warn-the-ai-super-bubble-is-ready-to-burst) · [Quartz](https://qz.com/enterprise-ai-spending-openai-anthropic-roi-pullback-062626)

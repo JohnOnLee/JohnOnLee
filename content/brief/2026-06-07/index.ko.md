@@ -1,15 +1,12 @@
 ---
-title: "AI·스타트업 모닝 브리프 - 2026-06-07"
+title: "OpenAI, 프롬프트 인젝션 방어용 '락다운 모드' 공개"
 date: 2026-06-07
-summary: "OpenAI, 프롬프트 인젝션 방어용 '락다운 모드' 공개: 기업이 ChatGPT에 입력하는 민감 데이터를 프롬프트 인젝션 공격으로부터 보호하는 보안 기능. 완벽한 방어는 아니지만, 기업 도입의 최대 걸림돌인 보안 우려를 정면으로 해결하려는 첫 시도. TechCrunch"
-description: "OpenAI, 프롬프트 인젝션 방어용 '락다운 모드' 공개: 기업이 ChatGPT에 입력하는 민감 데이터를 프롬프트 인젝션 공격으로부터 보호하는 보안 기능. 완벽한 방어는 아니지만, 기업 도입의 최대 걸림돌인 보안 우려를 정면으로 해결하려는 첫 시도. TechCrunch"
+summary: "기업이 ChatGPT에 입력하는 민감 데이터를 프롬프트 인젝션 공격으로부터 보호하는 보안 기능. 완벽한 방어는 아니지만, 기업 도입의 최대 걸림돌인 보안 우려를 정면으로 해결하려는 첫 시도. TechCrunch"
+description: "기업이 ChatGPT에 입력하는 민감 데이터를 프롬프트 인젝션 공격으로부터 보호하는 보안 기능. 완벽한 방어는 아니지만, 기업 도입의 최대 걸림돌인 보안 우려를 정면으로 해결하려는 첫 시도. TechCrunch"
 ---
-
-[브리핑/AI] AI·스타트업 모닝 브리프 - 2026-06-07
 
 ## 핵심 변화
 - **OpenAI, 프롬프트 인젝션 방어용 '락다운 모드' 공개**: 기업이 ChatGPT에 입력하는 민감 데이터를 프롬프트 인젝션 공격으로부터 보호하는 보안 기능. 완벽한 방어는 아니지만, 기업 도입의 최대 걸림돌인 보안 우려를 정면으로 해결하려는 첫 시도. [TechCrunch](https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/)
-<!--more-->
 - **트럼프 행정부, OpenAI 지분 취득 검토**: "미국 국민이 AI의 성공으로부터 이익을 얻어야 한다"며 정부의 주요 AI 기업 지분 참여 가능성 시사. AI 주권 확보 차원의 움직임으로, Anthropic IPO를 앞둔 시장에 파장. [TechCrunch](https://techcrunch.com/2026/06/06/the-trump-administration-might-take-an-equity-stake-in-openai/) · [Reuters](https://www.reuters.com/business/trump-says-his-team-will-look-into-us-taking-stake-ai-companies-2026-06-05/) · [Bloomberg](https://www.bloomberg.com/news/articles/2026-06-05/us-exploring-government-partnerships-with-ai-firms-trump-says)
 - **스리람 크리슈난, 백악관 AI 고문직 6개월 만에 사임**: Andreessen Horowitz 출신으로 트럼프 행정부의 핵심 AI 정책 고문을 맡았던 크리슈난이 전격 사임. 행정부 AI 정책의 연속성과 방향성에 불확실성 증가. [TechCrunch](https://techcrunch.com/2026/06/06/sriram-krishnan-is-leaving-his-role-as-white-house-ai-advisor/)
 - **Meta, 새 AI 모델 개발자 공개 반복적 연기**: WSJ 보도에 따르면 Meta의 차세대 오픈 모델 출시가 계속 지연되고 있다. 오픈소스 AI 전략의 실행력과 경쟁력에 의문. [WSJ](https://www.wsj.com/tech/ai/meta-keeps-delaying-the-release-of-its-new-ai-model-to-developers-f8569c8c)

@@ -1,15 +1,12 @@
 ---
-title: "AI / Startup Morning Brief — 2026-07-02"
+title: "US lifts export controls on Anthropic's Claude models"
 date: 2026-07-02
-summary: "US lifts export controls on Anthropic's Claude models: The US Department of Commerce removed export restrictions on Claude Fable 5 and Mythos 5. Anthropic immediately redeployed F…"
-description: "US lifts export controls on Anthropic's Claude models: The US Department of Commerce removed export restrictions on Claude Fable 5 and Mythos 5. Anthropic immediately redeployed F…"
+summary: "The US Department of Commerce removed export restrictions on Claude Fable 5 and Mythos 5. Anthropic immediately redeployed F…"
+description: "The US Department of Commerce removed export restrictions on Claude Fable 5 and Mythos 5. Anthropic immediately redeployed F…"
 ---
-
-[AI/Startup Morning Brief — 2026-07-02]
 
 ## Key Shifts
 - **US lifts export controls on Anthropic's Claude models**: The US Department of Commerce removed export restrictions on Claude Fable 5 and Mythos 5. Anthropic immediately redeployed Fable 5 and opened promotional access. This signals rapid evolution in AI regulation — founders should factor export control risk into business planning. [Anthropic](https://www.anthropic.com/news/redeploying-fable-5) · [Claude Support](https://support.claude.com/en/articles/15424964-claude-fable-5-promotional-access)
-<!--more-->
 - **Swedish court orders Google to pay Klarna $1.5B in antitrust damages**: A Swedish court ruled that Google must pay Klarna $1.5 billion for abusing its dominance in search. Big Tech regulatory pressure continues to intensify in Europe, with potential spillover into AI market dynamics. [Reuters](https://www.reuters.com/business/swedish-court-says-google-is-pay-15-billion-klarna-antitrust-damages-2026-07-01/)
 
 ## Startup / Product / Platform Radar

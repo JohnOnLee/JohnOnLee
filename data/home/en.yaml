@@ -1,0 +1,43 @@
+hero:
+  eyebrow: "AI · PRODUCTS · BUILDING"
+  title: "I imagine a future where anyone can turn an idea into a product—and own what they build as an asset."
+  intro: "I share what I learn while using AI to build better, ship for real, and grow products into durable assets."
+  navLabel: "Homepage links"
+  primaryLabel: "Read the writing"
+  primaryUrl: "/en/blog/"
+  secondaryLabel: "View AI Radar"
+  secondaryUrl: "/en/brief/"
+
+writing:
+  label: "Writing"
+  title: "Latest writing"
+  allLabel: "All writing"
+  allUrl: "/en/blog/"
+  readLabel: "Read article"
+  empty: "New writing is on the way."
+
+topics:
+  label: "What I write about"
+  title: "What builders need next"
+  items:
+    - title: "Build better with AI"
+      description: "Using tools and models in ways that fit real work"
+    - title: "Ship real products"
+      description: "Moving beyond demos into quality, validation, and operations"
+    - title: "Grow what you own"
+      description: "Turning ideas into products you can own and develop as durable assets"
+  note: "Rather than selling a formula, I separate what I have learned firsthand from what I am still testing."
+
+radar:
+  label: "AI Radar"
+  title: "Signals that create real change"
+  description: "A daily selection of AI developments that matter to people building products and businesses."
+  allLabel: "View all AI Radar"
+  allUrl: "/en/brief/"
+  readLabel: "Read latest radar"
+  empty: "The latest AI Radar is on the way."
+
+about:
+  label: "About this site"
+  title: "I build, learn, and write it down."
+  body: "I share the decisions and failures I encounter while building and operating software and AI products. The writing is for vibe coders, professional developers, product designers, and founders turning ideas into real products."

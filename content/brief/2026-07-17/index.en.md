@@ -1,17 +1,14 @@
 ---
-title: "AI / Startup Morning Brief — 2026-07-17"
+title: "Moonshot AI unveils Kimi K3, a 2.8T-parameter open frontier model"
 date: 2026-07-17
-summary: "Moonshot AI unveils Kimi K3, a 2.8T-parameter open frontier model: Kimi K3 features a 1-million-token context window, native vision, and custom Delta Attention architecture. Relea…"
-description: "Moonshot AI unveils Kimi K3, a 2.8T-parameter open frontier model: Kimi K3 features a 1-million-token context window, native vision, and custom Delta Attention architecture. Relea…"
+summary: "Kimi K3 features a 1-million-token context window, native vision, and custom Delta Attention architecture. Relea…"
+description: "Kimi K3 features a 1-million-token context window, native vision, and custom Delta Attention architecture. Relea…"
 ---
-
-[AI/Startup Morning Brief — 2026-07-17]
 
 ## Key Shifts
 
 - **Moonshot AI unveils Kimi K3, a 2.8T-parameter open frontier model**: Kimi K3 features a 1-million-token context window, native vision, and custom Delta Attention architecture. Released as open weights, it follows Thinking Machines' Inkling (975B) in a clear acceleration of frontier-level open-source models. Builders can fine-tune and customize without API lock-in. [Kimi](https://www.kimi.com/blog/kimi-k3) · [Thinking Machines](https://thinkingmachines.ai/news/introducing-inkling/)
 
-<!--more-->
 - **Google rebrands NotebookLM to Gemini Notebook with secure cloud computer**: The standalone NotebookLM product now lives under the Gemini brand and gains a secure cloud computer for running code and processing files directly in a notebook. This signals Google's push toward an integrated AI workspace — not just a retrieval tool, but an execution environment. [Google Blog](https://blog.google/innovation-and-ai/products/gemini-notebook/notebooklm-gemini-notebook/)
 
 ## Startup / Product / Platform Radar

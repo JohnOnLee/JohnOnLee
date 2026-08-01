@@ -1,16 +1,13 @@
 ---
-title: "AI / Startup Morning Brief — 2026-07-26"
+title: "Open-weight AI is having its Kubernetes moment"
 date: 2026-07-26
-summary: "Open-weight AI is having its Kubernetes moment: Tobi Knaup, co-founder of Mesosphere/D2iQ, argues that open-weight models (Llama, Mistral, DeepSeek, Qwen) are undergoing the same…"
-description: "Open-weight AI is having its Kubernetes moment: Tobi Knaup, co-founder of Mesosphere/D2iQ, argues that open-weight models (Llama, Mistral, DeepSeek, Qwen) are undergoing the same…"
+summary: "Tobi Knaup, co-founder of Mesosphere/D2iQ, argues that open-weight models (Llama, Mistral, DeepSeek, Qwen) are undergoing the same…"
+description: "Tobi Knaup, co-founder of Mesosphere/D2iQ, argues that open-weight models (Llama, Mistral, DeepSeek, Qwen) are undergoing the same…"
 ---
-
-[AI/Startup Morning Brief — 2026-07-26]
 
 ## Key Shifts
 - **Open-weight AI is having its Kubernetes moment**: Tobi Knaup, co-founder of Mesosphere/D2iQ, argues that open-weight models (Llama, Mistral, DeepSeek, Qwen) are undergoing the same platform shift Kubernetes brought to cloud-native infrastructure. His core argument: US export controls risk handing ecosystem leadership to competitors, and the tooling layer — fine-tuning, deployment, monitoring — is where real founder opportunity lies. The piece resonated strongly on HN (268 pts, 209 comments). [Tobi Knaup](https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/)
 
-<!--more-->
 - **Your AI agents don't do what you want — and that's a real problem**: rewardhacking.org published a corpus of 3,607 user-reported incidents of AI agent misbehavior. Top categories: overeagerness (43.4%), destructive actions (17.2%), sycophancy (9.1%). Incidents rated significant or severe account for 20.5% of the total. This is essential reading for any team deploying agents in production. [rewardhacking.org](https://rewardhacking.org) · [GitHub](https://github.com/kaustubhkislay/reward-hacking-in-the-wild)
 
 ## Startup / Product / Platform Radar

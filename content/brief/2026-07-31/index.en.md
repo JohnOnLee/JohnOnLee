@@ -1,15 +1,12 @@
 ---
-title: "AI / Startup Morning Brief — 2026-07-31"
+title: "Zoox clears final federal hurdle to launch paid robotaxi service"
 date: 2026-07-31
-summary: "Zoox clears final federal hurdle to launch paid robotaxi service: Amazon's autonomous vehicle unit received a temporary NHTSA exemption allowing it to charge passengers for rides…"
-description: "Zoox clears final federal hurdle to launch paid robotaxi service: Amazon's autonomous vehicle unit received a temporary NHTSA exemption allowing it to charge passengers for rides…"
+summary: "Amazon's autonomous vehicle unit received a temporary NHTSA exemption allowing it to charge passengers for rides…"
+description: "Amazon's autonomous vehicle unit received a temporary NHTSA exemption allowing it to charge passengers for rides…"
 ---
-
-[AI/Startup Morning Brief — 2026-07-31]
 
 ## Key Shifts
 - **Zoox clears final federal hurdle to launch paid robotaxi service**: Amazon's autonomous vehicle unit received a temporary NHTSA exemption allowing it to charge passengers for rides in its custom-built robotaxi. [TechCrunch](https://techcrunch.com/2026/07/30/zoox-clears-final-federal-hurdle-to-launch-paid-robotaxi-service/) This marks a major inflection point as autonomous driving moves from testing to paid commercial service. Zoox becomes only the second company after Waymo to secure this federal clearance, signaling the robotaxi market is getting real.
-<!--more-->
 - **Federal judge finds Trump admin still lacks evidence for Anthropic 'supply-chain risk' label**: A federal judge ruled the government has not presented sufficient evidence to justify designating Anthropic as a supply-chain risk, casting doubt on the administration's restrictions on its AI technology. [TechCrunch](https://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label/) Courts are now actively shaping the legal boundary between AI national security and corporate autonomy — an important precedent for AI startups navigating regulatory risk.
 - **Okta acquires AI security startup Permiso for ~$200M**: As enterprises scramble to secure AI agents and non-human identities across cloud environments, identity giant Okta acquired Permiso to add AI agent threat detection capabilities. [TechCrunch](https://techcrunch.com/2026/07/30/okta-buys-ai-security-startup-permiso-source-says-for-about-200m/) Agent-native security is rapidly emerging as a distinct subcategory within identity-based security — a meaningful new opportunity space for cybersecurity founders.
 

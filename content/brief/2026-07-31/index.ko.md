@@ -1,15 +1,12 @@
 ---
-title: "AI·스타트업 모닝 브리프 - 2026-07-31"
+title: "Zoox, 유료 로보택시 서비스 최종 연방 승인"
 date: 2026-07-31
-summary: "Zoox, 유료 로보택시 서비스 최종 연방 승인: 아마존 산하 자율주행 기업 Zoox가 NHTSA로부터 자체 설계한 로보택시로 유료 승객 운송을 허용하는 임시 면제를 획득했다. TechCrunch 자율주행이 실험실을 넘어 유료 상용 서비스로 진입하는 분기점이다. Waymo에 이어 두 번째로 연방 승인을 받은 사례로, 로…"
-description: "Zoox, 유료 로보택시 서비스 최종 연방 승인: 아마존 산하 자율주행 기업 Zoox가 NHTSA로부터 자체 설계한 로보택시로 유료 승객 운송을 허용하는 임시 면제를 획득했다. TechCrunch 자율주행이 실험실을 넘어 유료 상용 서비스로 진입하는 분기점이다. Waymo에 이어 두 번째로 연방 승인을 받은 사례로, 로…"
+summary: "아마존 산하 자율주행 기업 Zoox가 NHTSA로부터 자체 설계한 로보택시로 유료 승객 운송을 허용하는 임시 면제를 획득했다. TechCrunch 자율주행이 실험실을 넘어 유료 상용 서비스로 진입하는 분기점이다. Waymo에 이어 두 번째로 연방 승인을 받은 사례로, 로…"
+description: "아마존 산하 자율주행 기업 Zoox가 NHTSA로부터 자체 설계한 로보택시로 유료 승객 운송을 허용하는 임시 면제를 획득했다. TechCrunch 자율주행이 실험실을 넘어 유료 상용 서비스로 진입하는 분기점이다. Waymo에 이어 두 번째로 연방 승인을 받은 사례로, 로…"
 ---
-
-[브리핑/AI] AI·스타트업 모닝 브리프 - 2026-07-31
 
 ## 핵심 변화
 - **Zoox, 유료 로보택시 서비스 최종 연방 승인**: 아마존 산하 자율주행 기업 Zoox가 NHTSA로부터 자체 설계한 로보택시로 유료 승객 운송을 허용하는 임시 면제를 획득했다. [TechCrunch](https://techcrunch.com/2026/07/30/zoox-clears-final-federal-hurdle-to-launch-paid-robotaxi-service/) 자율주행이 실험실을 넘어 유료 상용 서비스로 진입하는 분기점이다. Waymo에 이어 두 번째로 연방 승인을 받은 사례로, 로보택시 시장의 경쟁 구도가 본격화되고 있다.
-<!--more-->
 - **연방 판사, Anthropic '공급망 위험' 지정에 증거 부족 지적**: 트럼프 행정부가 Anthropic을 공급망 위험 기업으로 지정한 데 대해 연방 판사가 근거가 불충분하다고 판단, 정부의 AI 기술 사용 금지 조치에 제동을 걸었다. [TechCrunch](https://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label/) AI 안보와 기업 자율 사이의 법적 경계가 법원을 통해 형성되고 있어, AI 스타트업의 규제 리스크 관리에 중요한 선례가 될 전망이다.
 - **Okta, AI 에이전트 보안 스타트업 Permiso 약 2억 달러에 인수**: 기업들이 AI 에이전트와 비인간(non-human) ID를 클라우드 환경에서 보호해야 하는 수요가 급증하면서, ID 보안 기업 Okta가 AI 보안 스타트업 Permiso를 인수했다. [TechCrunch](https://techcrunch.com/2026/07/30/okta-buys-ai-security-startup-permiso-source-says-for-about-200m/) AI 에이전트 보안이 ID 기반 보안의 독립된 하위 카테고리로 급부상하고 있으며, 이는 사이버보안 스타트업들에게 새로운 창업 기회 영역이다.
 

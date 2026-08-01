@@ -1,15 +1,12 @@
 ---
-title: "AI·스타트업 모닝 브리프 - 2026-06-22"
+title: "Anthropic, Claude에 신원 확인(Identity Verification) 도입 — 정부 신분증 + 셀피 요구"
 date: 2026-06-22
-summary: "Anthropic, Claude에 신원 확인(Identity Verification) 도입 — 정부 신분증 + 셀피 요구: Claude 사용자에게 Persona를 통한 정부 발급 신분증과 얼굴 사진 인증을 단계적으로 의무화한다. 454포인트, 417개 댓글로 HN 1위를 기록하며 AI 안전 대 플랫폼 접근성 논쟁을 촉발…"
-description: "Anthropic, Claude에 신원 확인(Identity Verification) 도입 — 정부 신분증 + 셀피 요구: Claude 사용자에게 Persona를 통한 정부 발급 신분증과 얼굴 사진 인증을 단계적으로 의무화한다. 454포인트, 417개 댓글로 HN 1위를 기록하며 AI 안전 대 플랫폼 접근성 논쟁을 촉발…"
+summary: "Claude 사용자에게 Persona를 통한 정부 발급 신분증과 얼굴 사진 인증을 단계적으로 의무화한다. 454포인트, 417개 댓글로 HN 1위를 기록하며 AI 안전 대 플랫폼 접근성 논쟁을 촉발…"
+description: "Claude 사용자에게 Persona를 통한 정부 발급 신분증과 얼굴 사진 인증을 단계적으로 의무화한다. 454포인트, 417개 댓글로 HN 1위를 기록하며 AI 안전 대 플랫폼 접근성 논쟁을 촉발…"
 ---
-
-[브리핑/AI] AI·스타트업 모닝 브리프 - 2026-06-22
 
 ## 핵심 변화
 - **Anthropic, Claude에 신원 확인(Identity Verification) 도입 — 정부 신분증 + 셀피 요구**: Claude 사용자에게 Persona를 통한 정부 발급 신분증과 얼굴 사진 인증을 단계적으로 의무화한다. 454포인트, 417개 댓글로 HN 1위를 기록하며 AI 안전 대 플랫폼 접근성 논쟁을 촉발했다. 18세 미만 사용 제한, 지원되지 않는 지역 차단과 함께 Anthropic의 안전 규제 준수 전략이 점점 더 강경해지고 있다. 파운더/오퍼레이터 관점에서 주목할 점: 신원 확인이 AI 서비스의 표준 관행이 된다면, 익명성 기반의 B2C AI 제품은 설계 단계부터 다시 생각해야 한다. [Anthropic](https://support.claude.com/en/articles/14328960-identity-verification-on-claude)
-<!--more-->
 - **iOS 27, Siri 너머의 실용적인 AI 기능들 공개**: Apple은 iOS 27에서 시스템 전반에 걸친 문장 단위 요약, 맥락 인식 알림 필터링, 앱 간 의도 추론 등 Siri와 분리된 실용적 AI 기능을 대거 탑재할 예정이다. Siri의 '지능형 어시스턴트' 재창조보다는, AI를 OS 곳곳에 눈에 띄지 않게 통합하는 전략. 이는 'AI를 위한 AI'가 아닌, 실제 사용자 워크플로우에 녹아드는 AI가 주류가 되고 있음을 보여준다. [TechCrunch](https://techcrunch.com/2026/06/21/beyond-siri-here-are-the-practical-ai-features-coming-to-your-iphone-in-ios-27/)
 - **Anthropic 'Project Fetch' Phase Two — Claude가 컴퓨터를 직접 사용하는 에이전트로 진화**: Anthropic이 Claude에게 브라우저와 컴퓨터를 자율적으로 조작할 수 있는 능력을 부여하는 연구 프로젝트의 2단계를 공개했다. AI가 단순히 텍스트를 생성하는 것을 넘어, 실제 디지털 환경에서 작업을 수행하는 방향으로의 중요한 진전이다. Foundation model 회사들이 '에이전트'를 차세대 제품 패러다임으로 삼고 있음을 공식화한 사례. [Anthropic](https://www.anthropic.com/research/project-fetch-phase-two)
 

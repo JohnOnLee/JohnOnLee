@@ -1,15 +1,12 @@
 ---
-title: "AI·스타트업 모닝 브리프 - 2026-06-27"
+title: "OpenAI, GPT-5.6 공개 — 그리고 미국 정부가 사용자를 심사한다"
 date: 2026-06-27
-summary: "OpenAI, GPT-5.6 공개 — 그리고 미국 정부가 사용자를 심사한다: OpenAI가 차세대 모델 라인업 GPT-5.6을 프리뷰했다. 플래그십 Sol, 범용 Terra, 경량 Luna 세 가지 티어로 구성된다. 그런데 동시에 백악관 요청으로 출시를 '신뢰할 수 있는 소수 파트너'로 제한했으며, 미국 정부가 누가 이…"
-description: "OpenAI, GPT-5.6 공개 — 그리고 미국 정부가 사용자를 심사한다: OpenAI가 차세대 모델 라인업 GPT-5.6을 프리뷰했다. 플래그십 Sol, 범용 Terra, 경량 Luna 세 가지 티어로 구성된다. 그런데 동시에 백악관 요청으로 출시를 '신뢰할 수 있는 소수 파트너'로 제한했으며, 미국 정부가 누가 이…"
+summary: "OpenAI가 차세대 모델 라인업 GPT-5.6을 프리뷰했다. 플래그십 Sol, 범용 Terra, 경량 Luna 세 가지 티어로 구성된다. 그런데 동시에 백악관 요청으로 출시를 '신뢰할 수 있는 소수 파트너'로 제한했으며, 미국 정부가 누가 이…"
+description: "OpenAI가 차세대 모델 라인업 GPT-5.6을 프리뷰했다. 플래그십 Sol, 범용 Terra, 경량 Luna 세 가지 티어로 구성된다. 그런데 동시에 백악관 요청으로 출시를 '신뢰할 수 있는 소수 파트너'로 제한했으며, 미국 정부가 누가 이…"
 ---
-
-[브리핑/AI] AI·스타트업 모닝 브리프 - 2026-06-27
 
 ## 핵심 변화
 - **OpenAI, GPT-5.6 공개 — 그리고 미국 정부가 사용자를 심사한다**: OpenAI가 차세대 모델 라인업 GPT-5.6을 프리뷰했다. 플래그십 Sol, 범용 Terra, 경량 Luna 세 가지 티어로 구성된다. 그런데 동시에 백악관 요청으로 출시를 '신뢰할 수 있는 소수 파트너'로 제한했으며, 미국 정부가 누가 이 모델을 쓸 수 있는지 결정한다고 밝혔다. OpenAI는 "이런 정부 접근 통제가 장기 기본값이 되어선 안 된다"고 덧붙였다. AI 기업과 국가 안보의 경계가 근본적으로 재편되는 순간이다. [TechCrunch](https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm/) · [Washington Post](https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model/) · [OpenAI](https://openai.com/index/previewing-gpt-5-6-sol/)
-<!--more-->
 - **더 이상 'Anthropic vs OpenAI'가 아니다 — AI가 지정학적 변수가 되었다**: TechCrunch 분석은 프론티어 모델 경쟁이 기업 간 경쟁에서 국가 안보·지정학적 프레임으로 이동했음을 진단한다. Anthropic의 Fable 5 출시 이후 정부의 AI 규제 압박이 급격히 증가했고, 이제 모델의 성능은 단순한 기술 지표가 아니라 정치적 결과를 가진 변수다. [TechCrunch](https://techcrunch.com/2026/06/26/its-not-about-anthropic-vs-openai-anymore/)
 
 ## 스타트업 / 제품 / 플랫폼 레이더

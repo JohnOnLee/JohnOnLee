@@ -1,15 +1,12 @@
 ---
-title: "AI·스타트업 모닝 브리프 - 2026-06-21"
+title: "AlphaFold 창시자·노벨상 수상자 John Jumper, Google DeepMind 떠나 Anthropic으로"
 date: 2026-06-21
-summary: "AlphaFold 창시자·노벨상 수상자 John Jumper, Google DeepMind 떠나 Anthropic으로: 지난주 Noam Shazeer(트랜스포머 공동저자)의 OpenAI 이적에 이어, 구글의 또 다른 핵심 AI 인재가 경쟁사로 이동했다. Jumper는 Demis Hassabis와 함께 노벨 화학상을 수상…"
-description: "AlphaFold 창시자·노벨상 수상자 John Jumper, Google DeepMind 떠나 Anthropic으로: 지난주 Noam Shazeer(트랜스포머 공동저자)의 OpenAI 이적에 이어, 구글의 또 다른 핵심 AI 인재가 경쟁사로 이동했다. Jumper는 Demis Hassabis와 함께 노벨 화학상을 수상…"
+summary: "지난주 Noam Shazeer(트랜스포머 공동저자)의 OpenAI 이적에 이어, 구글의 또 다른 핵심 AI 인재가 경쟁사로 이동했다. Jumper는 Demis Hassabis와 함께 노벨 화학상을 수상…"
+description: "지난주 Noam Shazeer(트랜스포머 공동저자)의 OpenAI 이적에 이어, 구글의 또 다른 핵심 AI 인재가 경쟁사로 이동했다. Jumper는 Demis Hassabis와 함께 노벨 화학상을 수상…"
 ---
-
-[브리핑/AI] AI·스타트업 모닝 브리프 - 2026-06-21
 
 ## 핵심 변화
 - **AlphaFold 창시자·노벨상 수상자 John Jumper, Google DeepMind 떠나 Anthropic으로**: 지난주 Noam Shazeer(트랜스포머 공동저자)의 OpenAI 이적에 이어, 구글의 또 다른 핵심 AI 인재가 경쟁사로 이동했다. Jumper는 Demis Hassabis와 함께 노벨 화학상을 수상한 AlphaFold의 리더로, DeepMind에서 9년간 근무했다. 1주일 사이 구글의 상징적 AI 연구자 두 명이 동시에 이탈한 것은 단순한 인재 이동을 넘어, AI 인재 쟁탈전이 근본적인 단계로 진입했음을 보여준다. Anthropic은 IPO를 앞두고 OpenAI와의 인재 전쟁에서 연이은 결정타를 날리고 있다. [TechCrunch](https://techcrunch.com/2026/06/20/nobel-laureate-john-jumper-is-leaving-deepmind-for-rival-anthropic/) · [Reuters](https://www.reuters.com/technology/artificial-intelligence/us-scientist-john-jumper-leave-google-deepmind-anthropic-2026-06-19/)
-<!--more-->
 - **트럼프, G7 이후 Anthropic에 대한 입장 급선회: "더 이상 국가안보 위협 아니다"**: Axios 인터뷰에서 트럼프는 Anthropic이 "매우 책임감 있게 행동했다"며, Mythos 및 Fable 모델에 대한 수출 제한을 완화할 가능성을 시사했다. 지난 3개월간 행정부의 강경한 Anthropic 압박에서 급격한 정책 역전. 이는 Anthropic이 G7에서 보여준 외교적 성과이자, AI 수출 통제가 기술적 논리보다 정치적 협상 카드로 작동하고 있음을 보여준다. [The Next Web](https://thenextweb.com/news/trump-anthropic-not-national-security-threat-axios-interview)
 
 ## 스타트업 / 제품 / 플랫폼 레이더

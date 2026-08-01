@@ -1,15 +1,12 @@
 ---
-title: "AI / Startup Morning Brief — 2026-07-29"
+title: "OpenAI open-sources Codex Security — SDK and CLI for AI-powered code auditing"
 date: 2026-07-29
-summary: "OpenAI open-sources Codex Security — SDK and CLI for AI-powered code auditing: OpenAI has released the SDK and CLI for Codex Security, its code vulnerability detection platform, o…"
-description: "OpenAI open-sources Codex Security — SDK and CLI for AI-powered code auditing: OpenAI has released the SDK and CLI for Codex Security, its code vulnerability detection platform, o…"
+summary: "OpenAI has released the SDK and CLI for Codex Security, its code vulnerability detection platform, o…"
+description: "OpenAI has released the SDK and CLI for Codex Security, its code vulnerability detection platform, o…"
 ---
-
-[AI/Startup Morning Brief — 2026-07-29]
 
 ## Key Shifts
 - **OpenAI open-sources Codex Security — SDK and CLI for AI-powered code auditing**: OpenAI has released the SDK and CLI for Codex Security, its code vulnerability detection platform, on GitHub under an open-source license. This puts AI-driven security auditing into the open-source ecosystem, enabling startups and enterprise teams to integrate it directly into CI/CD pipelines. [GitHub](https://github.com/openai/codex-security)
-<!--more-->
 - **MCP 2026-07-28 spec lands — transport goes stateless**: The latest Model Context Protocol specification has been published, with its most significant change being a stateless transport layer redesign. MCP servers can now operate over standard HTTP, making serverless/edge deployment and load balancing far more practical. Teams building agent infrastructure on MCP should begin reviewing their architecture against the new spec. [MCP Blog](https://blog.modelcontextprotocol.io/posts/2026-07-28/)
 - **Anthropic's Claude discovers cryptographic weaknesses — practical attack on HAWK-256**: Anthropic researchers used Claude Mythos Preview to discover a practical key-recovery attack against HAWK-256, a digital signature scheme. This is a landmark demonstration of frontier AI models evolving beyond text generation into tools for novel scientific discovery. [Anthropic](https://www.anthropic.com/research/discovering-cryptographic-weaknesses) · [GitHub Demo](https://github.com/anthropics/cryptography-research-demo)
 - **Chip stocks tumble as AI sell-off deepens — infrastructure sentiment shifts**: The FT reports a sharp sell-off in AI-related semiconductor stocks, reigniting concerns about the sustainability of AI infrastructure spending. Following last week's Nvidia circular financing debate, market skepticism about AI investment returns is intensifying. Founders and operators with GPU-heavy cost structures should stress-test their unit economics. [FT](https://www.ft.com/content/f8c03b5b-e194-4236-82c3-389b6f5dd7ae)

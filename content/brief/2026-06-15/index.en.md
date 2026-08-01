@@ -1,15 +1,12 @@
 ---
-title: "AI / Startup Morning Brief — 2026-06-15"
+title: "AI IPO rush reshapes tech's hierarchy from FAANG to MANGOS"
 date: 2026-06-15
-summary: "AI IPO rush reshapes tech's hierarchy from FAANG to MANGOS: With SpaceX completing the largest IPO in history and making Elon Musk the world's first trillionaire, Anthropic and Op…"
-description: "AI IPO rush reshapes tech's hierarchy from FAANG to MANGOS: With SpaceX completing the largest IPO in history and making Elon Musk the world's first trillionaire, Anthropic and Op…"
+summary: "With SpaceX completing the largest IPO in history and making Elon Musk the world's first trillionaire, Anthropic and Op…"
+description: "With SpaceX completing the largest IPO in history and making Elon Musk the world's first trillionaire, Anthropic and Op…"
 ---
-
-[AI/Startup Morning Brief — 2026-06-15]
 
 ## Key Shifts
 - **AI IPO rush reshapes tech's hierarchy from FAANG to MANGOS**: With SpaceX completing the largest IPO in history and making Elon Musk the world's first trillionaire, Anthropic and OpenAI have both confidentially filed to go public. The tech hierarchy is shifting from FAANG (Meta, Amazon, Apple, Netflix, Google) to MANGOS (Meta, Anthropic, NVIDIA, Google, OpenAI, SpaceX) — a structural reallocation of public market capital toward AI labs. [TechCrunch](https://techcrunch.com/2026/06/14/as-ai-companies-race-to-go-public-who-else-is-along-for-the-ride/) · [TechCrunch MANGOS](https://techcrunch.com/2026/06/09/its-not-faang-anymore-its-mangos/)
-<!--more-->
 - **India's AI sovereignty wake-up call**: After the US government forced Anthropic to block foreign access to its Fable 5 and Mythos 5 models, India — the second-largest market for frontier AI companies — is debating whether to accelerate domestic AI capabilities and open-source investment. Indian founders and VCs view the episode as a structural warning about dependence on US-controlled frontier models subject to geopolitical decisions. [TechCrunch](https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future/)
 - **Meta forced to unwind $2B Manus acquisition**: Under pressure from Chinese regulators, Meta is dismantling its acquisition of agentic AI startup Manus. The co-founders are discussing a ~$1B raise to reclaim the startup and pursue a Hong Kong listing. China is simultaneously tightening foreign investment controls across its AI sector, accelerating US-China tech decoupling. [TechCrunch](https://techcrunch.com/2026/06/13/meta-reportedly-moves-to-unwind-2b-manus-deal-after-beijings-demand/)
 

@@ -1,15 +1,12 @@
 ---
-title: "AI / Startup Morning Brief — 2026-07-21"
+title: "Chinese open-weight models rapidly close the frontier gap"
 date: 2026-07-21
-summary: "Chinese open-weight models rapidly close the frontier gap: Moonshot AI unveiled Kimi K3 (2.8T parameters) and Alibaba previewed Qwen3.8 (2.4T parameters), both claiming performanc…"
-description: "Chinese open-weight models rapidly close the frontier gap: Moonshot AI unveiled Kimi K3 (2.8T parameters) and Alibaba previewed Qwen3.8 (2.4T parameters), both claiming performanc…"
+summary: "Moonshot AI unveiled Kimi K3 (2.8T parameters) and Alibaba previewed Qwen3.8 (2.4T parameters), both claiming performanc…"
+description: "Moonshot AI unveiled Kimi K3 (2.8T parameters) and Alibaba previewed Qwen3.8 (2.4T parameters), both claiming performanc…"
 ---
-
-[AI/Startup Morning Brief — 2026-07-21]
 
 ## Key Shifts
 - **Chinese open-weight models rapidly close the frontier gap**: Moonshot AI unveiled Kimi K3 (2.8T parameters) and Alibaba previewed Qwen3.8 (2.4T parameters), both claiming performance approaching OpenAI GPT-5.6 Sol and Anthropic Claude Fable 5. Crucially, both are being released as open-weight models — a stark contrast to the closed-door approach of US labs. [The Verge](https://www.theverge.com/ai-artificial-intelligence/967781/chinese-ai-models-open-source-moonshot-kimi-k3-alibaba-qwen) · [Stratechery](https://stratechery.com/2026/whos-afraid-of-chinese-models/)
-<!--more-->
 - **Agent swarm economics get real data**: Cursor's experiment building SQLite from scratch with agent swarms shows that a hybrid setup — Opus 4.8 as planner + Composer 2.5 as workers — delivers similar quality at **87% lower cost** ($1,339 vs $10,565 for GPT-5.5 alone). Frontier models are needed only for planning; execution can be delegated to cheaper models. This has immediate implications for anyone building agent-based products. [Cursor](https://cursor.com/blog/agent-swarm-model-economics)
 
 ## Startup / Product / Platform Radar

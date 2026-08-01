@@ -1,16 +1,13 @@
 ---
-title: "AI·스타트업 모닝 브리프 - 2026-06-18"
+title: "World Model 스타트업 Odyssey, 아마존 등으로부터 $1.45B 밸류에이션으로 대규모 투자 유치"
 date: 2026-06-18
-summary: "World Model 스타트업 Odyssey, 아마존 등으로부터 $1.45B 밸류에이션으로 대규모 투자 유치: LLM 다음 프론티어로 부상한 '월드 모델' 분야에서 Odyssey가 아마존, GV, NEA 등으로부터 투자를 받으며 주요 플레이어로 자리잡았다. 월드 모델은 물리적 세계를 시뮬레이션하는 AI로, 로보틱스·제조…"
-description: "World Model 스타트업 Odyssey, 아마존 등으로부터 $1.45B 밸류에이션으로 대규모 투자 유치: LLM 다음 프론티어로 부상한 '월드 모델' 분야에서 Odyssey가 아마존, GV, NEA 등으로부터 투자를 받으며 주요 플레이어로 자리잡았다. 월드 모델은 물리적 세계를 시뮬레이션하는 AI로, 로보틱스·제조…"
+summary: "LLM 다음 프론티어로 부상한 '월드 모델' 분야에서 Odyssey가 아마존, GV, NEA 등으로부터 투자를 받으며 주요 플레이어로 자리잡았다. 월드 모델은 물리적 세계를 시뮬레이션하는 AI로, 로보틱스·제조…"
+description: "LLM 다음 프론티어로 부상한 '월드 모델' 분야에서 Odyssey가 아마존, GV, NEA 등으로부터 투자를 받으며 주요 플레이어로 자리잡았다. 월드 모델은 물리적 세계를 시뮬레이션하는 AI로, 로보틱스·제조…"
 ---
-
-[브리핑/AI] AI·스타트업 모닝 브리프 - 2026-06-18
 
 ## 핵심 변화
 - **World Model 스타트업 Odyssey, 아마존 등으로부터 $1.45B 밸류에이션으로 대규모 투자 유치**: LLM 다음 프론티어로 부상한 '월드 모델' 분야에서 Odyssey가 아마존, GV, NEA 등으로부터 투자를 받으며 주요 플레이어로 자리잡았다. 월드 모델은 물리적 세계를 시뮬레이션하는 AI로, 로보틱스·제조·자율주행·게임 등 광범위한 산업에 적용 가능하다. LLM 이후의 패러다임 전환을 예고하는 신호. [TechCrunch](https://techcrunch.com/2026/06/17/world-model-maker-odyssey-nabs-1-45b-valuation-backed-by-amazon-and-other-big-names/)
 
-<!--more-->
 - **Microsoft, Copilot Cowork에 DeepSeek V4 모델 탑재 검토**: Microsoft가 자사 AI 도구 Copilot Cowork의 저비용 옵션으로 중국 DeepSeek의 V4 모델을 호스팅하는 방안을 검토 중이다. 국가 안보를 이유로 Anthropic의 첨단 모델 접근을 차단하는 동시에, Microsoft는 중국산 모델을 엔터프라이즈 제품에 통합하려는 모순적 구도. AI 공급망의 지정학적 복잡성이 심화되고 있다. [The Information](https://www.theinformation.com/briefings/microsoft-mulls-using-deepseek-copilot-cowork)
 
 ## 스타트업 / 제품 / 플랫폼 레이더

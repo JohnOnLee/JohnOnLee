@@ -1,15 +1,12 @@
 ---
-title: "AI·스타트업 모닝 브리프 - 2026-07-13"
+title: "Claude Code, 프롬프트 읽기도 전에 33K 토큰 소비 — OpenCode는 7K"
 date: 2026-07-13
-summary: "Claude Code, 프롬프트 읽기도 전에 33K 토큰 소비 — OpenCode는 7K: Systima의 실측 벤치마크에 따르면 Claude Code는 사용자 프롬프트를 읽기 전에 이미 33,000 토큰을 소비한다. 같은 조건에서 OpenCode는 7,000 토큰. instruction 파일, MCP 서버, 서브에이전…"
-description: "Claude Code, 프롬프트 읽기도 전에 33K 토큰 소비 — OpenCode는 7K: Systima의 실측 벤치마크에 따르면 Claude Code는 사용자 프롬프트를 읽기 전에 이미 33,000 토큰을 소비한다. 같은 조건에서 OpenCode는 7,000 토큰. instruction 파일, MCP 서버, 서브에이전…"
+summary: "Systima의 실측 벤치마크에 따르면 Claude Code는 사용자 프롬프트를 읽기 전에 이미 33,000 토큰을 소비한다. 같은 조건에서 OpenCode는 7,000 토큰. instruction 파일, MCP 서버, 서브에이전…"
+description: "Systima의 실측 벤치마크에 따르면 Claude Code는 사용자 프롬프트를 읽기 전에 이미 33,000 토큰을 소비한다. 같은 조건에서 OpenCode는 7,000 토큰. instruction 파일, MCP 서버, 서브에이전…"
 ---
-
-[브리핑/AI] AI·스타트업 모닝 브리프 - 2026-07-13
 
 ## 핵심 변화
 - **Claude Code, 프롬프트 읽기도 전에 33K 토큰 소비 — OpenCode는 7K**: Systima의 실측 벤치마크에 따르면 Claude Code는 사용자 프롬프트를 읽기 전에 이미 33,000 토큰을 소비한다. 같은 조건에서 OpenCode는 7,000 토큰. instruction 파일, MCP 서버, 서브에이전트까지 추가하면 격차는 더 벌어진다. 코딩 에이전트를 프로덕션에 도입 중인 팀이라면 토큰 효율성이 인프라 비용의 핵심 변수가 될 전망. [Systima](https://systima.ai/blog/claude-code-vs-opencode-token-overhead)
-<!--more-->
 - **George Hotz의 균형 잡힌 AI 시각: "LLM은 사랑하지만 하이프는 싫다"**: 유명 해커이자 AI 창업자인 George Hotz가 LLM, 자율주행, 코딩 에이전트에 대한 진심 어린 기대를 밝히면서도, "기회의 창이 닫힌다"는 FOMO나 "모든 게 끝장난다"는 AI 둠(doom) 담론 양쪽 모두를 거부하는 글을 발표. 실무자 관점에서 과장된 내러티브를 경계하라는 신호. [geohot](https://geohot.github.io/blog/jekyll/update/2026/07/12/i-love-llms.html)
 - **Uber, "로보택시 85%는 인간이 운전해야" 로비 — 자율주행 규제 전선 형성 중**: Wired가 입수한 문서에 따르면 Uber는 뉴저지주 의회에 인간 운전자와 로봇이 함께 운영되는 "하이브리드 네트워크" 법제화를 추진 중이다. 이는 자율주행 개발사보다 기존 ride-hailing 플랫폼에 유리한 구조. 모빌리티·자율주행 스타트업은 이 규제 프레임이 다른 주로 확산될지 주목해야 한다. [Wired](https://www.wired.com/story/ubers-autonomous-vehicle-strategy-slow-their-adoption/)
 

@@ -1,16 +1,13 @@
 ---
-title: "AI / Startup Morning Brief — 2026-06-18"
+title: "World model startup Odyssey reaches $1.45B valuation, backed by Amazon"
 date: 2026-06-18
-summary: "World model startup Odyssey reaches $1.45B valuation, backed by Amazon: Odyssey has raised a major round from Amazon, GV, NEA, and others, cementing itself as a leading player in…"
-description: "World model startup Odyssey reaches $1.45B valuation, backed by Amazon: Odyssey has raised a major round from Amazon, GV, NEA, and others, cementing itself as a leading player in…"
+summary: "Odyssey has raised a major round from Amazon, GV, NEA, and others, cementing itself as a leading player in…"
+description: "Odyssey has raised a major round from Amazon, GV, NEA, and others, cementing itself as a leading player in…"
 ---
-
-[AI/Startup Morning Brief — 2026-06-18]
 
 ## Key Shifts
 - **World model startup Odyssey reaches $1.45B valuation, backed by Amazon**: Odyssey has raised a major round from Amazon, GV, NEA, and others, cementing itself as a leading player in world models — AI systems that simulate the physical world. This represents the next frontier beyond LLMs, with applications spanning robotics, manufacturing, autonomous driving, and gaming. For founders building in simulation-heavy industries, world models are becoming the new infrastructure layer. [TechCrunch](https://techcrunch.com/2026/06/17/world-model-maker-odyssey-nabs-1-45b-valuation-backed-by-amazon-and-other-big-names/)
 
-<!--more-->
 - **Microsoft considers using DeepSeek V4 to power Copilot Cowork**: Microsoft is exploring hosting Chinese lab DeepSeek's V4 model as a cheaper option for its Copilot Cowork enterprise AI tool. The move creates a paradoxical landscape: while the US government restricts foreign access to Anthropic's frontier models on national security grounds, Microsoft is simultaneously evaluating a Chinese model for its enterprise product. The geopolitical fragmentation of the AI supply chain is accelerating, and it is becoming harder to predict where regulatory lines will settle. [The Information](https://www.theinformation.com/briefings/microsoft-mulls-using-deepseek-copilot-cowork)
 
 ## Startup / Product / Platform Radar

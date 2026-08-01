@@ -1,15 +1,12 @@
 ---
-title: "AI·스타트업 모닝 브리프 - 2026-06-23"
+title: "AI 인프라 빅딜 연쇄 — Qualcomm, Modular를 $4B에 인수 추진 / SpaceX, Reflection과 $6.3B 컴퓨팅 계약"
 date: 2026-06-23
-summary: "AI 인프라 빅딜 연쇄 — Qualcomm, Modular를 $4B에 인수 추진 / SpaceX, Reflection과 $6.3B 컴퓨팅 계약: Qualcomm이 AI 칩 스타트업 Modular 인수를 위한 막바지 협상 중이며, SpaceX는 오픈소스 AI 스타트업 Reflection에 Colossus 2 데이터센터의…"
-description: "AI 인프라 빅딜 연쇄 — Qualcomm, Modular를 $4B에 인수 추진 / SpaceX, Reflection과 $6.3B 컴퓨팅 계약: Qualcomm이 AI 칩 스타트업 Modular 인수를 위한 막바지 협상 중이며, SpaceX는 오픈소스 AI 스타트업 Reflection에 Colossus 2 데이터센터의…"
+summary: "Qualcomm이 AI 칩 스타트업 Modular 인수를 위한 막바지 협상 중이며, SpaceX는 오픈소스 AI 스타트업 Reflection에 Colossus 2 데이터센터의…"
+description: "Qualcomm이 AI 칩 스타트업 Modular 인수를 위한 막바지 협상 중이며, SpaceX는 오픈소스 AI 스타트업 Reflection에 Colossus 2 데이터센터의…"
 ---
-
-[브리핑/AI] AI·스타트업 모닝 브리프 - 2026-06-23
 
 ## 핵심 변화
 - **AI 인프라 빅딜 연쇄 — Qualcomm, Modular를 $4B에 인수 추진 / SpaceX, Reflection과 $6.3B 컴퓨팅 계약**: Qualcomm이 AI 칩 스타트업 Modular 인수를 위한 막바지 협상 중이며, SpaceX는 오픈소스 AI 스타트업 Reflection에 Colossus 2 데이터센터의 Nvidia GB300 칩을 월 $150M에 제공하는 총 $6.3B 규모 계약을 체결. AI 컴퓨팅 인프라가 단순한 클라우드 비용이 아니라 지정학적·전략적 자산으로 변모하고 있음. [Bloomberg](https://www.bloomberg.com/news/articles/2026-06-22/qualcomm-is-said-to-near-deal-for-ai-chip-startup-modular) · [CNBC](https://www.cnbc.com/2026/06/22/spacex-ai-colossus-data-center-reflection.html)
-<!--more-->
 - **중국 Z.ai, GPT-5.5를 코딩 벤치마크에서 능가하는 GLM-5.2 오픈웨이트 모델 공개 — 美가 Anthropic Fable 5 수출을 금지한 바로 그날**: 744B 파라미터의 GLM-5.2를 MIT 라이선스로 공개, API 비용은 GPT-5.5의 1/6 수준이며 자체 호스팅 가능하고 지역 제한 없음. 미국 밖에서 개발하는 팀에게 인프라 계산법이 근본적으로 달라지는 순간. [StartupFortune](https://startupfortune.com/chinas-zai-open-sourced-a-frontier-coding-model-the-same-day-washington-banned-its-american-rival/)
 - **Five Eyes, "AI가 정부와 기업을 무너뜨릴 수 있는 수준이 수개월 내 도래" 사상 첫 공동 경고**: 미국, 영국, 캐나다, 호주, 뉴질랜드 사이버 보안 기관들이 AI 위협에 대해 전례 없는 공동 성명 발표. Anthropic의 Fable 5에 대한 美 수출 차단 조치 직후 나온 경고로, AI 안보가 G2 기술 패권 경쟁의 최전선이 되고 있음. [The Guardian](https://www.theguardian.com/technology/2026/jun/22/anthropic-claude-fable-ai-model-artificial-intelligence-national-security) · [CISA](https://www.cisa.gov/news-events/news/five-eyes-cyber-security-agencies-statement)
 

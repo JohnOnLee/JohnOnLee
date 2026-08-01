@@ -1,17 +1,14 @@
 ---
-title: "AI / Startup Morning Brief — 2026-07-08"
+title: "Chinese AI models rapidly gaining share among US companies"
 date: 2026-07-08
-summary: "Chinese AI models rapidly gaining share among US companies: US companies' token usage on Chinese models via OpenRouter has held above 30% weekly since February, peaking at 46% — c…"
-description: "Chinese AI models rapidly gaining share among US companies: US companies' token usage on Chinese models via OpenRouter has held above 30% weekly since February, peaking at 46% — c…"
+summary: "US companies' token usage on Chinese models via OpenRouter has held above 30% weekly since February, peaking at 46% — c…"
+description: "US companies' token usage on Chinese models via OpenRouter has held above 30% weekly since February, peaking at 46% — c…"
 ---
-
-[AI/Startup Morning Brief — 2026-07-08]
 
 ## Key Shifts
 
 - **Chinese AI models rapidly gaining share among US companies**: US companies' token usage on Chinese models via OpenRouter has held above 30% weekly since February, peaking at 46% — compared to an 11% average over the prior 12 months and just 4.5% in H1 2025. DeepSeek and Z.ai's latest models are closing the performance gap with Anthropic and OpenAI while remaining up to 20x cheaper per token. [CNBC](https://www.cnbc.com/2026/07/07/chinese-ai-models-costs-us-openai-anthropic.html)
 
-<!--more-->
 - **FTC issues draft policy statement on suppressing accuracy in AI systems**: The Federal Trade Commission proposed that AI companies which steer or deliberately suppress model accuracy for ideological reasons — including to comply with state laws like Colorado's revised AI Act — may be engaging in deceptive practices under Section 5 of the FTC Act. Public comments are open through July 31. [Federal Register](https://www.federalregister.gov/documents/2026/07/07/2026-13628/policy-statement-concerning-the-suppression-of-accuracy-in-artificial-intelligence-systems)
 
 - **Code maintainability plummets in the AI coding era**: GitClear and GitKraken analyzed 623 million real-world code changes from 2023–2026 and found duplication up 81%, code reuse down 70%, and legacy refactoring down 74% compared to pre-AI levels. AI-assisted commits now account for 25% of all commits, and the pattern of "create a new package every time" is rapidly accumulating technical debt. [LeadDev](https://leaddev.com/ai/code-maintainability-plummets-in-the-ai-coding-era)

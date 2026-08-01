@@ -1,15 +1,12 @@
 ---
-title: "AI / Startup Morning Brief — 2026-06-21"
+title: "AlphaFold creator and Nobel laureate John Jumper leaves Google DeepMind for Anthropic"
 date: 2026-06-21
-summary: "AlphaFold creator and Nobel laureate John Jumper leaves Google DeepMind for Anthropic: One week after Transformer co-author Noam Shazeer joined OpenAI, Google has lost another def…"
-description: "AlphaFold creator and Nobel laureate John Jumper leaves Google DeepMind for Anthropic: One week after Transformer co-author Noam Shazeer joined OpenAI, Google has lost another def…"
+summary: "One week after Transformer co-author Noam Shazeer joined OpenAI, Google has lost another def…"
+description: "One week after Transformer co-author Noam Shazeer joined OpenAI, Google has lost another def…"
 ---
-
-[AI/Startup Morning Brief — 2026-06-21]
 
 ## Key Shifts
 - **AlphaFold creator and Nobel laureate John Jumper leaves Google DeepMind for Anthropic**: One week after Transformer co-author Noam Shazeer joined OpenAI, Google has lost another defining AI researcher. Jumper, who shared the Nobel Prize in Chemistry with Demis Hassabis for AlphaFold, spent nine years at DeepMind. Two symbolic Google AI researchers departing to competitors in the same week marks a new phase in the talent war — this is no longer about hiring engineers, it's about who owns the scientists. Anthropic, gearing up for its IPO, is landing consecutive blows against both Google and OpenAI. [TechCrunch](https://techcrunch.com/2026/06/20/nobel-laureate-john-jumper-is-leaving-deepmind-for-rival-anthropic/) · [Reuters](https://www.reuters.com/technology/artificial-intelligence/us-scientist-john-jumper-leave-google-deepmind-anthropic-2026-06-19/)
-<!--more-->
 - **Trump reverses on Anthropic after G7: "not a national security threat anymore"**: In an Axios interview, Trump stated Anthropic has "behaved very responsibly" and signalled he may ease restrictions on its Mythos and Fable models. This marks a sharp reversal from three months of aggressive administration pressure. It reflects Anthropic's diplomatic success at the G7 — and a reminder that AI export controls are functioning as political bargaining chips, not purely technical decisions. [The Next Web](https://thenextweb.com/news/trump-anthropic-not-national-security-threat-axios-interview)
 
 ## Startup / Product / Platform Radar

@@ -1,15 +1,12 @@
 ---
-title: "AI·스타트업 모닝 브리프 - 2026-06-09"
+title: "OpenAI, IPO를 위한 S-1 기밀 제출"
 date: 2026-06-09
-summary: "OpenAI, IPO를 위한 S-1 기밀 제출: 챗GPT 개발사 OpenAI가 SEC에 기밀 IPO 신고서를 제출했다. 최근 밸류에이션 $8,520억. 일주일 전 Anthropic의 IPO 신청에 이은 것으로, SpaceX까지 합치면 2026년은 기술사상 최대 규모의 IPO 3건이 연달아 터지는 해가 될 전망. Open…"
-description: "OpenAI, IPO를 위한 S-1 기밀 제출: 챗GPT 개발사 OpenAI가 SEC에 기밀 IPO 신고서를 제출했다. 최근 밸류에이션 $8,520억. 일주일 전 Anthropic의 IPO 신청에 이은 것으로, SpaceX까지 합치면 2026년은 기술사상 최대 규모의 IPO 3건이 연달아 터지는 해가 될 전망. Open…"
+summary: "챗GPT 개발사 OpenAI가 SEC에 기밀 IPO 신고서를 제출했다. 최근 밸류에이션 $8,520억. 일주일 전 Anthropic의 IPO 신청에 이은 것으로, SpaceX까지 합치면 2026년은 기술사상 최대 규모의 IPO 3건이 연달아 터지는 해가 될 전망. Open…"
+description: "챗GPT 개발사 OpenAI가 SEC에 기밀 IPO 신고서를 제출했다. 최근 밸류에이션 $8,520억. 일주일 전 Anthropic의 IPO 신청에 이은 것으로, SpaceX까지 합치면 2026년은 기술사상 최대 규모의 IPO 3건이 연달아 터지는 해가 될 전망. Open…"
 ---
-
-[브리핑/AI] AI·스타트업 모닝 브리프 - 2026-06-09
 
 ## 핵심 변화
 - **OpenAI, IPO를 위한 S-1 기밀 제출**: 챗GPT 개발사 OpenAI가 SEC에 기밀 IPO 신고서를 제출했다. 최근 밸류에이션 $8,520억. 일주일 전 Anthropic의 IPO 신청에 이은 것으로, SpaceX까지 합치면 2026년은 기술사상 최대 규모의 IPO 3건이 연달아 터지는 해가 될 전망. OpenAI는 2028년 컴퓨팅 비용으로만 $1,220억을 지출할 것으로 예상하며, CFO는 데이터센터 지출 지속 가능성에 우려를 표명. [CNBC](https://www.cnbc.com/2026/06/08/openai-confidentially-files-for-ipo-prepping-wall-street-for-ai-debut.html) · [TechCrunch](https://techcrunch.com/2026/06/08/following-anthropic-openai-files-confidentially-for-ipo/) · [OpenAI](https://openai.com/index/openai-submits-confidential-s-1/)
-<!--more-->
 - **Apple, Google Gemini 기반의 새로운 AI 아키텍처 공개**: WWDC 2026에서 Apple은 Apple Intelligence 플랫폼의 전면 재설계를 발표. Google과 공동 개발한 파운데이션 모델을 Private Cloud Compute 및 온디바이스에서 실행하며, 이미지 생성·이해, 고급 사진 편집, 시각 질의응답 등 멀티모달 기능을 제공. AI Siri도 대대적 개편. [MacRumors](https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/) · [TechCrunch](https://techcrunch.com/2026/06/08/apple-plays-catch-up-at-wwdc/) · [Apple Developer](https://developer.apple.com/documentation/coreai/)
 - **샤오미 MiMo, 1T 파라미터 모델에서 초당 1,000토큰 돌파**: MiMo-V2.5-Pro-UltraSpeed가 TileRT와 협력해 1조 파라미터 모델에서 최초로 1,000+ tokens/s 디코딩 속도를 달성. 기존 MiMo-V2.5-Pro 대비 3배 비용, 10배 속도. 6월 9일부터 23일까지 신청 기반 한정 제공. [Xiaomi MiMo](https://mimo.xiaomi.com/blog/mimo-tilert-1000tps) · [Hacker News](https://news.ycombinator.com/item?id=48446639)
 - **DeepSeek V4 Pro, GPT-5.5 Pro를 정밀도에서 능가**: DeepSeek의 최신 모델 V4 Pro가 정밀도(precision) 벤치마크에서 OpenAI의 GPT-5.5 Pro를 앞섰다는 보도. 중국발 경쟁 모델의 추격 속도가 예상보다 빠르다는 신호. [RuntimeWire](https://runtimewire.com/article/deepseek-v4-pro-beats-gpt-5-5-pro-on-precision) · [Hacker News](https://news.ycombinator.com/item?id=48440448)

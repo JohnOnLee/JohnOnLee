@@ -1,15 +1,12 @@
 ---
-title: "AI·스타트업 모닝 브리프 - 2026-07-20"
+title: "Qwen 3.8 Max 공개 — 2.4T 파라미터 오픈웨이트 모델"
 date: 2026-07-20
-summary: "Qwen 3.8 Max 공개 — 2.4T 파라미터 오픈웨이트 모델: 알리바바의 Qwen 팀이 2.4조 파라미터의 오픈웨이트 모델 Qwen 3.8을 공개했다. 곧 오픈웨이트로 전환 예정이며, 현재 QwenCloud Token Plan을 통해 프리뷰로 이용 가능. HN에서 711포인트를 기록하며 하루 최대 관심을 모은 AI…"
-description: "Qwen 3.8 Max 공개 — 2.4T 파라미터 오픈웨이트 모델: 알리바바의 Qwen 팀이 2.4조 파라미터의 오픈웨이트 모델 Qwen 3.8을 공개했다. 곧 오픈웨이트로 전환 예정이며, 현재 QwenCloud Token Plan을 통해 프리뷰로 이용 가능. HN에서 711포인트를 기록하며 하루 최대 관심을 모은 AI…"
+summary: "알리바바의 Qwen 팀이 2.4조 파라미터의 오픈웨이트 모델 Qwen 3.8을 공개했다. 곧 오픈웨이트로 전환 예정이며, 현재 QwenCloud Token Plan을 통해 프리뷰로 이용 가능. HN에서 711포인트를 기록하며 하루 최대 관심을 모은 AI…"
+description: "알리바바의 Qwen 팀이 2.4조 파라미터의 오픈웨이트 모델 Qwen 3.8을 공개했다. 곧 오픈웨이트로 전환 예정이며, 현재 QwenCloud Token Plan을 통해 프리뷰로 이용 가능. HN에서 711포인트를 기록하며 하루 최대 관심을 모은 AI…"
 ---
-
-[브리핑/AI] AI·스타트업 모닝 브리프 - 2026-07-20
 
 ## 핵심 변화
 - **Qwen 3.8 Max 공개 — 2.4T 파라미터 오픈웨이트 모델**: 알리바바의 Qwen 팀이 2.4조 파라미터의 오픈웨이트 모델 Qwen 3.8을 공개했다. 곧 오픈웨이트로 전환 예정이며, 현재 QwenCloud Token Plan을 통해 프리뷰로 이용 가능. HN에서 711포인트를 기록하며 하루 최대 관심을 모은 AI 소식. [Qwen](https://x.com/Alibaba_Qwen/status/2078759124914098291) · [QwenCloud](https://www.qwencloud.com/pricing/token-plan)
-<!--more-->
 - **Moonshot AI, Kimi K3 구독 신규 가입 중단 — 수요 폭주로 서버 용량 초과**: 중국 Moonshot AI의 최신 모델 Kimi K3가 출시 직후 폭발적인 수요를 기록하며 신규 구독을 일시 중단했다. OpenAI의 Strategic Futures 책임자도 공개 코멘트를 남길 정도로 업계 주목을 받고 있다. 160 HN 포인트. [Moonshot AI](https://x.com/kimi_moonshot/status/2078855608565207130) · [TechCrunch](https://techcrunch.com/2026/07/18/kimi-threat-or-menace/)
 - **Netflix, Ben Affleck의 AI 스타트업 InterPositive 5.87억 달러에 인수**: Netflix가 연방 공시를 통해 벤 애플렉의 AI 스타트업 InterPositive를 5억 8,700만 달러 현금으로 인수했음을 공개했다. 미디어·엔터테인먼트 기업의 AI 스타트업 M&A가 본격화되는 신호. [Variety](https://variety.com/2026/film/news/netflix-paid-587-million-ben-affleck-ai-interpositive-1236815111/)
 

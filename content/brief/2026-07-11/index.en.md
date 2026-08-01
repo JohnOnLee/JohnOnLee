@@ -1,15 +1,12 @@
 ---
-title: "AI / Startup Morning Brief — 2026-07-11"
+title: "George Hotz publishes \"AI 2040 and the Cult of Intelligence\""
 date: 2026-07-11
 summary: "George Hotz publishes 'AI 2040 and the Cult of Intelligence': The comma.ai founder and renowned hacker dropped a long-form essay directly challenging the AI safety orthodoxy (long…"
 description: "George Hotz publishes 'AI 2040 and the Cult of Intelligence': The comma.ai founder and renowned hacker dropped a long-form essay directly challenging the AI safety orthodoxy (long…"
 ---
 
-[AI/Startup Morning Brief — 2026-07-11]
-
 ## Key Shifts
 - **George Hotz publishes "AI 2040 and the Cult of Intelligence"**: The comma.ai founder and renowned hacker dropped a long-form essay directly challenging the AI safety orthodoxy (long-term existential risk frame). Core arguments: (1) tokens alone cannot conquer the world — physical and supply-chain constraints prevent hard takeoff, (2) the centralized AI safety regime is effectively an expansion of world government, and the real solution is local AI fully aligned with individual users. The post hit 150 points and 173 comments on HN — a significant signal that a counter-narrative is gaining traction among builders. For founders and operators, this provides an alternative intellectual frame worth engaging with, and a clear thesis for the local-first AI ecosystem. [geohot](https://geohot.github.io/blog/jekyll/update/2026/07/11/ai-2040.html)
-<!--more-->
 - **OpenAI officially forks Git**: OpenAI created `openai/git`, a public fork of Git on GitHub, with the description simply reading "the information manager from hell - linus torvalds." Whether this is for internal infrastructure or signals a broader developer-tooling ambition is unclear, but a major AI lab forking version control is a notable signal about independent control over the AI-driven software development pipeline. [GitHub](https://github.com/openai/git)
 - **Meta pulls Instagram AI image feature after three days of backlash**: Meta's Muse Image feature, which generated AI images from Instagram user content, launched with public account users auto-opted in by default. Backlash from Privacy International and users forced Meta to pull the feature entirely — a case study in how default-opt-in AI feature design rapidly destroys trust. [BBC](https://www.bbc.com/news/articles/c2dy6e8klw0o) · [TechCrunch](https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/)
 

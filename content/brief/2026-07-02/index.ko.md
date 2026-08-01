@@ -1,15 +1,12 @@
 ---
-title: "AI·스타트업 모닝 브리프 - 2026-07-02"
+title: "미국, Anthropic Claude 수출 규제 해제"
 date: 2026-07-02
-summary: "미국, Anthropic Claude 수출 규제 해제: 미 상무부가 Claude Fable 5와 Mythos 5 모델에 대한 수출 통제를 해제했다. Anthropic은 즉시 Fable 5를 재배포하고 프로모션 액세스를 열었다. AI 규제 환경이 빠르게 진화하고 있다는 신호 — 파운더는 수출 통제 리스크를 사업 계획에 반…"
-description: "미국, Anthropic Claude 수출 규제 해제: 미 상무부가 Claude Fable 5와 Mythos 5 모델에 대한 수출 통제를 해제했다. Anthropic은 즉시 Fable 5를 재배포하고 프로모션 액세스를 열었다. AI 규제 환경이 빠르게 진화하고 있다는 신호 — 파운더는 수출 통제 리스크를 사업 계획에 반…"
+summary: "미 상무부가 Claude Fable 5와 Mythos 5 모델에 대한 수출 통제를 해제했다. Anthropic은 즉시 Fable 5를 재배포하고 프로모션 액세스를 열었다. AI 규제 환경이 빠르게 진화하고 있다는 신호 — 파운더는 수출 통제 리스크를 사업 계획에 반…"
+description: "미 상무부가 Claude Fable 5와 Mythos 5 모델에 대한 수출 통제를 해제했다. Anthropic은 즉시 Fable 5를 재배포하고 프로모션 액세스를 열었다. AI 규제 환경이 빠르게 진화하고 있다는 신호 — 파운더는 수출 통제 리스크를 사업 계획에 반…"
 ---
-
-[브리핑/AI] AI·스타트업 모닝 브리프 - 2026-07-02
 
 ## 핵심 변화
 - **미국, Anthropic Claude 수출 규제 해제**: 미 상무부가 Claude Fable 5와 Mythos 5 모델에 대한 수출 통제를 해제했다. Anthropic은 즉시 Fable 5를 재배포하고 프로모션 액세스를 열었다. AI 규제 환경이 빠르게 진화하고 있다는 신호 — 파운더는 수출 통제 리스크를 사업 계획에 반영해야 한다. [Anthropic](https://www.anthropic.com/news/redeploying-fable-5) · [Claude Support](https://support.claude.com/en/articles/15424964-claude-fable-5-promotional-access)
-<!--more-->
 - **스웨덴 법원, 구글에 Klarna 15억 달러 배상 판결**: 구글이 검색 시장 반독점 위반으로 Klarna에 15억 달러를 배상해야 한다는 판결. 유럽에서 빅테크 규제 압박이 계속 강화되고 있으며, AI 시장에도 영향을 미칠 가능성이 있다. [Reuters](https://www.reuters.com/business/swedish-court-says-google-is-pay-15-billion-klarna-antitrust-damages-2026-07-01/)
 
 ## 스타트업 / 제품 / 플랫폼 레이더

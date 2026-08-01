@@ -1,15 +1,12 @@
 ---
-title: "AI·스타트업 모닝 브리프 - 2026-06-30"
+title: "캘리포니아 주정부, Anthropic과 첫 AI 조달 계약 체결"
 date: 2026-06-30
-summary: "캘리포니아 주정부, Anthropic과 첫 AI 조달 계약 체결: 개빈 뉴섬 주지사가 모든 캘리포니아 주정부 기관과 지방정부에 Claude를 반값에 제공하는 계약을 발표. 주정부 직원의 문서 작성·정보 분석 지원 목적. 연방정부(DoD)가 OpenAI와 계약하며 Anthropic과 충돌한 것과 대조되는 행보. TechC…"
-description: "캘리포니아 주정부, Anthropic과 첫 AI 조달 계약 체결: 개빈 뉴섬 주지사가 모든 캘리포니아 주정부 기관과 지방정부에 Claude를 반값에 제공하는 계약을 발표. 주정부 직원의 문서 작성·정보 분석 지원 목적. 연방정부(DoD)가 OpenAI와 계약하며 Anthropic과 충돌한 것과 대조되는 행보. TechC…"
+summary: "개빈 뉴섬 주지사가 모든 캘리포니아 주정부 기관과 지방정부에 Claude를 반값에 제공하는 계약을 발표. 주정부 직원의 문서 작성·정보 분석 지원 목적. 연방정부(DoD)가 OpenAI와 계약하며 Anthropic과 충돌한 것과 대조되는 행보. TechC…"
+description: "개빈 뉴섬 주지사가 모든 캘리포니아 주정부 기관과 지방정부에 Claude를 반값에 제공하는 계약을 발표. 주정부 직원의 문서 작성·정보 분석 지원 목적. 연방정부(DoD)가 OpenAI와 계약하며 Anthropic과 충돌한 것과 대조되는 행보. TechC…"
 ---
-
-[브리핑/AI] AI·스타트업 모닝 브리프 - 2026-06-30
 
 ## 핵심 변화
 - **캘리포니아 주정부, Anthropic과 첫 AI 조달 계약 체결**: 개빈 뉴섬 주지사가 모든 캘리포니아 주정부 기관과 지방정부에 Claude를 반값에 제공하는 계약을 발표. 주정부 직원의 문서 작성·정보 분석 지원 목적. 연방정부(DoD)가 OpenAI와 계약하며 Anthropic과 충돌한 것과 대조되는 행보. [TechCrunch](https://techcrunch.com/2026/06/29/anthropic-and-gov-newsom-forge-deal-allowing-california-government-to-use-claude-at-half-price/) · [CA Governor](https://www.gov.ca.gov/2026/06/29/governor-newsom-announces-a-first-of-its-kind-partnership-providing-anthropic-tools-to-state-agencies-and-improving-services-for-californians/)
-<!--more-->
 - **한국 반도체 기업들, 'RAMageddon' 해소 위해 5,500억 달러 이상 투자 약속**: 삼성·SK하이닉스 등이 AI 시대의 메모리 수요 폭증에 대응해 대규모 메모리 랩 팹(fab) 건설 계획 발표. 한국을 AI 기술 강국으로 포지셔닝하려는 국가적 전략. [TechCrunch](https://techcrunch.com/2026/06/29/south-korean-tech-giants-commit-over-550b-to-ease-ramageddon/)
 
 ## 스타트업 / 제품 / 플랫폼 레이더

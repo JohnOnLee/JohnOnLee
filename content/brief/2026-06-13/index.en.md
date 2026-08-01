@@ -1,15 +1,12 @@
 ---
-title: "AI / Startup Morning Brief — 2026-06-13"
+title: "AI price war kicks off — OpenAI considers drastic price cuts to win users from Anthropic"
 date: 2026-06-13
-summary: "AI price war kicks off — OpenAI considers drastic price cuts to win users from Anthropic: OpenAI is weighing significant price reductions as competition with Anthropic intensifies…"
-description: "AI price war kicks off — OpenAI considers drastic price cuts to win users from Anthropic: OpenAI is weighing significant price reductions as competition with Anthropic intensifies…"
+summary: "OpenAI is weighing significant price reductions as competition with Anthropic intensifies…"
+description: "OpenAI is weighing significant price reductions as competition with Anthropic intensifies…"
 ---
-
-[AI/Startup Morning Brief — 2026-06-13]
 
 ## Key Shifts
 - **AI price war kicks off — OpenAI considers drastic price cuts to win users from Anthropic**: OpenAI is weighing significant price reductions as competition with Anthropic intensifies, the WSJ reports. Foundation model pricing is compressing fast, squeezing margins for startups that simply resell API access. If you're building on top of model APIs, your unit economics are about to improve — but so is everyone else's. [WSJ](https://www.wsj.com/tech/ai/openai-considers-drastic-price-cuts-anticipating-war-for-users-with-anthropic-9b8c178e) · [WSJ (analysis)](https://www.wsj.com/tech/ai/the-ai-price-war-is-here-piling-pressure-on-openai-and-anthropic-86e1d21b)
-<!--more-->
 - **Google director resigns over Pentagon AI deals: "Management has lost its moral compass"**: René Mayrhofer, director of Android security and privacy at Google, quit in protest over the company's Gemini military contracts with the Pentagon. The resignation highlights rising tension between AI ethics and revenue inside Big Tech, with downstream effects on talent retention. [Business Insider](https://www.businessinsider.com/google-director-resigned-pentagon-ai-deal-military-artificial-intelligence-gemini-2026-6)
 - **Apple officially confirms it does not use Google models in Apple Intelligence**: Apple stated unequivocally that it uses no Google models, apps, or search in its AI stack. The platform companies are drawing clear lines around AI independence — a signal for any operator building in ecosystems where AI sovereignty matters. [Asymco](https://asymco.com/2026/06/12/apple-confirms-not-using-google-models-apps-or-search-in-apple-intelligence/)
 

@@ -1,15 +1,12 @@
 ---
-title: "AI / Startup Morning Brief — 2026-07-01"
+title: "Anthropic launches Claude Sonnet 5 — optimized for agentic workflows, priced aggressively"
 date: 2026-07-01
-summary: "Anthropic launches Claude Sonnet 5 — optimized for agentic workflows, priced aggressively: Claude Sonnet 5 is purpose-built for everyday agent tasks with lower cyber risk. Anthrop…"
-description: "Anthropic launches Claude Sonnet 5 — optimized for agentic workflows, priced aggressively: Claude Sonnet 5 is purpose-built for everyday agent tasks with lower cyber risk. Anthrop…"
+summary: "Claude Sonnet 5 is purpose-built for everyday agent tasks with lower cyber risk. Anthrop…"
+description: "Claude Sonnet 5 is purpose-built for everyday agent tasks with lower cyber risk. Anthrop…"
 ---
-
-[AI/Startup Morning Brief — 2026-07-01]
 
 ## Key Shifts
 - **Anthropic launches Claude Sonnet 5 — optimized for agentic workflows, priced aggressively**: Claude Sonnet 5 is purpose-built for everyday agent tasks with lower cyber risk. Anthropic claims it undercuts GPT-5.5 on price. Simultaneously, Anthropic struck a discounted Claude deal with California for state workers. [Anthropic](https://www.anthropic.com/research/claude-sonnet-5) · [TechCrunch](https://techcrunch.com/2026/06/30/anthropic-launches-claude-sonnet-5-as-a-cheaper-way-to-run-agents/) · [Yahoo Finance](https://finance.yahoo.com/technology/article/anthropic-launches-cheaper-claude-sonnet-5-model-as-tech-searches-for-ai-savings-180000821.html)
-<!--more-->
 - **Anthropic unveils Claude Science — an AI workbench for scientific research, targeting pharma and biotech**: Claude Science is a dedicated workspace for researchers, capable of designing antibiotics from text prompts and accelerating drug discovery. Integrates with life sciences companies via the Connector Ecosystem. KPMG called the Anthropic partnership a "step change." [TechCrunch](https://techcrunch.com/2026/06/30/anthropics-claude-science-bets-on-workflow-not-a-new-model-to-win-over-scientists/) · [Neowin](https://www.neowin.net/news/anthropic-launches-claude-science-a-dedicated-app-for-scientists/)
 - **OpenAI discovers a new method to cut inference costs in half**: A new technique can reduce inference costs by up to 50% without degrading model performance — a potential game changer for AI service unit economics. [The Information](https://www.theinformation.com/newsletters/ai-agenda/openai-discovers-new-way-cut-inference-costs-half)
 

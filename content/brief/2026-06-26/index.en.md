@@ -1,16 +1,13 @@
 ---
-title: "AI / Startup Morning Brief — 2026-06-26"
+title: "OpenAI delays GPT-5.6 after Trump administration request"
 date: 2026-06-26
-summary: "OpenAI delays GPT-5.6 after Trump administration request: The White House asked OpenAI to stagger its next major model release over security concerns. Sam Altman told employees in…"
-description: "OpenAI delays GPT-5.6 after Trump administration request: The White House asked OpenAI to stagger its next major model release over security concerns. Sam Altman told employees in…"
+summary: "The White House asked OpenAI to stagger its next major model release over security concerns. Sam Altman told employees in…"
+description: "The White House asked OpenAI to stagger its next major model release over security concerns. Sam Altman told employees in…"
 ---
-
-[AI/Startup Morning Brief — 2026-06-26]
 
 ## Key Shifts
 - **OpenAI delays GPT-5.6 after Trump administration request**: The White House asked OpenAI to stagger its next major model release over security concerns. Sam Altman told employees in a company Q&A that GPT-5.6 would ship as a limited preview to select enterprise customers, with the administration approving access on a case-by-case basis — a notably softer deal than what rival Anthropic received. [The Verge](https://www.theverge.com/ai-artificial-intelligence/957372/openai-will-delay-gpt-5-6-after-trump-administration-request)
 
-<!--more-->
 ## Startup / Product / Platform Radar
 - **Meta revives Facebook Creator Studio as an AI companion app**: The Creator Studio page manager, shuttered in 2023, returns as a standalone AI-powered app. Its AI Creator Assistant offers performance insights, tailored growth recommendations, and even drafts comment replies in the creator's voice. [The Verge](https://www.theverge.com/tech/956668/meta-facebook-creator-studio-ai-app-relaunch) · [Meta](https://about.fb.com/news/2026/06/creator-assistant-more-languages-for-ai-translations-on-facebook/)
 - **Amperity hit with layoffs as AI changes how the startup operates**: Customer data platform Amperity reduced headcount as AI tooling fundamentally reshaped its operations. A concrete example of AI restructuring not just products but startup org charts themselves. [GeekWire](https://www.geekwire.com/2026/amperity-hit-with-layoffs-as-ai-changes-the-shape-of-the-customer-data-startup-and-how-it-operates/)

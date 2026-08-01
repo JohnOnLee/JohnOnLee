@@ -1,15 +1,12 @@
 ---
-title: "AI·스타트업 모닝 브리프 - 2026-07-03"
+title: "Microsoft, $25억 규모 AI 배포 전문 계열사 'Frontier Company' 출범"
 date: 2026-07-03
-summary: "Microsoft, $25억 규모 AI 배포 전문 계열사 'Frontier Company' 출범: 기업 고객의 AI 도입을 엔드투엔드로 지원하는 신규 사업체. 딥 인더스트리 지식, 변화 관리, 엔터프라이즈급 AI 엔지니어링을 결합하며, 고객 IP는 절대 모델 학습에 사용하지 않는다는 원칙을 명시. Microsoft Bl…"
-description: "Microsoft, $25억 규모 AI 배포 전문 계열사 'Frontier Company' 출범: 기업 고객의 AI 도입을 엔드투엔드로 지원하는 신규 사업체. 딥 인더스트리 지식, 변화 관리, 엔터프라이즈급 AI 엔지니어링을 결합하며, 고객 IP는 절대 모델 학습에 사용하지 않는다는 원칙을 명시. Microsoft Bl…"
+summary: "기업 고객의 AI 도입을 엔드투엔드로 지원하는 신규 사업체. 딥 인더스트리 지식, 변화 관리, 엔터프라이즈급 AI 엔지니어링을 결합하며, 고객 IP는 절대 모델 학습에 사용하지 않는다는 원칙을 명시. Microsoft Bl…"
+description: "기업 고객의 AI 도입을 엔드투엔드로 지원하는 신규 사업체. 딥 인더스트리 지식, 변화 관리, 엔터프라이즈급 AI 엔지니어링을 결합하며, 고객 IP는 절대 모델 학습에 사용하지 않는다는 원칙을 명시. Microsoft Bl…"
 ---
-
-[브리핑/AI] AI·스타트업 모닝 브리프 - 2026-07-03
 
 ## 핵심 변화
 - **Microsoft, $25억 규모 AI 배포 전문 계열사 'Frontier Company' 출범**: 기업 고객의 AI 도입을 엔드투엔드로 지원하는 신규 사업체. 딥 인더스트리 지식, 변화 관리, 엔터프라이즈급 AI 엔지니어링을 결합하며, 고객 IP는 절대 모델 학습에 사용하지 않는다는 원칙을 명시. [Microsoft Blog](https://blogs.microsoft.com/blog/2026/07/02/microsoft-frontier-company-ai-engineering-that-amplifies-and-protects-your-intelligence/) · [TechCrunch](https://techcrunch.com/2026/07/02/microsoft-launches-its-own-ai-deployment-company-with-2-5-billion-commitment/)
-<!--more-->
 - **OpenAI, 미 정부에 지분 5% 양도 논의 중**: Sam Altman이 AI 혜택을 대중과 공유하는 방안으로 제안. Anthropic, Google, Meta 등 다른 기업들도 유사한 지분 제공을 검토 중. [The Guardian](https://www.theguardian.com/technology/2026/jul/02/openai-stake-us-government-ai-sam-altman)
 - **Kimi K2.7 Code, GitHub Copilot에 탑재**: 첫 번째 오픈웨이트 모델이 Copilot 모델 피커에 정식 추가. VS Code, JetBrains, Xcode 등에서 선택 가능. 오픈웨이트 모델이 메인스트림 개발 도구에 진입하는 분수령. [GitHub Changelog](https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot/)
 

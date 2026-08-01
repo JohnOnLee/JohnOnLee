@@ -1,16 +1,13 @@
 ---
-title: "AI / Startup Morning Brief — 2026-06-17"
+title: "Anthropic blocks advanced model access after White House clash"
 date: 2026-06-17
-summary: "Anthropic blocks advanced model access after White House clash: Commerce Secretary Howard Lutnick sent a letter demanding Anthropic restrict foreign access to frontier models like…"
-description: "Anthropic blocks advanced model access after White House clash: Commerce Secretary Howard Lutnick sent a letter demanding Anthropic restrict foreign access to frontier models like…"
+summary: "Commerce Secretary Howard Lutnick sent a letter demanding Anthropic restrict foreign access to frontier models like…"
+description: "Commerce Secretary Howard Lutnick sent a letter demanding Anthropic restrict foreign access to frontier models like…"
 ---
-
-[AI/Startup Morning Brief — 2026-06-17]
 
 ## Key Shifts
 - **Anthropic blocks advanced model access after White House clash**: Commerce Secretary Howard Lutnick sent a letter demanding Anthropic restrict foreign access to frontier models like Claude Fable 5. Anthropic disabled its Mythos model in response. The Trump administration blocked G7 allies from accessing Anthropic's most advanced models, and the Pentagon is reducing its reliance on Anthropic in favor of competitors. AI governance is rapidly evolving into a trade and national security landscape. [Wired](https://www.wired.com/story/anthropic-is-still-at-odds-with-the-white-house-over-claude-fable-5/) · [NY Post](https://nypost.com/2026/06/16/business/trump-admin-open-to-talks-with-anthropic-over-foreigner-ban/) · [Crypto Briefing](https://cryptobriefing.com/pentagon-reduces-anthropic-reliance-competitors/) · [Bloomberg](https://www.bloomberg.com/news/articles/2026-06-16/lutnick-s-letter-to-anthropic-warned-of-curbs-on-top-ai-models) · [Techdirt](https://www.techdirt.com/2026/06/16/apparently-the-real-reason-anthropics-models-are-offline-a-six-year-old-trump-grudge/)
 
-<!--more-->
 - **SpaceX acquires AI coding tool Cursor for ~$60B**: Elon Musk's SpaceX has purchased Cursor, a competitor to Claude Code and OpenAI Codex. The AI coding tools market is being elevated from developer productivity to strategic national-security and space-infrastructure asset territory. [9to5Mac](https://9to5mac.com/2026/06/16/spacex-lands-deal-to-likely-purchase-claude-code-and-openai-codex-competitor/) · [Pentesty](https://www.pentesty.co/blog/spacex-acquires-cursor-60-billion-software-security)
 
 ## Startup / Product / Platform Radar

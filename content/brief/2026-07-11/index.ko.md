@@ -1,15 +1,12 @@
 ---
-title: "AI·스타트업 모닝 브리프 - 2026-07-11"
+title: "George Hotz, \"AI 2040 and the Cult of Intelligence\" 에세이 공개"
 date: 2026-07-11
 summary: "George Hotz, 'AI 2040 and the Cult of Intelligence' 에세이 공개: comma.ai 창업자이자 유명 해커인 George Hotz가 AI 안전주의(장기적 실존 위험 프레임)를 정면으로 비판하는 장문의 에세이를 공개했다. 핵심 주장은 (1) 토큰 예측만으로는 세상을 지배할 수 없으며…"
 description: "George Hotz, 'AI 2040 and the Cult of Intelligence' 에세이 공개: comma.ai 창업자이자 유명 해커인 George Hotz가 AI 안전주의(장기적 실존 위험 프레임)를 정면으로 비판하는 장문의 에세이를 공개했다. 핵심 주장은 (1) 토큰 예측만으로는 세상을 지배할 수 없으며…"
 ---
 
-[브리핑/AI] AI·스타트업 모닝 브리프 - 2026-07-11
-
 ## 핵심 변화
 - **George Hotz, "AI 2040 and the Cult of Intelligence" 에세이 공개**: comma.ai 창업자이자 유명 해커인 George Hotz가 AI 안전주의(장기적 실존 위험 프레임)를 정면으로 비판하는 장문의 에세이를 공개했다. 핵심 주장은 (1) 토큰 예측만으로는 세상을 지배할 수 없으며 현실의 물리적·공급망 제약이 하드 테이크오프를 막는다, (2) 중앙화된 AI 안전 레짐은 사실상 세계 정부의 확장판이며, 진짜 해법은 사용자에게 완전히 정렬된 로컬 AI다. HN 150포인트·173댓글로 폭발적 반응. 창업자/오퍼레이터에게는 AI 안전 담론의 대안적 프레임으로서, 그리고 로컬 AI 생태계의 논리적 근거로서 주목할 가치가 있다. [geohot](https://geohot.github.io/blog/jekyll/update/2026/07/11/ai-2040.html)
-<!--more-->
 - **OpenAI, Git 공식 포크**: OpenAI가 GitHub에 `openai/git`이라는 자체 Git 포크 리포지토리를 생성했다. 설명란에는 "the information manager from hell - linus torvalds"라고만 적혀 있다. 현재로서는 내부 개발 인프라 용도인지, 외부에 공개할 의도가 있는지 불명확하지만, 주요 AI 연구소가 자체 버전 관리 도구를 포크한 것은 AI 기반 소프트웨어 개발 파이프라인에 대한 독립적 통제권 확보 시도로 읽힌다. [GitHub](https://github.com/openai/git)
 - **Meta, 인스타그램 AI 이미지 생성 기능 출시 3일 만에 철회**: Muse Image라는 AI 기능이 인스타그램 사용자 콘텐츠를 기반으로 가짜 이미지를 생성했는데, 공개 계정 사용자가 기본 옵트인되는 구조였다. Privacy International 등 인권 단체의 강한 비판과 사용자 반발이 이어지자 Meta가 기능을 전면 중단. AI 기능의 기본 옵트인 설계가 얼마나 빠르게 신뢰를 훼손하는지 보여주는 사례. [BBC](https://www.bbc.com/news/articles/c2dy6e8klw0o) · [TechCrunch](https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/)
 

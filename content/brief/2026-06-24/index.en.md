@@ -1,15 +1,12 @@
 ---
-title: "AI / Startup Morning Brief — 2026-06-24"
+title: "Anthropic launches Claude Tag — an agentic AI coworker for Slack"
 date: 2026-06-24
-summary: "Anthropic launches Claude Tag — an agentic AI coworker for Slack: Claude now lives in Slack channels, learning context and providing suggestions as a persistent team member. This…"
-description: "Anthropic launches Claude Tag — an agentic AI coworker for Slack: Claude now lives in Slack channels, learning context and providing suggestions as a persistent team member. This…"
+summary: "Claude now lives in Slack channels, learning context and providing suggestions as a persistent team member. This…"
+description: "Claude now lives in Slack channels, learning context and providing suggestions as a persistent team member. This…"
 ---
-
-[AI/Startup Morning Brief — 2026-06-24]
 
 ## Key Shifts
 - **Anthropic launches Claude Tag — an agentic AI coworker for Slack**: Claude now lives in Slack channels, learning context and providing suggestions as a persistent team member. This marks agentic AI's entry as a first-class participant in enterprise collaboration tools. [Anthropic](https://www.anthropic.com/news/introducing-claude-tag) · [ZDNet](https://www.zdnet.com/article/anthropic-claude-tag-agentic-ai-coworker-slack/)
-<!--more-->
 - **OpenAI unveils DayBreak (GPT-5.5-Cyber), a cybersecurity-specialized frontier model**: The first major frontier model purpose-built for a specific domain — cyber defense — signals a shift from general-purpose chatbots to domain-specialized AI. OpenAI positions the model as a defender tool for security teams. [OpenAI](https://openai.com/index/daybreak-securing-the-world/)
 - **Mistral OCR 4 sets a new standard for structured document extraction**: With bounding boxes, block classification, and multilingual support, Mistral's latest OCR model demonstrates European AI infrastructure competitiveness at the frontier, particularly for document-intelligence use cases. [Mistral](https://mistral.ai/news/ocr-4/)
 

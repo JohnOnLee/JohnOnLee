@@ -1,15 +1,12 @@
 ---
-title: "AI·스타트업 모닝 브리프 - 2026-06-24"
+title: "Anthropic, 슬랙용 에이전트 AI 'Claude Tag' 출시"
 date: 2026-06-24
-summary: "Anthropic, 슬랙용 에이전트 AI 'Claude Tag' 출시: 기업용 메신저 슬랙에 상주하며 맥락을 학습하고 제안을 제공하는 AI 동료 개념. 에이전트 AI가 협업 도구의 일급 사용자로 진입하는 전환점. Anthropic · ZDNet"
-description: "Anthropic, 슬랙용 에이전트 AI 'Claude Tag' 출시: 기업용 메신저 슬랙에 상주하며 맥락을 학습하고 제안을 제공하는 AI 동료 개념. 에이전트 AI가 협업 도구의 일급 사용자로 진입하는 전환점. Anthropic · ZDNet"
+summary: "기업용 메신저 슬랙에 상주하며 맥락을 학습하고 제안을 제공하는 AI 동료 개념. 에이전트 AI가 협업 도구의 일급 사용자로 진입하는 전환점. Anthropic · ZDNet"
+description: "기업용 메신저 슬랙에 상주하며 맥락을 학습하고 제안을 제공하는 AI 동료 개념. 에이전트 AI가 협업 도구의 일급 사용자로 진입하는 전환점. Anthropic · ZDNet"
 ---
-
-[브리핑/AI] AI·스타트업 모닝 브리프 - 2026-06-24
 
 ## 핵심 변화
 - **Anthropic, 슬랙용 에이전트 AI 'Claude Tag' 출시**: 기업용 메신저 슬랙에 상주하며 맥락을 학습하고 제안을 제공하는 AI 동료 개념. 에이전트 AI가 협업 도구의 일급 사용자로 진입하는 전환점. [Anthropic](https://www.anthropic.com/news/introducing-claude-tag) · [ZDNet](https://www.zdnet.com/article/anthropic-claude-tag-agentic-ai-coworker-slack/)
-<!--more-->
 - **OpenAI, 사이버보안 특화 프론티어 모델 'DayBreak' (GPT-5.5-Cyber) 공개**: 범용 챗봇을 넘어 특정 도메인(사이버보안)에 특화된 프론티어 모델이 등장. AI가 방어자 도구로 포지셔닝되는 첫 사례. [OpenAI](https://openai.com/index/daybreak-securing-the-world/)
 - **Mistral OCR 4 — 구조화 문서 추출의 새로운 기준**: 바운딩 박스, 블록 분류, 다국어 지원을 갖춘 OCR 전용 모델. 유럽 AI의 인프라스트럭처 경쟁력 입증. [Mistral](https://mistral.ai/news/ocr-4/)
 

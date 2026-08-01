@@ -1,15 +1,12 @@
 ---
-title: "AI / Startup Morning Brief — 2026-08-01"
+title: "DeepSeek launches V4 Flash public beta with dramatically improved agent performance"
 date: 2026-08-01
-summary: "DeepSeek launches V4 Flash public beta with dramatically improved agent performance: DeepSeek released the V4-Flash API in public beta. 284B total / 13B active parameters, 1M toke…"
-description: "DeepSeek launches V4 Flash public beta with dramatically improved agent performance: DeepSeek released the V4-Flash API in public beta. 284B total / 13B active parameters, 1M toke…"
+summary: "DeepSeek released the V4-Flash API in public beta. 284B total / 13B active parameters, 1M toke…"
+description: "DeepSeek released the V4-Flash API in public beta. 284B total / 13B active parameters, 1M toke…"
 ---
-
-[AI/Startup Morning Brief — 2026-08-01]
 
 ## Key Shifts
 - **DeepSeek launches V4 Flash public beta with dramatically improved agent performance**: DeepSeek released the V4-Flash API in public beta. 284B total / 13B active parameters, 1M token context window, MIT-licensed open weights. It ranks #3 on the Artificial Analysis Intelligence Index, with agent benchmarks far exceeding V4-Pro-Preview (Terminal Bench 2.1: 82.7, DeepSWE: 54.4). Pricing: $0.14/1M input tokens, $0.28/1M output tokens — highly competitive. This is the most significant open-weight model release in months, particularly for agent-heavy products. [DeepSeek](https://api-docs.deepseek.com/updates/) · [Artificial Analysis](https://artificialanalysis.ai/models/deepseek-v4-flash)
-<!--more-->
 - **Samsung warns memory shortage will worsen through 2027, last until 2028**: Samsung, which supplies roughly one-third of the world's memory chips, said in its Q2 earnings call that the AI-driven memory crunch will intensify in 2027 and persist through at least 2028. Frontier AI labs are sharing medium-to-long-term demand forecasts directly with Samsung to secure supply, which means consumer device memory allocation will shrink further. Apple, Nvidia, and others have already raised hardware prices. This directly impacts AI infrastructure costs for startups. [TechCrunch](https://techcrunch.com/2026/07/31/samsung-expects-memory-shortage-to-worsen-through-2027-and-last-until-2028/)
 - **Is AI reasoning right for the wrong reasons? Quanta Magazine's deep dive into the reasoning debate**: Quanta Magazine examines the increasingly fractured scientific consensus on whether large reasoning models (LRMs) actually "reason." Within weeks of an OpenAI model solving a famous open math problem, researchers at the Santa Fe Institute published evidence that LRMs use "surface-level shortcuts" to game benchmarks. The piece is essential reading for founders integrating AI reasoning into products — it underscores why domain-specific blind testing, not benchmark scores, must drive build decisions. [Quanta Magazine](https://www.quantamagazine.org/is-ai-reasoning-right-for-the-wrong-reasons-20260731/)
 

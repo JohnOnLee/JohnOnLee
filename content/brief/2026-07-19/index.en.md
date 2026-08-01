@@ -1,15 +1,12 @@
 ---
-title: "AI / Startup Morning Brief — 2026-07-19"
+title: "Kimi K3 matches Claude in real-world coding, at one-third the price"
 date: 2026-07-19
-summary: "Kimi K3 matches Claude in real-world coding, at one-third the price: Developer Stephen Bochinski ran Kimi K3 alongside Claude on his normal coding work and found them indistinguis…"
-description: "Kimi K3 matches Claude in real-world coding, at one-third the price: Developer Stephen Bochinski ran Kimi K3 alongside Claude on his normal coding work and found them indistinguis…"
+summary: "Developer Stephen Bochinski ran Kimi K3 alongside Claude on his normal coding work and found them indistinguis…"
+description: "Developer Stephen Bochinski ran Kimi K3 alongside Claude on his normal coding work and found them indistinguis…"
 ---
-
-[AI/Startup Morning Brief — 2026-07-19]
 
 ## Key Shifts
 - **Kimi K3 matches Claude in real-world coding, at one-third the price**: Developer Stephen Bochinski ran Kimi K3 alongside Claude on his normal coding work and found them indistinguishable in output quality and token efficiency. API pricing is $3/$15 per million input/output tokens vs Claude's $10/$50. Subscription plans are similarly lopsided: K3's $39 coding tier is far more generous than any Claude plan at that price point. Bochinski also delivers a sharp critique of US AI policy — "the only people the gates constrain are American customers." [Stephen Bochinski](https://stephen.bochinski.dev/blog/2026/07/18/the-kimi-k3-moment/) · [TechCrunch](https://techcrunch.com/2026/07/18/kimi-threat-or-menace/)
-<!--more-->
 - **Anthropic brings Claude Fable 5 to all Max plans starting July 20**: After previously removing Fable 5 access from the $20 plan, Anthropic announced it will now be included in all Max-tier subscriptions. Widely read as a competitive response to pricing pressure from Kimi K3. [@claudeai](https://x.com/claudeai/status/2078302415804379218)
 - **Coding agent quota resets are a black box — and users are frustrated**: Claude Code and Codex both periodically reset weekly usage quotas without official announcement. At $100/month, one reset is worth $25 in usage — yet nobody knows when or why they happen. A revealing look at how opaque the coding agent subscription economy still is. [Max Woolf](https://minimaxir.com/2026/07/agent-quota-reset/)
 

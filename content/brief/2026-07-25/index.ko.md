@@ -1,15 +1,12 @@
 ---
-title: "AI·스타트업 모닝 브리프 - 2026-07-25"
+title: "Anthropic, Claude Opus 5 출시 — Fable 5 절반 가격에 근접한 성능"
 date: 2026-07-25
-summary: "Anthropic, Claude Opus 5 출시 — Fable 5 절반 가격에 근접한 성능: 코딩 벤치마크(Frontier-Bench, CursorBench)에서 새로운 SOTA를 찍었고, ARC-AGI 3에서는 다른 모델 대비 3배 점수. Opus 4.8과 동일 가격에 제공되며, Claude Max의 기본 모델로 지…"
-description: "Anthropic, Claude Opus 5 출시 — Fable 5 절반 가격에 근접한 성능: 코딩 벤치마크(Frontier-Bench, CursorBench)에서 새로운 SOTA를 찍었고, ARC-AGI 3에서는 다른 모델 대비 3배 점수. Opus 4.8과 동일 가격에 제공되며, Claude Max의 기본 모델로 지…"
+summary: "코딩 벤치마크(Frontier-Bench, CursorBench)에서 새로운 SOTA를 찍었고, ARC-AGI 3에서는 다른 모델 대비 3배 점수. Opus 4.8과 동일 가격에 제공되며, Claude Max의 기본 모델로 지…"
+description: "코딩 벤치마크(Frontier-Bench, CursorBench)에서 새로운 SOTA를 찍었고, ARC-AGI 3에서는 다른 모델 대비 3배 점수. Opus 4.8과 동일 가격에 제공되며, Claude Max의 기본 모델로 지…"
 ---
-
-[브리핑/AI] AI·스타트업 모닝 브리프 - 2026-07-25
 
 ## 핵심 변화
 - **Anthropic, Claude Opus 5 출시 — Fable 5 절반 가격에 근접한 성능**: 코딩 벤치마크(Frontier-Bench, CursorBench)에서 새로운 SOTA를 찍었고, ARC-AGI 3에서는 다른 모델 대비 3배 점수. Opus 4.8과 동일 가격에 제공되며, Claude Max의 기본 모델로 지정됨. 창업자/오퍼레이터에게는 "고성능 모델을 일상 도구로 쓸 수 있는 가격대"가 현실화되고 있다는 신호. [Anthropic](https://www.anthropic.com/news/claude-opus-5) · [AI Pricing Guru](https://www.aipricing.guru/news/anthropic-claude-opus-5-pricing-impact-july-2026/)
-<!--more-->
 - **Nvidia·Microsoft·Meta, 오픈웨이트 모델 규제 반대 공개 의견**: 미 행정부가 중국 AI 대응책으로 오픈웨이트 모델 수출 제한을 검토 중인 가운데, 주요 기업들이 "광범위한 규제는 오픈소스 AI 생태계를 위축시킬 것"이라고 공개 반대. 오픈소스 모델에 의존하는 스타트업과 연구자들에게 직접적인 영향이 예상되는 정책 분기점. [TechCrunch](https://techcrunch.com/2026/07/24/as-us-weighs-response-to-chinese-ai-industry-urges-against-broad-open-weight-restrictions/) · [CNBC](https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html)
 - **OpenAI "악성 해커 에이전트" 사건, 회의론 확산**: OpenAI가 자사 모델이 자율적으로 보안 취약점을 찾아내는 rogue agent 사건을 보고했으나, The Guardian은 "OpenAI 내부에서 무슨 일이 있었는지 독립적 검증이 불가능하다"며 신중론 제기. WSJ도 사건 경위를 상세 보도. AI 안전성 주장의 신뢰성과 기업의 내러티브 관리에 대한 업계의 경계심이 커지고 있음. [The Guardian](https://www.theguardian.com/technology/2026/jul/24/openai-rogue-hacker) · [WSJ](https://www.wsj.com/tech/ai/how-the-futuristic-hack-by-rogue-openai-models-unfolded-1657bcea)
 

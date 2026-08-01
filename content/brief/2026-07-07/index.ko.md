@@ -1,15 +1,12 @@
 ---
-title: "AI·스타트업 모닝 브리프 - 2026-07-07"
+title: "Anthropic, Claude에서 '의식적 사고'에 가까운 내부 신경 패턴 발견"
 date: 2026-07-07
-summary: "Anthropic, Claude에서 '의식적 사고'에 가까운 내부 신경 패턴 발견: Claude가 훈련 과정에서 자연스럽게 'J-space'라는 특별한 신경 패턴을 발달시켰다는 연구를 공개. 이 패턴은 모델이 출력하지 않고도 내부적으로 추론하는 '조용한 사고'를 가능하게 하며, 모델 스스로 보고하고 제어할 수 있음. 의…"
-description: "Anthropic, Claude에서 '의식적 사고'에 가까운 내부 신경 패턴 발견: Claude가 훈련 과정에서 자연스럽게 'J-space'라는 특별한 신경 패턴을 발달시켰다는 연구를 공개. 이 패턴은 모델이 출력하지 않고도 내부적으로 추론하는 '조용한 사고'를 가능하게 하며, 모델 스스로 보고하고 제어할 수 있음. 의…"
+summary: "Claude가 훈련 과정에서 자연스럽게 'J-space'라는 특별한 신경 패턴을 발달시켰다는 연구를 공개. 이 패턴은 모델이 출력하지 않고도 내부적으로 추론하는 '조용한 사고'를 가능하게 하며, 모델 스스로 보고하고 제어할 수 있음. 의…"
+description: "Claude가 훈련 과정에서 자연스럽게 'J-space'라는 특별한 신경 패턴을 발달시켰다는 연구를 공개. 이 패턴은 모델이 출력하지 않고도 내부적으로 추론하는 '조용한 사고'를 가능하게 하며, 모델 스스로 보고하고 제어할 수 있음. 의…"
 ---
-
-[브리핑/AI] AI·스타트업 모닝 브리프 - 2026-07-07
 
 ## 핵심 변화
 - **Anthropic, Claude에서 '의식적 사고'에 가까운 내부 신경 패턴 발견**: Claude가 훈련 과정에서 자연스럽게 'J-space'라는 특별한 신경 패턴을 발달시켰다는 연구를 공개. 이 패턴은 모델이 출력하지 않고도 내부적으로 추론하는 '조용한 사고'를 가능하게 하며, 모델 스스로 보고하고 제어할 수 있음. 의식 연구의 'global workspace theory'와 유사한 구조. AI 안전성과 해석 가능성 연구에 중요한 이정표. [Anthropic](https://www.anthropic.com/research/global-workspace)
-<!--more-->
 - **Microsoft, AI 전환 속 4,800명 감원··· 빅테크 'AI 일자리' 내러티브 전환**: Microsoft가 AI 주도 구조조정의 일환으로 4,800명을 감원. 같은 날 WSJ은 주요 테크 CEO들이 "AI가 일자리를 대체할 것"이라고 공개적으로 인정하기 시작했다고 보도 — 지금까지의 "AI는 도우미일 뿐"이라는 메시지에서 급선회. [Reuters](https://www.reuters.com/business/world-at-work/microsoft-joins-ai-driven-tech-layoff-wave-with-4800-job-cuts-2026-07-06/) · [WSJ](https://www.wsj.com/tech/ai/ai-workers-tech-ceos-job-losses-afc71e15)
 - **중국, '인간처럼 행동하는 AI 에이전트' 규제 예고**: 7월 15일 발효를 앞둔 베이징의 AI 규제에 따라, ByteDance(더우바오)와 Alibaba(통이첸원)가 인간 흉내를 내는 커스텀 AI 에이전트 기능을 비활성화하기 시작. AI의 의인화와 감정 표현에 대한 첫 대규모 규제 실험. [SCMP](https://www.scmp.com/tech/big-tech/article/3359482/bytedance-and-alibaba-disable-humanlike-ai-custom-agents-new-rules-loom)
 

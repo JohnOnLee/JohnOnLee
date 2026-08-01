@@ -1,11 +1,9 @@
 ---
-title: "AI·스타트업 모닝 브리프 - 2026-05-29"
+title: "Anthropic, Series H $65B 조달 — 최고 가치 AI 스타트업 등극"
 date: 2026-05-29
-summary: "매일 아침 AI/스타트업 핵심 변화, 미래 신호, 현실적인 기회를 정리한 브리프."
-description: "매일 아침 AI/스타트업 핵심 변화, 미래 신호, 현실적인 기회를 정리한 브리프."
+summary: "Anthropic이 Series H로 $65B를 조달하며 $965B 포스트머니 밸류에이션을 기록, OpenAI를 제치고 가장 높은 가치의 AI 스타트업이 되었다. 같은 날 Claude Opus 4.8을 출시하고 Mythos 등급 모델의 공개 출시를 예고했다."
+description: "Anthropic이 Series H로 $65B를 조달하며 $965B 포스트머니 밸류에이션을 기록, OpenAI를 제치고 가장 높은 가치의 AI 스타트업이 되었다. 같은 날 Claude Opus 4.8을 출시하고 Mythos 등급 모델의 공개 출시를 예고했다."
 ---
-
-[브리핑/AI] AI·스타트업 모닝 브리프 - 2026-05-29
 
 ## 핵심 변화
 
@@ -13,7 +11,6 @@ description: "매일 아침 AI/스타트업 핵심 변화, 미래 신호, 현실
   [Anthropic](https://www.anthropic.com/news/series-h)
   [Anthropic](https://www.anthropic.com/news/claude-opus-4-8)
 
-<!--more-->
 - "I'm Tired of Talking to AI" 글이 HN에서 1,959포인트/933댓글로 폭발적 반응을 얻었다. AI 생성 답변과의 대화에 대한 피로감이 개발자 커뮤니티에서 주류 정서로 부상 중. 동시에 DuckDuckGo는 Google의 AI 모드 강화 이후 검색 트래픽이 28% 증가했다고 밝혔다.
   [Orchidfiles](https://orchidfiles.com/im-tired-of-ai-generated-answers/)
   [Pcgamer](https://www.pcgamer.com/hardware/duckduckgos-ai-free-search-saw-nearly-28-percent-more-visits-in-the-week-following-googles-insistence-that-people-love-ai-mode/)

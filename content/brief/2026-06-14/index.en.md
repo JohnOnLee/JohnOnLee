@@ -1,15 +1,12 @@
 ---
-title: "AI / Startup Morning Brief — 2026-06-14"
+title: "US government orders Anthropic to block foreign access to Fable 5 and Mythos 5 — AI export controls are here"
 date: 2026-06-14
-summary: "US government orders Anthropic to block foreign access to Fable 5 and Mythos 5 — AI export controls are here: The Trump administration issued an export control directive forcing A…"
-description: "US government orders Anthropic to block foreign access to Fable 5 and Mythos 5 — AI export controls are here: The Trump administration issued an export control directive forcing A…"
+summary: "The Trump administration issued an export control directive forcing A…"
+description: "The Trump administration issued an export control directive forcing A…"
 ---
-
-[AI/Startup Morning Brief — 2026-06-14]
 
 ## Key Shifts
 - **US government orders Anthropic to block foreign access to Fable 5 and Mythos 5 — AI export controls are here**: The Trump administration issued an export control directive forcing Anthropic to suspend all foreign-national access to its latest frontier models. The WSJ reports that Amazon's CEO played a triggering role through conversations with US officials. Foundation models are now being treated as controlled technology, akin to munitions. Founders building global products must start treating model-access geopolitics as a first-order design constraint, not an afterthought. [Anthropic](https://www.anthropic.com/news/fable-mythos-access) · [Ars Technica](https://arstechnica.com/ai/2026/06/anthropic-shuts-down-fable-mythos-models-following-trump-admin-directive/) · [WSJ](https://www.wsj.com/tech/ai/amazon-ceos-talks-with-u-s-officials-triggered-crackdown-on-anthropic-models-dcc90578) · [Al Jazeera](https://www.aljazeera.com/news/2026/6/13/us-orders-anthropic-to-disable-ai-models-for-all-foreign-nationals)
-<!--more-->
 - **China's Zhipu AI releases GLM-5.2 as fully open — "Frontier intelligence belongs to everyone"**: On the same day as the Anthropic restrictions, Zhipu AI launched GLM-5.2 fully open-source with a statement directly calling the sudden restriction of frontier models "deeply regrettable." The US-China divide on AI is hardening into an open-vs-forked ecosystem architecture, and model provenance now carries geopolitical meaning. [Zhipu AI (X)](https://x.com/jietang/status/2065784751345287314) · [Hacker News](https://news.ycombinator.com/item?id=48518684)
 
 ## Startup / Product / Platform Radar

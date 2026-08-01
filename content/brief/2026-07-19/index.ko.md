@@ -1,15 +1,12 @@
 ---
-title: "AI·스타트업 모닝 브리프 - 2026-07-19"
+title: "Kimi K3, 실제 코딩 현장에서 Claude와 구별 불가 수준"
 date: 2026-07-19
-summary: "Kimi K3, 실제 코딩 현장에서 Claude와 구별 불가 수준: 개발자 Stephen Bochinski가 Kimi K3와 Claude를 실제 코딩 작업에서 나란히 사용한 결과, 출력 품질과 토큰 소비량에서 차이를 느낄 수 없었다고 보고했다. API 가격은 K3가 입력 $3/1M·출력 $15/1M로 Claude($10…"
-description: "Kimi K3, 실제 코딩 현장에서 Claude와 구별 불가 수준: 개발자 Stephen Bochinski가 Kimi K3와 Claude를 실제 코딩 작업에서 나란히 사용한 결과, 출력 품질과 토큰 소비량에서 차이를 느낄 수 없었다고 보고했다. API 가격은 K3가 입력 $3/1M·출력 $15/1M로 Claude($10…"
+summary: "개발자 Stephen Bochinski가 Kimi K3와 Claude를 실제 코딩 작업에서 나란히 사용한 결과, 출력 품질과 토큰 소비량에서 차이를 느낄 수 없었다고 보고했다. API 가격은 K3가 입력 $3/1M·출력 $15/1M로 Claude($10…"
+description: "개발자 Stephen Bochinski가 Kimi K3와 Claude를 실제 코딩 작업에서 나란히 사용한 결과, 출력 품질과 토큰 소비량에서 차이를 느낄 수 없었다고 보고했다. API 가격은 K3가 입력 $3/1M·출력 $15/1M로 Claude($10…"
 ---
-
-[브리핑/AI] AI·스타트업 모닝 브리프 - 2026-07-19
 
 ## 핵심 변화
 - **Kimi K3, 실제 코딩 현장에서 Claude와 구별 불가 수준**: 개발자 Stephen Bochinski가 Kimi K3와 Claude를 실제 코딩 작업에서 나란히 사용한 결과, 출력 품질과 토큰 소비량에서 차이를 느낄 수 없었다고 보고했다. API 가격은 K3가 입력 $3/1M·출력 $15/1M로 Claude($10/$50) 대비 3분의 1 수준. 구독 요금제도 K3 $39 티어가 Claude의 어떤 동급 플랜보다 넉넉하다. US AI 정책의 실패에 대한 날카로운 비판도 포함 — "제한된 건 미국 고객뿐." [Stephen Bochinski](https://stephen.bochinski.dev/blog/2026/07/18/the-kimi-k3-moment/) · [TechCrunch](https://techcrunch.com/2026/07/18/kimi-threat-or-menace/)
-<!--more-->
 - **Anthropic, Fable 5를 모든 Max 플랜에 포함 — 7월 20일부터**: 기존 $20 플랜에서 Fable 5 제공을 중단했던 Anthropic이 Max 요금제 전체로 확대한다고 공식 발표했다. Kimi K3의 가격 압박에 대한 대응으로 읽힌다. [@claudeai](https://x.com/claudeai/status/2078302415804379218)
 - **AI 코딩 에이전트, 조용한 주간 할당량 초기화로 이용자 혼란**: Claude Code와 Codex 모두 공식 채널 공지 없이 임의로 주간 사용량을 초기화(reset)해주는 경우가 빈번하다. $100/월 플랜에서 한 번 초기화는 $25의 가치 — 그런데 언제, 왜 초기화되는지 아무도 모른다. 코딩 에이전트 구독 경제가 얼마나 불투명한지 보여주는 단면. [Max Woolf](https://minimaxir.com/2026/07/agent-quota-reset/)
 

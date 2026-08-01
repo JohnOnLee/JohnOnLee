@@ -1,15 +1,12 @@
 ---
-title: "AI·스타트업 모닝 브리프 - 2026-06-12"
+title: "Anthropic, TCS와 함께 엔터프라이즈 진출 본격화"
 date: 2026-06-12
-summary: "Anthropic, TCS와 함께 엔터프라이즈 진출 본격화: Anthropic이 인도 IT 대기업 TCS와 손잡고 자사 AI 모델의 기업 배포를 전담할 BU를 신설한다. 동시에 CEO 다리오 아모데이가 단 1명의 직속 보고 체계를 유지하고 있다는 조직 설계도 공개되었다. TechCrunch · TechCrunch"
-description: "Anthropic, TCS와 함께 엔터프라이즈 진출 본격화: Anthropic이 인도 IT 대기업 TCS와 손잡고 자사 AI 모델의 기업 배포를 전담할 BU를 신설한다. 동시에 CEO 다리오 아모데이가 단 1명의 직속 보고 체계를 유지하고 있다는 조직 설계도 공개되었다. TechCrunch · TechCrunch"
+summary: "Anthropic이 인도 IT 대기업 TCS와 손잡고 자사 AI 모델의 기업 배포를 전담할 BU를 신설한다. 동시에 CEO 다리오 아모데이가 단 1명의 직속 보고 체계를 유지하고 있다는 조직 설계도 공개되었다. TechCrunch · TechCrunch"
+description: "Anthropic이 인도 IT 대기업 TCS와 손잡고 자사 AI 모델의 기업 배포를 전담할 BU를 신설한다. 동시에 CEO 다리오 아모데이가 단 1명의 직속 보고 체계를 유지하고 있다는 조직 설계도 공개되었다. TechCrunch · TechCrunch"
 ---
-
-[브리핑/AI] AI·스타트업 모닝 브리프 - 2026-06-12
 
 ## 핵심 변화
 - **Anthropic, TCS와 함께 엔터프라이즈 진출 본격화**: Anthropic이 인도 IT 대기업 TCS와 손잡고 자사 AI 모델의 기업 배포를 전담할 BU를 신설한다. 동시에 CEO 다리오 아모데이가 단 1명의 직속 보고 체계를 유지하고 있다는 조직 설계도 공개되었다. [TechCrunch](https://techcrunch.com/2026/06/11/anthropic-taps-tcs-to-scale-its-enterprise-ai-deployments/) · [TechCrunch](https://techcrunch.com/2026/06/10/anthropics-dario-amodei-has-just-one-direct-report/)
-<!--more-->
 - **AI 인프라 지출, 공격적 확장 지속**: Amazon이 80억 달러 채권 발행 직후 은행에서 175억 달러를 추가 차입하며 AI 투자를 이어간다. Meta는 인도 Reliance와 168MW 규모의 첫 AI 데이터센터 계약을 체결했다. Ramp의 AI Index에 따르면 'AI-pilled' 기업들은 직원당 월 $7,500를 AI에 지출 중이다. [TechCrunch](https://techcrunch.com/2026/06/10/fresh-off-bond-sale-amazon-borrows-17-5-billion-from-banks-as-ai-spending-continues/) · [TechCrunch](https://techcrunch.com/2026/06/10/meta-signs-first-ai-data-center-deal-in-india-with-reliance/) · [TechCrunch](https://techcrunch.com/2026/06/10/ai-pilled-firms-spend-7500-per-employee-each-month-on-ai/)
 - **Waymo Premier 출시 — 자율주행도 구독 경제로**: Waymo가 초대 전용 멤버십 프로그램 Waymo Premier를 발표했다. 월정액으로 우선 매칭, 10% 캐시백, 신규 도시 얼리 액세스, 월 5회 무료 취소 등의 혜택을 제공한다. 자율주행 라이드헤일링이 실리콘밸리 밖 대중 시장으로 진입하는 단계다. [Waymo](https://waymo.com/blog/2026/06/waymo-premier/)
 - **샤오미, AI 코딩 모델 MiMo Code 오픈소스 공개**: 샤오미가 자체 개발한 AI 코딩 어시스턴트 MiMo Code를 오픈소스로 출시했다. HN에서 379포인트로 빠르게 주목받으며 개발자 커뮤니티의 관심을 끌고 있다. [MiMo](https://mimo.xiaomi.com/mimocode) · [Hacker News](https://news.ycombinator.com/item?id=48490826)

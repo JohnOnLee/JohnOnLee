@@ -1,15 +1,12 @@
 ---
-title: "AI / Startup Morning Brief — 2026-07-20"
+title: "Qwen 3.8 Max: 2.4T-parameter open-weight model from Alibaba"
 date: 2026-07-20
-summary: "Qwen 3.8 Max: 2.4T-parameter open-weight model from Alibaba: Alibaba's Qwen team unveiled Qwen 3.8, a 2.4-trillion-parameter model that will soon go open-weight. Currently availab…"
-description: "Qwen 3.8 Max: 2.4T-parameter open-weight model from Alibaba: Alibaba's Qwen team unveiled Qwen 3.8, a 2.4-trillion-parameter model that will soon go open-weight. Currently availab…"
+summary: "Alibaba's Qwen team unveiled Qwen 3.8, a 2.4-trillion-parameter model that will soon go open-weight. Currently availab…"
+description: "Alibaba's Qwen team unveiled Qwen 3.8, a 2.4-trillion-parameter model that will soon go open-weight. Currently availab…"
 ---
-
-[AI/Startup Morning Brief — 2026-07-20]
 
 ## Key Shifts
 - **Qwen 3.8 Max: 2.4T-parameter open-weight model from Alibaba**: Alibaba's Qwen team unveiled Qwen 3.8, a 2.4-trillion-parameter model that will soon go open-weight. Currently available as a preview via the QwenCloud Token Plan. The top AI story of the day on HN with 711 points, signaling rapidly intensifying competition from Chinese AI labs. [Qwen](https://x.com/Alibaba_Qwen/status/2078759124914098291) · [QwenCloud](https://www.qwencloud.com/pricing/token-plan)
-<!--more-->
 - **Moonshot AI suspends new Kimi K3 subscriptions as demand overwhelms capacity**: Chinese AI lab Moonshot AI was forced to halt new sign-ups for its latest Kimi K3 model just after launch due to overwhelming demand. The model drew public commentary from OpenAI's Head of Strategic Futures, underlining its competitive significance. 160 HN points. [Moonshot AI](https://x.com/kimi_moonshot/status/2078855608565207130) · [TechCrunch](https://techcrunch.com/2026/07/18/kimi-threat-or-menace/)
 - **Netflix paid $587M cash for Ben Affleck's AI startup InterPositive**: Netflix disclosed in a federal filing that it paid $587 million in cash to acquire InterPositive, the AI startup founded by Ben Affleck. The deal signals that serious M&A between media companies and AI startups is now underway — not just partnerships, but full acquisitions. [Variety](https://variety.com/2026/film/news/netflix-paid-587-million-ben-affleck-ai-interpositive-1236815111/)
 

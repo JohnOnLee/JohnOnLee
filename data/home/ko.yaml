@@ -1,0 +1,43 @@
+hero:
+  eyebrow: "AI · 제품 · 만드는 일"
+  title: "누구나 자신의 아이디어를 제품으로 만들고, 그것을 자산으로 소유할 수 있는 미래를 꿈꿉니다."
+  intro: "AI로 더 잘 만들고, 실제로 출시하고, 지속 가능한 제품으로 성장시키는 과정에서 배운 것들을 공유합니다."
+  navLabel: "홈페이지 주요 링크"
+  primaryLabel: "최근 글 읽기"
+  primaryUrl: "/blog/"
+  secondaryLabel: "AI 레이더 보기"
+  secondaryUrl: "/brief/"
+
+writing:
+  label: "Writing"
+  title: "최근 글"
+  allLabel: "모든 글"
+  allUrl: "/blog/"
+  readLabel: "글 읽기"
+  empty: "새 글을 준비하고 있습니다."
+
+topics:
+  label: "What I write about"
+  title: "만드는 사람에게 필요한 것"
+  items:
+    - title: "AI로 더 잘 만들기"
+      description: "도구와 모델을 실제 작업에 맞게 사용하는 방법"
+    - title: "실제 제품으로 출시하기"
+      description: "데모를 넘어 품질, 검증과 운영까지 가져가는 판단"
+    - title: "내가 만든 것을 키우기"
+      description: "아이디어를 직접 소유하고 지속 가능한 자산으로 발전시키는 과정"
+  note: "성공 공식을 이야기하기보다, 직접 만들며 확인한 것과 아직 모르는 것을 구분해 기록합니다."
+
+radar:
+  label: "AI Radar"
+  title: "무엇이 실제 변화를 만드는가"
+  description: "매일 쏟아지는 AI 뉴스 중 제품을 만들고 사업을 시작하는 사람에게 의미 있는 신호를 정리합니다."
+  allLabel: "AI 레이더 모두 보기"
+  allUrl: "/brief/"
+  readLabel: "최신 레이더 읽기"
+  empty: "최신 AI 레이더를 준비하고 있습니다."
+
+about:
+  label: "About this site"
+  title: "직접 만들고, 배우고, 기록합니다."
+  body: "소프트웨어와 AI 제품을 직접 만들고 운영하며 발견한 시행착오와 판단을 공유합니다. 바이브 코더, 전문 개발자, 제품 설계자와 창업자가 아이디어를 실제 제품으로 옮기는 데 도움이 되는 글을 쓰고 있습니다."

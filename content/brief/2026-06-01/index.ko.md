@@ -1,15 +1,12 @@
 ---
-title: "AI·스타트업 모닝 브리프 - 2026-06-01"
+title: "엔비디아, Computex 2026 키노트에서 N1/N1X ARM 프로세서 공개 예상 — Microsoft와의 '차세대 PC' 협업 암시"
 date: 2026-06-01
-summary: "엔비디아, Computex 2026 키노트에서 N1/N1X ARM 프로세서 공개 예상 — Microsoft와의 '차세대 PC' 협업 암시: 젠슨 황 CEO가 5월 31일 GTC Taipei 키노트에서 차세대 ARM 기반 프로세서 N1/N1X를 발표할 것으로 보이며, Microsoft가 'PC의 새로운 시대'를 예고한 점…"
-description: "엔비디아, Computex 2026 키노트에서 N1/N1X ARM 프로세서 공개 예상 — Microsoft와의 '차세대 PC' 협업 암시: 젠슨 황 CEO가 5월 31일 GTC Taipei 키노트에서 차세대 ARM 기반 프로세서 N1/N1X를 발표할 것으로 보이며, Microsoft가 'PC의 새로운 시대'를 예고한 점…"
+summary: "젠슨 황 CEO가 5월 31일 GTC Taipei 키노트에서 차세대 ARM 기반 프로세서 N1/N1X를 발표할 것으로 보이며, Microsoft가 'PC의 새로운 시대'를 예고한 점…"
+description: "젠슨 황 CEO가 5월 31일 GTC Taipei 키노트에서 차세대 ARM 기반 프로세서 N1/N1X를 발표할 것으로 보이며, Microsoft가 'PC의 새로운 시대'를 예고한 점…"
 ---
-
-[브리핑/AI] AI·스타트업 모닝 브리프 - 2026-06-01
 
 ## 핵심 변화
 - **엔비디아, Computex 2026 키노트에서 N1/N1X ARM 프로세서 공개 예상 — Microsoft와의 '차세대 PC' 협업 암시**: 젠슨 황 CEO가 5월 31일 GTC Taipei 키노트에서 차세대 ARM 기반 프로세서 N1/N1X를 발표할 것으로 보이며, Microsoft가 "PC의 새로운 시대"를 예고한 점과 맞물려 Surface 라인업에 탑재될 가능성이 크다. 엔비디아가 x86 진영에 본격적으로 진입하는 신호. [The Verge](https://www.theverge.com/tech/940540/how-to-watch-nvidias-computex-keynote)
-<!--more-->
 - **Meta, AI 펜던트·차세대 스마트 글래스 개발 중 — 웨어러블 AI 하드웨어 경쟁 본격화**: Meta가 음성 녹음·전사 기능을 갖춘 AI 펜던트와 기존과 다른 폼팩터의 스마트 글래스를 개발 중이라고 The Information이 내부 메모를 인용해 보도. '업무용 웨어러블' 카테고리를 신설하려는 움직임. [TechCrunch](https://techcrunch.com/2026/05/30/meta-is-reportedly-developing-an-ai-pendant/), [The Information](https://www.theinformation.com/articles/meta-memo-outlines-ambitious-hardware-plans-including-new-ai-pendant)
 - **Apple, 2027년 말 AI 글래스 출시 목표 — 200-500달러 대중 시장 겨냥**: Bloomberg의 Mark Gurman에 따르면 Apple은 Meta, Samsung 뿐 아니라 Oakley, Ray-Ban, Warby Parker와도 경쟁할 $200-$500 가격대의 스마트 글래스를 2027년 말 출시할 계획. Vision Air는 2029년으로 연기. [Bloomberg](https://www.bloomberg.com/news/articles/2026-05-31/apple-seeks-to-disrupt-the-glasses-market-the-way-it-did-with-watches), [9to5Mac](https://9to5mac.com/2026/05/31/apple-ai-glasses-launch-pushed-back-to-late-2027-vision-air-to-arrive-by-2029-report/)
 - **GitHub Copilot, 토큰 기반 과금 전환에 개발자 반발**: Copilot의 새로운 사용량 기반 과금 모델이 '말도 안 된다'는 비판을 받으며 개발자 커뮤니티에서 거센 반발. AI 코딩 도구의 수익화 모델이 전환점에 도달했음을 시사. [TechCrunch](https://techcrunch.com/2026/05/30/what-a-joke-github-copilots-new-token-based-billing-spurs-consternation-among-devs/)

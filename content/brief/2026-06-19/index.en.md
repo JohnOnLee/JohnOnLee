@@ -1,15 +1,12 @@
 ---
-title: "AI / Startup Morning Brief — 2026-06-19"
+title: "Empirical evidence shows AI dependency degrades professional skills"
 date: 2026-06-19
-summary: "Empirical evidence shows AI dependency degrades professional skills: A Nature-featured study found that physicians' adenoma detection rate during colonoscopies dropped from 28.4%…"
-description: "Empirical evidence shows AI dependency degrades professional skills: A Nature-featured study found that physicians' adenoma detection rate during colonoscopies dropped from 28.4%…"
+summary: "A Nature-featured study found that physicians' adenoma detection rate during colonoscopies dropped from 28.4%…"
+description: "A Nature-featured study found that physicians' adenoma detection rate during colonoscopies dropped from 28.4%…"
 ---
-
-[AI/Startup Morning Brief — 2026-06-19]
 
 ## Key Shifts
 - **Empirical evidence shows AI dependency degrades professional skills**: A Nature-featured study found that physicians' adenoma detection rate during colonoscopies dropped from 28.4% to 22.4% when AI assistance was unavailable, after they had grown accustomed to using it. Similar patterns are emerging among software engineers. Founders and operators building AI tools must intentionally design for skill retention, not just task automation. [Nature](https://www.nature.com/articles/d41586-026-01947-1)
-<!--more-->
 - **Enterprises are pulling back on AI as costs outstrip ROI**: The FT reports that even companies that conducted mass layoffs are finding AI unjustifiable on cost grounds for most use cases. None of the major AI companies are profitable — they are still charging below their actual delivery cost. For teams building enterprise AI products, proving concrete value-per-dollar is about to get much harder. [Financial Times](https://www.ft.com/content/1d37cc08-e0aa-45a4-a45d-4ad282529314)
 - **Miami startup Subquadratic releases third-party benchmarks for its transformer-alternative architecture**: The SubQ model claims to have broken through a key bottleneck holding back LLMs, offering 12x context processing, lower cost, and lower energy use while roughly matching top models from OpenAI, Anthropic, and DeepMind on coding tasks. Independent evaluation by Appen partially validates the claims, but the model is not yet publicly available. [MIT Technology Review](https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/)
 

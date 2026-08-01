@@ -1,15 +1,12 @@
 ---
-title: "AI·스타트업 모닝 브리프 - 2026-07-18"
+title: "Moonshot AI, 2.8조 파라미터 오픈 모델 Kimi K3 공개"
 date: 2026-07-18
-summary: "Moonshot AI, 2.8조 파라미터 오픈 모델 Kimi K3 공개: 중국 스타트업 Moonshot AI가 2.8조 파라미터의 오픈웨이트 모델 Kimi K3를 발표했다. 자체 벤치마크 기준 Claude Opus 4.8과 GPT-5.5를 대부분의 항목에서 앞서며, Arena.ai 프론트엔드 코딩 아레나에서는 Claud…"
-description: "Moonshot AI, 2.8조 파라미터 오픈 모델 Kimi K3 공개: 중국 스타트업 Moonshot AI가 2.8조 파라미터의 오픈웨이트 모델 Kimi K3를 발표했다. 자체 벤치마크 기준 Claude Opus 4.8과 GPT-5.5를 대부분의 항목에서 앞서며, Arena.ai 프론트엔드 코딩 아레나에서는 Claud…"
+summary: "중국 스타트업 Moonshot AI가 2.8조 파라미터의 오픈웨이트 모델 Kimi K3를 발표했다. 자체 벤치마크 기준 Claude Opus 4.8과 GPT-5.5를 대부분의 항목에서 앞서며, Arena.ai 프론트엔드 코딩 아레나에서는 Claud…"
+description: "중국 스타트업 Moonshot AI가 2.8조 파라미터의 오픈웨이트 모델 Kimi K3를 발표했다. 자체 벤치마크 기준 Claude Opus 4.8과 GPT-5.5를 대부분의 항목에서 앞서며, Arena.ai 프론트엔드 코딩 아레나에서는 Claud…"
 ---
-
-[브리핑/AI] AI·스타트업 모닝 브리프 - 2026-07-18
 
 ## 핵심 변화
 - **Moonshot AI, 2.8조 파라미터 오픈 모델 Kimi K3 공개**: 중국 스타트업 Moonshot AI가 2.8조 파라미터의 오픈웨이트 모델 Kimi K3를 발표했다. 자체 벤치마크 기준 Claude Opus 4.8과 GPT-5.5를 대부분의 항목에서 앞서며, Arena.ai 프론트엔드 코딩 아레나에서는 Claude Fable 5마저 제쳤다. 가격은 입력 $3/1M 토큰, 출력 $15/1M 토큰으로 중국 AI랩 중 가장 비싼 수준. 오픈웨이트는 7월 27일까지 공개 예정. DeepSeek 이후 중국발 오픈 모델의 두 번째 큰 파고다. [Simon Willison](https://simonwillison.net/2026/Jul/16/kimi-k3/) · [Reuters](https://www.reuters.com/technology/artificial-intelligence/chinas-moonshot-unveils-worlds-largest-open-ai-model-closing-us-rivals-2026-07-17/)
-<!--more-->
 - **Apple, OpenAI 직원 수십 명에 법적 경고장 발송**: Apple이 OpenAI로 이직한 자사 출신 엔지니어들을 대상으로 영업비밀 및 계약 위반 가능성에 대한 법적 서한을 보냈다. AI 인재 전쟁이 단순한 연봉 경쟁을 넘어 법적 분쟁으로 번지고 있다는 신호다. [Financial Times](https://www.ft.com/content/1b8c9d52-88a9-426b-ba47-f1811f859166)
 
 ## 스타트업 / 제품 / 플랫폼 레이더

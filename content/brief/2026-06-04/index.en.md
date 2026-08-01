@@ -1,16 +1,13 @@
 ---
-title: "AI / Startup Morning Brief — 2026-06-04"
+title: "Alphabet raises $85B for Google's AI business"
 date: 2026-06-04
-summary: "Alphabet raises $85B for Google's AI business: Record-breaking stock sale — another $40B planned next quarter. Alphabet posted $110B in Q1 revenue alone (22% YoY growth). Signals…"
-description: "Alphabet raises $85B for Google's AI business: Record-breaking stock sale — another $40B planned next quarter. Alphabet posted $110B in Q1 revenue alone (22% YoY growth). Signals…"
+summary: "Record-breaking stock sale — another $40B planned next quarter. Alphabet posted $110B in Q1 revenue alone (22% YoY growth). Signals…"
+description: "Record-breaking stock sale — another $40B planned next quarter. Alphabet posted $110B in Q1 revenue alone (22% YoY growth). Signals…"
 ---
-
-[AI/Startup Morning Brief — 2026-06-04]
 
 ## Key Shifts
 - **Alphabet raises $85B for Google's AI business**: Record-breaking stock sale — another $40B planned next quarter. Alphabet posted $110B in Q1 revenue alone (22% YoY growth). Signals strong investor appetite for Anthropic's expected ~$1T IPO, SpaceX IPO, and OpenAI waiting in the wings. Goldman Sachs CEO calls market sentiment "greed mode" for AI
   출처: [TechCrunch](https://techcrunch.com/2026/06/03/alphabets-record-breaking-85b-raise-for-googles-ai-business-is-a-helluva-good-signal/) · [CNBC](https://www.cnbc.com/2026/06/02/goldman-ceo-david-solomon-greed-mode-ai-firms-ipos.html)
-<!--more-->
 - **Google Gemma 4 12B: encoder-free multimodal that runs on laptops**: A unified architecture that processes images and audio directly — no separate encoders needed. Runs on consumer laptops with 16GB RAM. Near 26B MoE performance at less than half the memory. A watershed for on-device multimodal AI
   출처: [Google Blog](https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/)
 - **Meta launches WhatsApp Business AI agent globally**: After two years of testing in India and Mexico, the AI customer support bot is now available worldwide on WhatsApp and Instagram DMs. Handles inquiries, product recommendations, bookings, and lead qualification. Meta plans to charge via WhatsApp Business Premium subscription. An attempt to redefine WhatsApp as workflow software for SMBs

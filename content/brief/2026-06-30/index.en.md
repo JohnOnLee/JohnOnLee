@@ -1,15 +1,12 @@
 ---
-title: "AI / Startup Morning Brief — 2026-06-30"
+title: "California state government signs first-of-its-kind AI procurement deal with Anthropic"
 date: 2026-06-30
-summary: "California state government signs first-of-its-kind AI procurement deal with Anthropic: Governor Gavin Newsom announced a partnership providing Claude at half price to all Califor…"
-description: "California state government signs first-of-its-kind AI procurement deal with Anthropic: Governor Gavin Newsom announced a partnership providing Claude at half price to all Califor…"
+summary: "Governor Gavin Newsom announced a partnership providing Claude at half price to all Califor…"
+description: "Governor Gavin Newsom announced a partnership providing Claude at half price to all Califor…"
 ---
-
-[AI/Startup Morning Brief — June 30, 2026]
 
 ## Key Shifts
 - **California state government signs first-of-its-kind AI procurement deal with Anthropic**: Governor Gavin Newsom announced a partnership providing Claude at half price to all California state agencies and local governments, aimed at assisting state employees with drafting documents and analyzing information. This contrasts sharply with the federal government's clash with Anthropic, where the DoD ultimately signed with OpenAI instead. [TechCrunch](https://techcrunch.com/2026/06/29/anthropic-and-gov-newsom-forge-deal-allowing-california-government-to-use-claude-at-half-price/) · [CA Governor](https://www.gov.ca.gov/2026/06/29/governor-newsom-announces-a-first-of-its-kind-partnership-providing-anthropic-tools-to-state-agencies-and-improving-services-for-californians/)
-<!--more-->
 - **South Korean chip giants commit over $550B to ease 'RAMageddon'**: Samsung and SK Hynix are leading a national push to build massive new memory lab fabs, responding to surging AI-driven memory demand and positioning South Korea as an AI tech powerhouse. [TechCrunch](https://techcrunch.com/2026/06/29/south-korean-tech-giants-commit-over-550b-to-ease-ramageddon/)
 
 ## Startup / Product / Platform Radar

@@ -1,0 +1,85 @@
+{{- define "main" -}}
+{{- $lang := .Site.Language.Lang -}}
+{{- $copy := index .Site.Data.home $lang -}}
+{{- $posts := first 4 (where .Site.RegularPages.ByDate.Reverse "Section" "blog") -}}
+{{- $briefs := first 1 (where .Site.RegularPages.ByDate.Reverse "Section" "brief") -}}
+
+<div id="john-home" class="editorial-home">
+  <section class="editorial-hero" aria-labelledby="home-title">
+    <p class="editorial-eyebrow">{{ $copy.hero.eyebrow }}</p>
+    <h1 id="home-title">{{ $copy.hero.title }}</h1>
+    <p class="editorial-intro">{{ $copy.hero.intro }}</p>
+    <nav class="editorial-links" aria-label="{{ $copy.hero.navLabel }}">
+      <a href="{{ $copy.hero.primaryUrl }}">{{ $copy.hero.primaryLabel }} <span aria-hidden="true">→</span></a>
+      <a href="{{ $copy.hero.secondaryUrl }}">{{ $copy.hero.secondaryLabel }} <span aria-hidden="true">→</span></a>
+    </nav>
+  </section>
+
+  <div class="editorial-body">
+    <section class="editorial-writing" aria-labelledby="latest-writing-title">
+      <div class="editorial-section-heading">
+        <div>
+          <p class="editorial-label">{{ $copy.writing.label }}</p>
+          <h2 id="latest-writing-title">{{ $copy.writing.title }}</h2>
+        </div>
+        <a href="{{ $copy.writing.allUrl }}">{{ $copy.writing.allLabel }} <span aria-hidden="true">→</span></a>
+      </div>
+
+      <div class="editorial-post-list">
+        {{- range $posts }}
+        <article class="editorial-post">
+          <p class="editorial-post__meta"><time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "2006.01.02" }}</time></p>
+          <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+          <p>{{ (.Params.summary | default .Summary) | plainify | truncate 185 }}</p>
+          <a class="editorial-read" href="{{ .RelPermalink }}">{{ $copy.writing.readLabel }} <span aria-hidden="true">→</span></a>
+        </article>
+        {{- else }}
+        <p class="editorial-empty">{{ $copy.writing.empty }}</p>
+        {{- end }}
+      </div>
+    </section>
+
+    <aside class="editorial-sidebar" aria-labelledby="topics-title">
+      <p class="editorial-label">{{ $copy.topics.label }}</p>
+      <h2 id="topics-title">{{ $copy.topics.title }}</h2>
+      <ul>
+        {{- range $copy.topics.items }}
+        <li>
+          <strong>{{ .title }}</strong>
+          <span>{{ .description }}</span>
+        </li>
+        {{- end }}
+      </ul>
+      <p class="editorial-sidebar__note">{{ $copy.topics.note }}</p>
+    </aside>
+  </div>
+
+  <section class="editorial-radar" aria-labelledby="radar-title">
+    <div class="editorial-radar__intro">
+      <p class="editorial-label">{{ $copy.radar.label }}</p>
+      <h2 id="radar-title">{{ $copy.radar.title }}</h2>
+      <p>{{ $copy.radar.description }}</p>
+      <a href="{{ $copy.radar.allUrl }}">{{ $copy.radar.allLabel }} <span aria-hidden="true">→</span></a>
+    </div>
+
+    {{- range $briefs }}
+    <article class="editorial-radar__latest">
+      <p class="editorial-post__meta"><time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "2006.01.02" }}</time></p>
+      <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+      <p>{{ (.Params.summary | default .Summary) | plainify | truncate 230 }}</p>
+      <a class="editorial-read" href="{{ .RelPermalink }}">{{ $copy.radar.readLabel }} <span aria-hidden="true">→</span></a>
+    </article>
+    {{- else }}
+    <p class="editorial-empty">{{ $copy.radar.empty }}</p>
+    {{- end }}
+  </section>
+
+  <section class="editorial-about" aria-labelledby="about-title">
+    <p class="editorial-label">{{ $copy.about.label }}</p>
+    <div>
+      <h2 id="about-title">{{ $copy.about.title }}</h2>
+      <p>{{ $copy.about.body }}</p>
+    </div>
+  </section>
+</div>
+{{- end -}}

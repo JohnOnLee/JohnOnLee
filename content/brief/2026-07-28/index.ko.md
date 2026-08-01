@@ -1,15 +1,12 @@
 ---
-title: "AI·스타트업 모닝 브리프 - 2026-07-28"
+title: "Moonshot AI, Kimi-K3 오픈소스 공개 — HuggingFace 즉시 1,200포인트 돌파"
 date: 2026-07-28
-summary: "Moonshot AI, Kimi-K3 오픈소스 공개 — HuggingFace 즉시 1,200포인트 돌파: 중국 Moonshot AI가 새로운 플래그십 모델 Kimi-K3를 HuggingFace에 전격 공개했다. 기술 보고서까지 함께 릴리즈하며 완전한 오픈웨이트 전략을 취했다. HN 커뮤니티 반응은 폭발적(1,274포인트…"
-description: "Moonshot AI, Kimi-K3 오픈소스 공개 — HuggingFace 즉시 1,200포인트 돌파: 중국 Moonshot AI가 새로운 플래그십 모델 Kimi-K3를 HuggingFace에 전격 공개했다. 기술 보고서까지 함께 릴리즈하며 완전한 오픈웨이트 전략을 취했다. HN 커뮤니티 반응은 폭발적(1,274포인트…"
+summary: "중국 Moonshot AI가 새로운 플래그십 모델 Kimi-K3를 HuggingFace에 전격 공개했다. 기술 보고서까지 함께 릴리즈하며 완전한 오픈웨이트 전략을 취했다. HN 커뮤니티 반응은 폭발적(1,274포인트…"
+description: "중국 Moonshot AI가 새로운 플래그십 모델 Kimi-K3를 HuggingFace에 전격 공개했다. 기술 보고서까지 함께 릴리즈하며 완전한 오픈웨이트 전략을 취했다. HN 커뮤니티 반응은 폭발적(1,274포인트…"
 ---
-
-[브리핑/AI] AI·스타트업 모닝 브리프 - 2026-07-28
 
 ## 핵심 변화
 - **Moonshot AI, Kimi-K3 오픈소스 공개 — HuggingFace 즉시 1,200포인트 돌파**: 중국 Moonshot AI가 새로운 플래그십 모델 Kimi-K3를 HuggingFace에 전격 공개했다. 기술 보고서까지 함께 릴리즈하며 완전한 오픈웨이트 전략을 취했다. HN 커뮤니티 반응은 폭발적(1,274포인트, 498댓글)으로, 오픈소스 LLM 진영의 경쟁이 다시 한 번 가열되고 있음을 보여준다. [HuggingFace](https://huggingface.co/moonshotai/Kimi-K3) · [Technical Report (PDF)](https://github.com/MoonshotAI/Kimi-K3/blob/main/k3_tech_report.pdf)
-<!--more-->
 - **Nvidia, $750B 규모 거래로 '순환 자금' 우려 재점화**: AI 스타트업들이 Nvidia의 투자를 받고 그 돈으로 다시 Nvidia GPU를 구매하는 구조에 대한 의구심이 Bloomberg 보도로 재부상했다. AI 인프라 투자의 지속 가능성에 대한 본질적인 질문이다. [Bloomberg](https://www.bloomberg.com/news/articles/2026-07-27/nvidia-s-750-billion-deals-revive-fear-of-ai-circular-financing)
 - **중국 CXMT, 상장 첫날 470% 급등 — 시총 $487B로 중국 최대 상장사 등극**: 중국 최대 메모리 반도체 기업 ChangXin Memory Technologies(CXMT)가 상하이 STAR Market 데뷔 첫날 주가가 470% 폭등했다. AI 데이터센터向 DRAM 수요가 성장 동력. 전체 유통 주식이 7%에 불과해 수급 쏠림도 작용했지만, 미·중 칩 경쟁 구도에서 중국 반도체 자립의 상징적 이벤트다. [BBC](https://www.bbc.com/news/articles/c9q9w3x9qn2o)
 - **EU, 구글에 자사 서비스 우대 혐의로 $1.02B 과징금**: EU가 검색 결과에서 자사 서비스를 우대한 혐의로 구글에 10억 2천만 달러의 과징금을 부과했다. AI 시대에 빅테크 규제가 더 강화될 것이라는 신호다. [WSJ](https://www.wsj.com/tech/google-fined-1-02-billion-under-eus-tech-antitrust-rules-7e8ae1fb)

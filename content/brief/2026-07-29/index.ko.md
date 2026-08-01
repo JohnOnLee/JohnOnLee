@@ -1,15 +1,12 @@
 ---
-title: "AI·스타트업 모닝 브리프 - 2026-07-29"
+title: "OpenAI, Codex Security 오픈소스 공개 — 코드 보안 감사 도구 SDK/CLI"
 date: 2026-07-29
-summary: "OpenAI, Codex Security 오픈소스 공개 — 코드 보안 감사 도구 SDK/CLI: OpenAI가 자사 코드 보안 감사 플랫폼 Codex Security의 SDK와 CLI를 GitHub에 전격 오픈소스로 공개했다. AI 기반 취약점 탐지 도구가 오픈소스 생태계로 들어오면서, 스타트업과 엔터프라이즈 개발팀이…"
-description: "OpenAI, Codex Security 오픈소스 공개 — 코드 보안 감사 도구 SDK/CLI: OpenAI가 자사 코드 보안 감사 플랫폼 Codex Security의 SDK와 CLI를 GitHub에 전격 오픈소스로 공개했다. AI 기반 취약점 탐지 도구가 오픈소스 생태계로 들어오면서, 스타트업과 엔터프라이즈 개발팀이…"
+summary: "OpenAI가 자사 코드 보안 감사 플랫폼 Codex Security의 SDK와 CLI를 GitHub에 전격 오픈소스로 공개했다. AI 기반 취약점 탐지 도구가 오픈소스 생태계로 들어오면서, 스타트업과 엔터프라이즈 개발팀이…"
+description: "OpenAI가 자사 코드 보안 감사 플랫폼 Codex Security의 SDK와 CLI를 GitHub에 전격 오픈소스로 공개했다. AI 기반 취약점 탐지 도구가 오픈소스 생태계로 들어오면서, 스타트업과 엔터프라이즈 개발팀이…"
 ---
-
-[브리핑/AI] AI·스타트업 모닝 브리프 - 2026-07-29
 
 ## 핵심 변화
 - **OpenAI, Codex Security 오픈소스 공개 — 코드 보안 감사 도구 SDK/CLI**: OpenAI가 자사 코드 보안 감사 플랫폼 Codex Security의 SDK와 CLI를 GitHub에 전격 오픈소스로 공개했다. AI 기반 취약점 탐지 도구가 오픈소스 생태계로 들어오면서, 스타트업과 엔터프라이즈 개발팀이 자체 CI/CD 파이프라인에 통합할 수 있는 길이 열렸다. [GitHub](https://github.com/openai/codex-security)
-<!--more-->
 - **MCP 2026-07-28 스펙 발표 — 트랜스포트가 stateless로 전환**: Model Context Protocol의 새 스펙이 공개됐다. 가장 큰 변화는 transport layer가 stateless로 재설계된 점. 이제 MCP 서버 구현체가 HTTP 기반으로 동작할 수 있게 되어, 서버리스/엣지 배포와 로드밸런싱이 훨씬 수월해진다. 에이전트 인프라를 MCP 위에 구축하는 팀이라면 아키텍처 검토가 필요한 시점이다. [MCP Blog](https://blog.modelcontextprotocol.io/posts/2026-07-28/)
 - **Anthropic, Claude로 암호학 취약점 발견 — HAWK-256 실용적 공격 성공**: Anthropic 연구팀이 Claude Mythos Preview를 활용해 디지털 서명 방식 HAWK-256의 실용적 키 복구 공격을 발견했다. 프론티어 AI 모델이 단순한 텍스트 생성 도구를 넘어, 새로운 과학적 발견의 도구로 진화하고 있음을 보여주는 랜드마크다. [Anthropic](https://www.anthropic.com/research/discovering-cryptographic-weaknesses) · [GitHub Demo](https://github.com/anthropics/cryptography-research-demo)
 - **AI 반도체株 급락 — 인프라 투자 심리 위축**: FT 보도에 따르면 AI 관련 반도체 주식이 급락하며 AI 인프라 버블 우려가 재점화됐다. 지난주 Nvidia 순환 자금 논란에 이어, AI 투자 수익률에 대한 시장의 의구심이 커지고 있다. 파운더/오퍼레이터는 GPU 의존 비즈니스의 단가 구조를 점검할 시점이다. [FT](https://www.ft.com/content/f8c03b5b-e194-4236-82c3-389b6f5dd7ae)

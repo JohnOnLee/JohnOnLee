@@ -1,16 +1,13 @@
 ---
-title: "AI·스타트업 모닝 브리프 - 2026-06-03"
+title: "Anthropic, IPO 기밀 제출 + Project Glasswing 출범"
 date: 2026-06-03
-summary: "Anthropic, IPO 기밀 제출 + Project Glasswing 출범: $65B 투자 유치 후 IPO 추진. 동시에 Apple, AWS, Google, Microsoft, NVIDIA, CrowdStrike 등이 참여하는 Project Glasswing 컨소시엄 출범. Claude Mythos가 27년 된 Op…"
-description: "Anthropic, IPO 기밀 제출 + Project Glasswing 출범: $65B 투자 유치 후 IPO 추진. 동시에 Apple, AWS, Google, Microsoft, NVIDIA, CrowdStrike 등이 참여하는 Project Glasswing 컨소시엄 출범. Claude Mythos가 27년 된 Op…"
+summary: "$65B 투자 유치 후 IPO 추진. 동시에 Apple, AWS, Google, Microsoft, NVIDIA, CrowdStrike 등이 참여하는 Project Glasswing 컨소시엄 출범. Claude Mythos가 27년 된 Op…"
+description: "$65B 투자 유치 후 IPO 추진. 동시에 Apple, AWS, Google, Microsoft, NVIDIA, CrowdStrike 등이 참여하는 Project Glasswing 컨소시엄 출범. Claude Mythos가 27년 된 Op…"
 ---
-
-[브리핑/AI] AI·스타트업 모닝 브리프 - 2026-06-03
 
 ## 핵심 변화
 - **Anthropic, IPO 기밀 제출 + Project Glasswing 출범**: $65B 투자 유치 후 IPO 추진. 동시에 Apple, AWS, Google, Microsoft, NVIDIA, CrowdStrike 등이 참여하는 Project Glasswing 컨소시엄 출범. Claude Mythos가 27년 된 OpenBSD 취약점, 16년 된 FFmpeg 취약점 등 수천 개의 제로데이를 발견. 한국 기업으로는 삼성, SK하이닉스, SK텔레콤이 Mythos 접근 권한 확보
   출처: [TechCrunch](https://techcrunch.com/2026/06/02/anthropic-scales-claude-mythos-to-critical-infrastructure-in-15-countries/) · [Anthropic](https://www.anthropic.com/glasswing)
-<!--more-->
 - **기업 AI ROI 위기 가시화**: Uber, 연간 AI 예산을 4개월 만에 소진하고 직원당 월 $1,500 사용 한도 설정. COO도 "AI 사용과 제품 기능 개선 사이의 인과관계를 찾기 어렵다"고 언급. HN에서 "AI Doesn't Have ROI" 에세이가 56포인트로 확산
   출처: [TechCrunch](https://techcrunch.com/2026/06/02/uber-caps-employee-ai-spending-after-blowing-through-budget-in-four-months/) · [Wheresyoured](https://www.wheresyoured.at/ai-doesnt-have-roi/)
 - **에이전트 직장 점령 경쟁 가속**: Microsoft, 상시 가동형 자율 에이전트 Scout 발표 (M365 앱 연동). OpenAI, Codex에 데이터 분석·영업·투자은행 등 6종 직무별 플러그인 출시. Codex 주간 활성 사용자 500만 돌파, 지식 노동자 비중 20%로 3배 빠르게 성장 중

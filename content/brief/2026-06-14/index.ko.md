@@ -1,15 +1,12 @@
 ---
-title: "AI·스타트업 모닝 브리프 - 2026-06-14"
+title: "미국 정부, Anthropic에 Fable 5·Mythos 5 외국인 접근 차단 명령 — AI 수출통제 현실화"
 date: 2026-06-14
-summary: "미국 정부, Anthropic에 Fable 5·Mythos 5 외국인 접근 차단 명령 — AI 수출통제 현실화: 미 행정부가 수출통제 지침을 발동해 Anthropic의 최신 모델 Fable 5와 Mythos 5에 대한 모든 외국인 접근을 중단시켰다. Amazon CEO와 미 정부 관리 간 대화가 이번 결정의 방아쇠가 되…"
-description: "미국 정부, Anthropic에 Fable 5·Mythos 5 외국인 접근 차단 명령 — AI 수출통제 현실화: 미 행정부가 수출통제 지침을 발동해 Anthropic의 최신 모델 Fable 5와 Mythos 5에 대한 모든 외국인 접근을 중단시켰다. Amazon CEO와 미 정부 관리 간 대화가 이번 결정의 방아쇠가 되…"
+summary: "미 행정부가 수출통제 지침을 발동해 Anthropic의 최신 모델 Fable 5와 Mythos 5에 대한 모든 외국인 접근을 중단시켰다. Amazon CEO와 미 정부 관리 간 대화가 이번 결정의 방아쇠가 되…"
+description: "미 행정부가 수출통제 지침을 발동해 Anthropic의 최신 모델 Fable 5와 Mythos 5에 대한 모든 외국인 접근을 중단시켰다. Amazon CEO와 미 정부 관리 간 대화가 이번 결정의 방아쇠가 되…"
 ---
-
-[브리핑/AI] AI·스타트업 모닝 브리프 - 2026-06-14
 
 ## 핵심 변화
 - **미국 정부, Anthropic에 Fable 5·Mythos 5 외국인 접근 차단 명령 — AI 수출통제 현실화**: 미 행정부가 수출통제 지침을 발동해 Anthropic의 최신 모델 Fable 5와 Mythos 5에 대한 모든 외국인 접근을 중단시켰다. Amazon CEO와 미 정부 관리 간 대화가 이번 결정의 방아쇠가 되었다고 WSJ가 보도. 파운데이션 모델이 군수품처럼 통제되는 시대가 시작됐다. 글로벌 제품을 빌드하는 창업자라면 모델 접근성의 지정학적 리스크를 설계 단계에서 고려해야 한다. [Anthropic](https://www.anthropic.com/news/fable-mythos-access) · [Ars Technica](https://arstechnica.com/ai/2026/06/anthropic-shuts-down-fable-mythos-models-following-trump-admin-directive/) · [WSJ](https://www.wsj.com/tech/ai/amazon-ceos-talks-with-u-s-officials-triggered-crackdown-on-anthropic-models-dcc90578) · [Al Jazeera](https://www.aljazeera.com/news/2026/6/13/us-orders-anthropic-to-disable-ai-models-for-all-foreign-nationals)
-<!--more-->
 - **중국 Zhipu AI, GLM-5.2 전면 공개 — "프론티어 인텔리전스는 모두의 것"**: Anthropic 제한 조치 당일, 중국 Zhipu AI가 GLM-5.2를 완전 오픈소스로 출시하며 "특정 프론티어 모델의 갑작스러운 제한은 매우 유감스럽다"고 직접 언급. AI 주권을 둘러싼 美·中 오픈소스 대 포크(fork) 구도가 더 선명해지고 있다. [Zhipu AI (X)](https://x.com/jietang/status/2065784751345287314) · [Hacker News](https://news.ycombinator.com/item?id=48518684)
 
 ## 스타트업 / 제품 / 플랫폼 레이더

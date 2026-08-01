@@ -1,15 +1,12 @@
 ---
-title: "AI·스타트업 모닝 브리프 - 2026-07-01"
+title: "Anthropic, Claude Sonnet 5 공식 출시 — 에이전트 워크플로우에 최적화, 가격도 인하"
 date: 2026-07-01
-summary: "Anthropic, Claude Sonnet 5 공식 출시 — 에이전트 워크플로우에 최적화, 가격도 인하: 일상적인 에이전트 태스크에 특화된 Claude Sonnet 5를 공개. 사이버 위험을 낮추면서도 agentic workflow에 적합하게 설계되었으며, GPT-5.5보다 가격 경쟁력을 갖췄다고 강조. 동시에 캘리포…"
-description: "Anthropic, Claude Sonnet 5 공식 출시 — 에이전트 워크플로우에 최적화, 가격도 인하: 일상적인 에이전트 태스크에 특화된 Claude Sonnet 5를 공개. 사이버 위험을 낮추면서도 agentic workflow에 적합하게 설계되었으며, GPT-5.5보다 가격 경쟁력을 갖췄다고 강조. 동시에 캘리포…"
+summary: "일상적인 에이전트 태스크에 특화된 Claude Sonnet 5를 공개. 사이버 위험을 낮추면서도 agentic workflow에 적합하게 설계되었으며, GPT-5.5보다 가격 경쟁력을 갖췄다고 강조. 동시에 캘리포…"
+description: "일상적인 에이전트 태스크에 특화된 Claude Sonnet 5를 공개. 사이버 위험을 낮추면서도 agentic workflow에 적합하게 설계되었으며, GPT-5.5보다 가격 경쟁력을 갖췄다고 강조. 동시에 캘리포…"
 ---
-
-[브리핑/AI] AI·스타트업 모닝 브리프 - 2026-07-01
 
 ## 핵심 변화
 - **Anthropic, Claude Sonnet 5 공식 출시 — 에이전트 워크플로우에 최적화, 가격도 인하**: 일상적인 에이전트 태스크에 특화된 Claude Sonnet 5를 공개. 사이버 위험을 낮추면서도 agentic workflow에 적합하게 설계되었으며, GPT-5.5보다 가격 경쟁력을 갖췄다고 강조. 동시에 캘리포니아 주 정부와 주 공무원 대상 Claude 할인 계약 체결. [Anthropic](https://www.anthropic.com/research/claude-sonnet-5) · [TechCrunch](https://techcrunch.com/2026/06/30/anthropic-launches-claude-sonnet-5-as-a-cheaper-way-to-run-agents/) · [Yahoo Finance](https://finance.yahoo.com/technology/article/anthropic-launches-cheaper-claude-sonnet-5-model-as-tech-searches-for-ai-savings-180000821.html)
-<!--more-->
 - **Anthropic, 과학 연구 전용 Claude Science 출시 — 바이오·제약 산업 겨냥**: 연구자·제약 산업을 위한 AI 작업대(workbench) Claude Science를 공개. 텍스트 프롬프트로 항생제 설계, 신약 후보 발굴 등이 가능. Connector Ecosystem을 통해 생명과학 기업들과 연동. KPMG는 Anthropic 제휴를 "step change"라고 평가. [TechCrunch](https://techcrunch.com/2026/06/30/anthropics-claude-science-bets-on-workflow-not-a-new-model-to-win-over-scientists/) · [Neowin](https://www.neowin.net/news/anthropic-launches-claude-science-a-dedicated-app-for-scientists/)
 - **OpenAI, 추론 비용 절반으로 줄이는 새 기법 발견**: 추론(inference) 비용을 최대 50% 절감할 수 있는 새로운 방식을 발견. 모델 성능 저하 없이 비용을 반감시키는 기술로, AI 서비스의 단위 경제(unit economics)에 의미 있는 변화가 될 전망. [The Information](https://www.theinformation.com/newsletters/ai-agenda/openai-discovers-new-way-cut-inference-costs-half)
 

@@ -1,15 +1,12 @@
 ---
-title: "AI·스타트업 모닝 브리프 - 2026-07-14"
+title: "Grok Build CLI, 전체 Git 저장소를 Google Cloud로 무단 업로드 — 코딩 에이전트 신뢰 위기"
 date: 2026-07-14
-summary: "Grok Build CLI, 전체 Git 저장소를 Google Cloud로 무단 업로드 — 코딩 에이전트 신뢰 위기: 와이어 수준 분석 결과, xAI의 Grok Build CLI가 사용자 동의 없이 전체 Git 저장소와 .env 등 민감 정보를 Google Cloud 버킷으로 전송한 것이 확인됐다. 하루 뒤 업로드는 조…"
-description: "Grok Build CLI, 전체 Git 저장소를 Google Cloud로 무단 업로드 — 코딩 에이전트 신뢰 위기: 와이어 수준 분석 결과, xAI의 Grok Build CLI가 사용자 동의 없이 전체 Git 저장소와 .env 등 민감 정보를 Google Cloud 버킷으로 전송한 것이 확인됐다. 하루 뒤 업로드는 조…"
+summary: "와이어 수준 분석 결과, xAI의 Grok Build CLI가 사용자 동의 없이 전체 Git 저장소와 .env 등 민감 정보를 Google Cloud 버킷으로 전송한 것이 확인됐다. 하루 뒤 업로드는 조…"
+description: "와이어 수준 분석 결과, xAI의 Grok Build CLI가 사용자 동의 없이 전체 Git 저장소와 .env 등 민감 정보를 Google Cloud 버킷으로 전송한 것이 확인됐다. 하루 뒤 업로드는 조…"
 ---
-
-[브리핑/AI] AI·스타트업 모닝 브리프 - 2026-07-14
 
 ## 핵심 변화
 - **Grok Build CLI, 전체 Git 저장소를 Google Cloud로 무단 업로드 — 코딩 에이전트 신뢰 위기**: 와이어 수준 분석 결과, xAI의 Grok Build CLI가 사용자 동의 없이 전체 Git 저장소와 .env 등 민감 정보를 Google Cloud 버킷으로 전송한 것이 확인됐다. 하루 뒤 업로드는 조용히 중단됐지만, xAI는 범위·보관·삭제에 대해 아무런 해명을 내놓지 않았다. HN에서 487포인트, 355포인트 등 여러 스레드로 확산되며 코딩 에이전트 도구의 데이터 유출 위험에 대한 경종을 울렸다. [International Cyber Digest](https://www.internationalcyberdigest.com/xais-grok-build-cli-uploads-entire-git-repositories-to-a-google-cloud-bucket/) · [HN 토론](https://news.ycombinator.com/item?id=48892512)
-<!--more-->
 - **Microsoft Nadella, 프론티어 AI 랩에 적대적 전환 — "기업은 IP를 지켜라"**: Satya Nadella가 기업 고객들에게 프론티어 AI 랩으로부터 자사 IP를 보호하라고 공개 경고했다. OpenAI에 수십억 달러를 투자한 바로 그 Microsoft의 수장이 이제는 "데이터와 IP를 잠가라"는 메시지를 던지고 있다는 점에서, 기업 AI 전략의 거대한 방향 전환 신호다. [The Register](https://www.theregister.com/ai-and-ml/2026/07/13/microsoft-chief-turns-hostile-on-frontier-ai-labs-warns-companies-to-guard-their-ip/5270628)
 - **Apple SpeechAnalyzer, Whisper와 경쟁 가능 — 온디바이스 음성인식 도약**: Inscribe가 LibriSpeech 5,559개 발화로 Apple의 새 SpeechAnalyzer API를 SFSpeechRecognizer 및 OpenAI Whisper와 벤치마킹한 결과, 온디바이스 API가 클라우드 기반 Whisper에 근접한 성능을 보였다. 음성 기반 제품을 만드는 팀이라면 온디바이스 우선 아키텍처를 검토할 시점. [Inscribe](https://get-inscribe.com/blog/apple-speech-api-benchmark.html)
 - **TypeScript 기준 Claude 토큰, GPT보다 73% 더 비싸 — 토크나이저 경제학**: Playcode의 실측 분석에 따르면 동일한 TypeScript 파일이 Claude 토크나이저에서는 1,178토큰, GPT-5.x의 o200k 토크나이저에서는 681토큰을 소비한다. $/Mtok 단가만 보는 건 착시이며, 실제 코딩 워크로드 비용은 토크나이저 효율성까지 감안해야 한다. 어제 Systima 벤치마크(Claude Code 33K vs OpenCode 7K)와 연결되는 중요한 인사이트. [Playcode](https://playcode.io/blog/real-price-of-frontier-models)

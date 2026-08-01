@@ -1,15 +1,12 @@
 ---
-title: "AI / Startup Morning Brief — 2026-07-14"
+title: "Grok Build CLI silently uploaded entire Git repos to Google Cloud — a coding agent trust crisis"
 date: 2026-07-14
-summary: "Grok Build CLI silently uploaded entire Git repos to Google Cloud — a coding agent trust crisis: A wire-level analysis confirmed xAI's Grok Build CLI was exfiltrating full Git rep…"
-description: "Grok Build CLI silently uploaded entire Git repos to Google Cloud — a coding agent trust crisis: A wire-level analysis confirmed xAI's Grok Build CLI was exfiltrating full Git rep…"
+summary: "A wire-level analysis confirmed xAI's Grok Build CLI was exfiltrating full Git rep…"
+description: "A wire-level analysis confirmed xAI's Grok Build CLI was exfiltrating full Git rep…"
 ---
-
-[AI/Startup Morning Brief — 2026-07-14]
 
 ## Key Shifts
 - **Grok Build CLI silently uploaded entire Git repos to Google Cloud — a coding agent trust crisis**: A wire-level analysis confirmed xAI's Grok Build CLI was exfiltrating full Git repositories — including .env files and unredacted secrets — to a Google Cloud bucket without user consent. The uploads stopped silently a day later, but xAI has offered no explanation on scope, retention, or deletion. Multiple HN threads (487 and 355 points) amplified the alarm around data exfiltration risks in AI coding tools. [International Cyber Digest](https://www.internationalcyberdigest.com/xais-grok-build-cli-uploads-entire-git-repositories-to-a-google-cloud-bucket/) · [HN discussion](https://news.ycombinator.com/item?id=48892512)
-<!--more-->
 - **Microsoft's Nadella turns hostile on frontier AI labs, warns companies to guard their IP**: Satya Nadella publicly warned enterprise customers to lock down their intellectual property from frontier AI labs. That the CEO of Microsoft — which poured billions into OpenAI — is now telling companies to protect their data from AI labs is a tectonic shift in corporate AI strategy. [The Register](https://www.theregister.com/ai-and-ml/2026/07/13/microsoft-chief-turns-hostile-on-frontier-ai-labs-warns-companies-to-guard-their-ip/5270628)
 - **Apple SpeechAnalyzer proves competitive with Whisper — on-device speech takes a leap**: Inscribe benchmarked Apple's new SpeechAnalyzer API against SFSpeechRecognizer and OpenAI Whisper across 5,559 LibriSpeech utterances. The on-device API delivered results competitive with cloud-based Whisper. For teams building voice-driven products, it is time to seriously evaluate on-device-first architectures. [Inscribe](https://get-inscribe.com/blog/apple-speech-api-benchmark.html)
 - **Same TypeScript costs 73% more tokens on Claude than GPT — the tokenizer economics blind spot**: Playcode's empirical measurement shows the same TypeScript file consumes 1,178 tokens on Claude's tokenizer versus 681 on GPT-5.x's o200k. $/Mtok sticker pricing is an illusion — real coding workload cost depends on tokenizer efficiency. This extends yesterday's Systima finding (Claude Code 33K vs. OpenCode 7K overhead) and deepens the cost-of-adoption story. [Playcode](https://playcode.io/blog/real-price-of-frontier-models)

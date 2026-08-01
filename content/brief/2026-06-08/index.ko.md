@@ -1,15 +1,12 @@
 ---
-title: "AI·스타트업 모닝 브리프 - 2026-06-08"
+title: "AI 가격 모델 '토큰포칼립스' 논쟁 본격화"
 date: 2026-06-08
-summary: "AI 가격 모델 '토큰포칼립스' 논쟁 본격화: GitHub Copilot의 사용량 기반 과금 전환 이후, AI 업계 전반의 가격 모델 재편이 불가피하다는 논의가 확산. AI 기업들의 IPO를 앞두고 실제 추론 비용이 가격에 전가되면서 '무료/저가 AI 도구 시대의 종말'이 가시화. TechCrunch"
-description: "AI 가격 모델 '토큰포칼립스' 논쟁 본격화: GitHub Copilot의 사용량 기반 과금 전환 이후, AI 업계 전반의 가격 모델 재편이 불가피하다는 논의가 확산. AI 기업들의 IPO를 앞두고 실제 추론 비용이 가격에 전가되면서 '무료/저가 AI 도구 시대의 종말'이 가시화. TechCrunch"
+summary: "GitHub Copilot의 사용량 기반 과금 전환 이후, AI 업계 전반의 가격 모델 재편이 불가피하다는 논의가 확산. AI 기업들의 IPO를 앞두고 실제 추론 비용이 가격에 전가되면서 '무료/저가 AI 도구 시대의 종말'이 가시화. TechCrunch"
+description: "GitHub Copilot의 사용량 기반 과금 전환 이후, AI 업계 전반의 가격 모델 재편이 불가피하다는 논의가 확산. AI 기업들의 IPO를 앞두고 실제 추론 비용이 가격에 전가되면서 '무료/저가 AI 도구 시대의 종말'이 가시화. TechCrunch"
 ---
-
-[브리핑/AI] AI·스타트업 모닝 브리프 - 2026-06-08
 
 ## 핵심 변화
 - **AI 가격 모델 '토큰포칼립스' 논쟁 본격화**: GitHub Copilot의 사용량 기반 과금 전환 이후, AI 업계 전반의 가격 모델 재편이 불가피하다는 논의가 확산. AI 기업들의 IPO를 앞두고 실제 추론 비용이 가격에 전가되면서 "무료/저가 AI 도구 시대의 종말"이 가시화. [TechCrunch](https://techcrunch.com/2026/06/07/is-this-the-dawn-of-the-tokenpocalypse/)
-<!--more-->
 - **OpenAI, "Chat is dead" 선언하며 슈퍼앱 전환 가속화**: ChatGPT를 코딩 도구·AI 에이전트를 통합한 단일 슈퍼앱으로 재편한다는 FT 보도. 무료 채팅 사용자를 Codex 등 유료 제품으로 전환하는 게이트웨이 전략. 스탠드얼론 제품들(Sora 등)을 '사이드 퀘스트'로 규정하고 핵심으로 수렴 중. [TechCrunch](https://techcrunch.com/2026/06/07/openai-is-still-working-on-that-super-app/) · [FT](https://www.ft.com/)
 - **Anthropic Opus 4.7/4.8 서비스 장애로 Notion 통합 일시 중단**: Anthropic의 최신 모델 성능 저하로 Notion이 약 12시간 동안 모든 Anthropic 모델 사용을 비활성화. API 의존형 AI 제품의 단일 장애점(single point of failure) 리스크가 현실화. [TechCrunch](https://techcrunch.com/2026/06/07/notion-restores-access-to-anthropic-after-service-disruption/)
 - **글로벌 은행권, AI 도입 명분으로 대규모 인력 감축 준비**: 블룸버그 보도에 따르면 주요 은행들이 AI를 구실로 조직 슬림화 계획을 구체화. 금융권 AI 도입이 '효율화'를 넘어 '인력 대체' 단계로 진입. [Bloomberg](https://www.bloomberg.com/news/articles/2026-06-07/banks-lay-groundwork-for-mass-workforce-cuts-as-ai-takes-hold)

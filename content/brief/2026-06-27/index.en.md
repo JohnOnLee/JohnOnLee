@@ -1,15 +1,12 @@
 ---
-title: "AI / Startup Morning Brief — 2026-06-27"
+title: "OpenAI previews GPT-5.6 — and the US government will decide who gets access"
 date: 2026-06-27
-summary: "OpenAI previews GPT-5.6 — and the US government will decide who gets access: OpenAI previewed its next-generation model lineup: Sol (flagship), Terra (balanced everyday model), an…"
-description: "OpenAI previews GPT-5.6 — and the US government will decide who gets access: OpenAI previewed its next-generation model lineup: Sol (flagship), Terra (balanced everyday model), an…"
+summary: "OpenAI previewed its next-generation model lineup: Sol (flagship), Terra (balanced everyday model), an…"
+description: "OpenAI previewed its next-generation model lineup: Sol (flagship), Terra (balanced everyday model), an…"
 ---
-
-[AI/Startup Morning Brief — 2026-06-27]
 
 ## Key Shifts
 - **OpenAI previews GPT-5.6 — and the US government will decide who gets access**: OpenAI previewed its next-generation model lineup: Sol (flagship), Terra (balanced everyday model), and Luna (fast, low-cost). Simultaneously, the White House requested OpenAI limit the release to a "small group of trusted partners," and the company confirmed the US government will vet users. OpenAI stated this kind of government access control "shouldn't become the long-term default." This marks a fundamental restructuring of the boundary between AI companies and national security. [TechCrunch](https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm/) · [Washington Post](https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model/) · [OpenAI](https://openai.com/index/previewing-gpt-5-6-sol/)
-<!--more-->
 - **It's no longer Anthropic vs. OpenAI — AI has become a geopolitical variable**: A TechCrunch analysis argues frontier model competition has shifted from company rivalry to a national security and geopolitical frame. Government pressure on AI firms escalated sharply after Anthropic released Fable 5, and model capability is now a variable with real political consequences, not just a technical benchmark. [TechCrunch](https://techcrunch.com/2026/06/26/its-not-about-anthropic-vs-openai-anymore/)
 
 ## Startup / Product / Platform Radar

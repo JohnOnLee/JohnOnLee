@@ -1,15 +1,12 @@
 ---
-title: "AI·스타트업 모닝 브리프 - 2026-07-16"
+title: "Thinking Machines Lab, 975B 파라미터 오픈웨이트 모델 'Inkling' 공개"
 date: 2026-07-16
-summary: "Thinking Machines Lab, 975B 파라미터 오픈웨이트 모델 'Inkling' 공개: Thinking Machines Lab이 975B 파라미터의 오픈웨이트 LLM을 공개했다. 개방형 모델 진영에서 1T에 가까운 규모의 모델이 나온 것은 주목할 만한 이정표다. 파운데이션 모델 생태계의 오픈 vs. 클로즈드…"
-description: "Thinking Machines Lab, 975B 파라미터 오픈웨이트 모델 'Inkling' 공개: Thinking Machines Lab이 975B 파라미터의 오픈웨이트 LLM을 공개했다. 개방형 모델 진영에서 1T에 가까운 규모의 모델이 나온 것은 주목할 만한 이정표다. 파운데이션 모델 생태계의 오픈 vs. 클로즈드…"
+summary: "Thinking Machines Lab이 975B 파라미터의 오픈웨이트 LLM을 공개했다. 개방형 모델 진영에서 1T에 가까운 규모의 모델이 나온 것은 주목할 만한 이정표다. 파운데이션 모델 생태계의 오픈 vs. 클로즈드…"
+description: "Thinking Machines Lab이 975B 파라미터의 오픈웨이트 LLM을 공개했다. 개방형 모델 진영에서 1T에 가까운 규모의 모델이 나온 것은 주목할 만한 이정표다. 파운데이션 모델 생태계의 오픈 vs. 클로즈드…"
 ---
-
-[브리핑/AI] AI·스타트업 모닝 브리프 - 2026-07-16
 
 ## 핵심 변화
 - **Thinking Machines Lab, 975B 파라미터 오픈웨이트 모델 'Inkling' 공개**: Thinking Machines Lab이 975B 파라미터의 오픈웨이트 LLM을 공개했다. 개방형 모델 진영에서 1T에 가까운 규모의 모델이 나온 것은 주목할 만한 이정표다. 파운데이션 모델 생태계의 오픈 vs. 클로즈드 구도가 더 복잡해지고 있다. [Thinking Machines Lab](https://thinkingmachines.ai/news/introducing-inkling/) · [HN 토론](https://news.ycombinator.com/item?id=48924912)
-<!--more-->
 - **OpenAI, EU 상표권 분쟁 패소**: OpenAI가 EU 법원에서 'OpenAI' 상표권 분쟁에 패소했다. AI 기업의 브랜드 보호와 지식재산권 전략에 시사하는 바가 크다. [dpa international](https://dpa-international.com/economics/urn:newsml:dpa.com:20090101:260715-930-389143/) · [HN 토론](https://news.ycombinator.com/item?id=48921461)
 - **BIS, AI 붐의 자금조달 구조 변화 분석 보고서 발표**: 국제결제은행(BIS)이 AI 투자가 자기자본(equity)에서 부채(debt) 중심으로 이동하고 있다는 분석을 내놓았다. AI 거품에 대한 우려가 커지는 가운데, 자금조달 구조 변화는 리스크 신호로 읽힌다. [BIS](https://www.bis.org/publ/bisbull120.htm) · [HN 토론](https://news.ycombinator.com/item?id=48913443)
 - **데이터센터, 미국 전기요금 $23B 인상 요인으로 지목**: Fortune 보도에 따르면 AI 데이터센터 확장이 미국 공공 전기요금을 230억 달러 끌어올렸다. AI 인프라의 외부비용이 가시화되기 시작했다. [Fortune](https://fortune.com/2026/07/14/data-centers-23-billion-electricity-bills/)

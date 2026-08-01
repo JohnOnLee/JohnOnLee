@@ -1,15 +1,12 @@
 ---
-title: "AI / Startup Morning Brief — 2026-06-25"
+title: "OpenAI unveils first custom inference chip \"Jalapeño\" with Broadcom"
 date: 2026-06-25
 summary: "OpenAI unveils first custom inference chip 'Jalapeño' with Broadcom: OpenAI revealed its first custom-built inference processor, designed to reduce dependence on NVIDIA GPUs. This…"
 description: "OpenAI unveils first custom inference chip 'Jalapeño' with Broadcom: OpenAI revealed its first custom-built inference processor, designed to reduce dependence on NVIDIA GPUs. This…"
 ---
 
-[AI/Startup Morning Brief — 2026-06-25]
-
 ## Key Shifts
 - **OpenAI unveils first custom inference chip "Jalapeño" with Broadcom**: OpenAI revealed its first custom-built inference processor, designed to reduce dependence on NVIDIA GPUs. This puts OpenAI on the same path as Google (TPU) and Amazon (Trainium). The chip is optimized specifically for LLM inference, and OpenAI's own models assisted in its design. Broadcom handled manufacturing. [TechCrunch](https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/) · [OpenAI](https://openai.com/index/openai-broadcom-jalapeno-inference-chip/)
-<!--more-->
 - **Qualcomm acquires Modular for ~$4B**: Qualcomm is buying Modular, the AI infrastructure startup founded by Chris Lattner (creator of Swift and LLVM). Modular built Mojo — a Python superset for high-performance AI — and the MAX platform. This is a strategic bet to own the AI software stack for on-device and edge inference. AI infrastructure M&A is accelerating. [Modular](https://www.modular.com/blog/qualcomm-to-acquire-modular) · [Qualcomm](https://www.qualcomm.com/news/releases/2026/06/qualcomm-to-acquire-modular)
 - **Google bakes Computer Use into Gemini 3.5 Flash**: Google integrated computer control as a built-in tool in Gemini 3.5 Flash, enabling clicking, typing, and UI navigation across browser, mobile, and desktop environments. Previously this was only available as a standalone Gemini 2.5 model. Available via Gemini API and Enterprise Agent Platform. [Google Blog](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-computer-use-gemini-3-5-flash/)
 

@@ -1,15 +1,12 @@
 ---
-title: "AI / Startup Morning Brief — 2026-06-23"
+title: "AI infrastructure mega-deals: Qualcomm nears $4B Modular acquisition; SpaceX signs $6.3B compute deal with Reflection"
 date: 2026-06-23
-summary: "AI infrastructure mega-deals: Qualcomm nears $4B Modular acquisition; SpaceX signs $6.3B compute deal with Reflection: Qualcomm is in late-stage talks to acquire AI chip startup M…"
-description: "AI infrastructure mega-deals: Qualcomm nears $4B Modular acquisition; SpaceX signs $6.3B compute deal with Reflection: Qualcomm is in late-stage talks to acquire AI chip startup M…"
+summary: "Qualcomm is in late-stage talks to acquire AI chip startup M…"
+description: "Qualcomm is in late-stage talks to acquire AI chip startup M…"
 ---
-
-[AI/Startup Morning Brief — 2026-06-23]
 
 ## Key Shifts
 - **AI infrastructure mega-deals: Qualcomm nears $4B Modular acquisition; SpaceX signs $6.3B compute deal with Reflection**: Qualcomm is in late-stage talks to acquire AI chip startup Modular for ~$4B. Separately, SpaceX will provide open-source AI startup Reflection with Nvidia GB300 chips at its Colossus 2 data center for $150M/month starting July 1, totaling up to $6.3B through 2029. AI compute is no longer a cloud line item — it is becoming a strategic and geopolitical asset. [Bloomberg](https://www.bloomberg.com/news/articles/2026-06-22/qualcomm-is-said-to-near-deal-for-ai-chip-startup-modular) · [CNBC](https://www.cnbc.com/2026/06/22/spacex-ai-colossus-data-center-reflection.html)
-<!--more-->
 - **China's Z.ai releases GLM-5.2, an open-weight model that beats GPT-5.5 on coding benchmarks — on the same day the US banned Anthropic's Fable 5**: The 744B-parameter GLM-5.2 is released under an MIT license with no regional restrictions, self-hostable, and priced at 1/6 of GPT-5.5's API cost. For teams building outside the US, the infrastructure calculus just changed fundamentally. [StartupFortune](https://startupfortune.com/chinas-zai-open-sourced-a-frontier-coding-model-the-same-day-washington-banned-its-american-rival/)
 - **Five Eyes agencies issue unprecedented joint warning: AI models capable of toppling governments and businesses are "months away"**: Cybersecurity agencies from the US, UK, Canada, Australia, and New Zealand issued a rare joint statement on AI threats, following the US block on Anthropic's Fable 5. AI safety is now the front line of the G2 tech rivalry. [The Guardian](https://www.theguardian.com/technology/2026/jun/22/anthropic-claude-fable-ai-model-artificial-intelligence-national-security) · [CISA](https://www.cisa.gov/news-events/news/five-eyes-cyber-security-agencies-statement)
 

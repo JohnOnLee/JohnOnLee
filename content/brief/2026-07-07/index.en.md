@@ -1,15 +1,12 @@
 ---
-title: "AI / Startup Morning Brief — 2026-07-07"
+title: "Anthropic discovers 'consciousness-like' internal neural patterns in Claude"
 date: 2026-07-07
-summary: "Anthropic discovers 'consciousness-like' internal neural patterns in Claude: New interpretability research reveals Claude spontaneously developed 'J-space' — a small set of intern…"
-description: "Anthropic discovers 'consciousness-like' internal neural patterns in Claude: New interpretability research reveals Claude spontaneously developed 'J-space' — a small set of intern…"
+summary: "New interpretability research reveals Claude spontaneously developed 'J-space' — a small set of intern…"
+description: "New interpretability research reveals Claude spontaneously developed 'J-space' — a small set of intern…"
 ---
-
-[AI/Startup Morning Brief — 2026-07-07]
 
 ## Key Shifts
 - **Anthropic discovers 'consciousness-like' internal neural patterns in Claude**: New interpretability research reveals Claude spontaneously developed "J-space" — a small set of internal neural patterns that function like a "global workspace," enabling silent reasoning that the model can report on and control. These patterns emerged organically during training, not by design. A landmark for AI safety and interpretability research. [Anthropic](https://www.anthropic.com/research/global-workspace)
-<!--more-->
 - **Microsoft cuts 4,800 jobs as Big Tech flips the AI-jobs narrative**: Microsoft's layoffs come as the WSJ reports tech CEOs are now publicly acknowledging AI will eliminate jobs — a sharp reversal from the longstanding "AI is a copilot, not a replacement" messaging. The shift from denial to acceptance signals a new phase in AI workforce disruption. [Reuters](https://www.reuters.com/business/world-at-work/microsoft-joins-ai-driven-tech-layoff-wave-with-4800-job-cuts-2026-07-06/) · [WSJ](https://www.wsj.com/tech/ai/ai-workers-tech-ceos-job-losses-afc71e15)
 - **China moves to ban humanlike AI agents**: Ahead of July 15 regulations, ByteDance (Doubao) and Alibaba (Qwen) have begun disabling custom AI agent features that mimic human behavior and emotion. This is the first large-scale regulatory experiment targeting AI anthropomorphism — a policy direction with global implications for AI product design. [SCMP](https://www.scmp.com/tech/big-tech/article/3359482/bytedance-and-alibaba-disable-humanlike-ai-custom-agents-new-rules-loom)
 

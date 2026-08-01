@@ -1,15 +1,12 @@
 ---
-title: "AI / Startup Morning Brief — 2026-06-22"
+title: "Anthropic introduces mandatory identity verification on Claude — government ID + selfie required"
 date: 2026-06-22
-summary: "Anthropic introduces mandatory identity verification on Claude — government ID + selfie required: Claude users will be phased into a verification flow powered by Persona, requirin…"
-description: "Anthropic introduces mandatory identity verification on Claude — government ID + selfie required: Claude users will be phased into a verification flow powered by Persona, requirin…"
+summary: "Claude users will be phased into a verification flow powered by Persona, requirin…"
+description: "Claude users will be phased into a verification flow powered by Persona, requirin…"
 ---
-
-[AI/Startup Morning Brief — 2026-06-22]
 
 ## Key Shifts
 - **Anthropic introduces mandatory identity verification on Claude — government ID + selfie required**: Claude users will be phased into a verification flow powered by Persona, requiring government-issued photo ID and a facial match. The announcement hit #1 on HN with 454 points and 417 comments, igniting debate around AI safety versus platform accessibility. Combined with under-18 bans and unsupported-location blocks, Anthropic's safety-compliance posture is hardening fast. For founders and operators, the larger signal: if identity verification becomes the norm for frontier AI access, anonymous-first B2C AI products will need to rethink their architecture from the ground up. [Anthropic](https://support.claude.com/en/articles/14328960-identity-verification-on-claude)
-<!--more-->
 - **iOS 27 reveals Apple's practical AI strategy — beyond Siri and into the OS itself**: Apple's next OS packs system-wide sentence-level summarization, context-aware notification filtering, and cross-app intent inference — all decoupled from the Siri brand. Rather than chasing the "intelligent assistant" dream, Apple is embedding AI invisibly across the OS where it actually improves user workflows. This is the mainstreaming of ambient AI, not AI as a product. Founders building AI-native apps should watch how the platform layer absorbs features that were startup territory a year ago. [TechCrunch](https://techcrunch.com/2026/06/21/beyond-siri-here-are-the-practical-ai-features-coming-to-your-iphone-in-ios-27/)
 - **Anthropic's Project Fetch Phase Two — Claude learns to use computers autonomously**: Anthropic published the second phase of its research on giving Claude the ability to operate browsers and computers as an autonomous agent. The work represents tangible progress toward AI that performs real tasks in digital environments rather than just generating text. It's the clearest signal yet that frontier labs see "agents" as the next product paradigm, not just a research direction. [Anthropic](https://www.anthropic.com/research/project-fetch-phase-two)
 

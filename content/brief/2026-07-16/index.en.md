@@ -1,15 +1,12 @@
 ---
-title: "AI / Startup Morning Brief — 2026-07-16"
+title: "Thinking Machines Lab releases Inkling, a 975B-parameter open-weights LLM"
 date: 2026-07-16
-summary: "Thinking Machines Lab releases Inkling, a 975B-parameter open-weights LLM: Thinking Machines Lab has released Inkling, an open-weights model at 975B parameters — a significant mil…"
-description: "Thinking Machines Lab releases Inkling, a 975B-parameter open-weights LLM: Thinking Machines Lab has released Inkling, an open-weights model at 975B parameters — a significant mil…"
+summary: "Thinking Machines Lab has released Inkling, an open-weights model at 975B parameters — a significant mil…"
+description: "Thinking Machines Lab has released Inkling, an open-weights model at 975B parameters — a significant mil…"
 ---
-
-[AI/Startup Morning Brief — 2026-07-16]
 
 ## Key Shifts
 - **Thinking Machines Lab releases Inkling, a 975B-parameter open-weights LLM**: Thinking Machines Lab has released Inkling, an open-weights model at 975B parameters — a significant milestone for the open model ecosystem approaching the 1T-parameter threshold. The open vs. closed dynamics in foundation models continue to evolve. [Thinking Machines Lab](https://thinkingmachines.ai/news/introducing-inkling/) · [HN discussion](https://news.ycombinator.com/item?id=48924912)
-<!--more-->
 - **OpenAI loses EU trademark dispute**: OpenAI lost a trademark case at the EU court, weakening its brand exclusivity in the European market. This signals growing legal friction for AI companies around IP protection. [dpa international](https://dpa-international.com/economics/urn:newsml:dpa.com:20090101:260715-930-389143/) · [HN discussion](https://news.ycombinator.com/item?id=48921461)
 - **BIS report: AI boom financing is shifting from equity to debt**: The Bank for International Settlements published an analysis showing AI investment is increasingly debt-financed rather than equity-financed — a structural shift that raises questions about sustainability if IPO markets don't deliver. [BIS](https://www.bis.org/publ/bisbull120.htm) · [HN discussion](https://news.ycombinator.com/item?id=48913443)
 - **Data centers have added $23B to US public electricity bills**: Fortune reports that the rapid expansion of AI data centers has driven up electricity costs for the American public by an estimated $23 billion. The externalized costs of AI infrastructure are becoming visible. [Fortune](https://fortune.com/2026/07/14/data-centers-23-billion-electricity-bills/)

@@ -1,15 +1,12 @@
 ---
-title: "AI·스타트업 모닝 브리프 - 2026-06-25"
+title: "OpenAI, Broadcom과 첫 커스텀 추론 칩 'Jalapeño' 공개"
 date: 2026-06-25
-summary: "OpenAI, Broadcom과 첫 커스텀 추론 칩 'Jalapeño' 공개: OpenAI가 최초의 자체 추론 프로세서를 공개했다. NVIDIA GPU 의존도를 낮추기 위한 전략적 움직임으로, Google TPU·Amazon Trainium과 같은 길을 걷기 시작했다. LLM 추론에 특화된 설계이며 OpenAI의 자체…"
-description: "OpenAI, Broadcom과 첫 커스텀 추론 칩 'Jalapeño' 공개: OpenAI가 최초의 자체 추론 프로세서를 공개했다. NVIDIA GPU 의존도를 낮추기 위한 전략적 움직임으로, Google TPU·Amazon Trainium과 같은 길을 걷기 시작했다. LLM 추론에 특화된 설계이며 OpenAI의 자체…"
+summary: "OpenAI가 최초의 자체 추론 프로세서를 공개했다. NVIDIA GPU 의존도를 낮추기 위한 전략적 움직임으로, Google TPU·Amazon Trainium과 같은 길을 걷기 시작했다. LLM 추론에 특화된 설계이며 OpenAI의 자체…"
+description: "OpenAI가 최초의 자체 추론 프로세서를 공개했다. NVIDIA GPU 의존도를 낮추기 위한 전략적 움직임으로, Google TPU·Amazon Trainium과 같은 길을 걷기 시작했다. LLM 추론에 특화된 설계이며 OpenAI의 자체…"
 ---
-
-[브리핑/AI] AI·스타트업 모닝 브리프 - 2026-06-25
 
 ## 핵심 변화
 - **OpenAI, Broadcom과 첫 커스텀 추론 칩 'Jalapeño' 공개**: OpenAI가 최초의 자체 추론 프로세서를 공개했다. NVIDIA GPU 의존도를 낮추기 위한 전략적 움직임으로, Google TPU·Amazon Trainium과 같은 길을 걷기 시작했다. LLM 추론에 특화된 설계이며 OpenAI의 자체 AI 모델이 칩 설계에 활용되었다. 파운드리·제조는 Broadcom과 협업. [TechCrunch](https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/) · [OpenAI](https://openai.com/index/openai-broadcom-jalapeno-inference-chip/)
-<!--more-->
 - **Qualcomm, AI 인프라 스타트업 Modular 인수 (~$4B)**: Qualcomm이 Chris Lattner(Swift·LLVM 창시자)가 설립한 Modular를 인수한다. Modular는 고성능 AI용 Python 슈퍼셋 Mojo와 MAX 플랫폼을 개발해왔다. 온디바이스 AI 소프트웨어 스택을 확보하려는 퀄컴의 전략적 베팅. AI 인프라 레이어에서의 M&A가 본격화되고 있다는 신호. [Modular](https://www.modular.com/blog/qualcomm-to-acquire-modular) · [Qualcomm](https://www.qualcomm.com/news/releases/2026/06/qualcomm-to-acquire-modular)
 - **Google Gemini 3.5 Flash에 'Computer Use' 기본 탑재**: 구글이 Gemini 3.5 Flash에 컴퓨터 제어 기능을 빌트인 툴로 통합했다. 브라우저·모바일·데스크톱 환경 전반에서 클릭·타이핑·UI 탐색이 가능. 이전에는 별도 Gemini 2.5 모델로만 제공되던 기능. Gemini API와 Enterprise Agent Platform으로 제공. [Google Blog](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-computer-use-gemini-3-5-flash/)
 

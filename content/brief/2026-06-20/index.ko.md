@@ -1,15 +1,12 @@
 ---
-title: "AI·스타트업 모닝 브리프 - 2026-06-20"
+title: "트랜스포머 공동 저자 Noam Shazeer, 구글 떠나 OpenAI 합류"
 date: 2026-06-20
-summary: "트랜스포머 공동 저자 Noam Shazeer, 구글 떠나 OpenAI 합류: 'Attention Is All You Need' 논문의 공동 저자이자 구글 Gemini 공동 리드였던 Shazeer가 OpenAI로 이적했다. OpenAI IPO를 앞두고 전 트럼프 백악관 AI 정책 담당자 Dean Ball도 함께 영입. 최…"
-description: "트랜스포머 공동 저자 Noam Shazeer, 구글 떠나 OpenAI 합류: 'Attention Is All You Need' 논문의 공동 저자이자 구글 Gemini 공동 리드였던 Shazeer가 OpenAI로 이적했다. OpenAI IPO를 앞두고 전 트럼프 백악관 AI 정책 담당자 Dean Ball도 함께 영입. 최…"
+summary: "'Attention Is All You Need' 논문의 공동 저자이자 구글 Gemini 공동 리드였던 Shazeer가 OpenAI로 이적했다. OpenAI IPO를 앞두고 전 트럼프 백악관 AI 정책 담당자 Dean Ball도 함께 영입. 최…"
+description: "'Attention Is All You Need' 논문의 공동 저자이자 구글 Gemini 공동 리드였던 Shazeer가 OpenAI로 이적했다. OpenAI IPO를 앞두고 전 트럼프 백악관 AI 정책 담당자 Dean Ball도 함께 영입. 최…"
 ---
-
-[브리핑/AI] AI·스타트업 모닝 브리프 - 2026-06-20
 
 ## 핵심 변화
 - **트랜스포머 공동 저자 Noam Shazeer, 구글 떠나 OpenAI 합류**: "Attention Is All You Need" 논문의 공동 저자이자 구글 Gemini 공동 리드였던 Shazeer가 OpenAI로 이적했다. OpenAI IPO를 앞두고 전 트럼프 백악관 AI 정책 담당자 Dean Ball도 함께 영입. 최상위 AI 인재 쟁탈전이 가속화되고 있으며, IPO를 준비 중인 OpenAI에겐 상징적 의미가 큰 영입이다. [Reuters](https://www.reuters.com/technology/googles-gemini-co-lead-noam-shazeer-join-openai-2026-06-18/) · [TechCrunch](https://techcrunch.com/2026/06/18/openai-is-bringing-on-some-big-guns-in-the-lead-up-to-its-ipo/)
-<!--more-->
 - **구글과 아마존, Nvidia AI 칩 독점에 동시다발적 도전**: WSJ에 따르면 구글은 Nvidia의 플레이북을 활용해 클라우드 중립적인 AI 칩 비즈니스를 구축 중이다. 같은 날 아마존도 자사 Trainium 칩을 서드파티에 직접 판매하는 방안을 추진 중이라고 확인했다. Andy Jassy CEO는 Trainium이 독립 사업이었다면 연간 $500억 런레이트 규모라고 밝혔다. AI 칩 시장이 빠르게 다극화되고 있다. [WSJ](https://www.wsj.com/tech/ai/google-is-using-nvidias-playbook-to-build-a-rival-ai-chip-business-1eac86f9) · [TechCrunch](https://techcrunch.com/2026/06/18/amazon-hopes-to-challenge-nvidia-more-directly-by-selling-its-ai-chips/)
 - **AI 모델의 진짜 병목은 '데이터 블랙홀' — 샘플 효율성이 아니라 데이터다**: Dwarkesh Patel의 분석에 따르면, 최근 AI 발전의 대부분은 더 많고 더 나은 데이터에서 비롯됐으며, 근본적인 샘플 효율성(데이터당 학습량)은 크게 개선되지 않았다. RL과 합성 데이터 생성은 결국 인간 전문가의 궤적 데이터(trajectory data)에 의존하며, 이 데이터의 생산 비용과 규모가 실질적인 한계다. 단순한 스케일링 법칙만 믿고 있어선 안 된다는 경고. [Dwarkesh](https://www.dwarkesh.com/p/the-sample-efficiency-black-hole-2)
 

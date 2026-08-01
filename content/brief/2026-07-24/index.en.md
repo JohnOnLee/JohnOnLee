@@ -1,15 +1,12 @@
 ---
-title: "AI / Startup Morning Brief — 2026-07-24"
+title: "Open-weight AI regulation fight intensifies — startups vs. Big Tech"
 date: 2026-07-24
-summary: "Open-weight AI regulation fight intensifies — startups vs. Big Tech: Over 140 startup founders signed an open letter urging the Trump administration not to block access to Chinese…"
-description: "Open-weight AI regulation fight intensifies — startups vs. Big Tech: Over 140 startup founders signed an open letter urging the Trump administration not to block access to Chinese…"
+summary: "Over 140 startup founders signed an open letter urging the Trump administration not to block access to Chinese…"
+description: "Over 140 startup founders signed an open letter urging the Trump administration not to block access to Chinese…"
 ---
-
-[AI/Startup Morning Brief — 2026-07-24]
 
 ## Key Shifts
 - **Open-weight AI regulation fight intensifies — startups vs. Big Tech**: Over 140 startup founders signed an open letter urging the Trump administration not to block access to Chinese open-weight AI models, while OpenAI and Anthropic lobby for restrictions citing security risks. The startup ecosystem argues open models are the only defense against Big Tech monopolization, and that regulation would ultimately favor a handful of large incumbents. For founders, this is existential: it determines whether the model layer remains a competitive market or consolidates. [Politico](https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992) · [Tom Bedor analysis](https://tombedor.dev/arguments-against-open-source-ai-are-very-bad/)
-<!--more-->
 - **Big Tech AI spending alarm — Alphabet cash burn triggers market reaction**: Alphabet's accelerating cash burn from AI infrastructure investment has spooked markets. Tesla dropped 10% and Alphabet fell 5% on July 23. Investors are losing patience with the gap between AI capex and revenue realization. For founders and operators, the signal is clear: the era of easy, subsidized AI infrastructure may be peaking, and capital costs could rise across the ecosystem. [Reuters](https://www.reuters.com/business/retail-consumer/alphabets-cash-burn-raises-alarm-big-tech-ai-spending-climbs-2026-07-23/) · [CNBC](https://www.cnbc.com/2026/07/23/tesla-tsla-alphabet-googl-stock-today.html)
 - **Google ATLAS — first large-scale data on how people actually use AI**: Google released the ATLAS (Activity, Task, Landscape, and Adoption Study) report, analyzing 15 million de-identified human-AI interactions across Gemini (1B+ monthly users, 150 countries, 800 occupations, 4,000 tasks). Key findings: (1) workplace AI adoption is "broad but shallow" — 68% of occupations use AI, but for only ~21% of tasks per job on average; (2) less than 10% of work interactions involve full task automation; (3) 86% of AI interactions happen outside of work. The data challenges the "AI replaces jobs" narrative — it's settling in as an augmentation tool, not a replacement engine. [Google Blog](https://blog.google/innovation-and-ai/technology/research/understanding-the-ai-economy/)
 

@@ -1,15 +1,12 @@
 ---
-title: "AI·스타트업 모닝 브리프 - 2026-07-09"
+title: "DeepSeek, 美 수출 규제에 맞서 자체 칩 설계 추진"
 date: 2026-07-09
-summary: "DeepSeek, 美 수출 규제에 맞서 자체 칩 설계 추진: 미국의 대중국 반도체 수출 통제가 강화되는 가운데, DeepSeek이 자체 AI 칩 설계에 나섰다. 파운드리 접근이 막힌 상황에서 설계 역량만으로 어디까지 갈 수 있을지가 관건 — 성공하면 중국 AI 생태계의 탈서방 의존 가속화 신호. Ars Technica"
-description: "DeepSeek, 美 수출 규제에 맞서 자체 칩 설계 추진: 미국의 대중국 반도체 수출 통제가 강화되는 가운데, DeepSeek이 자체 AI 칩 설계에 나섰다. 파운드리 접근이 막힌 상황에서 설계 역량만으로 어디까지 갈 수 있을지가 관건 — 성공하면 중국 AI 생태계의 탈서방 의존 가속화 신호. Ars Technica"
+summary: "미국의 대중국 반도체 수출 통제가 강화되는 가운데, DeepSeek이 자체 AI 칩 설계에 나섰다. 파운드리 접근이 막힌 상황에서 설계 역량만으로 어디까지 갈 수 있을지가 관건 — 성공하면 중국 AI 생태계의 탈서방 의존 가속화 신호. Ars Technica"
+description: "미국의 대중국 반도체 수출 통제가 강화되는 가운데, DeepSeek이 자체 AI 칩 설계에 나섰다. 파운드리 접근이 막힌 상황에서 설계 역량만으로 어디까지 갈 수 있을지가 관건 — 성공하면 중국 AI 생태계의 탈서방 의존 가속화 신호. Ars Technica"
 ---
-
-[브리핑/AI] AI·스타트업 모닝 브리프 - 2026-07-09
 
 ## 핵심 변화
 - **DeepSeek, 美 수출 규제에 맞서 자체 칩 설계 추진**: 미국의 대중국 반도체 수출 통제가 강화되는 가운데, DeepSeek이 자체 AI 칩 설계에 나섰다. 파운드리 접근이 막힌 상황에서 설계 역량만으로 어디까지 갈 수 있을지가 관건 — 성공하면 중국 AI 생태계의 탈서방 의존 가속화 신호. [Ars Technica](https://arstechnica.com/ai/2026/07/facing-us-export-controls-chinas-deepseek-plans-to-make-its-own-chips/)
-<!--more-->
 - **SpaceXAI, Grok 4.5 출시 — "Opus급 모델" 주장**: Elon Musk의 SpaceXAI가 Grok 4.5를 공개하며 Anthropic Claude Opus급 성능이라고 주장. 더 저렴하고 효율적인 대안을 표방하며, 최상위권 모델 간 성능 격차가 빠르게 좁혀지고 있음을 보여주는 신호. [TechCrunch](https://techcrunch.com/2026/07/08/spacexai-releases-grok-4-5-which-elon-describes-as-an-opus-class-model/)
 - **OpenAI, 실시간 동시 통역 가능한 새 음성 모델 공개**: 말하기와 듣기를 동시에 수행할 수 있는 새로운 음성 모델 출시. 실시간 번역이 핵심 사용처로 지목되었으며, 음성 인터페이스가 텍스트 다음의 주요 UX 전장이 되고 있음을 시사. [TechCrunch](https://techcrunch.com/2026/07/08/openai-releases-new-voice-models-for-more-natural-live-conversations/)
 

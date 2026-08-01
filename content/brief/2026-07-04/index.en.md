@@ -1,15 +1,12 @@
 ---
-title: "AI / Startup Morning Brief — 2026-07-04"
+title: "Meta's next LLM \"Watermelon\" reaches GPT-5.5 parity"
 date: 2026-07-04
 summary: "Meta's next LLM 'Watermelon' reaches GPT-5.5 parity: VP Alexandr Wang confirmed in an internal town hall that Watermelon — the successor to Muse Spark — has caught up with OpenAI'…"
 description: "Meta's next LLM 'Watermelon' reaches GPT-5.5 parity: VP Alexandr Wang confirmed in an internal town hall that Watermelon — the successor to Muse Spark — has caught up with OpenAI'…"
 ---
 
-[AI/Startup Morning Brief — 2026-07-04]
-
 ## Key Shifts
 - **Meta's next LLM "Watermelon" reaches GPT-5.5 parity**: VP Alexandr Wang confirmed in an internal town hall that Watermelon — the successor to Muse Spark — has caught up with OpenAI's flagship GPT-5.5, using an order of magnitude more compute than its predecessor. A Muse Spark update with major coding and agentic gains is also coming "soon." [Business Insider](https://www.businessinsider.com/meta-ai-model-catches-up-openai-gpt-5-says-2026-7) · [SiliconANGLE](https://siliconangle.com/2026/07/03/meta-release-new-ai-model-advanced-coding-capabilities-soon/)
-<!--more-->
 - **Microsoft launches Frontier Company with $2.5B and 6,000 employees**: A new operating business focused on end-to-end AI transformation for enterprise customers — "AI engineering that amplifies and protects your intelligence." Signals a shift from AI experimentation to measurable business outcomes. [Microsoft Blog](https://blogs.microsoft.com/blog/2026/07/02/microsoft-frontier-company-ai-engineering-that-amplifies-and-protects-your-intelligence/)
 - **China's GLM 5.2 goes open-source, rivals Anthropic**: Zhipu AI's new model competes with Claude on major benchmarks. With a 1M-token context window, open-source availability, and "no regional limits," it represents the second Chinese open-source shockwave after DeepSeek. [Euronews](https://www.euronews.com/next/2026/07/03/what-is-glm-52-the-new-chinese-ai-model-thats-rivalling-anthropic)
 - **Global VC funding hits record $510B in H1 2026**: The AI boom drove all-time-high venture investment. IPOs and M&A exits are surging alongside funding, suggesting the exit market is finally thawing. [Crunchbase News](https://news.crunchbase.com/venture/global-startup-exits-ipo-ma-soar-ai-q2-h1-2026/) · [SiliconANGLE](https://siliconangle.com/2026/07/02/global-venture-funding-hits-record-510b-first-half-ai-boom-accelerates/)

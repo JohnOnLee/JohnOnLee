@@ -1,15 +1,12 @@
 ---
-title: "AI / Startup Morning Brief — 2026-06-09"
+title: "OpenAI files confidentially for IPO"
 date: 2026-06-09
-summary: "OpenAI files confidentially for IPO: ChatGPT-maker OpenAI submitted a confidential S-1 draft registration to the SEC, at a last-known valuation of $852B. Comes one week after riva…"
-description: "OpenAI files confidentially for IPO: ChatGPT-maker OpenAI submitted a confidential S-1 draft registration to the SEC, at a last-known valuation of $852B. Comes one week after riva…"
+summary: "ChatGPT-maker OpenAI submitted a confidential S-1 draft registration to the SEC, at a last-known valuation of $852B. Comes one week after riva…"
+description: "ChatGPT-maker OpenAI submitted a confidential S-1 draft registration to the SEC, at a last-known valuation of $852B. Comes one week after riva…"
 ---
-
-[AI/Startup Morning Brief — 2026-06-09]
 
 ## Key Shifts
 - **OpenAI files confidentially for IPO**: ChatGPT-maker OpenAI submitted a confidential S-1 draft registration to the SEC, at a last-known valuation of $852B. Comes one week after rival Anthropic filed, and days before SpaceX's expected public debut — setting up three of the largest IPOs in history within months of each other. OpenAI projects $122B in compute spending by 2028 and its CFO has reportedly raised concerns about sustaining data center expenditures. [CNBC](https://www.cnbc.com/2026/06/08/openai-confidentially-files-for-ipo-prepping-wall-street-for-ai-debut.html) · [TechCrunch](https://techcrunch.com/2026/06/08/following-anthropic-openai-files-confidentially-for-ipo/) · [OpenAI](https://openai.com/index/openai-submits-confidential-s-1/)
-<!--more-->
 - **Apple unveils new AI architecture built on Google Gemini**: At WWDC 2026, Apple announced a major overhaul of Apple Intelligence, powered by foundation models co-developed with Google and adapted for on-device and Private Cloud Compute. Multimodal capabilities include image generation, advanced photo editing, and visual Q&A. A revamped AI Siri was also revealed. [MacRumors](https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/) · [TechCrunch](https://techcrunch.com/2026/06/08/apple-plays-catch-up-at-wwdc/) · [Apple Developer](https://developer.apple.com/documentation/coreai/)
 - **Xiaomi MiMo hits 1,000 tokens/sec on a 1T-parameter model**: MiMo-V2.5-Pro-UltraSpeed, in collaboration with TileRT, achieves 1000+ tokens/s decode speed on a trillion-parameter model — a first. 3× the cost of the base model for ~10× the generation speed. Limited-time application-based access from June 9–23. [Xiaomi MiMo](https://mimo.xiaomi.com/blog/mimo-tilert-1000tps) · [Hacker News](https://news.ycombinator.com/item?id=48446639)
 - **DeepSeek V4 Pro beats GPT-5.5 Pro on precision**: DeepSeek's latest model reportedly surpasses OpenAI's GPT-5.5 Pro on precision benchmarks, signaling that the gap between Chinese and US frontier models is closing faster than expected. [RuntimeWire](https://runtimewire.com/article/deepseek-v4-pro-beats-gpt-5-5-pro-on-precision) · [Hacker News](https://news.ycombinator.com/item?id=48440448)

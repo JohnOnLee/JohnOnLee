@@ -1,15 +1,12 @@
 ---
-title: "AI / Startup Morning Brief — 2026-07-09"
+title: "DeepSeek plans to build its own chips amid US export controls"
 date: 2026-07-09
-summary: "DeepSeek plans to build its own chips amid US export controls: As US semiconductor restrictions tighten, DeepSeek is moving to design its own AI chips. Without access to advanced…"
-description: "DeepSeek plans to build its own chips amid US export controls: As US semiconductor restrictions tighten, DeepSeek is moving to design its own AI chips. Without access to advanced…"
+summary: "As US semiconductor restrictions tighten, DeepSeek is moving to design its own AI chips. Without access to advanced…"
+description: "As US semiconductor restrictions tighten, DeepSeek is moving to design its own AI chips. Without access to advanced…"
 ---
-
-[AI/Startup Morning Brief — 2026-07-09]
 
 ## Key Shifts
 - **DeepSeek plans to build its own chips amid US export controls**: As US semiconductor restrictions tighten, DeepSeek is moving to design its own AI chips. Without access to advanced fabs, the question is how far design capability alone can go — success would signal accelerating decoupling of China's AI ecosystem from Western dependency. [Ars Technica](https://arstechnica.com/ai/2026/07/facing-us-export-controls-chinas-deepseek-plans-to-make-its-own-chips/)
-<!--more-->
 - **SpaceXAI releases Grok 4.5, calls it "Opus-class"**: Elon Musk's SpaceXAI launched Grok 4.5, positioning it as a cheaper, more efficient alternative matching Anthropic's Claude Opus in capability. The gap between top-tier models continues to narrow — model commoditization is accelerating. [TechCrunch](https://techcrunch.com/2026/07/08/spacexai-releases-grok-4-5-which-elon-describes-as-an-opus-class-model/)
 - **OpenAI ships new voice models with simultaneous speak-and-listen**: A new voice mode capable of real-time bidirectional conversation, with live translation as the headline use case. Voice interfaces are becoming the next major UX battleground after text. [TechCrunch](https://techcrunch.com/2026/07/08/openai-releases-new-voice-models-for-more-natural-live-conversations/)
 

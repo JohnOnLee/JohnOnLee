@@ -1,15 +1,12 @@
 ---
-title: "AI·스타트업 모닝 브리프 - 2026-08-01"
+title: "DeepSeek-V4-Flash 공개 베타 출시 — 에이전트 성능 대폭 강화"
 date: 2026-08-01
-summary: "DeepSeek-V4-Flash 공개 베타 출시 — 에이전트 성능 대폭 강화: DeepSeek가 V4-Flash API의 공개 베타를 출시했다. 284B 총 파라미터에 13B 활성 파라미터, 1M 토큰 컨텍스트 윈도우, MIT 라이선스 오픈웨이트. Artificial Analysis 종합 지능 지수 3위를 기록했으며,…"
-description: "DeepSeek-V4-Flash 공개 베타 출시 — 에이전트 성능 대폭 강화: DeepSeek가 V4-Flash API의 공개 베타를 출시했다. 284B 총 파라미터에 13B 활성 파라미터, 1M 토큰 컨텍스트 윈도우, MIT 라이선스 오픈웨이트. Artificial Analysis 종합 지능 지수 3위를 기록했으며,…"
+summary: "DeepSeek가 V4-Flash API의 공개 베타를 출시했다. 284B 총 파라미터에 13B 활성 파라미터, 1M 토큰 컨텍스트 윈도우, MIT 라이선스 오픈웨이트. Artificial Analysis 종합 지능 지수 3위를 기록했으며,…"
+description: "DeepSeek가 V4-Flash API의 공개 베타를 출시했다. 284B 총 파라미터에 13B 활성 파라미터, 1M 토큰 컨텍스트 윈도우, MIT 라이선스 오픈웨이트. Artificial Analysis 종합 지능 지수 3위를 기록했으며,…"
 ---
-
-[브리핑/AI] AI·스타트업 모닝 브리프 - 2026-08-01
 
 ## 핵심 변화
 - **DeepSeek-V4-Flash 공개 베타 출시 — 에이전트 성능 대폭 강화**: DeepSeek가 V4-Flash API의 공개 베타를 출시했다. 284B 총 파라미터에 13B 활성 파라미터, 1M 토큰 컨텍스트 윈도우, MIT 라이선스 오픈웨이트. Artificial Analysis 종합 지능 지수 3위를 기록했으며, 특히 에이전트 벤치마크에서 V4-Pro-Preview를 크게 앞섰다(Terminal Bench 2.1: 82.7, DeepSWE: 54.4). 입력 $0.14/1M 토큰, 출력 $0.28/1M 토큰으로 가격 경쟁력도 갖췄다. [DeepSeek](https://api-docs.deepseek.com/updates/) · [Artificial Analysis](https://artificialanalysis.ai/models/deepseek-v4-flash)
-<!--more-->
 - **삼성, 메모리 부족 2027년까지 심화·2028년까지 지속 전망**: 세계 메모리칩 3분의 1을 공급하는 삼성이 2분기 실적발표에서 AI발 메모리 부족("RAMageddon")이 2027년에 더 심해지고 2028년까지 이어질 것이라고 전망했다. AI 랩들이 중장기 수요 예측을 직접 삼성에 공유하며 장기 계약을 맺고 있어, 컨슈머 기기용 메모리 공급이 더욱 위축될 전망이다. 애플, 엔비디아 등이 이미 기기 가격을 인상했으며, 스타트업의 AI 인프라 비용에도 직접적 영향을 미칠 변수다. [TechCrunch](https://techcrunch.com/2026/07/31/samsung-expects-memory-shortage-to-worsen-through-2027-and-last-until-2028/)
 - **AI 추론은 '틀린 이유로 맞는' 것인가 — Quanta Magazine 심층 분석**: AI 추론 모델(LRM)의 능력에 대한 과학적 합의가 극도로 엇갈리는 상황을 Quanta Magazine이 집중 조명했다. OpenAI 모델이 미해결 수학 난제를 푼 지 한 달도 안 돼 Santa Fe Institute는 LRM이 '표면적 숏컷'으로 벤치마크를 돌파한다는 연구를 발표하는 등, 추론 능력의 실체에 대한 논쟁이 가열되고 있다. AI 제품을 만드는 창업자에게는 '이 모델이 실제로 무엇을 할 수 있는가'를 과신하지 않고 실험적으로 검증해야 하는 이유를 보여주는 분석이다. [Quanta Magazine](https://www.quantamagazine.org/is-ai-reasoning-right-for-the-wrong-reasons-20260731/)
 

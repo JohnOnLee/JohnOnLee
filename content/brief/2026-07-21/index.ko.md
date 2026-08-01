@@ -1,15 +1,12 @@
 ---
-title: "AI·스타트업 모닝 브리프 - 2026-07-21"
+title: "중국 오픈웨이트 모델, 미국 프런티어와 격차 급격히 축소"
 date: 2026-07-21
-summary: "중국 오픈웨이트 모델, 미국 프런티어와 격차 급격히 축소: Moonshot AI가 2.8조 파라미터의 Kimi K3를, Alibaba가 2.4조 파라미터의 Qwen3.8을 공개하며 자체 평가 기준으로 OpenAI GPT-5.6 Sol과 Anthropic Claude Fable 5에 근접한 성능을 주장. 두 모델 모두 오…"
-description: "중국 오픈웨이트 모델, 미국 프런티어와 격차 급격히 축소: Moonshot AI가 2.8조 파라미터의 Kimi K3를, Alibaba가 2.4조 파라미터의 Qwen3.8을 공개하며 자체 평가 기준으로 OpenAI GPT-5.6 Sol과 Anthropic Claude Fable 5에 근접한 성능을 주장. 두 모델 모두 오…"
+summary: "Moonshot AI가 2.8조 파라미터의 Kimi K3를, Alibaba가 2.4조 파라미터의 Qwen3.8을 공개하며 자체 평가 기준으로 OpenAI GPT-5.6 Sol과 Anthropic Claude Fable 5에 근접한 성능을 주장. 두 모델 모두 오…"
+description: "Moonshot AI가 2.8조 파라미터의 Kimi K3를, Alibaba가 2.4조 파라미터의 Qwen3.8을 공개하며 자체 평가 기준으로 OpenAI GPT-5.6 Sol과 Anthropic Claude Fable 5에 근접한 성능을 주장. 두 모델 모두 오…"
 ---
-
-[브리핑/AI] AI·스타트업 모닝 브리프 - 2026-07-21
 
 ## 핵심 변화
 - **중국 오픈웨이트 모델, 미국 프런티어와 격차 급격히 축소**: Moonshot AI가 2.8조 파라미터의 Kimi K3를, Alibaba가 2.4조 파라미터의 Qwen3.8을 공개하며 자체 평가 기준으로 OpenAI GPT-5.6 Sol과 Anthropic Claude Fable 5에 근접한 성능을 주장. 두 모델 모두 오픈웨이트로 공개 예정 — 미국 랩들의 폐쇄형 접근과 대비되는 전략. [The Verge](https://www.theverge.com/ai-artificial-intelligence/967781/chinese-ai-models-open-source-moonshot-kimi-k3-alibaba-qwen) · [Stratechery](https://stratechery.com/2026/whos-afraid-of-chinese-models/)
-<!--more-->
 - **에이전트 스웜의 경제학 재정립**: Cursor가 SQLite를 처음부터 구현하는 실험에서 GPT-5.5 단독 실행($10,565) 대비 Opus 4.8(플래너) + Composer 2.5(워커) 하이브리드 스웜($1,339)이 유사한 품질을 **87% 낮은 비용**으로 달성. 프런티어 모델은 계획(planning)에만, 실행(execution)은 저비용 모델에 위임하는 아키텍처가 실전에서 유효함을 입증. [Cursor](https://cursor.com/blog/agent-swarm-model-economics)
 
 ## 스타트업 / 제품 / 플랫폼 레이더

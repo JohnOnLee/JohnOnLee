@@ -1,17 +1,14 @@
 ---
-title: "AI·스타트업 모닝 브리프 - 2026-07-17"
+title: "Moonshot AI, Kimi K3 공개 — 2.8T 파라미터 오픈 프론티어 모델"
 date: 2026-07-17
-summary: "Moonshot AI, Kimi K3 공개 — 2.8T 파라미터 오픈 프론티어 모델: Kimi K3는 100만 토큰 컨텍스트 윈도우와 네이티브 비전을 갖춘 Moonshot AI의 최상위 모델이다. 자체 개발한 Delta Attention과 Attention Residuals 아키텍처를 적용했으며, 오픈웨이트로 공개해 파…"
-description: "Moonshot AI, Kimi K3 공개 — 2.8T 파라미터 오픈 프론티어 모델: Kimi K3는 100만 토큰 컨텍스트 윈도우와 네이티브 비전을 갖춘 Moonshot AI의 최상위 모델이다. 자체 개발한 Delta Attention과 Attention Residuals 아키텍처를 적용했으며, 오픈웨이트로 공개해 파…"
+summary: "Kimi K3는 100만 토큰 컨텍스트 윈도우와 네이티브 비전을 갖춘 Moonshot AI의 최상위 모델이다. 자체 개발한 Delta Attention과 Attention Residuals 아키텍처를 적용했으며, 오픈웨이트로 공개해 파…"
+description: "Kimi K3는 100만 토큰 컨텍스트 윈도우와 네이티브 비전을 갖춘 Moonshot AI의 최상위 모델이다. 자체 개발한 Delta Attention과 Attention Residuals 아키텍처를 적용했으며, 오픈웨이트로 공개해 파…"
 ---
-
-[브리핑/AI] AI·스타트업 모닝 브리프 - 2026-07-17
 
 ## 핵심 변화
 
 - **Moonshot AI, Kimi K3 공개 — 2.8T 파라미터 오픈 프론티어 모델**: Kimi K3는 100만 토큰 컨텍스트 윈도우와 네이티브 비전을 갖춘 Moonshot AI의 최상위 모델이다. 자체 개발한 Delta Attention과 Attention Residuals 아키텍처를 적용했으며, 오픈웨이트로 공개해 파인튜닝과 커스터마이징이 가능하다. Thinking Machines의 Inkling(975B)에 이은 또 하나의 대형 오픈 모델로, 프론티어급 모델의 오픈소스화가 가속화되고 있다. [Kimi](https://www.kimi.com/blog/kimi-k3) · [Thinking Machines](https://thinkingmachines.ai/news/introducing-inkling/)
 
-<!--more-->
 - **Google, NotebookLM을 Gemini Notebook으로 리브랜딩하고 클라우드 컴퓨터 기능 추가**: 기존 NotebookLM이 Gemini 브랜드 아래로 통합되며, 사용자가 노트북 안에서 코드를 실행하고 파일을 처리할 수 있는 보안 클라우드 컴퓨터가 추가됐다. 단순한 RAG 도구에서 AI 기반 업무 공간으로의 진화. 구글의 제품 통합 전략과 Gemini 생태계 확장 관점에서 주목할 만하다. [Google Blog](https://blog.google/innovation-and-ai/products/gemini-notebook/notebooklm-gemini-notebook/)
 
 ## 스타트업 / 제품 / 플랫폼 레이더

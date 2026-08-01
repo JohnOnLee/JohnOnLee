@@ -1,15 +1,12 @@
 ---
-title: "AI·스타트업 모닝 브리프 - 2026-06-11"
+title: "Google, 디퓨전 방식으로 텍스트 생성 4배 가속 — DiffusionGemma 공개"
 date: 2026-06-11
-summary: "Google, 디퓨전 방식으로 텍스트 생성 4배 가속 — DiffusionGemma 공개: 자회귀(autoregressive) 방식이 아닌 디퓨전 모델로 텍스트를 생성하는 Gemma 기반 오픈 모델. 기존 LLM 대비 4배 빠른 생성 속도. 추론 비용 구조가 근본적으로 바뀔 가능성. Google Blog"
-description: "Google, 디퓨전 방식으로 텍스트 생성 4배 가속 — DiffusionGemma 공개: 자회귀(autoregressive) 방식이 아닌 디퓨전 모델로 텍스트를 생성하는 Gemma 기반 오픈 모델. 기존 LLM 대비 4배 빠른 생성 속도. 추론 비용 구조가 근본적으로 바뀔 가능성. Google Blog"
+summary: "자회귀(autoregressive) 방식이 아닌 디퓨전 모델로 텍스트를 생성하는 Gemma 기반 오픈 모델. 기존 LLM 대비 4배 빠른 생성 속도. 추론 비용 구조가 근본적으로 바뀔 가능성. Google Blog"
+description: "자회귀(autoregressive) 방식이 아닌 디퓨전 모델로 텍스트를 생성하는 Gemma 기반 오픈 모델. 기존 LLM 대비 4배 빠른 생성 속도. 추론 비용 구조가 근본적으로 바뀔 가능성. Google Blog"
 ---
-
-[브리핑/AI] AI·스타트업 모닝 브리프 - 2026-06-11
 
 ## 핵심 변화
 - **Google, 디퓨전 방식으로 텍스트 생성 4배 가속 — DiffusionGemma 공개**: 자회귀(autoregressive) 방식이 아닌 디퓨전 모델로 텍스트를 생성하는 Gemma 기반 오픈 모델. 기존 LLM 대비 4배 빠른 생성 속도. 추론 비용 구조가 근본적으로 바뀔 가능성. [Google Blog](https://blog.google/innovation-and-ai/technology/developers-tools/diffusion-gemma-faster-text-generation/)
-<!--more-->
 - **독일 법원, Google AI Overviews에 법적 책임 인정 — "AI 검색 결과는 플랫폼 자신의 말"**: 검색 엔진이 제3자 웹사이트를 인용할 땐 면책되지만, AI가 직접 답변을 생성할 땐 플랫폼 자신의 발언으로 간주해 책임을 진다는 판결. AI 생성 콘텐츠의 법적 리스크를 가르는 분수령. [The Decoder](https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/) · [Ars Technica](https://arstechnica.com/tech-policy/2026/06/nobody-needs-ai-to-search-the-internet-court-says-in-ruling-against-google/)
 - **Dario Amodei, "Policy on the AI Exponential" 발표 — 정치 제도가 AI 속도를 못 따라잡는다**: Anthropic CEO가 AI 발전 속도와 정치 제도의 간극을 반지의 제왕 엔트(Treebeard) 은유로 설명하며 구체적 정책 프레임워크 제안. 창업자/운영자 입장에서 향후 규제 방향을 가늠할 중요 시그널. [Dario Amodei](https://darioamodei.com/post/policy-on-the-ai-exponential)
 

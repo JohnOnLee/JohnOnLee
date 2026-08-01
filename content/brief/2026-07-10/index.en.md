@@ -1,15 +1,12 @@
 ---
-title: "AI / Startup Morning Brief — 2026-07-10"
+title: "GPT-5.6 released — better intent understanding, more sensitive to brevity"
 date: 2026-07-10
-summary: "GPT-5.6 released — better intent understanding, more sensitive to brevity: OpenAI unveiled GPT-5.6. The developer guide notes it better infers the user's underlying goal and inten…"
-description: "GPT-5.6 released — better intent understanding, more sensitive to brevity: OpenAI unveiled GPT-5.6. The developer guide notes it better infers the user's underlying goal and inten…"
+summary: "OpenAI unveiled GPT-5.6. The developer guide notes it better infers the user's underlying goal and inten…"
+description: "OpenAI unveiled GPT-5.6. The developer guide notes it better infers the user's underlying goal and inten…"
 ---
-
-[AI/Startup Morning Brief — 2026-07-10]
 
 ## Key Shifts
 - **GPT-5.6 released — better intent understanding, more sensitive to brevity**: OpenAI unveiled GPT-5.6. The developer guide notes it better infers the user's underlying goal and intended level of work, and warns it's more sensitive than GPT-5.5 to instructions like "be concise." A signal that context understanding is improving, but prompt engineering habits need recalibration. [OpenAI](https://openai.com/index/gpt-5-6/) · [HN discussion](https://news.ycombinator.com/item?id=48849066)
-<!--more-->
 - **EU Parliament greenlights Chat Control 1.0 — suspicionless mass scanning of private communications**: The European Parliament passed Chat Control 1.0, allowing mass scanning of private messages without suspicion. A majority of voting MEPs actually opposed it (314 against, 276 in favor), but procedural rules allowed it to pass. The measure had been rejected twice in March. Teams building or relying on encrypted messaging need to track exceptions and implementation timelines. [Patrick Breyer](https://www.patrick-breyer.de/en/eu-parliament-greenlights-chat-control-1-0-breyer-our-children-lose-out/)
 - **OpenAI shuts down Atlas browser, folds it into ChatGPT Work**: OpenAI is killing Atlas, its AI browser, and integrating its agent capabilities into a Chrome extension and desktop app under the new ChatGPT Work tier. This follows Sora's shutdown after Fidji Simo's directive to cut "side quests." The takeaway: the browser is a feature, not the destination. [TechCrunch](https://techcrunch.com/2026/07/09/openai-is-shutting-down-atlas-but-its-ai-browser-ambitions-are-still-growing/)
 
