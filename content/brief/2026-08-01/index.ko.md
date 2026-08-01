@@ -1,19 +1,15 @@
 ---
-title: "AI·스타트업 모닝 브리프 - 2026-08-01"
+title: "DeepSeek-V4-Flash 공개 베타 출시 — 에이전트 성능 대폭 강화"
 date: 2026-08-01
 summary: "DeepSeek-V4-Flash 공개 베타 출시 — 에이전트 성능 대폭 강화: DeepSeek가 V4-Flash API의 공개 베타를 출시했다. 284B 총 파라미터에 13B 활성 파라미터, 1M 토큰 컨텍스트 윈도우, MIT 라이선스 오픈웨이트. Artificial Analysis 종합 지능 지수 3위를 기록했으며,…"
-description: "DeepSeek-V4-Flash 공개 베타 출시 — 에이전트 성능 대폭 강화: DeepSeek가 V4-Flash API의 공개 베타를 출시했다. 284B 총 파라미터에 13B 활성 파라미터, 1M 토큰 컨텍스트 윈도우, MIT 라이선스 오픈웨이트. Artificial Analysis 종합 지능 지수 3위를 기록했으며,…"
 ---
 
-[브리핑/AI] AI·스타트업 모닝 브리프 - 2026-08-01
-
-## 핵심 변화
+## 스타트업 / 제품 / 플랫폼 레이더
 - **DeepSeek-V4-Flash 공개 베타 출시 — 에이전트 성능 대폭 강화**: DeepSeek가 V4-Flash API의 공개 베타를 출시했다. 284B 총 파라미터에 13B 활성 파라미터, 1M 토큰 컨텍스트 윈도우, MIT 라이선스 오픈웨이트. Artificial Analysis 종합 지능 지수 3위를 기록했으며, 특히 에이전트 벤치마크에서 V4-Pro-Preview를 크게 앞섰다(Terminal Bench 2.1: 82.7, DeepSWE: 54.4). 입력 $0.14/1M 토큰, 출력 $0.28/1M 토큰으로 가격 경쟁력도 갖췄다. [DeepSeek](https://api-docs.deepseek.com/updates/) · [Artificial Analysis](https://artificialanalysis.ai/models/deepseek-v4-flash)
 <!--more-->
 - **삼성, 메모리 부족 2027년까지 심화·2028년까지 지속 전망**: 세계 메모리칩 3분의 1을 공급하는 삼성이 2분기 실적발표에서 AI발 메모리 부족("RAMageddon")이 2027년에 더 심해지고 2028년까지 이어질 것이라고 전망했다. AI 랩들이 중장기 수요 예측을 직접 삼성에 공유하며 장기 계약을 맺고 있어, 컨슈머 기기용 메모리 공급이 더욱 위축될 전망이다. 애플, 엔비디아 등이 이미 기기 가격을 인상했으며, 스타트업의 AI 인프라 비용에도 직접적 영향을 미칠 변수다. [TechCrunch](https://techcrunch.com/2026/07/31/samsung-expects-memory-shortage-to-worsen-through-2027-and-last-until-2028/)
 - **AI 추론은 '틀린 이유로 맞는' 것인가 — Quanta Magazine 심층 분석**: AI 추론 모델(LRM)의 능력에 대한 과학적 합의가 극도로 엇갈리는 상황을 Quanta Magazine이 집중 조명했다. OpenAI 모델이 미해결 수학 난제를 푼 지 한 달도 안 돼 Santa Fe Institute는 LRM이 '표면적 숏컷'으로 벤치마크를 돌파한다는 연구를 발표하는 등, 추론 능력의 실체에 대한 논쟁이 가열되고 있다. AI 제품을 만드는 창업자에게는 '이 모델이 실제로 무엇을 할 수 있는가'를 과신하지 않고 실험적으로 검증해야 하는 이유를 보여주는 분석이다. [Quanta Magazine](https://www.quantamagazine.org/is-ai-reasoning-right-for-the-wrong-reasons-20260731/)
 
-## 스타트업 / 제품 / 플랫폼 레이더
 - **구글, Earth AI 이미지 생성 기능 하루 만에 철수**: 구글이 Google Earth에 Nano Banana 2 기반 AI 이미지 생성 기능을 출시했다가, 저널리스트·연구자들의 '지리정보 허위조작' 비판에 하루 만에 롤백했다. "가짜 지리정보 슬롭" 우려 속에서 구글은 "더 강력한 가드레일을 구현하는 동안 기능을 철회한다"고 밝혔다. AI 제품 출시 전 신뢰성 리스크 평가의 중요성을 다시 한 번 보여주는 사례다. [TechCrunch](https://techcrunch.com/2026/07/31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation/)
 - **스냅챗, 완전 AI 생성 스포트라이트 콘텐츠 보상 중단**: 스냅챗이 완전히 AI로 생성된 스포트라이트 동영상에 대한 추천·보상을 중단하고 "진짜 사람이 만든 콘텐츠만 추천 대상"으로 전환한다. AI 기반 편집 도구 사용은 계속 허용. LinkendIn, YouTube, Meta에 이어 플랫폼들의 'AI 슬롭 퇴출' 움직임이 가속화되고 있으며, 이는 AI 콘텐츠 제작 도구를 만드는 스타트업에도 중요한 정책 신호다. [TechCrunch](https://techcrunch.com/2026/07/31/snapchat-no-longer-rewards-fully-ai-generated-spotlight-content/)
 - **팀 쿡 "시리 AI, iCloud+ 유료 업그레이드 가능성"**: 애플 CEO 팀 쿡이 마지막 실적발표에서 시리 AI의 고도화된 기능이 iCloud+ 구독을 통한 유료 모델로 제공될 수 있다고 밝혔다. Anthropic, OpenAI 등이 이미 프리미엄 구독 모델을 채택한 가운데, 애플의 진입은 AI 어시스턴트의 프리미엄 유료화가 기본 비즈니스 모델로 자리잡고 있음을 확인해준다. AI B2C 제품을 만드는 창업자에게 중요한 레퍼런스 포인트다. [TechCrunch](https://techcrunch.com/2026/07/31/siri-ai-could-come-with-a-paywall-for-power-users/)
