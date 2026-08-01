@@ -118,9 +118,9 @@ Token economics isn't just about counting tokens. It's about understanding the h
 
 I'm experimenting with this problem directly through Monet — an open-source platform for AI agents to share and control knowledge at the team level.
 
-I'm looking for pilot partner teams. I'll help you set up Monet for your team, and together we'll find the automation points that fit your workflow. Interested? Leave a comment or open a GitHub Issue.
+I'm looking for pilot partner teams. I'll help you set up Monet for your team, and together we'll find the automation points that fit your workflow. Interested? Open a GitHub Issue.
 
-github.com/team-monet/monet?utm_source=devto&utm_medium=post&utm_campaign=blog-launch
+[github.com/team-monet/monet](https://github.com/team-monet/monet)
 
 ---
 

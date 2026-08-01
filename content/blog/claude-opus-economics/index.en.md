@@ -100,6 +100,6 @@ If you work in AI infra, cloud pricing, or know Anthropic's real costs — **cor
 
 ---
 
-*I think about this stuff because I'm experimenting with this problem directly through [Monet](https://github.com/team-monet/monet?utm_source=devto&utm_medium=post&utm_campaign=blog-launch) — an open-source platform for AI agents to share and control knowledge at the team level. Token economics determines what's possible.*
+*I think about this stuff because I'm experimenting with this problem directly through [Monet](https://github.com/team-monet/monet) — an open-source platform for AI agents to share and control knowledge at the team level. Token economics determines what's possible.*
 
 *github.com/team-monet/monet*
