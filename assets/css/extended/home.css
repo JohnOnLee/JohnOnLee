@@ -72,7 +72,7 @@ body:has(#john-home) .footer { border-top: 1px solid var(--j-line); }
   margin: 22px 0 0;
   color: var(--j-ink);
   font-family: var(--j-serif);
-  font-size: clamp(3rem, 7.1vw, 5.9rem);
+  font-size: clamp(3rem, 7.1vw, 4.6rem);
   font-weight: 500;
   line-height: 1.08;
   letter-spacing: -.055em;
