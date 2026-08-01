@@ -44,12 +44,9 @@ about:
   label: "About"
   title: "직접 만들고, 배우고, 기록합니다."
   paragraphs:
-    - "John Lee — 소프트웨어와 AI 제품을 직접 만들고 운영하는 빌더입니다. AI 에이전트를 위한 오픈소스 메모리 플랫폼 Monet을 만들고 있고, 이 사이트의 AI 레이더도 직접 만든 에이전트 Hermes가 매일 발행합니다."
-    - "여기에는 그렇게 만들며 발견한 시행착오와 판단을 기록합니다. 바이브 코더, 전문 개발자, 제품 설계자와 창업자가 아이디어를 실제 제품으로 옮기는 데 도움이 되기를 바랍니다."
+    - "소프트웨어와 AI 제품을 직접 만들고 운영하며 발견한 시행착오와 판단을 기록합니다. 아이디어를 실제 제품으로 옮기는 사람들을 위한 사이트입니다."
   links:
+    - label: "About 더 보기"
+      url: "/about/"
     - label: "GitHub"
       url: "https://github.com/JohnOnLee"
-    - label: "Monet"
-      url: "https://github.com/team-monet/monet"
-    - label: "RSS"
-      url: "/brief/index.xml"

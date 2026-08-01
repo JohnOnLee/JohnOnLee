@@ -40,10 +40,14 @@ languages:
           name: 가이드 & 툴
           url: /guides/
           weight: 30
+        - identifier: about
+          name: About
+          url: /about/
+          weight: 40
         - identifier: rss
           name: RSS
           url: /brief/index.xml
-          weight: 40
+          weight: 50
   en:
     label: English
     weight: 2
@@ -78,10 +82,14 @@ languages:
           name: Guides & Tools
           url: /guides/
           weight: 30
+        - identifier: about
+          name: About
+          url: /about/
+          weight: 40
         - identifier: rss
           name: RSS
           url: /en/brief/index.xml
-          weight: 40
+          weight: 50
 
 googleAnalytics: G-XQLLNDLGC0
 enableRobotsTXT: true
