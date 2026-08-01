@@ -112,8 +112,8 @@ params:
   # adsenseClient: "ca-pub-XXXXXXXXXXXXXXXX"  # set to load AdSense on /guides/ pages only
   # Search engine ownership verification — paste each console's meta-tag content value:
   analytics:
-    # google:
-    #   SiteVerificationTag: "..."   # Google Search Console (HTML tag method)
+    google:
+      SiteVerificationTag: "DyTja2OHhIinFnrm0A29ExS_MpvuzOfDUpgv08U6ux4"
     # bing:
     #   SiteVerificationTag: "..."   # Bing Webmaster Tools
     naver:
