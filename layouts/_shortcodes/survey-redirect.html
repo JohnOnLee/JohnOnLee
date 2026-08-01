@@ -1,0 +1,28 @@
+{{- /* Countdown-and-redirect stub for external survey forms.
+       Lets content markdown stay free of raw HTML (goldmark unsafe: false). */ -}}
+{{- $url := .Get "url" -}}
+<div style="text-align: center; margin: 3rem 0;">
+  <h2>{{ .Get "heading" }}</h2>
+  <p style="font-size: 1.2rem; color: var(--secondary); margin: 1.5rem 0;">{{ .Get "sub" }}</p>
+  <p style="margin: 2rem 0;"><span id="countdown" style="font-size: 2rem; font-weight: 700; color: var(--primary);">3</span></p>
+  <p style="color: var(--secondary);">{{ .Get "redirecting" }}</p>
+  <p style="margin-top: 2rem;">
+    <a href="{{ $url }}" style="font-size: 1rem; padding: 0.6rem 1.5rem; background: var(--primary); color: var(--theme); border-radius: 6px; text-decoration: none;">{{ .Get "button" }}</a>
+  </p>
+  <p style="margin-top: 1.5rem; font-size: 0.85rem; color: var(--secondary);">{{ .Get "fallbackPre" }} <a href="{{ $url }}">{{ .Get "fallbackLink" }}</a>{{ .Get "fallbackPost" }}</p>
+</div>
+<script>
+(function() {
+  var count = 3;
+  var el = document.getElementById('countdown');
+  var timer = setInterval(function() {
+    count--;
+    if (count <= 0) {
+      clearInterval(timer);
+      window.location.href = '{{ $url }}';
+    } else {
+      el.textContent = count;
+    }
+  }, 1000);
+})();
+</script>

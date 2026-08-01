@@ -6,7 +6,7 @@
   --j-line: #dddcd7;
   --j-accent: #315c76;
   --j-soft: #f1f3f2;
-  --j-serif: "Iowan Old Style", "Palatino Linotype", "Book Antiqua", Georgia, "Noto Serif KR", serif;
+  --j-serif: "Noto Serif KR", "Iowan Old Style", "Palatino Linotype", Georgia, serif;
 }
 
 :root[data-theme="dark"] {

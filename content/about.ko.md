@@ -22,11 +22,7 @@ description: "John Lee — 직접 만들고, 배우고, 기록합니다."
 
 ## 연결
 
-함께 만들거나 나눌 것이 있다면 반갑습니다.
-
-- [GitHub](https://github.com/JohnOnLee)
-- [LinkedIn](https://www.linkedin.com/in/johnonlee/) — 이력은 여기에 더 자세히 있습니다
+- [LinkedIn](https://www.linkedin.com/in/johnonlee/) — 연락은 여기로 주세요. 함께 만들거나 나눌 것이 있다면 네트워크 추가도 환영합니다. 이력도 여기에 더 자세히 있습니다.
+- [GitHub](https://github.com/JohnOnLee) — 사이트에 대한 문의는 [저장소 이슈](https://github.com/JohnOnLee/JohnOnLee/issues)로 남겨주세요.
 - [Monet](https://github.com/team-monet/monet)
 - [RSS 구독](/brief/index.xml)
-
-사이트에 대한 문의는 [GitHub 저장소](https://github.com/JohnOnLee/JohnOnLee/issues)로 남겨주세요.

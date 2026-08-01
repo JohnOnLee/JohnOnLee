@@ -136,4 +136,4 @@ params:
 markup:
   goldmark:
     renderer:
-      unsafe: true
+      unsafe: false  # raw HTML in markdown is dropped; trusted HTML lives in shortcodes

@@ -22,11 +22,7 @@ The writing is for vibe coders, professional developers, product designers, and 
 
 ## Links
 
-If there's something to build together or trade notes on, I'd be glad to hear from you.
-
-- [GitHub](https://github.com/JohnOnLee)
-- [LinkedIn](https://www.linkedin.com/in/johnonlee/) — my full background lives here
+- [LinkedIn](https://www.linkedin.com/in/johnonlee/) — the best way to reach me. If there's something to build together or trade notes on, feel free to connect. My full background lives here too.
+- [GitHub](https://github.com/JohnOnLee) — for questions about this site, open an issue on the [repository](https://github.com/JohnOnLee/JohnOnLee/issues).
 - [Monet](https://github.com/team-monet/monet)
 - [RSS](/en/brief/index.xml)
-
-For questions about this site, please open an issue on the [GitHub repository](https://github.com/JohnOnLee/JohnOnLee/issues).
