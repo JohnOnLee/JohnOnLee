@@ -5,6 +5,9 @@
 body {
   font-family: "Noto Sans KR", -apple-system, "Apple SD Gothic Neo", sans-serif;
   -webkit-font-smoothing: antialiased;
+  /* Korean: never break inside a word; break-word is the overflow escape hatch. */
+  word-break: keep-all;
+  overflow-wrap: break-word;
 }
 
 /* ── Editorial palette — keep every page on the homepage's paper tones.

@@ -1,7 +1,7 @@
 ---
 title: "DeepSeek-V4-Flash 공개 베타 출시 — 에이전트 성능 대폭 강화"
 date: 2026-08-01
-summary: "DeepSeek-V4-Flash 공개 베타 출시 — 에이전트 성능 대폭 강화: DeepSeek가 V4-Flash API의 공개 베타를 출시했다. 284B 총 파라미터에 13B 활성 파라미터, 1M 토큰 컨텍스트 윈도우, MIT 라이선스 오픈웨이트. Artificial Analysis 종합 지능 지수 3위를 기록했으며,…"
+summary: "DeepSeek가 V4-Flash API의 공개 베타를 출시했다. 284B 총 파라미터에 13B 활성 파라미터, 1M 토큰 컨텍스트 윈도우, MIT 라이선스 오픈웨이트. Artificial Analysis 종합 지능 지수 3위를 기록했으며,…"
 ---
 
 ## 스타트업 / 제품 / 플랫폼 레이더

@@ -1,7 +1,7 @@
 ---
 title: "DeepSeek launches V4 Flash public beta with dramatically improved agent performance"
 date: 2026-08-01
-summary: "DeepSeek launches V4 Flash public beta with dramatically improved agent performance: DeepSeek released the V4-Flash API in public beta. 284B total / 13B active parameters, 1M toke…"
+summary: "DeepSeek released the V4-Flash API in public beta. 284B total / 13B active parameters, 1M toke…"
 ---
 
 ## Startup / Product / Platform Radar
