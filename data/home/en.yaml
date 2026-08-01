@@ -1,12 +1,9 @@
 hero:
   eyebrow: "AI · PRODUCTS · BUILDING"
-  title: "I imagine a future where anyone can turn an idea into a product—and own what they build as an asset."
-  intro: "I share what I learn while using AI to build better, ship for real, and grow products into durable assets."
-  navLabel: "Homepage links"
-  primaryLabel: "Read the insights"
-  primaryUrl: "/en/blog/"
-  secondaryLabel: "View AI Radar"
-  secondaryUrl: "/en/brief/"
+  titleLines:
+    - "Where ideas become products,"
+    - "and products become new opportunities."
+  intro: "I share how I build better with AI, ship for real, and grow products for the long run."
 
 writing:
   label: "Insights"

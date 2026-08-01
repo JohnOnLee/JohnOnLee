@@ -1,12 +1,9 @@
 hero:
   eyebrow: "AI · 제품 · 만드는 일"
-  title: "누구나 자신의 아이디어를 제품으로 만들고, 그것을 자산으로 소유할 수 있는 미래를 꿈꿉니다."
-  intro: "AI로 더 잘 만들고, 실제로 출시하고, 지속 가능한 제품으로 성장시키는 과정에서 배운 것들을 공유합니다."
-  navLabel: "홈페이지 주요 링크"
-  primaryLabel: "인사이트 읽기"
-  primaryUrl: "/blog/"
-  secondaryLabel: "AI 레이더 보기"
-  secondaryUrl: "/brief/"
+  titleLines:
+    - "아이디어가 제품이 되고,"
+    - "제품이 새로운 기회가 되도록."
+  intro: "AI와 함께 더 잘 만들고, 실제로 출시하고, 오래 키워가는 방법을 나눕니다."
 
 writing:
   label: "Insights"

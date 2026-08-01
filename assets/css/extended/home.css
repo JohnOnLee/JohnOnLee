@@ -88,14 +88,6 @@ body:has(#john-home) .footer { border-top: 1px solid var(--j-line); }
   letter-spacing: -.01em;
 }
 
-#john-home .editorial-links {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 22px;
-  margin-top: 30px;
-}
-
-#john-home .editorial-links a,
 #john-home .editorial-section-heading > a,
 #john-home .editorial-radar__intro > a,
 #john-home .editorial-guides__intro > a,
@@ -270,7 +262,6 @@ body:has(#john-home) .footer { border-top: 1px solid var(--j-line); }
   padding: clamp(42px, 6vw, 66px);
   margin-top: clamp(28px, 4vw, 44px);
   background: color-mix(in srgb, var(--j-accent) 6%, var(--j-bg));
-  border: 1px solid color-mix(in srgb, var(--j-accent) 24%, transparent);
   border-radius: 3px;
 }
 
