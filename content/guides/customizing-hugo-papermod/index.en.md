@@ -1,10 +1,10 @@
 ---
-title: "How This Site Is Built: Turning Hugo + PaperMod Into an Editorial Site"
+title: "Customizing Hugo PaperMod Without Forking the Theme"
 date: 2026-08-02
-summary: "Home override, CSS-variable palette, dark mode done right, and Korean typography — every customization on this site, with the actual code, and no theme fork."
+summary: "How to customize the PaperMod Hugo theme without forking it: homepage override, CSS-variable palette, the dark-mode trap, and CJK typography, with working code."
 ---
 
-Sites that start from a stock theme tend to look like it. This one did too — until recently it was the default [PaperMod](https://github.com/adityatelange/hugo-PaperMod) screen. The editorial homepage and unified article styling you're looking at came out of a single day of customization, and this guide is that work written down, code included.
+Sites that start from a stock theme tend to look like it. This one did too — until recently it was the default [PaperMod](https://github.com/adityatelange/hugo-PaperMod) screen. The editorial homepage and unified article styling you're looking at came out of a single day of customization. This guide is that work written down, with the code.
 
 One principle drove all of it: **never fork the theme.** The theme stays a submodule and keeps receiving updates; you win with site-level files only. Hugo resolves same-path site files ahead of theme files, which makes this possible. The entire customization of this site is a handful of files:
 
@@ -107,7 +107,7 @@ Older PaperMod customization examples on the internet hang dark styles off `body
 
 Check all three modes: light, dark, and system-auto.
 
-## 4. For Korean text, keep-all is half the battle
+## 4. For Korean text, start with keep-all
 
 On Korean sites, mid-word line breaks ("1,200포\n인트") are fixed with one line of CSS:
 
@@ -120,11 +120,11 @@ body {
 
 `keep-all` only affects CJK text, so Latin is untouched. Put it on `body`, not just article content — titles, lists, and the homepage need it too.
 
-A note on serif fonts: Korean serif fallbacks differ wildly per device — calligraphic on macOS, Batang on Windows, and plain sans on Android. If cross-device consistency matters to your brand, self-host a subsetted Noto Serif KR woff2. This site currently accepts the fallback.
+A note on serif fonts: Korean serif fallbacks differ wildly per device: calligraphic on macOS, Batang on Windows, plain sans on Android. If cross-device consistency matters to your brand, self-host a subsetted Noto Serif KR woff2. This site currently accepts the fallback.
 
 ## 5. Two things search engines read — handle them early
 
-**Titles.** Repetitive titles that differ only by date ("Morning Brief — 2026-08-01") die in lists and in search results. This site retitled its auto-published posts to each day's top headline; the date already lives in the metadata and URL.
+**Titles.** Repetitive titles that differ only by date ("Morning Brief — 2026-08-01") sink in lists and in search results. This site retitled its auto-published posts to each day's top headline; the date already lives in the metadata and URL.
 
 **Summaries.** Without a `summary` in frontmatter, Hugo cuts the start of the body into the meta description. If a post opens with a table, **table cells end up verbatim in your search snippet** — that actually happened on this site. Writing one or two sentences per post is the cheapest fix:
 
