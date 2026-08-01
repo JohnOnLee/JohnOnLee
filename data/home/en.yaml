@@ -15,7 +15,7 @@ writing:
 
 topics:
   label: "Sections"
-  title: "What builders need next"
+  title: "What you'll find here"
   items:
     - title: "AI Radar"
       url: "/en/brief/"
@@ -26,12 +26,12 @@ topics:
     - title: "Guides & Tools"
       url: "/en/guides/"
       description: "Turning that judgment into real systems and ways of working — execution, not how-tos."
-  note: "Rather than selling a formula, I separate what I have learned firsthand from what I am still testing."
+  note: "I keep what I've verified firsthand separate from what I'm still testing."
 
 radar:
   label: "AI Radar"
-  title: "Signals that create real change"
-  description: "A daily selection of AI developments that matter to people building products and businesses."
+  title: "Fresh signals, every morning"
+  description: "From the daily flood of AI news — only what matters to builders."
   allLabel: "View all AI Radar"
   allUrl: "/en/brief/"
   readLabel: "Read latest radar"
@@ -39,8 +39,8 @@ radar:
 
 guides:
   label: "Guides & Tools"
-  title: "Turning judgment into execution"
-  description: "Hands-on guides for real systems and ways of working — execution, not how-tos."
+  title: "Guides you can use today"
+  description: "Written the way I actually work — read it, then put it to use."
   allLabel: "View all Guides & Tools"
   allUrl: "/en/guides/"
   readLabel: "Read the guide"
