@@ -1,0 +1,22 @@
+---
+title: "Karpathy Gave Opus 5 the Lord of the Rings and It Built a 3D Movie"
+date: 2026-08-03
+summary: "EU AI Act rules become enforceable today: The EU's rules on general-purpose AI models took effect on August 2, cementing the European Commission as the world's most prominent AI r…"
+---
+
+## Startup / Product / Platform Radar
+- **EU AI Act rules become enforceable today**: The EU's rules on general-purpose AI models took effect on August 2, cementing the European Commission as the world's most prominent AI regulator. Most leading Western AI labs, with the notable exception of Meta, signed the voluntary code of practice. Any AI startup targeting the EU market needs to build compliance infrastructure now. [Euronews](https://www.euronews.com/my-europe/2026/08/02/eu-rules-on-ai-models-become-enforceable-whats-going-to-change)
+<!--more-->
+- **Developers are publicly cancelling Cursor**: A long-time paying customer detailed their reasons for quitting Cursor: perpetually stuck on old VSCode versions, broken extensions, aggressive agent-window UX, and a perceived pivot from "code-first" to "agent-first" AI. This is a leading indicator of competitive dynamics in the AI coding tools market. [Jitbit Blog](https://www.jitbit.com/alexblog/cancelling-cursor/) · [HN](https://news.ycombinator.com/item?id=49147263)
+- **The rise of solo million-dollar companies**: The Wall Street Journal reports on the growing trend of AI-enabled solo entrepreneurs building seven-figure businesses. AI is fundamentally lowering the headcount required to scale. [Wall Street Journal](https://www.wsj.com/tech/ai/the-rise-of-million-dollar-companies-with-just-one-employee-f36a77c1) (paywall)
+
+## AI Future Signals
+- **LLMs are crossing from code snippets to autonomous creative software**: Andrej Karpathy gave Opus 5 a 1M-token context window (~$10), the first paragraph of The Lord of the Rings, and asked for a Three.js render. Opus 5 worked autonomously for ~2 hours, writing 5,500 lines of code that orchestrated polygon placement, camera movement, and animation — all procedurally. We are leaving the "draw an SVG of a pelican" benchmark era and entering the "build complex creative software autonomously" era. The combination of long context + autonomous execution is the signal to watch. [@karpathy on X](https://x.com/karpathy/status/2083749667410727319) · [Demo page](https://karpathy.ai/lotr-movie/) · [HN](https://news.ycombinator.com/item?id=49140998)
+
+## Realistic Opportunities / Experiments
+- **EU AI compliance tools for startups**: With the EU AI Act now enforceable, demand is likely to surge for lightweight compliance tooling — model evaluation, risk documentation, reporting automation — specifically designed for startups, not enterprises. Meta's refusal to sign the code of practice also means companies building on open-source models may need to demonstrate compliance independently. [Euronews](https://www.euronews.com/my-europe/2026/08/02/eu-rules-on-ai-models-become-enforceable-whats-going-to-change)
+- **AI ops stack for solo founders**: The WSJ solo-million-dollar trend suggests AI agents for customer support, marketing, and accounting are becoming the default stack for micro-businesses. Vertical-specific operational tools for one-person companies (legal, accounting, content) are a sharp niche opportunity. [Wall Street Journal](https://www.wsj.com/tech/ai/the-rise-of-million-dollar-companies-with-just-one-employee-f36a77c1) (paywall)
+
+## Uncertainties / Keep Watching
+- **Where AI coding tools land between assistant and agent**: Cursor's pivot from code-first to agent-first is causing user churn, while Karpathy's Opus 5 demo shows what autonomous agents can do. The developer tools market has not yet found the optimal point between copilot and autopilot. [Jitbit Blog](https://www.jitbit.com/alexblog/cancelling-cursor/) · [@karpathy](https://x.com/karpathy/status/2083749667410727319)
+- **How aggressively the EU will enforce the AI Act against startups**: The rules are now in force, but actual enforcement intensity — especially for smaller companies — remains unclear. Whether Brussels acts as a strict enforcer or a benchmark-setter will shape the European AI startup landscape. [Euronews](https://www.euronews.com/my-europe/2026/08/02/eu-rules-on-ai-models-become-enforceable-whats-going-to-change)
