@@ -1,12 +1,11 @@
 ---
 title: "카파시, Opus 5에 반지의 제왕 3D 렌더링을 맡기다"
 date: 2026-08-03
-summary: "EU AI 법안, 오늘부터 강제력 발효: 일반목적 AI 모델에 대한 EU 규칙이 8월 2일부로 시행된다. 유럽연합 집행위원회는 이제 세계에서 가장 강력한 AI 규제 기관이 되었으며, 메타를 제외한 대부분의 주요 서방 AI 연구소가 자발적 실행 규약에 서명했다. EU 시장을 타겟팅하는 모든 AI 스타트업은 컴플라이언스 체…"
+summary: "일반목적 AI 모델에 대한 EU 규칙이 8월 2일부로 시행된다. 유럽연합 집행위원회는 이제 세계에서 가장 강력한 AI 규제 기관이 되었으며, 메타를 제외한 대부분의 주요 서방 AI 연구소가 자발적 실행 규약에 서명했다. EU 시장을 타겟팅하는 모든 AI 스타트업은 컴플라이언스 체…"
 ---
 
 ## 스타트업 / 제품 / 플랫폼 레이더
 - **EU AI 법안, 오늘부터 강제력 발효**: 일반목적 AI 모델에 대한 EU 규칙이 8월 2일부로 시행된다. 유럽연합 집행위원회는 이제 세계에서 가장 강력한 AI 규제 기관이 되었으며, 메타를 제외한 대부분의 주요 서방 AI 연구소가 자발적 실행 규약에 서명했다. EU 시장을 타겟팅하는 모든 AI 스타트업은 컴플라이언스 체계를 지금 갖춰야 한다. [Euronews](https://www.euronews.com/my-europe/2026/08/02/eu-rules-on-ai-models-become-enforceable-whats-going-to-change)
-<!--more-->
 - **커서(Cursor) 구독 해지 사례 확산**: 2년간 유료 사용해온 개발자가 커서를 해지한 이유를 상세히 밝혔다. 구버전 VS Code 기반, 확장 프로그램 호환성 문제, 에이전트 창을 강제로 노출하는 UX, 그리고 "코드 우선"에서 "에이전트 우선"으로의 피벗이 주요 불만이다. AI 개발 도구 시장의 경쟁 구도와 제품 방향성을 가늠할 수 있는 신호다. [Jitbit Blog](https://www.jitbit.com/alexblog/cancelling-cursor/) · [HN](https://news.ycombinator.com/item?id=49147263)
 - **1인 기업의 100만 달러 시대**: WSJ이 AI 도구를 활용해 혼자서 7자리 수익을 내는 1인 기업가들의 증가 추세를 보도했다. AI가 인력 규모의 필요성을 근본적으로 낮추고 있다는 신호다. [Wall Street Journal](https://www.wsj.com/tech/ai/the-rise-of-million-dollar-companies-with-just-one-employee-f36a77c1) (페이월)
 

@@ -1,12 +1,11 @@
 ---
 title: "Karpathy Gave Opus 5 the Lord of the Rings and It Built a 3D Movie"
 date: 2026-08-03
-summary: "EU AI Act rules become enforceable today: The EU's rules on general-purpose AI models took effect on August 2, cementing the European Commission as the world's most prominent AI r…"
+summary: "The EU's rules on general-purpose AI models took effect on August 2, cementing the European Commission as the world's most prominent AI r…"
 ---
 
 ## Startup / Product / Platform Radar
 - **EU AI Act rules become enforceable today**: The EU's rules on general-purpose AI models took effect on August 2, cementing the European Commission as the world's most prominent AI regulator. Most leading Western AI labs, with the notable exception of Meta, signed the voluntary code of practice. Any AI startup targeting the EU market needs to build compliance infrastructure now. [Euronews](https://www.euronews.com/my-europe/2026/08/02/eu-rules-on-ai-models-become-enforceable-whats-going-to-change)
-<!--more-->
 - **Developers are publicly cancelling Cursor**: A long-time paying customer detailed their reasons for quitting Cursor: perpetually stuck on old VSCode versions, broken extensions, aggressive agent-window UX, and a perceived pivot from "code-first" to "agent-first" AI. This is a leading indicator of competitive dynamics in the AI coding tools market. [Jitbit Blog](https://www.jitbit.com/alexblog/cancelling-cursor/) · [HN](https://news.ycombinator.com/item?id=49147263)
 - **The rise of solo million-dollar companies**: The Wall Street Journal reports on the growing trend of AI-enabled solo entrepreneurs building seven-figure businesses. AI is fundamentally lowering the headcount required to scale. [Wall Street Journal](https://www.wsj.com/tech/ai/the-rise-of-million-dollar-companies-with-just-one-employee-f36a77c1) (paywall)
 

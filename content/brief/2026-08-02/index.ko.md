@@ -1,12 +1,11 @@
 ---
 title: "EU, AI 생성 콘텐츠 라벨링 의무화 — 오늘(8월 2일)부터 발효"
 date: 2026-08-02
-summary: "EU, AI 생성 콘텐츠 라벨링 의무화 — 오늘(8월 2일)부터 발효: EU AI Act의 주요 조항이 오늘부터 시행된다. 기업은 사람들이 AI로 생성된 이미지, 오디오, 텍스트와 상호작용할 때 이를 반드시 인지할 수 있도록 해야 한다. 적용 대상은 EU 시장에 서비스를 제공하는 모든 기업이며, 위반 시 글로벌 매출의…"
+summary: "EU AI Act의 주요 조항이 오늘부터 시행된다. 기업은 사람들이 AI로 생성된 이미지, 오디오, 텍스트와 상호작용할 때 이를 반드시 인지할 수 있도록 해야 한다. 적용 대상은 EU 시장에 서비스를 제공하는 모든 기업이며, 위반 시 글로벌 매출의…"
 ---
 
 ## 스타트업 / 제품 / 플랫폼 레이더
 - **EU, AI 생성 콘텐츠 라벨링 의무화 — 오늘(8월 2일)부터 발효**: EU AI Act의 주요 조항이 오늘부터 시행된다. 기업은 사람들이 AI로 생성된 이미지, 오디오, 텍스트와 상호작용할 때 이를 반드시 인지할 수 있도록 해야 한다. 적용 대상은 EU 시장에 서비스를 제공하는 모든 기업이며, 위반 시 글로벌 매출의 최대 7%까지 과징금이 부과될 수 있다. "소비자 보호의 문제일 뿐만 아니라 민주주의 보호의 문제"라고 EU 집행위는 밝혔다. AI 제품을 만들고 있는 창업자라면 오늘부터 컴플라이언스가 선택이 아닌 필수다. [Engadget](https://www.engadget.com/2227966/eu-mandate-labels-on-authentic-looking-ai-content/) · [The Guardian](https://www.theguardian.com/technology/2026/jul/31/ai-labels-to-be-compulsory-on-authentic-looking-content-under-eu-rules)
-<!--more-->
 - **Reddit, AI 검색에 사용자 성장 잠식 — 주가 23% 폭락**: Reddit이 견고한 실적을 발표했음에도 불구하고 주가가 23% 폭락했다. 표면적인 수치 뒤에서 로그인 사용자 성장이 둔화되고 있으며, AI 기반 검색이 플랫폼의 트래픽을 잠식하고 있다는 분석이다. AI 검색이 Reddit 콘텐츠를 직접 요약·제공하면서 사용자가 실제 Reddit을 방문할 유인이 줄어드는 구조다. 플랫폼 의존형 비즈니스를 구축 중인 창업자에게 중요한 경고 신호. [Barchart](https://www.barchart.com/story/news/3584357/reddit-stock-collapses-23-as-ai-eats-away-at-user-growth)
 - **구글, AI Studio 앱 80만 명 사전예약 후 전격 취소 — Gemini 통합으로 전환**: 구글이 80만 명의 사전예약을 받은 AI Studio 모바일 앱을 취소하고, "앱을 또 다운로드받게 하는 대신, 일상적인 Gemini 대화 속에서 자연스럽게 앱이 등장하는 방식"으로 전환한다고 밝혔다. AI 도구의 유통 패러다임이 '독립 앱'에서 '플랫폼 내장'으로 이동하고 있음을 보여주는 신호다. [Google AI Studio on X](https://x.com/GoogleAIStudio/status/2083274575769473092)
 - **ByteDance, Seedance 2.5 비디오 생성 모델 출시 — 원테이크 생성과 유연한 레퍼런싱**: 바이트댄스가 Seedance 2.5를 공개했다. 한 번의 프롬프트로 긴 영상을 생성하고, 레퍼런스 이미지/영상을 유연하게 참조할 수 있는 기능이 특징이다. AI 비디오 생성 경쟁이 OpenAI Sora, Google Veo, Runway 등과 함께 더욱 치열해지고 있다. [ByteDance Seed](https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5)
