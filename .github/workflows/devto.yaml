@@ -1,0 +1,27 @@
+name: Cross-post to Dev.to
+
+on:
+  push:
+    branches: ["main"]
+    paths:
+      - "content/blog/**/index.en.md"
+      - "content/guides/**/index.en.md"
+  schedule:
+    # 09:30 KST daily — picks up queued posts whose date has arrived.
+    - cron: "30 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  crosspost:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Create Dev.to drafts for new posts
+        run: python3 scripts/devto_crosspost.py
+        env:
+          DEVTO_API_KEY: ${{ secrets.DEVTO_API_KEY }}
