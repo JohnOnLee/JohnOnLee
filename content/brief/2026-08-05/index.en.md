@@ -1,12 +1,11 @@
 ---
 title: "Anthropic Signs $10B Deal with AI Cloud Startup Volta"
 date: 2026-08-05
-summary: "Anthropic signs $10B deal with AI cloud startup Volta: Anthropic continues its cloud partnership expansion, this time with a reported $10 billion deal with Volta, an AI-specialize…"
+summary: "Anthropic continues its cloud partnership expansion, this time with a reported $10 billion deal with Volta, an AI-specialize…"
 ---
 
 ## Startup / Product / Platform Radar
 - **Anthropic signs $10B deal with AI cloud startup Volta**: Anthropic continues its cloud partnership expansion, this time with a reported $10 billion deal with Volta, an AI-specialized cloud startup. The move signals a diversification beyond the Big Three clouds (AWS, Google Cloud, Azure) toward AI-native infrastructure providers. [TechCrunch](https://techcrunch.com/2026/08/04/anthropic-signs-10-billion-deal-with-ai-cloud-startup-volta/)
-<!--more-->
 - **Mistral launches Shieldstral: a 3B open-weight multimodal moderation model**: A lightweight, open-source model that handles both image and text moderation. A practical option for platforms that want to self-host content safety tools without vendor lock-in. [Mistral](https://mistral.ai/news/shieldstral/)
 - **DeepSeek V4 Flash runs on a single AMD MI300X GPU**: A community engineer has demonstrated DeepSeek V4 Flash running on a single AMD MI300X, showing how quickly hardware accessibility for frontier models is improving. [GitHub](https://github.com/ryanzhou/deepseek-v4-flash-mi300x)
 - **Warp Agent CLI launches as a standalone tool**: Warp's coding agent is now available as an independent CLI that works in Ghostty, iTerm2, VS Code, and native Windows/Mac terminals — expanding the agent's reach beyond Warp's own terminal app. [Warp](https://www.warp.dev/blog/introducing-the-warp-agent-cli-coding-agent)

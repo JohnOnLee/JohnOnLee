@@ -1,12 +1,11 @@
 ---
 title: "Anthropic, AI 클라우드 스타트업 Volta와 100억 달러 계약"
 date: 2026-08-05
-summary: "Anthropic, AI 클라우드 스타트업 Volta와 100억 달러 규모 계약 체결: 최근 수개월간 클라우드 파트너십을 확장해온 Anthropic이 AI 전용 클라우드 스타트업 Volta와 100억 달러 계약을 체결했다. 빅3 클라우드(AWS, Google Cloud, Azure)를 넘어 AI 특화 인프라로 다각화하는…"
+summary: "최근 수개월간 클라우드 파트너십을 확장해온 Anthropic이 AI 전용 클라우드 스타트업 Volta와 100억 달러 계약을 체결했다. 빅3 클라우드(AWS, Google Cloud, Azure)를 넘어 AI 특화 인프라로 다각화하는…"
 ---
 
 ## 스타트업 / 제품 / 플랫폼 레이더
 - **Anthropic, AI 클라우드 스타트업 Volta와 100억 달러 규모 계약 체결**: 최근 수개월간 클라우드 파트너십을 확장해온 Anthropic이 AI 전용 클라우드 스타트업 Volta와 100억 달러 계약을 체결했다. 빅3 클라우드(AWS, Google Cloud, Azure)를 넘어 AI 특화 인프라로 다각화하는 신호다. [TechCrunch](https://techcrunch.com/2026/08/04/anthropic-signs-10-billion-deal-with-ai-cloud-startup-volta/)
-<!--more-->
 - **Mistral, 3B 오픈웨이트 멀티모달 모더레이션 모델 'Shieldstral' 공개**: 이미지와 텍스트를 동시에 검열할 수 있는 경량 오픈소스 모델. 콘텐츠 안전 도구를 자체 호스팅하려는 플랫폼에 실용적인 선택지. [Mistral](https://mistral.ai/news/shieldstral/)
 - **DeepSeek V4 Flash, AMD MI300X 단일 GPU에서 구동 가능**: 커뮤니티 엔지니어가 DeepSeek V4 Flash를 단일 AMD MI300X에서 실행하는 데 성공. 프론티어 모델의 하드웨어 접근성이 빠르게 개선되고 있다. [GitHub](https://github.com/ryanzhou/deepseek-v4-flash-mi300x)
 - **Warp Agent CLI 출시**: Warp가 자사의 코딩 에이전트를 독립형 CLI로 확장. Ghostty, iTerm2, VS Code, Windows/Mac 기본 터미널 등 모든 환경에서 사용 가능. [Warp](https://www.warp.dev/blog/introducing-the-warp-agent-cli-coding-agent)

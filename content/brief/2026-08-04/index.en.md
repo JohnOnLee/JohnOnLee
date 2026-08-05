@@ -1,12 +1,11 @@
 ---
 title: "Cloud providers move to own the enterprise AI orchestration layer"
 date: 2026-08-04
-summary: "AWS partners with vibe-coding startup Superblocks to bring AI coding inside enterprise private clouds: Superblocks announced a joint marketing agreement with AWS, embedding its vi…"
+summary: "Superblocks announced a joint marketing agreement with AWS, embedding its vi…"
 ---
 
 ## Startup / Product / Platform Radar
 - **AWS partners with vibe-coding startup Superblocks to bring AI coding inside enterprise private clouds**: Superblocks announced a joint marketing agreement with AWS, embedding its vibe-coding tool inside enterprise AWS accounts with data never leaving the private cloud. AWS doesn't have its own business-user vibe coder, effectively positioning Superblocks in that role. The deal signals a broader push by cloud providers to own the AI orchestration layer. [TechCrunch](https://techcrunch.com/2026/08/03/aws-is-helping-vibe-coding-startup-superblocks-and-the-implications-are-big/)
-<!--more-->
 - **Marc Benioff-backed June raises $20M to tackle the messy reality of enterprise AI deployment**: Founded by four ex-Salesforce alumni, June raised a $20M pre-seed led by Marc Benioff's Time Ventures, with participation from Michael Dell, Aaron Levie, and George Kurtz. Their thesis: building agent templates is easy — making them work with the tangled data realities inside large companies is the real bottleneck. [TechCrunch](https://techcrunch.com/2026/08/03/a-marc-benioff-backed-startup-thinks-ai-can-solve-the-ai-deployment-problem/)
 - **Design Arena creator Intelligence raises $7.9M seed at $60M ARR — "taste as a service" for AI models**: Intelligence, the company behind the 5.3M-user design evaluation platform Design Arena, raised $7.9M led by Index Ventures. Frontier labs pay for access to its human preference data, making model evaluation a real revenue-generating business beyond academic benchmarks. [TechCrunch](https://techcrunch.com/2026/08/03/designarena-creators-raise-7-9-million-to-bring-taste-to-ai-models/)
 - **Hoplite (YC S26) launches to simplify cloud coding agent deployment**: YC's latest batch includes Hoplite, focused on making deployment of cloud coding agents effortless. Agent deployment infrastructure is heating up as a category. [Hoplite](https://hoplite.sh) · [HN](https://news.ycombinator.com/item?id=49157997)

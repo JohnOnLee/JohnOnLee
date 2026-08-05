@@ -1,12 +1,11 @@
 ---
 title: "클라우드가 엔터프라이즈 AI의 오케스트레이션 레이어를 차지하려는 움직임"
 date: 2026-08-04
-summary: "AWS, vibe-coding 스타트업 Superblocks와 제휴 — 엔터프라이즈 프라이빗 클라우드에서 AI 코딩 제공: Superblocks가 AWS와 공동 마케팅 계약을 체결하고, 기업의 프라이빗 클라우드 안에서 비즈니스 사용자용 vibe coding 도구를 제공한다. 데이터가 외부로 유출되지 않고 내부 Auror…"
+summary: "Superblocks가 AWS와 공동 마케팅 계약을 체결하고, 기업의 프라이빗 클라우드 안에서 비즈니스 사용자용 vibe coding 도구를 제공한다. 데이터가 외부로 유출되지 않고 내부 Auror…"
 ---
 
 ## 스타트업 / 제품 / 플랫폼 레이더
 - **AWS, vibe-coding 스타트업 Superblocks와 제휴 — 엔터프라이즈 프라이빗 클라우드에서 AI 코딩 제공**: Superblocks가 AWS와 공동 마케팅 계약을 체결하고, 기업의 프라이빗 클라우드 안에서 비즈니스 사용자용 vibe coding 도구를 제공한다. 데이터가 외부로 유출되지 않고 내부 Aurora DB를 사용하는 구조. AWS는 아직 자체 비즈니스용 vibe coder가 없어 Superblocks를 사실상 그 포지션에 올린 셈. [TechCrunch](https://techcrunch.com/2026/08/03/aws-is-helping-vibe-coding-startup-superblocks-and-the-implications-are-big/)
-<!--more-->
 - **Marc Benioff가 투자한 June, 엔터프라이즈 AI 도입 장벽을 정면 돌파**: Salesforce 출신 창업자 4인이 설립한 June이 Marc Benioff의 Time Ventures 주도로 $20M pre-seed 투자 유치. Michael Dell, Aaron Levie, George Kurtz도 참여. "AI 에이전트 템플릿 만드는 건 쉽다. 진짜 문제는 엔터프라이즈 내부의 지저분한 데이터와 통합하는 것"이라는 철학. [TechCrunch](https://techcrunch.com/2026/08/03/a-marc-benioff-backed-startup-thinks-ai-can-solve-the-ai-deployment-problem/)
 - **Design Arena (Intelligence), AI 모델에 '미적 감각'을 주입 — $7.9M 시드, $60M ARR**: 530만 명이 사용하는 디자인 평가 플랫폼 Design Arena의 운영사 Intelligence가 Index Ventures 주도로 $7.9M 시드 라운드. 프론티어 연구소들이 인간 피드백을 대규모로 확보하려는 수요를 포착해 연매출 $60M 달성. [TechCrunch](https://techcrunch.com/2026/08/03/designarena-creators-raise-7-9-million-to-bring-taste-to-ai-models/)
 - **Hoplite (YC S26), 클라우드 코딩 에이전트 배포 도구 출시**: YC의 최신 배치에서 에이전트 배포 인프라를 다루는 Hoplite가 런칭. 코딩 에이전트를 클라우드에 effortless하게 배포하는 데 초점. [Hoplite](https://hoplite.sh) · [HN](https://news.ycombinator.com/item?id=49157997)
