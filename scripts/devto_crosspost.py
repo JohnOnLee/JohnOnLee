@@ -66,7 +66,8 @@ def api_request(path: str, key: str, payload=None):
         f"{API}{path}",
         data=json.dumps(payload).encode() if payload else None,
         headers={"api-key": key, "Content-Type": "application/json",
-                 "Accept": "application/vnd.forem.api-v1+json"},
+                 "Accept": "application/vnd.forem.api-v1+json",
+                 "User-Agent": "johnonlee-crosspost (+https://john.onlee.io)"},
         method="POST" if payload else "GET",
     )
     with urllib.request.urlopen(req) as resp:
