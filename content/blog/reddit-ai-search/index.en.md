@@ -14,7 +14,7 @@ Reddit's business was a simple chain. People write posts, search engines surface
 
 AI search changes the middle link. People now ask an AI, not a search box, whether that laptop is worth buying, and the AI answers by summarizing Reddit threads. The asker got the answer. The answer's raw material came from Reddit. Nobody visited Reddit. The content was read; the ad was never shown.
 
-Reddit does charge for some of this consumption. It licenses data to AI companies, Google among them. Whether that revenue can cover what leaks out of advertising, nobody knows yet.
+Reddit does charge for some of this consumption. It licenses data to AI companies, Google among them. But just this week, Reddit's CEO [questioned what that deal is worth](https://arstechnica.com/ai/2026/08/reddit-ceo-on-ai-overviews-were-still-looking-for-that-win-win/), saying the company is "still looking for that win-win." I read that as: licensing revenue is not covering what leaks out of advertising, and even the seller doesn't know how to price this market yet.
 
 One caveat before going on. Explaining a one-day 23% drop with a single sentence is always too neat. Several factors piled up. What I care about is the direction, not the size: content being read and people showing up have started to come apart.
 
