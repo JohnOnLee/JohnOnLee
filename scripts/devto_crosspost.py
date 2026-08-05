@@ -22,6 +22,17 @@ KST = timezone(timedelta(hours=9))
 LOOKBACK_DAYS = 14
 API = "https://dev.to/api"
 
+# Site tags use our fixed vocabulary; Dev.to tags must be established ones
+# (lowercase, no hyphens) to reach their feeds. Cap is 4 per article.
+DEVTO_TAG_MAP = {
+    "coding-agents": ["ai", "programming"],
+    "ai-memory": ["ai", "programming"],
+    "ai-economics": ["ai", "programming"],
+    "ai-business": ["ai", "startup"],
+    "writing-with-ai": ["ai", "writing"],
+    "site-building": ["webdev", "hugo"],
+}
+
 
 def parse_front_matter(text: str) -> dict:
     m = re.match(r"^---\n(.*?)\n---\n(.*)$", text, re.DOTALL)
@@ -35,8 +46,20 @@ def parse_front_matter(text: str) -> dict:
     dm = re.search(r"^date:\s*(\d{4}-\d{2}-\d{2})", m.group(1), re.MULTILINE)
     if dm:
         fields["date"] = dm.group(1)
+    tm = re.search(r"^tags:\s*\[(.*)\]", m.group(1), re.MULTILINE)
+    if tm:
+        fields["tags"] = [t.strip().strip('"') for t in tm.group(1).split(",") if t.strip()]
     fields["body"] = m.group(2).strip()
     return fields
+
+
+def devto_tags(site_tags):
+    out = []
+    for t in site_tags:
+        for dt in DEVTO_TAG_MAP.get(t, []):
+            if dt not in out:
+                out.append(dt)
+    return (out or ["ai"])[:4]
 
 
 def absolutize_links(body: str) -> str:
@@ -58,6 +81,7 @@ def candidates(today: date):
                     "description": fm.get("summary", "")[:150],
                     "canonical_url": f"{SITE}/en/{section}/{slug}/",
                     "body_markdown": absolutize_links(fm["body"]),
+                    "tags": devto_tags(fm.get("tags", [])),
                 }
 
 

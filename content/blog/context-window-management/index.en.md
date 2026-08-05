@@ -1,6 +1,7 @@
 ---
 title: "How Are You Managing Your AI's Context Window?"
 date: 2026-05-11
+tags: ["coding-agents"]
 summary: "Bigger context windows didn't give better results. Notes on the context-management problems that keep recurring in real coding agent sessions."
 ---
 

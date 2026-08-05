@@ -1,6 +1,7 @@
 ---
 title: "Claude Opus 가격이 67% 폭락했습니다. Anthropic은 과연 얼마를 벌고 있을까요?"
 date: 2026-05-20
+tags: ["ai-economics"]
 summary: "1년 만에 67% 떨어진 Claude Opus 가격. GPU 시간당 비용부터 토크나이저 오버헤드까지, Anthropic이 토큰당 얼마를 남기는지 주말 동안 냅킨 계산을 해봤습니다."
 ---
 

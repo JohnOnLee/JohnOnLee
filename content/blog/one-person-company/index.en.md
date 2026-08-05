@@ -1,6 +1,7 @@
 ---
 title: "The One-Person Company: When Hiring Becomes Renting"
 date: 2026-08-07
+tags: ["ai-business"]
 summary: "The WSJ reports a rise in one-employee companies clearing seven figures. Read from inside a site run by one human and several agents: what remains when the hiring list becomes a subscription list, and what to filter out."
 ---
 

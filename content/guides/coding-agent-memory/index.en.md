@@ -1,6 +1,7 @@
 ---
 title: "Coding Agent Memory: Why Storing Everything Fails"
 date: 2026-08-03
+tags: ["coding-agents", "ai-memory"]
 summary: "I build an agent memory platform, and this week we reversed its direction. What store-everything memory breaks, and how to route state, facts, and principles to the tracker, the code, and memory."
 ---
 

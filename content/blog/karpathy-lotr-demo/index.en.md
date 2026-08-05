@@ -1,6 +1,7 @@
 ---
 title: "Reading Karpathy's Lord of the Rings Demo: What Long Context Plus Autonomy Opens for Builders"
 date: 2026-08-04
+tags: ["coding-agents"]
 summary: "One paragraph of Tolkien, a million tokens, two hours of autonomous execution, a 3D film. Not a demo review: how the unit of delegation is changing, and where a builder's work moves next."
 ---
 

@@ -1,6 +1,7 @@
 ---
 title: "Does Your Coding Agent Need Memory?"
 date: 2026-05-14
+tags: ["coding-agents", "ai-memory"]
 summary: "Coding agents re-read the same files and re-ask the same questions every day. What memory actually does for an agent, how it differs from docs, and when it pays off."
 ---
 

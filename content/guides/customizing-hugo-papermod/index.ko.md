@@ -1,6 +1,7 @@
 ---
 title: "Hugo PaperMod 커스터마이징: 테마 포크 없이 홈, 다크모드, 한글 타이포 바꾸기"
 date: 2026-08-02
+tags: ["site-building"]
 summary: "PaperMod 테마를 포크하지 않고 커스터마이징하는 법. 홈 교체, CSS 변수 팔레트, 다크모드 함정, 한글 keep-all까지 이 사이트에 실제로 적용한 코드로 정리했습니다."
 ---
 

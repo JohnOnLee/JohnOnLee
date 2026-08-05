@@ -1,6 +1,7 @@
 ---
 title: "What Reddit's 23% Drop Says About AI Search: Content Gets Read, Visitors Don't Come"
 date: 2026-08-05
+tags: ["ai-business"]
 summary: "Solid earnings, a 23% drop in a day. What happens to visit-funded businesses when AI search reads your content to your audience, and a confession from someone who just applied to AdSense."
 ---
 

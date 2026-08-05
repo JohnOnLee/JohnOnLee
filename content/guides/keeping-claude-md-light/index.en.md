@@ -1,6 +1,7 @@
 ---
 title: "How to Keep Your CLAUDE.md Light (and Why More Rules Make Agents Worse)"
 date: 2026-08-02
+tags: ["coding-agents"]
 summary: "A CLAUDE.md does not get better as it grows. Why piling up rules degrades your agent, what belongs in the file, and where the rest should live: skills, hooks, and memory."
 ---
 
