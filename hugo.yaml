@@ -93,7 +93,11 @@ languages:
 
 googleAnalytics: G-XQLLNDLGC0
 enableRobotsTXT: true
-buildFuture: true
+# Dates are KST. Hermes' morning brief is same-day in KST (it would be
+# future-dated in UTC), and queued future posts appear on the first daily
+# build after their date.
+timeZone: Asia/Seoul
+buildFuture: false
 
 outputFormats:
   LLMS:
