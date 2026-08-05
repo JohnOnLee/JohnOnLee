@@ -99,6 +99,12 @@ enableRobotsTXT: true
 timeZone: Asia/Seoul
 buildFuture: false
 
+# Tags only (no categories). Fixed vocabulary, max 4 per post (mirrors
+# Dev.to's cap): coding-agents, ai-memory, ai-economics, ai-business,
+# writing-with-ai, site-building. Briefs are never tagged.
+taxonomies:
+  tag: tags
+
 outputFormats:
   LLMS:
     mediaType: text/plain
