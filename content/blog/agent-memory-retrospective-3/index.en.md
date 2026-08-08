@@ -35,7 +35,7 @@ And what about things that must always apply, at every moment? Those I named pri
 
 It felt good. I thought I had found the whole answer. I built up my own principles and rules. Before long a small set of them was in place, and I confirmed they were injected or read in when needed.
 
-But the behavior doesn't change. The output doesn't change either. One example. When coding is done, get a PR review from Codex, and here is how to handle what comes back. I wrote that as a rule, and there is even a monitoring script that watches the Codex review as it runs. Not one session has run that procedure correctly from the start. The rules were injected, sent, and read. And nothing moved. My trust in the agent went down instead, and as models get smarter, I expect this to get stronger, not weaker.
+But the behavior doesn't change. The output doesn't change either. One example. When coding is done, get a PR review from Codex, and here is how to handle what comes back. I wrote that as a rule, and there is even a monitoring script that watches the Codex review as it runs. For weeks, not one session ran that procedure correctly from the start. The rules were injected, sent, and read. And nothing moved. My trust in the agent went down instead, and as models get smarter, I expect this to get stronger, not weaker.
 
 There is something I had to admit. "The way I want it done" and "the perfect output I want" never existed in the first place. What exists is the way the model was trained, and the way the model follows input. And that way will change with every new model and every new version. I had been sketching, in a place where no perfect product can exist, a product that isn't possible.
 
