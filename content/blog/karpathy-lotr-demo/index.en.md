@@ -1,8 +1,8 @@
 ---
-title: "Reading Karpathy's Lord of the Rings Demo: What Long Context Plus Autonomy Opens for Builders"
+title: "Karpathy's LOTR Demo: Context Plus Autonomy"
 date: 2026-08-04
 tags: ["coding-agents"]
-summary: "One paragraph of Tolkien, a million tokens, two hours of autonomous execution, a 3D film. Not a demo review: how the unit of delegation is changing, and where a builder's work moves next."
+summary: "One paragraph of Tolkien, a million tokens, two hours of autonomous execution, a 3D film. Not a demo review, but what changes about the unit of delegation."
 ---
 
 A [demo](https://x.com/karpathy/status/2083749667410727319) Andrej Karpathy posted over the weekend stuck with me. He gave Opus 5 a million-token context and the first paragraph of The Lord of the Rings, and asked for a procedural 3D rendering of the scene in Three.js. The model worked alone for about two hours, wrote 5,500 lines, and coordinated polygon placement, camera paths, and animation on its own. Total cost: about $10. [The result](https://karpathy.ai/lotr-movie/) is faster to watch than to describe.

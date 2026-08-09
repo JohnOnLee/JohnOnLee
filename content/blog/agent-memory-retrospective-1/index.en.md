@@ -1,8 +1,8 @@
 ---
-title: "An Agent Memory Retrospective, Part 1: It Started in Front of the TV"
+title: "Agent Memory, Part 1: It Started at the TV"
 date: 2026-08-12
 tags: ["ai-memory", "coding-agents"]
-summary: "Nine months of working on agent memory and almost nothing else. A three-part record. Part 1: falling into vibe coding, building memory twice, and the night I decided to dig to the bottom."
+summary: "Nine months on agent memory and almost nothing else, in three parts. Part 1: falling into vibe coding, building memory twice, and the night I decided to dig in."
 ---
 
 For the last nine months I've worked on agent memory and almost nothing else. Up front: what I set out to build turned out to be a product that cannot exist. This series is about how I got there. Part 1 is the beginning, and the question of why memory in the first place.

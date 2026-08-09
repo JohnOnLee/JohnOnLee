@@ -1,0 +1,57 @@
+<!doctype html>
+<!-- Source for static/og-default.png (the site-wide social share card).
+     Regenerate after editing:
+       "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome" \
+         --headless --disable-gpu --hide-scrollbars --force-device-scale-factor=1 \
+         --window-size=1200,630 --screenshot=static/og-default.png \
+         "file://$PWD/scripts/og-default.html"
+     1200x630 is the size Facebook/X/LinkedIn/Slack expect. -->
+<meta charset="utf-8">
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  html, body { width: 1200px; height: 630px; }
+  body {
+    background: #1d1e20;
+    color: #dadadb;
+    font-family: -apple-system, "SF Pro Display", "Apple SD Gothic Neo", "Helvetica Neue", sans-serif;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 0 96px;
+    position: relative;
+  }
+  .rule {
+    position: absolute;
+    left: 0; right: 0; top: 0;
+    height: 8px;
+    background: linear-gradient(90deg, #7aa2f7 0%, #9ece6a 50%, #e0af68 100%);
+  }
+  .wave { font-size: 64px; line-height: 1; margin-bottom: 28px; }
+  h1 {
+    font-size: 92px;
+    font-weight: 700;
+    letter-spacing: -0.02em;
+    line-height: 1.05;
+  }
+  p {
+    margin-top: 28px;
+    font-size: 36px;
+    font-weight: 400;
+    color: #9b9c9d;
+    line-height: 1.4;
+    max-width: 900px;
+  }
+  .foot {
+    position: absolute;
+    left: 96px;
+    bottom: 56px;
+    font-size: 28px;
+    color: #6f7072;
+    letter-spacing: 0.02em;
+  }
+</style>
+<div class="rule"></div>
+<div class="wave">👋</div>
+<h1>John on Lee</h1>
+<p>AI &amp; startup morning briefs, LLMs, and coding agents.</p>
+<div class="foot">john.onlee.io</div>

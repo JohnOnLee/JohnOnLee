@@ -1,5 +1,5 @@
 ---
-title: "Token Economics: The Real Cost of AI Coding Agents"
+title: "Token Economics: What AI Coding Agents Cost"
 date: 2026-05-21
 tags: ["ai-economics", "coding-agents"]
 summary: "Two requests with near-identical input tokens, a 46x cost gap. How prompt caching really works, and why agents should be designed around structured state."

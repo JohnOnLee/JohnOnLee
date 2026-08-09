@@ -8,9 +8,11 @@ defaultContentLanguageInSubdir: false
 languages:
   ko:
     label: 한국어
+    languageCode: ko-KR
     weight: 1
     title: John on Lee
     params:
+      description: "AI·스타트업 모닝 브리핑과 LLM, 코딩 에이전트에 대한 생각과 실험을 기록합니다."
       footer:
         text: "[개인정보처리방침](/privacy/)"
       homeInfoParams:
@@ -50,9 +52,11 @@ languages:
           weight: 50
   en:
     label: English
+    languageCode: en-US
     weight: 2
     title: John on Lee
     params:
+      description: "A daily AI and startup brief, plus field notes on LLMs and coding agents from someone building with them."
       footer:
         text: "[Privacy Policy](/en/privacy/)"
       homeInfoParams:
@@ -99,6 +103,18 @@ enableRobotsTXT: true
 timeZone: Asia/Seoul
 buildFuture: false
 
+# Site-wide social share image. PaperMod only emits og:image/twitter:image
+# from a page's `cover`, and the site has no inline images, so without this
+# every share renders as a bare text card. `hidden: true` keeps the cover out
+# of the rendered page — this exists for the meta tags only. A post that sets
+# its own cover overrides this.
+cascade:
+  - params:
+      cover:
+        image: /og-default.png
+        alt: "John on Lee"
+        hidden: true
+
 # Tags only (no categories). Fixed vocabulary, max 4 per post (mirrors
 # Dev.to's cap): coding-agents, ai-memory, ai-economics, ai-business,
 # writing-with-ai, site-building. Briefs are never tagged.
@@ -125,14 +141,20 @@ params:
     favicon16x16: "favicon.png"
     favicon32x32: "favicon.png"
     apple_touch_icon: "apple-touch-icon.png"
+    safari_pinned_tab: "safari-pinned-tab.svg"  # theme links this unconditionally; without the file it 404s on every page
   # Search engine ownership verification — paste each console's meta-tag content value:
   analytics:
     google:
       SiteVerificationTag: "DyTja2OHhIinFnrm0A29ExS_MpvuzOfDUpgv08U6ux4"
+    # Bing needs no tag here: the site is verified in Bing Webmaster Tools
+    # through the Google Search Console connection, not a meta tag. Only
+    # uncomment this if that connection is ever removed.
     # bing:
-    #   SiteVerificationTag: "..."   # Bing Webmaster Tools
+    #   SiteVerificationTag: "..."
     naver:
       SiteVerificationTag: "beb6cc7f22d782ea0281dc35aaed8ba3bf432851"
+  # Per-language overrides live under languages.*.params.description; this is
+  # the fallback only. Without the overrides the English pages inherit Korean.
   description: "AI·스타트업 모닝 브리핑과 LLM, 코딩 에이전트에 대한 생각과 실험을 기록합니다."
   author: John Lee
   ShowReadingTime: false

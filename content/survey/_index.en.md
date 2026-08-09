@@ -1,5 +1,6 @@
 ---
 title: "Surveys"
+description: "Occasional surveys on how developers actually work with AI tools. Anonymous, and the live results show up as soon as you submit."
 date: 2026-06-03
 hideMeta: true
 ---

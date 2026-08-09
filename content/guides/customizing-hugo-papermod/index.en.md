@@ -1,5 +1,5 @@
 ---
-title: "Customizing Hugo PaperMod Without Forking the Theme"
+title: "Customizing Hugo PaperMod Without a Fork"
 date: 2026-08-02
 tags: ["site-building"]
 summary: "How to customize the PaperMod Hugo theme without forking it: homepage override, CSS-variable palette, the dark-mode trap, and CJK typography, with working code."

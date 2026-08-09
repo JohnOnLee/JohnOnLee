@@ -3,6 +3,9 @@ title: "Coding Agent Customization — Survey"
 date: 2026-06-03
 hideMeta: true
 searchHidden: true
+robotsNoIndex: true
+sitemap:
+  disable: true
 ---
 
 {{< survey-redirect

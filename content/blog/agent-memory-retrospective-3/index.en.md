@@ -1,8 +1,8 @@
 ---
-title: "An Agent Memory Retrospective, Part 3: The Perfect Memory Is a Unicorn"
+title: "Agent Memory, Part 3: Perfection Is a Unicorn"
 date: 2026-08-14
 tags: ["ai-memory", "coding-agents"]
-summary: "Clearing the wreckage sent me back to the first question: why does memory exist at all? An apple drawing, moments and principles, days of rules injected without behavior changing, and the conclusion at the end of it: a unicorn."
+summary: "Clearing the wreckage sent me back to the first question: why does memory exist at all? An apple drawing, moments and principles, rules that changed nothing."
 ---
 
 [Part 1](/en/blog/agent-memory-retrospective-1/) was about falling in. [Part 2](/en/blog/agent-memory-retrospective-2/) was about building things and watching them break. This is the last part. While clearing the wreckage I went back to the first question, and at the end of it I met the unicorn.

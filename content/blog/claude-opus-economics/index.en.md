@@ -1,5 +1,5 @@
 ---
-title: "Claude Opus Prices Just Crashed 67%. Is Anthropic Still Making Money?"
+title: "Claude Opus Prices Fell 67%: The Margin Math"
 date: 2026-05-20
 tags: ["ai-economics"]
 summary: "Opus prices fell 67% in a year. A weekend of napkin math on GPU costs, batching, and tokenizer overhead to estimate what Anthropic actually makes per token."

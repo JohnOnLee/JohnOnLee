@@ -1,8 +1,8 @@
 ---
-title: "209 Review Conversations with an AI: Accurate Is Not the Same as Necessary"
+title: "209 AI Code Reviews: Accurate Is Not Necessary"
 date: 2026-08-11
 tags: ["coding-agents"]
-summary: "One security PR passed through 209 review conversations on its way to merge. Ninety percent were accurate. Where the human's job moves when accurate review arrives in unlimited supply, with the four principles those cycles left behind."
+summary: "One security PR passed through 209 review conversations on its way to merge. Ninety percent were accurate. Where the human's job goes when accuracy is free."
 ---
 
 Late last month a PR opened on our repo: [propagating secret taint across workflow steps](https://github.com/team-monet/aart/pull/10), a security feature. The numbers: 83 files, 21,962 lines added, 36 commits. And on the way to merge, 209 review conversations across two days. The code was written by Codex. The review was also Codex.

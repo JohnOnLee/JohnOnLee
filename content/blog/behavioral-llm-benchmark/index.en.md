@@ -1,5 +1,5 @@
 ---
-title: "Why We Need Behavioral Benchmarks for LLMs — Not Just More Knowledge Tests"
+title: "LLM Benchmarks Test Knowledge, Not Behavior"
 date: 2026-05-26
 tags: ["coding-agents"]
 summary: "What today's LLM benchmarks actually measure, what they miss, and why we need behavioral benchmarks instead of more knowledge tests."

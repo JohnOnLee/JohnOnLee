@@ -1,8 +1,8 @@
 ---
-title: "What Reddit's 23% Drop Says About AI Search: Content Gets Read, Visitors Don't Come"
+title: "Reddit's 23% Drop and the AI Search Problem"
 date: 2026-08-05
 tags: ["ai-business"]
-summary: "Solid earnings, a 23% drop in a day. What happens to visit-funded businesses when AI search reads your content to your audience, and a confession from someone who just applied to AdSense."
+summary: "Solid earnings, a 23% drop in a day. What happens to visit-funded sites when AI search reads your content for you, from someone who just applied to AdSense."
 ---
 
 Reddit reported earnings last week. The numbers weren't bad, and [the stock fell 23% in a day](https://www.barchart.com/story/news/3584357/reddit-stock-collapses-23-as-ai-eats-away-at-user-growth). The explanations came down to two: logged-in user growth is slowing, and AI search is starting to replace visits to Reddit.

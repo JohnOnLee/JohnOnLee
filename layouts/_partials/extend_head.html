@@ -7,3 +7,14 @@
 {{- if and site.Params.adsenseClient (eq .Section "guides") }}
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client={{ site.Params.adsenseClient }}" crossorigin="anonymous"></script>
 {{- end }}
+
+{{- /* hreflang x-default: the theme emits one alternate per translation but no
+       default, so search engines have nothing to fall back on for locales that
+       match neither ko nor en. Point it at the ko page, which lives at the root. */ -}}
+{{- with .AllTranslations }}
+  {{- range . }}
+    {{- if eq .Lang "ko" }}
+<link rel="alternate" hreflang="x-default" href="{{ .Permalink }}">
+    {{- end }}
+  {{- end }}
+{{- end }}

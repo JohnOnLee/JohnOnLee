@@ -1,8 +1,8 @@
 ---
-title: "The One-Person Company: When Hiring Becomes Renting"
+title: "The One-Person Company: Hiring Becomes Renting"
 date: 2026-08-07
 tags: ["ai-business"]
-summary: "The WSJ reports a rise in one-employee companies clearing seven figures. Read from inside a site run by one human and several agents: what remains when the hiring list becomes a subscription list, and what to filter out."
+summary: "The WSJ reports a rise in one-employee companies clearing seven figures, read from inside a site that one human and several agents run together."
 ---
 
 Strictly speaking, this site isn't run alone. One agent publishes the AI radar every morning, another drafts the posts, and I flag and decide. One human, several sets of hands.

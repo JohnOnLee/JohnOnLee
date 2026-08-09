@@ -35,6 +35,13 @@ jobs:
       - name: Build
         run: hugo --minify
 
+      # Blocks the deploy on structural SEO faults (missing canonical/og:image,
+      # broken internal links, duplicate descriptions) — each is one config or
+      # template edit. Per-page content issues are printed but do not fail;
+      # run `python3 scripts/seo_check.py --strict` locally to see them fail.
+      - name: SEO check
+        run: python3 scripts/seo_check.py
+
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:

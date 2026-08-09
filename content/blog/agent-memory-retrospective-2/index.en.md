@@ -1,8 +1,8 @@
 ---
-title: "An Agent Memory Retrospective, Part 2: What I Built, and How It Broke"
+title: "Agent Memory, Part 2: What I Built Broke"
 date: 2026-08-13
 tags: ["ai-memory", "coding-agents"]
-summary: "Monet began as shared memory. Then came the state hypothesis from a comment thread with Ken, a new Monet built in two weeks, and the day nothing worked at the office, when the problems all became visible at once."
+summary: "Monet began as shared memory. Then the state hypothesis from a thread with Ken, a new Monet built in two weeks, and the day nothing worked at the office."
 ---
 
 In [part 1](/en/blog/agent-memory-retrospective-1/) I wrote about deciding to dig agent memory to the bottom. This part is about building. It is also about watching what I built break.

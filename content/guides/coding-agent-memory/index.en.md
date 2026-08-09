@@ -1,8 +1,8 @@
 ---
-title: "Coding Agent Memory: Why Storing Everything Fails"
+title: "Coding Agent Memory: Storing Everything Fails"
 date: 2026-08-03
 tags: ["coding-agents", "ai-memory"]
-summary: "I build an agent memory platform, and this week we reversed its direction. What store-everything memory breaks, and how to route state, facts, and principles to the tracker, the code, and memory."
+summary: "I build an agent memory platform, and this week we reversed its direction. What store-everything memory breaks, and where state, facts, and principles belong."
 ---
 
 In [How to Keep Your CLAUDE.md Light](/en/guides/keeping-claude-md-light/), I pointed to memory as one of the places your trimmed-out rules should go. This guide is about that memory layer.

@@ -3,6 +3,9 @@ title: "코딩 에이전트 커스터마이징 — 설문"
 date: 2026-06-03
 hideMeta: true
 searchHidden: true
+robotsNoIndex: true
+sitemap:
+  disable: true
 ---
 
 {{< survey-redirect

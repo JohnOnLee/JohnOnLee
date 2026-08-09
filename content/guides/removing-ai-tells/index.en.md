@@ -1,8 +1,8 @@
 ---
-title: "Removing AI Tells from Your Writing: A Skill That Turns One Flag into a Permanent Rule"
+title: "Removing AI Tells: One Flag, a Lasting Rule"
 date: 2026-08-05
 tags: ["writing-with-ai", "coding-agents"]
-summary: "Instead of hand-fixing an AI draft's awkward sentences every time, I built a correction loop where one flag becomes a permanent rule. The Claude Code skill structure, how real rules were born, layering a community skill on top, and a seed file you can start with in ten minutes."
+summary: "Instead of hand-fixing an AI draft every time, I built a correction loop where one flag becomes a permanent rule. The skill structure, and a seed file."
 ---
 
 The posts on this site start as agent drafts that I edit. The drafts come with the awkward phrasing AI is known for. At first I fixed each case by hand, and the next post carried the same disease. I was fixing sentences, not habits.
