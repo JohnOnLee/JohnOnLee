@@ -120,7 +120,7 @@ def front_matter_field(block, key):
 def check_source(paths):
     """Check content/ front matter without building the site."""
     targets = []
-    for p in paths or ["content"]:
+    for p in (resolve(x) for x in (paths or ["content"])):
         if os.path.isdir(p):
             targets += glob.glob(os.path.join(p, "**", "*.md"), recursive=True)
         elif os.path.isfile(p):
@@ -180,6 +180,20 @@ def check_source(paths):
     return 1 if issues else 0
 
 
+REPO_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+
+
+def resolve(path):
+    """Resolve a relative path against the repo root, not the caller's cwd.
+
+    The brief generator invokes this from wherever its own working directory
+    happens to be. Resolving against the script's own location means a correct
+    invocation cannot fail just because the caller was standing somewhere else
+    — and the exit-2 "no such path" message then means what it says.
+    """
+    return path if os.path.isabs(path) else os.path.join(REPO_ROOT, path)
+
+
 def load_pages(root):
     for dirpath, _, filenames in os.walk(root):
         for name in filenames:
@@ -214,7 +228,7 @@ def main():
     if args.source:
         return check_source(args.paths)
 
-    root = os.path.abspath(args.public)
+    root = os.path.abspath(resolve(args.public))
     if not os.path.isdir(root):
         print(f"structural: {root} does not exist — run hugo first", file=sys.stderr)
         return 1
