@@ -2,7 +2,7 @@
 title: "Managing ChatGPT Memory: Review, Edit, Delete"
 date: 2026-08-20
 tags: ["ai-memory"]
-summary: "A reference guide to how ChatGPT memory works now, how to read and correct the memory summary, and how project-only memory and temporary chats change what gets kept."
+summary: "How ChatGPT memory works now: reading and correcting the memory summary, project-only memory, and temporary chats."
 ---
 
 ChatGPT remembers you whether or not you asked it to. If its answers start matching your tone one day, or it explains something on the assumption you do a job you never mentioned, that's memory.

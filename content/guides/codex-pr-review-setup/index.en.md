@@ -1,5 +1,5 @@
 ---
-title: "Codex PR Review on GitHub: Automatic Reviews, Triggers, Review Rules"
+title: "Codex PR Review: Automatic Reviews, Triggers, Review Rules"
 date: 2026-08-21
 tags: ["coding-agents"]
 summary: "How to turn on Codex code review for a GitHub repo: automatic reviews, @codex trigger commands, and pinning review standards into AGENTS.md."

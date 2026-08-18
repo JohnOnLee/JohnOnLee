@@ -2,7 +2,7 @@
 title: "Obsidian + GitHub: Notes You Can Write With AI"
 date: 2026-08-18
 tags: ["writing-with-ai"]
-summary: "How to turn an Obsidian vault into a git repo backed by a private GitHub repository. The .gitignore, the sync routine, the numeric-prefix folder trick, and what all of it lets an AI do with your notes."
+summary: "How to put an Obsidian vault on private GitHub: the .gitignore, the sync routine, and the numeric-prefix folder trick."
 ---
 
 Obsidian became the strongest-positioned note app the moment LLMs went mainstream. There's one reason for that. A vault is nothing but markdown files in folders, and that collapsed the gap between how a person keeps notes and how an AI reads them.

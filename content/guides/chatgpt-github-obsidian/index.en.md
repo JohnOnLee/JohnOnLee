@@ -1,8 +1,8 @@
 ---
-title: "Connect GitHub to ChatGPT: Your Obsidian Vault as Project Context"
-date: 2026-08-19
+title: "Connect GitHub to ChatGPT: Obsidian Vault as Project Context"
+date: 2026-08-18
 tags: ["writing-with-ai"]
-summary: "How to wire an Obsidian vault hosted on GitHub into ChatGPT. Connecting the GitHub app, scoping repository access, attaching the vault to a project, and getting conversations back out as notes."
+summary: "How to wire a GitHub-hosted Obsidian vault into ChatGPT: connecting the app, scoping repo access, and attaching the vault to a project."
 ---
 
 Once you finish [putting your Obsidian vault on GitHub](/en/guides/obsidian-github-ai-notes/), what you have is a repository full of md files. On its own that is a backup. It starts being useful when ChatGPT can read it.
