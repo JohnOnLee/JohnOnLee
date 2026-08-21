@@ -167,12 +167,21 @@ to compare against. Do not act on it as a cause without that evidence.
 ### When to look
 
 - **2–3 days** — IndexNow. Bing/Naver crawl latency on a new brief should
-  drop to hours. **If Bing's crawl dates do not move, the key file is not
-  being served or the submission is being refused** — check the deploy log's
-  IndexNow step, which never fails the build.
+  drop to hours. The protocol itself is confirmed working, so a flat reading
+  means the engines are ignoring the hint, not that the wiring is broken:
+  on 2026-08-21 the post-deploy ping was accepted for that day's 14 URLs
+  (HTTP 202, key pending) and the `--all` seed for all 232 (HTTP 200, key
+  validated). **If the wiring ever does break it will be silent** — the step
+  carries `continue-on-error`, so read the deploy log, not the build status.
 - **2–4 weeks** — whether manually requesting indexing in GSC moves anything.
-  The 26 original pages Google has never fetched are the fair test; the 16 it
-  already declined are not.
+  The fair test is the 26 original pages Google had discovered but never
+  fetched; the 16 it fetched and declined are not, since it has already said
+  no to those twice. Of the 26, **10 were submitted by hand on 2026-08-21**
+  (8 Korean, 2 English — Korean first, since those have no Dev.to twin
+  competing for the same content). The remaining 16 follow at the ~10/day
+  quota. If a meaningful share of the 10 leaves the not-indexed set while the
+  never-submitted remainder does not, manual submission is worth continuing;
+  if neither moves, it is not, and the authority ceiling is the whole story.
 - **The outcome measure is unchanged and still unmet:** indexed leaving 3.
   Nothing in this pass targets it, because nothing in this repo can. That one
   moves when other domains link here.
