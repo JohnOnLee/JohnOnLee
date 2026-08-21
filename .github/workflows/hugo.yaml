@@ -50,3 +50,12 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
+
+      # Notifies Bing/Naver/Yandex of today's changed URLs. Runs last because a
+      # ping sent before the deploy finishes points crawlers at the old HTML.
+      # Never fails the deploy — the site is already live at this point, and a
+      # missed ping costs crawl latency, not correctness. Google does not
+      # participate in IndexNow; see the script's docstring.
+      - name: IndexNow ping
+        run: python3 scripts/indexnow_ping.py
+        continue-on-error: true
