@@ -53,7 +53,7 @@ On the desktop, plain git works fine. But stopping mid-sentence to go commit in 
 
 So install Git (`obsidian-git`, by Vinzent03) from the community plugin list. It runs automatic commit-and-sync on a schedule, and a side panel gives you staging, commits, diffs, and history. I set the auto-commit interval once and stopped thinking about it.
 
-Mobile is a different story. There, the plugin runs on isomorphic-git, a JavaScript reimplementation, because a plugin can't reach a native git install on iOS or Android. The author says plainly in the README that mobile comes with real limitations. That's not a reason to give up, though. I use this vault on my iPhone. The setup is fiddly, but once it's in place it works better than you'd expect. I plan to write that one up separately.
+Mobile is a different story. There, the plugin runs on isomorphic-git, a JavaScript reimplementation, because a plugin can't reach a native git install on iOS or Android. The author says plainly in the README that mobile comes with real limitations. That's not a reason to give up, though. I use this vault on my iPhone. The setup is fiddly, but once it's in place it works better than you'd expect. That setup has [its own guide now](/en/guides/obsidian-git-iphone/).
 
 Use two machines and you will eventually collide: a note edited on the laptop, edited again on the desktop, and both of them pushed. Markdown pays off here too. The conflict markers land in the file as ordinary text, so you open that note in Obsidian, pick the side you want, and delete the markers. In a binary format the app would have quietly picked a winner and you'd never learn what went missing. One habit cuts the frequency way down: pull before you open your notes.
 
