@@ -12,22 +12,9 @@ languages:
     weight: 1
     title: John on Lee
     params:
-      description: "AI·스타트업 모닝 브리핑과 LLM, 코딩 에이전트에 대한 생각과 실험을 기록합니다."
+      description: "AI 뉴스가 빌더에게 무슨 뜻인지 짚는 AI 레이더, 그리고 LLM과 코딩 에이전트 사용기."
       footer:
         text: "[개인정보처리방침](/privacy/)"
-      homeInfoParams:
-        Title: 👋 John on Lee
-        Content: |
-          생각과 실험을 기록하는 개인 사이트입니다.
-
-          ### 📋 AI·스타트업 모닝 브리프
-          Hermes Agent가 매일 아침 큐레이션하는 AI·스타트업 브리핑.
-          핵심 변화, 미래 신호, 현실적인 기회까지 — 한눈에 정리합니다.
-          → [브리프 보기](/brief/)
-          
-          ### ✍️ 블로그
-          LLM, 코딩 에이전트, AI 스타트업에 대한 생각과 실험.
-          → [블로그 읽기](/blog/)
     menu:
       main:
         - identifier: brief
@@ -56,22 +43,9 @@ languages:
     weight: 2
     title: John on Lee
     params:
-      description: "A daily AI and startup brief, plus field notes on LLMs and coding agents from someone building with them."
+      description: "AI Radar on what AI news means for builders, plus field notes on LLMs and coding agents from someone building with them."
       footer:
         text: "[Privacy Policy](/en/privacy/)"
-      homeInfoParams:
-        Title: 👋 John on Lee
-        Content: |
-          A personal site for thoughts, experiments, and things worth sharing.
-
-          ### 📋 AI / Startup Morning Brief
-          AI/startup briefing curated daily by Hermes Agent.
-          Key shifts, future signals, and grounded opportunities — all in one place.
-          → [View briefs](/en/brief/)
-          
-          ### ✍️ Blog
-          Thoughts and experiments on LLMs, coding agents, and AI startups.
-          → [Read blog](/en/blog/)
     menu:
       main:
         - identifier: brief
@@ -155,7 +129,7 @@ params:
       SiteVerificationTag: "beb6cc7f22d782ea0281dc35aaed8ba3bf432851"
   # Per-language overrides live under languages.*.params.description; this is
   # the fallback only. Without the overrides the English pages inherit Korean.
-  description: "AI·스타트업 모닝 브리핑과 LLM, 코딩 에이전트에 대한 생각과 실험을 기록합니다."
+  description: "AI 뉴스가 빌더에게 무슨 뜻인지 짚는 AI 레이더, 그리고 LLM과 코딩 에이전트 사용기."
   author: John Lee
   ShowReadingTime: false
   ShowRssButtonInSectionTermList: true

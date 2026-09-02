@@ -19,7 +19,7 @@ topics:
   items:
     - title: "AI 레이더"
       url: "/brief/"
-      description: "놓치면 아까운 변화만 골라 전합니다."
+      description: "AI 뉴스에서 빌더가 챙길 것, 그래서 뭘 만들지를 씁니다."
     - title: "인사이트"
       url: "/blog/"
       description: "만들다 마주치는 문제와 변화의 의미를 풀어서 씁니다."
@@ -30,8 +30,8 @@ topics:
 
 radar:
   label: "AI Radar"
-  title: "매일 아침, 신호만 골라서"
-  description: "쏟아지는 뉴스 가운데, 만드는 사람에게 의미 있는 것만 남깁니다."
+  title: "오늘 AI 뉴스, 빌더에게는 무슨 뜻인지"
+  description: "그래서 뭘 만들어 볼 수 있는지까지 씁니다."
   allLabel: "AI 레이더 모두 보기"
   allUrl: "/brief/"
   readLabel: "최신 레이더 읽기"

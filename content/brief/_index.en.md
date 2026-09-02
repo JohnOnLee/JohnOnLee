@@ -1,4 +1,4 @@
 ---
 title: "AI Radar"
-description: "Daily signals for builders — the shifts in AI that actually matter, not just the news."
+description: "What today's AI news means for builders, and what you could build next."
 ---

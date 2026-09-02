@@ -19,7 +19,7 @@ topics:
   items:
     - title: "AI Radar"
       url: "/en/brief/"
-      description: "The changes worth your attention, picked daily."
+      description: "What builders should take from AI news, and what to build next."
     - title: "Insights"
       url: "/en/blog/"
       description: "Making sense of what's changing and the problems that keep coming back."
@@ -30,8 +30,8 @@ topics:
 
 radar:
   label: "AI Radar"
-  title: "Fresh signals, every morning"
-  description: "From the daily flood of AI news — only what matters to builders."
+  title: "What today's AI news means for builders"
+  description: "And what you could build next."
   allLabel: "View all AI Radar"
   allUrl: "/en/brief/"
   readLabel: "Read latest radar"
