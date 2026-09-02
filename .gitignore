@@ -4,3 +4,4 @@
 /.claude/*
 !/.claude/INFRA.md
 /notes/
+!/.claude/WRITING.md
