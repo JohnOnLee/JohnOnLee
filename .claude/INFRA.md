@@ -57,6 +57,10 @@ only, so subdomains are untouched.
   submitter serve that key at a public URL. Reaches Bing, Naver, Yandex and
   Seznam through the shared endpoint. **Google does not participate**, so
   nothing here moves the Google numbers below.
+- Briefs are `noindex` and out of the sitemap by a `cascade` in
+  `content/brief/_index.{ko,en}.md` (the 2026-09-02 experiment, see that
+  reading). The section page and its paginators inherit it. Deleting the
+  cascade reverts it; RSS, llms.txt and the home page never depended on it.
 
 ## SEO baseline — 2026-08-09
 
@@ -91,6 +95,7 @@ So the content is indexable and rankable, and the gap is discovery on
 Google's side, not quality. Do not reopen the theory that Google suppresses
 the aggregated briefs: briefs are 72% of the site but only 42% of the
 not-indexed set, and original blog posts were hit harder.
+Reopened on 2026-09-02; see that reading.
 
 ### When to look
 
@@ -152,6 +157,7 @@ links from high-quality domains.*
 The brief-suppression theory stays closed, and the new numbers argue against
 it harder than the old ones: briefs are 71% of the sitemap but 32% of the
 not-indexed set, while blog and guides are 20% of the sitemap and 28% of it.
+Reopened on 2026-09-02; see that reading.
 
 One pattern worth recording without a verdict: 15 of the 17 not-indexed
 blog/guide pages are `/en/`, only 2 are Korean, and **all 15 have a Dev.to
@@ -185,3 +191,82 @@ to compare against. Do not act on it as a cause without that evidence.
 - **The outcome measure is unchanged and still unmet:** indexed leaving 3.
   Nothing in this pass targets it, because nothing in this repo can. That one
   moves when other domains link here.
+
+## SEO reading — 2026-09-02
+
+Day 24 against the baseline. Read from the Coverage *Validation* export for
+"Crawled – currently not indexed" (dated 2026-09-02) and the AdSense decision
+John relayed the same day. The full Coverage chart was not exported, so the
+indexed count is unread; a Google `site:` query was blocked by bot detection.
+
+| Metric | 2026-08-21 | 2026-09-02 |
+|---|---|---|
+| "Crawled – currently not indexed" URLs | 60 | 72 |
+| of which re-fetched since 08-21 and declined again | — | 22 |
+| Left the bucket | — | 0 |
+| AdSense | under review | **rejected: "Low value content"** |
+
+### What moved
+
+The validation run cannot pass and its verdict carries no information: 11 RSS
+feeds, 5 tag pages and a paginator sit in the bucket and are not indexable
+content. Do not start another validation for this bucket; read the Coverage
+chart instead.
+
+The 08-21 manual-submission test has half its answer. Eight Korean originals
+entered the bucket with last-crawled 2026-08-21 — the submission date, and
+none of them was in the bucket before — so they are read as the 8 Korean
+submissions (the submitted list was never recorded, so this is inference).
+All eight were fetched the same day and declined. Manual submission buys a
+fetch, not an index decision. Google also recrawled 10 English pages on its
+own between 08-22 and 08-29 and declined every one of them again.
+
+### The brief theory, reopened
+
+The 08-09 and 08-21 readings closed the theory that the aggregated briefs
+drag the site down, on the proportions inside the crawled bucket. On
+2026-09-02 AdSense rejected the site for "Low value content" (minimum content
+requirements, thin content). That is a second, independent, site-level
+quality verdict from Google on a site whose pages are 79% agent-curated
+briefs: 186 of 236 content pages, against 32 blog and 18 guide pages, about
+25 unique pieces once translations are paired. The rejection does not prove
+the briefs are the cause — a three-month-old domain with 25 originals and no
+inbound links can draw the same verdict — but the proportions argument no
+longer closes the question.
+
+Live re-verification the same day found nothing technical: 200s,
+`index, follow`, self-canonical, hreflang with x-default, JSON-LD, a Googlebot
+UA served through Cloudflare without a challenge, privacy and about pages in
+both languages, the AdSense meta site-wide. All 24 Dev.to posts still
+canonical to john.onlee.io, and Korean pages with no Dev.to twin were declined
+too, so the twin stays unacted.
+
+### The experiment
+
+`content/brief/_index.{ko,en}.md` now cascade `robotsNoIndex: true` and
+`sitemap.disable: true` to every brief, the section pages and their
+paginators. Briefs stay on the site, on the home page, in `/brief/index.xml`
+and in llms.txt; they leave every search engine's index. Verified on the
+built site: sitemap 264 → 76 URLs with no dated brief, RSS unchanged (94 ko /
+92 en items), `seo_check` 0 structural. Nothing measurable is lost — briefs
+had 0 Google impressions.
+
+What it tests: with the corpus reduced to the ~50 original pages, does Google
+start indexing them? If yes, the briefs were diluting the site. If indexed
+stays at 3 with the briefs gone, the ceiling is authority and the briefs were
+a bystander — revert by deleting the cascade.
+
+John's decision the same day: the brief format changes from a daily news
+digest to one analysis per event. When that lands, the new pieces need a home
+outside this cascade — their own section, or per-page `robotsNoIndex: false`
+and `sitemap.disable: false` — or they inherit noindex.
+
+### When to look
+
+- **AdSense** — do not request a re-review until the corpus itself changes; a
+  reviewer sees the briefs regardless of noindex. Re-apply after the
+  event-analysis format has replaced the digest and the originals have grown.
+- **4–6 weeks (early-to-mid October)** — pull the full Coverage export. The
+  148 "Discovered – currently not indexed" briefs should drain out of the
+  report as Google re-fetches them and finds noindex. The outcome measure is
+  unchanged: Indexed leaving 3, now for the originals alone.
