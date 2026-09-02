@@ -1,5 +1,5 @@
 ---
-title: "There Are Two AI Automation Job Markets"
+title: "Two AI Automation Job Markets, and YouTube Shows You One"
 date: 2026-09-02
 tags: ["ai-careers"]
 summary: "YouTube teaches n8n and Zapier. Job ads ask for Boomi and Workato. Same automation, two separate markets — here's why they split, and what each one asks you to show for it."
@@ -11,7 +11,7 @@ Then you open the job ads and the names look wrong. "8+ years hands-on Boomi." W
 
 You didn't. There are two markets, and YouTube only shows you one of them.
 
-[The AI Operator Map](/en/blog/ai-operator-map/) split AI careers into five functions. This installment covers Automation, one of them.
+[The AI Jobs Map](/en/blog/ai-operator-map/) split AI careers into five functions. This installment covers Automation, one of them.
 
 ## The two markets, side by side
 

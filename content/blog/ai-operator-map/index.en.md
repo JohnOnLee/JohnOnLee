@@ -1,5 +1,5 @@
 ---
-title: "The AI Operator Map: AI Jobs Sort on a Different Axis"
+title: "The AI Jobs Map: Five Functions, Not Job Titles"
 date: 2026-09-01
 tags: ["ai-careers"]
 summary: "A recruiter's hiring ladder had no room for the question I actually wanted answered, so I checked myself. AI jobs sort into five functions, not job titles."
