@@ -1,21 +1,22 @@
 ---
-title: "Anthropic 클로드 페이블 5.1·마이토스 5.1 공개"
+title: "페이블 5.1 공개: 75% 내린 캐시 가격이 바꾸는 에이전트 비용"
 date: 2026-09-02
-summary: "페이블 5.1은 일반 공개, 마이토스 5.1(Mythos 5.1)은 사이버보안·생명과학 대상 신뢰 액세스 프로그램 전용으로 같은 모델을 안전장치 수준만 달리해 공개했다. 캐시…"
+summary: "Anthropic이 클로드 페이블 5.1을 공개하며 캐시 읽기 가격을 75% 내렸다. 컨텍스트를 재사용하는 에이전트 제품은 최대 45% 저렴해져 코스트 모델 재설계 시점이다."
 ---
 
-## 스타트업 / 제품 / 플랫폼 레이더
-- **Anthropic, 클로드 페이블 5.1 공개 — 가장 진보된 코딩·지식 모델**: 페이블 5.1은 일반 공개, 마이토스 5.1(Mythos 5.1)은 사이버보안·생명과학 대상 신뢰 액세스 프로그램 전용으로 같은 모델을 안전장치 수준만 달리해 공개했다. 캐시 읽기(cache read) 가격을 75% 낮춰 전형적 워크로드에서 페이블 5 대비 약 25%, 에이전트 작업에서는 최대 약 45% 저렴해지고, 기업용 완전 데이터 보존 정책(EFS)도 도입했다. [Anthropic](https://www.anthropic.com/claude-fable-and-mythos-5-1)
-- **월드랩스, 공간지능 옴니 월드 모델 'Atlas' 공개**: 텍스트·이미지·영상·3D를 한 모델로 다루는 자동회귀 확산 트랜스포머다. 카메라 제어로 1440p·최대 1분 영상 생성, 실제 장면 재구성, 로봇 Real-to-Sim 워크플로까지 지원하며 오늘부터 얼리 액세스를 신청받는다. [World Labs](https://www.worldlabs.ai/blog/atlas)
-- **애플 CEO 전환 — 존 터너스 취임, AI가 첫 과제**: 9월 1일 팀 쿡이 회장으로, 존 터너스가 CEO로 공식 취임했다. 9월 9일 재구축한 시리(Siri)와 첫 폴더블 아이폰 공개가 예정돼 있어, 구글 제미니 라이선스(연 약 10억 달러)에 의존하는 애플의 AI 전략이 공개적으로 판가름을 맞는다. [Yahoo Finance](https://finance.yahoo.com/technology/ai/articles/john-ternus-becomes-apple-ceo-111908957.html)
+## Anthropic이 캐시 읽기 가격을 75% 내렸다
+- **페이블 5.1 공개 — 가장 진보된 코딩·지식 모델**: 페이블 5.1은 일반 공개, 마이토스 5.1(Mythos 5.1)은 사이버보안·생명과학 대상 신뢰 액세스 프로그램 전용으로 같은 모델을 안전장치 수준만 달리해 공개했다. 캐시 읽기(cache read) 가격을 75% 낮춰 전형적 워크로드에서 페이블 5 대비 약 25%, 에이전트 작업에서는 최대 약 45% 저렴해지고, 기업용 완전 데이터 보존 정책(EFS)도 도입했다. [Anthropic](https://www.anthropic.com/claude-fable-and-mythos-5-1)
 
-## AI가 바꾸는 미래 신호
-- **오픈AI 아스트라(Astra), 프레임워크 최초로 'Critical' 사이버 임계 돌파**: 아스트라는 오픈AI Preparedness Framework에서 첫 번째로 'Critical' 사이버보안 능력 임계를 넘은 모델로, ExploitBench 만점을 기록했고 수정된 테스트에서 제로데이 취약점 2건을 자율적으로 발견·활용했다. 오픈AI는 안전장치를 강화한 형태로 '곧' 내놓겠다고 밝혔지만, 프론티어 모델이 악성 사이버 작업을 자율 수행할 수 있는 단계로 접어든다는 신호다. [OpenAI](https://openai.com/index/path-to-astra/) · [CyberPress](https://cyberpress.org/openai-warns-astra-ai-could-develop-zero-day-exploits/)
+## 에이전트 제품의 코스트 모델을 다시 설계해야 하는 이유
+- **"반복 컨텍스트는 비싸다"는 전제가 깨졌다**: 캐시 읽기 가격 75% 인하는 장기 실행 에이전트·에이전트 팀처럼 같은 컨텍스트를 계속 재사용하는 워크로드에 직접 유리하다. 같은 작업 로드에서 최대 45% 저렴해지므로, 컨텍스트 캐싱을 고려하지 않던 기존 비용 계산은 이제 과대평가된 수치다. 컨텍스트 재사용을 기본 전제로 삼는 설계로 갈아탈 시점이다. [Anthropic](https://www.anthropic.com/claude-fable-and-mythos-5-1)
 
-## 현실적인 기회 / 실험 아이디어
-- **캐시 읽기 가격 인하를 활용한 장기 지향 에이전트 설계**: 페이블 5.1이 캐시 읽기 가격을 75% 낮춘 것은 반복 컨텍스트를 재사용하는 장기 에이전트·에이전트 팀에 직접 유리하다. 같은 작업 로드에서 최대 45% 저렴해지므로, 컨텍스트 캐싱 패턴을 전제로 한 에이전트 제품의 코스트 모델을 다시 설계해볼 만하다. [Anthropic](https://www.anthropic.com/claude-fable-and-mythos-5-1)
-- **Atlas 얼리 액세스로 3D 재구성·시뮬레이션 제품 실험**: 카메라 제어 영상 생성과 실제 장면 재구성은 실사 기반 인터랙티브 3D 콘텐츠, 가상 스테이징, 로봇 훈련 데이터 파이프라인 등에 적용 가능한 실험점이다. 지금 신청해 워크플로를 검증하면 새 카테고리의 선발주자로 자리잡을 수 있다. [World Labs](https://www.worldlabs.ai/blog/atlas)
+## 지금 시도해볼 만한 것: 캐시 친화적 에이전트 아키텍처
+- **컨텍스트 캐싱 패턴을 전제로 한 에이전트 제품 실험**: 긴 시스템 프롬프트·도구 정의·대화 기록을 캐시 가능한 단위로 분리하고 재사용률을 높이는 설계를 실험해볼 만하다. 같은 기능을 만들더라도 캐시 히트율이 높은 구조가 최대 45% 싸진다면, 토큰 비용 민감형 인디 제품의 가격 자체를 재설정할 수 있다. [Anthropic](https://www.anthropic.com/claude-fable-and-mythos-5-1)
 
-## 불확실성 / 계속 볼 것
-- **'Critical' 사이버 능력을 가진 모델의 안전한 출시 기준**: 아스트라가 프레임워크 최고 위험 임계를 넘었다는 공식 발표는, 고위험 모델을 '어떻게 안전하게 공개할지'에 대한 업계 공통 기준이 아직 없다는 점을 상기시킨다. 실제 출시 시점·게이팅 방식이 불명확하다. [OpenAI](https://openai.com/index/path-to-astra/)
-- **애플의 AI 전략 방향**: 자체 AI 인프라 대신 구글 제미니 라이선스에 의존하는 선택이 9월 9일 재구축 시리 공개에서 정당화될지, 그리고 그 '사고 구매(buy)' 전략이 장기적으로 유지될지가 불확실하다. [Yahoo Finance](https://finance.yahoo.com/technology/ai/articles/john-ternus-becomes-apple-ceo-111908957.html)
+## 아직 안 풀린 것: 신뢰 액세스 경계와 데이터 보존의 실제
+- **마이토스 5.1의 게이팅 기준이 공개되지 않았다**: 같은 모델을 안전장치 수준만 달리해 공개한다는 접근 자체는 새롭지만, 어떤 사용처가 신뢰 액세스에 들어가는지, 일반 공개 모델과 기능 차이가 어디서 갈리는지가 명시되지 않았다. 기업용 완전 데이터 보존 정책(EFS)도 실제 감사·준수 워크플로에서 어떻게 작동할지는 아직 검증 전이다. [Anthropic](https://www.anthropic.com/claude-fable-and-mythos-5-1)
+
+## 오늘의 다른 소식 (한 줄)
+- **월드랩스, 공간지능 옴니 모델 'Atlas' 공개**: 텍스트·이미지·영상·3D를 한 모델로 다루는 자동회귀 확산 트랜스포머. 카메라 제어 1440p 영상 생성, 실제 장면 재구성, 로봇 Real-to-Sim 워크플로를 지원하며 얼리 액세스 신청을 받는다. [World Labs](https://www.worldlabs.ai/blog/atlas)
+- **애플 CEO 전환 — 존 터너스 취임, AI가 첫 시험대**: 팀 쿡 회장·터너스 CEO 체제 아래 9월 9일 재구축 시리와 첫 폴더블 아이폰이 공개된다. 구글 제미니 라이선스(연 약 10억 달러)에 의존하는 AI 전략의 공개 검증이 시작된다. [Yahoo Finance](https://finance.yahoo.com/technology/ai/articles/john-ternus-becomes-apple-ceo-111908957.html)
+- **오픈AI 아스트라, 프레임워크 최초 'Critical' 사이버 임계 돌파**: ExploitBench 만점, 수정된 테스트에서 제로데이 취약점 2건을 자율 발견·활용했다. 안전장치를 강화한 버전을 '곧' 공개한다고 밝혔다. [OpenAI](https://openai.com/index/path-to-astra/) · [CyberPress](https://cyberpress.org/openai-warns-astra-ai-could-develop-zero-day-exploits/)

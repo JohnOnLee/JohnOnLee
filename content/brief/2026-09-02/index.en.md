@@ -1,21 +1,22 @@
 ---
-title: "Anthropic ships Claude Fable 5.1 and Mythos 5.1"
+title: "Fable 5.1: cache-read −75% rewrites agent economics"
 date: 2026-09-02
-summary: "Fable 5.1 is generally available, while Mythos 5.1 is offered only through trusted-access programs for cybersecurity and life sciences — the same model with…"
+summary: "Anthropic shipped Claude Fable 5.1 with cache-read pricing down 75% — agent products that reuse context get ~45% cheaper, so cost models deserve a redesign."
 ---
 
-## Startup / Product / Platform Radar
-- **Anthropic launches Claude Fable 5.1, its most advanced coding & knowledge models**: Fable 5.1 is generally available, while Mythos 5.1 is offered only through trusted-access programs for cybersecurity and life sciences — the same model with different safeguards. Anthropic cut cache-read pricing by 75%, making typical workloads roughly 25% cheaper than Fable 5 (up to ~45% for agentic work), and introduced Enterprise Frontier Safeguards for zero data retention. [Anthropic](https://www.anthropic.com/claude-fable-and-mythos-5-1)
-- **World Labs unveils Atlas, an omni world model for spatial intelligence**: A multimodal autoregressive diffusion transformer trained to operate natively on text, images, video, and 3D. It delivers camera-controlled generation up to one minute of 1440p video, spatial reconstruction of real scenes, and Real-to-Sim workflows for robotics — early access applications are open now. [World Labs](https://www.worldlabs.ai/blog/atlas)
-- **Apple's CEO transition — John Ternus takes over, with AI as his first test**: On September 1, Tim Cook moved to executive chairman and John Ternus became CEO. With a rebuilt Siri and Apple's first foldable iPhone expected September 9, Apple's bet on licensing Google Gemini (~$1B/year) instead of building its own AI stack faces a public verdict. [Yahoo Finance](https://finance.yahoo.com/technology/ai/articles/john-ternus-becomes-apple-ceo-111908957.html)
+## Anthropic cut cache-read prices by 75%
+- **Fable 5.1 is out — the most advanced coding & knowledge model yet**: Fable 5.1 is generally available, while Mythos 5.1 is reserved for trusted-access programs in cybersecurity and life sciences — the same model with different safeguards. Anthropic cut cache-read pricing by 75%, making typical workloads roughly 25% cheaper than Fable 5 (up to ~45% for agentic work), and introduced Enterprise Frontier Safeguards for zero data retention. [Anthropic](https://www.anthropic.com/claude-fable-and-mythos-5-1)
 
-## AI Future Signals
-- **OpenAI's Astra is the first model to cross the 'Critical' cyber threshold**: Astra is the first OpenAI model to exceed the 'Critical' cybersecurity capability threshold in its Preparedness Framework, scoring a perfect ExploitBench and autonomously finding and exploiting two zero-days in modified tests. OpenAI says it will release a more strongly guarded version "soon," but frontier models crossing into autonomous malicious cyber tasks is now a concrete signal. [OpenAI](https://openai.com/index/path-to-astra/) · [CyberPress](https://cyberpress.org/openai-warns-astra-ai-could-develop-zero-day-exploits/)
+## Why your agent product's cost model needs a rewrite
+- **The assumption that repeated context is expensive just broke**: A 75% cut to cache-read pricing directly favors long-running agents and agent teams that keep reusing the same context. With up to ~45% cheaper load for identical work, any cost model built without aggressive context caching is now overstating the bill. It's time to design with context reuse as a default, not an optimization. [Anthropic](https://www.anthropic.com/claude-fable-and-mythos-5-1)
 
-## Realistic Opportunities / Experiments
-- **Design long-horizon agents around the cache-read price cut**: Fable 5.1 lowered cache-read pricing by 75%, which directly benefits long-running agents and agent teams that reuse repeated context. With up to ~45% cheaper load for the same work, it's worth redesigning cost models for agentic products on the assumption of aggressive context caching. [Anthropic](https://www.anthropic.com/claude-fable-and-mythos-5-1)
-- **Use Atlas early access to prototype 3D reconstruction & simulation products**: Camera-controlled video generation and real-scene reconstruction open practical experiments in photoreal interactive 3D, virtual staging, and robot training-data pipelines. Applying now to validate the workflow could let a team get ahead in a brand-new category. [World Labs](https://www.worldlabs.ai/blog/atlas)
+## Try this now: cache-friendly agent architecture
+- **Run an experiment in cache-first agent design**: Separate long system prompts, tool definitions, and conversation history into cacheable units and optimize for hit rate. If a cache-friendly structure is up to 45% cheaper for the same output, token-sensitive indie products can reset their pricing entirely. [Anthropic](https://www.anthropic.com/claude-fable-and-mythos-5-1)
 
-## Uncertainties / Keep Watching
-- **No standard yet for safely releasing a 'Critical'-capability model**: The formal disclosure that Astra crossed the framework's highest risk threshold underscores that the industry still lacks a common standard for how to safely release high-risk models. Timing and gating remain unclear. [OpenAI](https://openai.com/index/path-to-astra/)
-- **Direction of Apple's AI strategy**: Whether Apple's choice to license Google Gemini rather than build its own infrastructure will be validated at the September 9 Siri reveal — and whether that buy strategy holds long term — remains uncertain. [Yahoo Finance](https://finance.yahoo.com/technology/ai/articles/john-ternus-becomes-apple-ceo-111908957.html)
+## Still open: trusted-access boundaries and retention reality
+- **The gating criteria for Mythos 5.1 are not public**: Shipping the same model with different safeguard levels is a new approach, but which use cases qualify for trusted access — and where feature parity with the general release ends — is unspecified. The enterprise zero-retention option (EFS) also has yet to be validated in real audit and compliance workflows. [Anthropic](https://www.anthropic.com/claude-fable-and-mythos-5-1)
+
+## The rest of today's news
+- **World Labs unveiled Atlas, an omni world model for spatial intelligence**: An autoregressive diffusion transformer handling text, images, video, and 3D natively — camera-controlled 1440p generation, real-scene reconstruction, and robot Real-to-Sim workflows. Early access applications are open. [World Labs](https://www.worldlabs.ai/blog/atlas)
+- **Apple's CEO transition — John Ternus takes over with AI as his first test**: With Tim Cook as executive chairman and Ternus as CEO, a rebuilt Siri and Apple's first foldable iPhone are due September 9. Apple's bet on licensing Google Gemini (~$1B/year) faces a public verdict. [Yahoo Finance](https://finance.yahoo.com/technology/ai/articles/john-ternus-becomes-apple-ceo-111908957.html)
+- **OpenAI's Astra is the first model to cross the 'Critical' cyber threshold**: A perfect ExploitBench score and two autonomously found and exploited zero-days in modified tests. OpenAI says a more strongly guarded version ships "soon." [OpenAI](https://openai.com/index/path-to-astra/) · [CyberPress](https://cyberpress.org/openai-warns-astra-ai-could-develop-zero-day-exploits/)
