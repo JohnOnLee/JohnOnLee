@@ -57,10 +57,12 @@ only, so subdomains are untouched.
   submitter serve that key at a public URL. Reaches Bing, Naver, Yandex and
   Seznam through the shared endpoint. **Google does not participate**, so
   nothing here moves the Google numbers below.
-- Briefs are `noindex` and out of the sitemap by a `cascade` in
-  `content/brief/_index.{ko,en}.md` (the 2026-09-02 experiment, see that
-  reading). The section page and its paginators inherit it. Deleting the
-  cascade reverts it; RSS, llms.txt and the home page never depended on it.
+- Briefs are indexable like everything else. The 2026-09-02 noindex cascade
+  lasted one commit (`f39d01c`, removed the same day — see that reading). If a
+  section ever has to leave the index, that commit is the working recipe:
+  `cascade.params.robotsNoIndex` plus `cascade.sitemap.disable` in the
+  section `_index`, honored by PaperMod and `layouts/sitemapindex.xml`; RSS,
+  llms.txt and the home page do not depend on either.
 
 ## SEO baseline — 2026-08-09
 
@@ -241,32 +243,37 @@ both languages, the AdSense meta site-wide. All 24 Dev.to posts still
 canonical to john.onlee.io, and Korean pages with no Dev.to twin were declined
 too, so the twin stays unacted.
 
-### The experiment
+### The experiment, and what overtook it
 
-`content/brief/_index.{ko,en}.md` now cascade `robotsNoIndex: true` and
-`sitemap.disable: true` to every brief, the section pages and their
-paginators. Briefs stay on the site, on the home page, in `/brief/index.xml`
-and in llms.txt; they leave every search engine's index. Verified on the
-built site: sitemap 264 → 76 URLs with no dated brief, RSS unchanged (94 ko /
-92 en items), `seo_check` 0 structural. Nothing measurable is lost — briefs
-had 0 Google impressions.
+`f39d01c` cascaded `robotsNoIndex: true` and `sitemap.disable: true` over
+`content/brief/` so the ~50 original pages would be the whole corpus Google
+sees while the digests stayed on the site. It was live for about half an hour
+(verified: sitemap 264 → 76 URLs, `seo_check` 0 structural).
 
-What it tests: with the corpus reduced to the ~50 original pages, does Google
-start indexing them? If yes, the briefs were diluting the site. If indexed
-stays at 3 with the briefs gone, the ceiling is authority and the briefs were
-a bystander — revert by deleting the cascade.
+The same evening John replaced the digests outright (`12e3883`, `98c5524`,
+committed as Coda Lee): the 92 daily briefs from 2026-05-29 to 08-31 were
+deleted in both languages — 184 URLs now return 404 — and 09-01 and 09-02
+were rewritten as one analysis per event: a headline, four lenses (the facts,
+what it means for an indie builder, what to build next, open risks) and the
+rest of the day as one-line capsules, about 400 words per language. That made
+the cascade counter-productive — the only pages it still hid were the two new
+analyses and the section page — so the commit recording this removes it.
+Briefs are back to the site default: indexable, in the sitemap.
 
-John's decision the same day: the brief format changes from a daily news
-digest to one analysis per event. When that lands, the new pieces need a home
-outside this cascade — their own section, or per-page `robotsNoIndex: false`
-and `sitemap.disable: false` — or they inherit noindex.
+What the reading now tests: with the digests gone and the brief section
+carrying analysis, does Indexed leave 3? A yes says the digests were diluting
+the site; a no with the corpus this clean says the ceiling is authority
+alone. There is no cascade to revert any more; the deleted digests live in
+git history before `12e3883` if they are ever wanted back.
 
 ### When to look
 
-- **AdSense** — do not request a re-review until the corpus itself changes; a
-  reviewer sees the briefs regardless of noindex. Re-apply after the
-  event-analysis format has replaced the digest and the originals have grown.
+- **AdSense** — do not request a re-review yet. A reviewer now sees analyses
+  instead of digests, but two pieces is not a corpus; re-apply once the
+  event-led briefs have a few weeks of volume behind them and the originals
+  have grown.
 - **4–6 weeks (early-to-mid October)** — pull the full Coverage export. The
-  148 "Discovered – currently not indexed" briefs should drain out of the
-  report as Google re-fetches them and finds noindex. The outcome measure is
-  unchanged: Indexed leaving 3, now for the originals alone.
+  report will show a 404 spike — up to 184 deleted brief URLs — which is
+  correct and needs no action; the 148 "Discovered – currently not indexed"
+  entries drain as Google fetches them and gets 404. The outcome measure is
+  unchanged: Indexed leaving 3.
