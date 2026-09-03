@@ -2,7 +2,7 @@
 title: "Two AI Automation Job Markets, and YouTube Shows You One"
 date: 2026-09-02
 tags: ["ai-careers"]
-summary: "YouTube teaches n8n and Zapier. Job ads ask for Boomi and Workato. Same automation, two separate markets — here's why they split, and what each one asks you to show for it."
+summary: "YouTube teaches n8n and Zapier. Job ads ask for Boomi and Workato. Same automation, two markets: why they split, and what each one asks you to show for it."
 ---
 
 Automation is the door most people pick when they start an AI career. You watch n8n videos on YouTube, join a community, take a course, and start preparing for a job or an agency. The sheer number of people learning it tells you something: the two biggest free automation communities alone hold 770,000+ members combined (as of August 2026, overlapping signups included).

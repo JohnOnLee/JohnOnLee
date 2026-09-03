@@ -2,7 +2,7 @@
 title: "Obsidian Git Sync on iPhone Works Better Than You'd Expect"
 date: 2026-08-22
 tags: ["writing-with-ai"]
-summary: "How to sync an Obsidian vault on an iPhone with the Git plugin alone: token setup, cloning, auto-pull. Plus why you shouldn't trust the 'Never used' label on your GitHub tokens."
+summary: "Sync an Obsidian vault on an iPhone with the Git plugin alone: token setup, cloning, auto-pull. Plus why GitHub's 'Never used' token label can't be trusted."
 ---
 
 In [the previous guide](/en/guides/obsidian-github-ai-notes/) I put my Obsidian vault on GitHub. I promised to write up the mobile setup separately, and this is that write-up.

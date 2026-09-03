@@ -2,7 +2,7 @@
 title: "아이폰에서 옵시디언 git 동기화, 생각보다 잘 됩니다"
 date: 2026-08-22
 tags: ["writing-with-ai"]
-summary: "옵시디언 Git 플러그인만으로 아이폰에서 볼트를 동기화하는 방법. 토큰 발급, 클론, 자동 pull 설정까지. GitHub의 'Never used' 표시만 믿고 토큰을 지우면 안 되는 이유도 함께."
+summary: "옵시디언 Git 플러그인만으로 아이폰에서 볼트를 동기화하는 방법. 토큰 발급, 클론, 자동 pull까지. GitHub의 'Never used' 표시만 믿고 토큰을 지우면 안 되는 이유도."
 ---
 
 [전편](/guides/obsidian-github-ai-notes/)에서 옵시디언 볼트를 깃허브 저장소로 만들었습니다. 모바일 세팅은 따로 정리하겠다고 했는데, 이 글이 그 후속입니다.
