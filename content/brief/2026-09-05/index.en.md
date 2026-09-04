@@ -19,3 +19,8 @@ summary: "Nvidia confirmed on September 3, in a blog post from Jensen Huang, tha
 ## The deal still has to clear antitrust review, and whether neutrality actually holds is open
 - **What to hold off on**: The acquisition faces mandatory antitrust review in the US and Europe. Until it clears, do not bank on Hugging Face's ownership staying as it is or treat the hub as a permanent business asset.
 - **What to keep watching**: Whether Nvidia compute stays a no-strings option or quietly becomes the favored one, and whether the multi-accelerator pledge shows up in real APIs and pricing. If neutrality turns out to be a tagline, your exit path is the answer.
+
+## The rest of today's news
+- **Google DeepMind released WeatherNext 3**: An hourly-updated global weather model at 5km resolution, rolling into Search, Maps and Gemini. [Google blog](https://blog.google/innovation-and-ai/models-and-research/google-deepmind/introducing-weathernext-3/)
+- **Qualcomm Ventures put $70M into Ultrahuman**: A $365M valuation round to turn the smart ring into an on-device AI computer. [TechCrunch](https://techcrunch.com/2026/09/03/qualcomm-backs-ultrahuman-in-70m-round-on-bet-to-turn-smart-rings-into-computers/)
+- **Wafer raised a $40M Series A for inference optimization**: Investment is flowing to platforms that make AI inference faster and cheaper. [AI Market Watch](https://www.ai-market-watch.com/news/ai-inference-optimization-startup-wafer-raises-40-million-series-a-iw10en)
