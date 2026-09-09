@@ -57,7 +57,10 @@ KO_ABSTRACT = re.compile(r"(시장|공고|가격|경계|데이터|숫자|산업|
 KO_ABSTRACT2 = re.compile(r"(시장|공고|가격|경계|데이터|숫자|표|툴|직함)(이|가|은|는)[^.,]{0,24}?(무너지|보여줍|보여준|말해줍|말해준|허락하|확인하는|확인하는 건|모릅니다|모른다|움직이|기다리|원합니다|치르)")
 KO_ENDING_RUN = re.compile(r"(니다\.\s+[^.!?]*니다\.\s+[^.!?]*니다\.\s+[^.!?]*니다\.)")
 
-EN_BANNED = re.compile(r"\b(delve|leverag\w+|seamless\w*|robust|landscape|journey|elevate|unleash|(?<!eval )(?<!test )harness\b|navigat\w+|tapestry|crucial|comprehensive)\b", re.I)
+# "harness" excluded: this site's own domain term (agent harnesses), not a
+# generic AI-blog cliché here — banning it fired on legitimate usage across
+# the agent-memory-retrospective series (2026-09-04 audit).
+EN_BANNED = re.compile(r"\b(delve|leverag\w+|seamless\w*|robust|landscape|journey|elevate|unleash|navigat\w+|tapestry|crucial|comprehensive)\b", re.I)
 EN_RULES = [
     ("banned word", EN_BANNED),
     ("banned opener", re.compile(r"(?m)^(In today's|It's worth noting|Moreover,|Furthermore,|Let's dive)")),
@@ -199,8 +202,18 @@ def lint(path):
     hits = []
     line_rules = KO_RULES if is_korean(body) else EN_RULES
     file_rules = KO_FILE_RULES if is_korean(body) else EN_FILE_RULES
+    # code-fence tracking: example/meta text inside ``` blocks (e.g. a guide
+    # quoting its own banned-word list) is not prose and must not trigger
+    # rules meant for prose (2026-09-04 audit, removing-ai-tells false hits).
+    fenced, _fence = [], False
+    for line in lines:
+        if line.strip().startswith("```"):
+            _fence = not _fence
+            fenced.append(True)
+        else:
+            fenced.append(_fence)
     for i, line in enumerate(lines, 1):
-        if line.startswith("|") or line.startswith("#"):  # tables/headers: looser
+        if fenced[i - 1] or line.startswith("|") or line.startswith("#"):  # code fences, tables/headers: looser
             continue
         check = re.sub(r"\u201c[^\u201d]*\u201d|\"[^\"]*\"", "", line)  # quoted spans exempt
         for name, rx in line_rules:
@@ -208,7 +221,7 @@ def lint(path):
                 hits.append((i, name, line.strip()[:80]))
     if is_korean(body):
         for i, line in enumerate(lines, 1):
-            if line.startswith("|"): continue
+            if fenced[i - 1] or line.startswith("|"): continue
             for m in KO_ABSTRACT.finditer(line):
                 hits.append((i, "추상 주어(검토)", m.group(0)))
             for m in KO_ABSTRACT2.finditer(line):

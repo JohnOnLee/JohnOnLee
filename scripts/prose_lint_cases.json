@@ -576,6 +576,24 @@
    "bad": "AI 자동화 채용 시장은 두 개입니다.",
    "good": "AI 자동화 시장, 유튜브는 한쪽만 보여줍니다.",
    "src": "자동화 편 제목, John 지적 2026-09-02 — 시장은 개로 세지 않고 갈라진다; 제목 명사 연쇄는 둘까지"
+  },
+  {
+   "id": "m28",
+   "lang": "en",
+   "tier": "mechanical",
+   "rule_hint": "banned word: domain-term exemption for harness",
+   "bad": "We use a robust framework for agent evaluation.",
+   "good": "We use an evaluation harness for agent evaluation.",
+   "src": "Published-post audit 2026-09-04 — harness is the site's established domain term"
+  },
+  {
+   "id": "m29",
+   "lang": "en",
+   "tier": "mechanical",
+   "rule_hint": "banned word: code-fence exemption",
+   "bad": "The process is robust.",
+   "good": "```\nrobust\n```",
+   "src": "Published-post audit 2026-09-04 — examples that quote banned words are not prose"
   }
  ]
 }

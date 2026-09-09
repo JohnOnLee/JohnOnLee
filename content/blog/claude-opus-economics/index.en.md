@@ -76,8 +76,6 @@ Is this intentional margin engineering, or a genuine technical trade-off? You te
 
 ## So how much does Anthropic actually make?
 
-
-
 R&D alone is $500M-$1B/yr. A hundred million free users. Safety research. Sales team. The next training run.
 
 Tokens are profitable. The company isn't.
