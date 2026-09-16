@@ -248,11 +248,15 @@ if len(sys.argv) > 1 and sys.argv[1] == "--calibrate":
 if len(sys.argv) > 2 and sys.argv[1] == "--spoken":
     # 재발화 게이트 (2026-08-31, John: "'말로 하면 뭐라고 하지'를 체계적으로 강제").
     # 초안을 John에게 보이기 전, 문장별 재발화 기록(drafts/spoken/<이름>.spoken.md,
-    # "N| 말한 버전" 줄, 예외 유지는 "N| 문장 §유지: 이유")이 존재하고, 초안보다 새로우며,
+    # "N. 말한 버전" 줄, 예외 유지는 "N. 문장 §유지: 이유")이 존재하고, 초안보다 새로우며,
     # 본문 문장 수를 덮어야 통과. 게이트가 강제하는 건 수행·최신성·커버리지다 —
     # 각 줄이 진짜 말버전인지는 게이트가 못 재므로 John의 지적 빈도가 그 지표.
+    # 2026-09-17 포맷 변경: "N| " → "N. ". 파이프 접두 줄은 Hermes write_file의
+    # read_file 표시텍스트 가드(_looks_like_read_file_line_numbered_content)가 오탐으로
+    # 차단해(비어있지 않은 줄 60% 이상이 연속 "N|") 크론이 매번 우회해야 했다.
+    # 구 "N| " 기록은 계속 인정한다(레거시).
     fail = False
-    ENTRY = re.compile(r"(?m)^\d+\| ")
+    ENTRY = re.compile(r"(?m)^\d+[|.] ")
     for f in sys.argv[2:]:
         p = pathlib.Path(f)
         text = p.read_text()

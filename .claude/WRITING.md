@@ -68,12 +68,17 @@ measure whether they were done honestly.
    replace pairs that are English verbs in Korean clothing (프로그램을 열다,
    시장이 서다). A confirmed pair goes into the blacklist *and* the cases file.
 4. **Re-utterance record.** For each sentence, in `drafts/spoken/<name>-ko.spoken.md`,
-   one line `N| <spoken version>`. Order matters: extract the paragraph's
+   one line `N. <spoken version>`. Order matters: extract the paragraph's
    point first, speak from the point *before* re-reading the written
    sentence, and replace the written sentence when the two differ. A
    paragraph whose point will not come out in one sentence is the first
    finding — rebuild the paragraph, don't polish it. Quotes, numbers and
-   table references stay as written: `N| <sentence> §유지: <reason>`.
+   table references stay as written: `N. <sentence> §유지: <reason>`.
+   Write the record with `write_file`; the `N. ` form passes its guard. The
+   old `N| ` prefix does not — Hermes's guard reads a file whose non-empty
+   lines are mostly `N| ...` as pasted `read_file` output and refuses the
+   write, so the run reports "file NOT modified" even though the content is
+   fine. Legacy `N| ` records still pass the gate, so don't rewrite old ones.
 5. **Cold re-utterance.** Give a worker that has never seen the draft — a
    different model if possible — only the facts, in telegraphic form, with no
    draft wording and no file or tool access, and have it say the piece. Save
