@@ -1,34 +1,42 @@
 ---
-title: "Gemini 3.8 Live for voice agents"
+title: "Gemini 3.8 Live reopens voice-stack math"
 date: 2026-09-16
-summary: "both are native speech-to-speech models, available today through the Gemini Live API and AI Studio."
+summary: "Minute pricing and async tool calls make voice-agent design about session cost plus wait handling and model portability."
 ---
 
-## Google shipped Gemini 3.8 Live and 3.8 Live Extended Thinking, aimed straight at the cascaded voice pipeline
-- **Live on 15 September**: both are native speech-to-speech models, available today through the Gemini Live API and AI Studio. [Google](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/)
-- **Priced per minute**: $0.005/min for audio input and $0.018/min for audio output. A ten-minute call costs $0.05 in plus $0.18 out, so $0.23; an hour costs $1.38. [Gemini API pricing](https://ai.google.dev/gemini-api/docs/pricing)
-- **Asynchronous function calling sits at the center of the release**: tool calls run in the background while the audio response keeps streaming, and Google positions both models against chaining ASR, an LLM and TTS. [Google for Developers](https://blog.google/innovation-and-ai/technology/developers-tools/build-real-time-voice-applications-gemini-audio/)
-- **What else the Live API exposes**: live visual context, alphanumeric precision for confirmation codes and claim numbers, 97 languages with accent consistency, and merging real-time audio with structured data. Extended Thinking reasons in the background while it speaks, and opens with cues like "let me check that".
-- **The benchmark numbers**: 3.8 Live Extended Thinking takes first place on Artificial Analysis' Speech to Speech Quality Index at 82.6, with 68.6% on τ-Voice, 35.1% on τ-Voice-banking and 97.7% on Big Bench Audio. [MarkTechPost](https://www.marktechpost.com/2026/09/15/google-releases-gemini-3-8-live-and-3-8-live-extended-thinking-for-production-grade-voice-agents/)
-- **Hosted only**: there are no open weights and no self-hosting path. You reach the models through streaming partners such as LiveKit, Pipecat, Vercel and Agora, and 9to5Google reports the same models now sit behind Gemini Live and Gmail. [9to5Google](https://9to5google.com/2026/09/15/gemini-3-8-live-announced/)
+## Google is going after the cascaded voice stack
 
-## $0.23 for a ten-minute call is the number that reopens your voice stack decision
-- **You can delete the three-stage pipeline**: the code wiring ASR to an LLM to TTS, plus the turn-taking and interruption handling in between, collapses into one session. Your latency budget stops being split three ways.
-- **The workaround for silence goes away**: the model keeps talking while a tool runs. Instead of pre-recording "one moment please" clips and playing them back, you let async function calling and spoken progress carry the wait.
-- **Per-minute billing turns call length into unit cost**: $0.23 for ten minutes and $1.38 for an hour scale linearly. If your product offers free calls, a session cap and idle-session teardown belong in the design before the pricing page.
-- **Model portability lives in the abstraction layer**: calling the Live API directly ties you to Google. Put LiveKit or Pipecat in between and your session code survives a model swap.
+Google released Gemini 3.8 Live and Gemini 3.8 Live Extended Thinking on September 15. Both are native speech-to-speech models, available now in the Gemini Live API and AI Studio. [Google](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/)
 
-## What to try now: delete the filler audio and push tool calls to the background
-- **Drop the filler clips and compare**: remove your "checking that now" audio, let the model talk until the tool returns, then measure perceived wait against the old cascade.
-- **Put the camera into the conversation**: visual context arrives live, so a support flow that reads a claim number off a photo or an error off a screen fits inside one session.
-- **Use Extended Thinking as a narration pattern**: on slow jobs, the early acknowledge cue plus step-by-step narration turns dead air into visible progress you can design around.
-- **Price a ten-minute call both ways**: add up your current STT, LLM and TTS rates for the same conversation and compare against $0.23. The switch date usually comes out as a number rather than an opinion.
+Pricing is per minute: $0.005/min for audio input and $0.018/min for audio output. A ten-minute call costs $0.05 in plus $0.18 out, so $0.23; an hour costs $1.38. [Gemini API pricing](https://ai.google.dev/gemini-api/docs/pricing)
 
-## The caveats around the benchmarks matter more than the headline score
-- **τ-Voice-banking at 35.1% is low**: on regulated flows like banking, agents still finish roughly a third of the tasks. Marketing that promises full automation is premature.
-- **The free tier feeds training**: Google's price sheet marks free-tier traffic as "used to improve our products". If real customer voices run through your product, treat the paid tier as the baseline.
-- **Long-call behavior is unproven**: the published numbers come from benchmarks and short demos. Context retention and interruption handling past thirty minutes need your own tests.
-- **Cost tracks conversation length**: a session left open bills idle time too. Any plan with unlimited calls converts straight into loss.
+Asynchronous function calling is the product detail to watch. Tool calls run in the background while audio keeps streaming, and Google positions the models as an alternative to chaining ASR, an LLM, and TTS. [Google for Developers](https://blog.google/innovation-and-ai/technology/developers-tools/build-real-time-voice-applications-gemini-audio/)
+
+The Live API also exposes live visual context, alphanumeric precision for confirmation codes and claim numbers, 97 languages with accent consistency, and real-time audio merged with structured data. Extended Thinking reasons in the background while it speaks, then opens with cues like "let me check that".
+
+The benchmark numbers are strong. 3.8 Live Extended Thinking ranks first on Artificial Analysis' Speech to Speech Quality Index at 82.6, with 68.6% on τ-Voice, 35.1% on τ-Voice-banking, and 97.7% on Big Bench Audio. [MarkTechPost](https://www.marktechpost.com/2026/09/15/google-releases-gemini-3-8-live-and-3-8-live-extended-thinking-for-production-grade-voice-agents/)
+
+The hosting story is closed. There are no open weights and no self-hosting path. You reach the models through streaming partners including LiveKit/Pipecat/Vercel/Agora. 9to5Google reports that the same models now sit behind Gemini Live and Gmail. [9to5Google](https://9to5google.com/2026/09/15/gemini-3-8-live-announced/)
+
+## Voice products now have a simpler unit-cost model
+
+For indie developers, the useful change is not the model name. It is the way code and cost collapse into one session. Wiring ASR, an LLM, and TTS together, then handling turns and interruptions between them, can shrink into a single live connection.
+
+Async tool calls also change wait-state design. Remove the old "checking that now" filler audio, let the model speak while the tool runs, and compare perceived wait against the old cascade. If live visual context is useful in your product, try a support flow that reads a claim number from a photo or an error from a screen inside the same session.
+
+Minute billing turns call length into unit cost. The $0.23 ten-minute call and $1.38 hour scale roughly linearly, so free-call products need session caps and idle-session teardown before the pricing page goes live. Add up your current STT plus LLM plus TTS rates for the same ten-minute conversation; the stack switch becomes a number.
+
+Portability belongs in the abstraction layer. Calling the Live API directly ties the product to Google, so LiveKit or Pipecat can keep the session code stable while the model changes underneath.
+
+## Check before promising automation
+
+τ-Voice-banking at 35.1% is low. In regulated flows like banking, agents still finish roughly a third of the tasks. Product copy that promises full automation is early.
+
+The free tier feeds training. Google's price sheet marks free-tier traffic as "used to improve our products". If real customer voices run through the product, treat the paid tier as the baseline.
+
+Long-call behavior still needs testing. The published numbers come from benchmarks and short demos, so context retention and interruption handling past thirty minutes need your own runs.
+
+Cost tracks conversation length. A session left open bills idle time too. Any plan with unlimited calls converts straight into loss.
 
 ## The rest of today's news
 - **Developers found ways to run Claude Code without Anthropic models**: proxy workarounds are circulating. [The Information](https://www.theinformation.com/articles/developers-find-ways-use-claude-code-without-anthropic-models)

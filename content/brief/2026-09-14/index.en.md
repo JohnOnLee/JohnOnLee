@@ -1,17 +1,16 @@
 ---
-title: "YC Demo Day moves AI into hardware"
+title: "YC Demo Day points AI toward machines"
 date: 2026-09-14
-summary: "TechCrunch’s list of companies named by at least two investors leans toward AI compute, robotics, and energy."
+summary: "The YC companies named by multiple investors lean toward AI compute and robotics, with energy also in the mix."
 ---
 
-## YC Demo Day’s nine buzziest startups mostly target the physical world
-- **Beyond software wrappers**: TechCrunch’s list of companies named by at least two investors leans toward AI compute, robotics, and energy. [TechCrunch](https://techcrunch.com/2026/09/13/the-9-buzziest-startups-from-y-combinators-latest-demo-day-according-to-vcs/)
+## The signal from Demo Day
 
-## Indie builders can sell software around the hardware
-- **You do not have to build a robot**: Waddle Labs is making an API that turns natural-language instructions into robot control code. Praxis AI converts videos of people at work into robot training data. For a small team, integration, data collection, or verification software is more accessible than manufacturing the machines.
+TechCrunch pulled together the YC Demo Day startups named by at least two investors. The list tilts toward AI compute and robotics. Energy is in the mix too. For builders, the next AI wedge may sit beside machines or shop-floor workflows. It may not live inside another browser app. [TechCrunch](https://techcrunch.com/2026/09/13/the-9-buzziest-startups-from-y-combinators-latest-demo-day-according-to-vcs/)
 
-## Start with one customer and one narrow task
-- **Leave the general robotics platform for later**: Find a business that already uses a specific machine, then test whether you can turn one repetitive job into an instruction or training-data workflow. Add hardware only after a customer pays for the first use case.
+That does not mean an indie team has to manufacture a robot. Waddle Labs is building an API that turns natural-language instructions into robot control code. Praxis AI converts videos of people at work into robot training data. Both point to a more reachable layer around hardware: integration work and data capture. Validation and operator tools fit there too.
+
+The practical starting point is a customer that already uses a specific machine. Pick one repetitive task. Turn it into an instruction or training-data workflow, then learn whether the customer will pay before expanding the supported hardware list.
 
 ## The rest of today’s news
 - **AI labs reopen the safety debate**: The industry is arguing over warnings from Anthropic researchers and recent agent-security incidents. [TechCrunch](https://techcrunch.com/2026/09/13/whats-behind-the-ai-industrys-latest-warnings-of-doom/)
