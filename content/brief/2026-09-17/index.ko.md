@@ -1,37 +1,30 @@
 ---
-title: "ChatGPT Sponsored Agents 광고 실험"
+title: "ChatGPT 광고가 대화로 착지할 때"
 date: 2026-09-17
-summary: "ChatGPT에서 광고를 클릭한 사용자가 그 기업이 후원하는 에이전트와 대화를 시작할 수 있습니다. OpenAI는 9월 16일 미국 광고주 일부와 테스트를 시작했습니다."
+summary: "OpenAI의 Sponsored Agents 테스트는 광고 클릭 뒤 대화를 연다. 인디 제품은 첫 화면 문구만큼 상품 데이터와 FAQ가 전환에 가까워진다."
 ---
 
-## OpenAI가 ChatGPT 광고에 Sponsored Agents 테스트를 붙이고 HubSpot·Shopify를 연결했습니다
-- **Sponsored Agents 베타**: ChatGPT에서 광고를 클릭한 사용자가 그 기업이 후원하는 에이전트와 대화를 시작할 수 있습니다. OpenAI는 9월 16일 미국 광고주 일부와 테스트를 시작했습니다. [TNW](https://thenextweb.com/news/openai-chatgpt-sponsored-agents-ads-manager-hubspot-shopify)
-- **"분명히 표시된 대화"**: 광고주 에이전트와의 대화는 ChatGPT의 독립적인 답변과 구분되고, 사용자가 시작한 원래 대화와도 분리됩니다. 사용자는 후속 질문을 던지고 기업 웹사이트로 넘어갈 수 있습니다. [TNW](https://thenextweb.com/news/openai-chatgpt-sponsored-agents-ads-manager-hubspot-shopify)
-- **베타 참여 조건**: 크리에이티브 자동화와 자동 입찰, 28일 동안의 최소 일일 광고비 같은 조건이 걸릴 수 있습니다. [OpenAI](https://openai.com/form/sponsored-agents-hubspot/)
-- **Ads Manager 플러그인**: 자연어 프롬프트로 캠페인을 만들고 고치고 성과를 봅니다. 랜딩 페이지와 캠페인 목적을 읽고 문구와 이미지를 제안하면, 광고주가 검토하고 수정한 뒤 캠페인에 넣습니다. [OpenAI](https://openai.com/index/reimagining-advertising-with-ai/) · [Reuters](https://www.reuters.com/business/media-telecom/openai-tests-advertiser-sponsored-agents-expands-ai-tools-chatgpt-ads-2026-09-16/)
-- **AI 문구 자동 조정**: 기존 헤드라인과 설명을 대화 맥락에 맞게 바꾸고, 사용자가 쓰는 언어로 번역합니다. [TNW](https://thenextweb.com/news/openai-chatgpt-sponsored-agents-ads-manager-hubspot-shopify)
-- **HubSpot이 첫 CRM 파트너, Shopify가 첫 이커머스 파트너**: 9월 16일부터 HubSpot 계정에서 ChatGPT Ads 계정을 연결해 광고 생성과 성과 추적, 리드 후속 조치를 한 화면에서 처리합니다. [TNW](https://thenextweb.com/news/openai-chatgpt-sponsored-agents-ads-manager-hubspot-shopify)
-- **Shopify 앱과 시장 확대**: 미국 Shopify 판매자는 Shopify Catalog에 이미 연결된 상품으로 바로 광고를 돌립니다. 나머지 ChatGPT Ads 시장에는 9월 23일부터 앱이 열립니다. [TNW](https://thenextweb.com/news/openai-chatgpt-sponsored-agents-ads-manager-hubspot-shopify)
-- **여기까지 온 경로**: 4월에 클릭당 과금으로 옮겼고, 8월 31일 연환산 매출 10억 달러를 넘었으며, 9월 11일 아마존 광고주가 ChatGPT 지면을 사는 파일럿이 시작됐습니다. [TNW](https://thenextweb.com/news/openai-chatgpt-sponsored-agents-ads-manager-hubspot-shopify)
+## ChatGPT 광고가 Sponsored Agent 대화로 열립니다
 
-## 광고의 뒷단이 랜딩 페이지에서 대화로 바뀌면 내 제품 앞단도 바뀝니다
-- **새 채널을 붙이는 비용이 낮아집니다**: Shopify를 쓰는 판매자는 카탈로그가 이미 연결돼 있어 앱을 켜는 것만으로 광고를 시작합니다. 채널을 하나 늘리려고 스택을 다시 짤 필요가 없습니다.
-- **카피 작성이 병목에서 빠집니다**: 랜딩 페이지에서 문구와 이미지 초안이 나오니, 실험의 병목이 작성이 아니라 검토와 측정으로 옮겨갑니다.
-- **첫 화면이 첫 응답으로 바뀝니다**: 클릭 뒤에 대화가 열린다면 히어로 문구보다 첫 답변이 전환을 정합니다.
-- **쓰던 도구가 광고 지면이 됩니다**: HubSpot과 Shopify 안에서 광고를 만들고 성과를 본다는 건, 그 도구를 쓰는 팀이 광고까지 그 안에서 처리한다는 뜻입니다.
-- **답할 수 있는 제품 정보가 자산이 됩니다**: 에이전트가 상품 데이터를 읽고 답하니, 스펙과 배송, 관리 방법처럼 정리된 데이터가 광고 성과에 직접 걸립니다.
+OpenAI는 9월 16일 미국 광고주 일부를 대상으로 Sponsored Agents 베타를 시작했다. ChatGPT에서 광고를 누른 사용자는 그 기업이 후원하는 에이전트와 별도 대화를 시작한다. 이 대화는 분명히 표시되고, ChatGPT의 독립 답변이나 사용자가 원래 이어가던 대화와 분리된다. 사용자는 후속 질문을 던진 뒤 광고주 사이트로 넘어갈 수 있다. [TNW](https://thenextweb.com/news/openai-chatgpt-sponsored-agents-ads-manager-hubspot-shopify)
 
-## 지금 해볼 것: 클릭 뒤에 놓을 대화를 먼저 설계해 보십시오
-- **내 제품을 답하는 에이전트를 하나 만들어 보십시오**: 제품 데이터와 자주 받는 질문을 넣고 돌려보면, 광고 문구가 약속한 것 중 무엇을 답하지 못하는지가 드러납니다.
-- **자동 생성 문구와 직접 쓴 문구를 비교해 보십시오**: 같은 랜딩 페이지를 넣어 나온 변형과 직접 쓴 변형을 나란히 돌리고 클릭률과 전환을 봅니다.
-- **반드시 받는 질문 세 개를 정해 두십시오**: 치수, 호환, 관리처럼 사용자가 꼭 묻는 질문을 뽑아 에이전트 답변에 넣으면 광고와 제품 사이의 빈틈이 줄어듭니다.
-- **대화형 착지면을 실험해 보십시오**: 질문 몇 개로 시작하는 화면과 기존 랜딩 페이지를 같은 광고에 붙여 이탈 지점을 비교합니다.
+베타 참여에는 크리에이티브 자동화와 자동 입찰, 28일 동안의 최소 일일 광고비 같은 조건이 붙을 수 있다. [OpenAI](https://openai.com/form/sponsored-agents-hubspot/) Ads Manager 플러그인은 자연어 프롬프트로 캠페인을 만들고 고치고 성과를 본다. 랜딩 페이지와 캠페인 목적을 읽어 문구와 이미지를 제안하고 광고주가 검토하고 수정한 뒤 캠페인에 넣는 흐름이다. [OpenAI](https://openai.com/index/reimagining-advertising-with-ai/) [Reuters](https://www.reuters.com/business/media-telecom/openai-tests-advertiser-sponsored-agents-expands-ai-tools-chatgpt-ads-2026-09-16/) 기존 헤드라인과 설명은 대화 맥락에 맞게 바뀌고 사용자가 쓰는 언어로 번역된다. [TNW](https://thenextweb.com/news/openai-chatgpt-sponsored-agents-ads-manager-hubspot-shopify)
 
-## 표시된 광고와 중립 답변 사이의 경계는 아직 검증되지 않았습니다
-- **표시만으로 신뢰가 서지는 않습니다**: 대화가 분명히 표시돼도 사용자가 후원 대화의 답을 ChatGPT의 답으로 읽을 여지가 남습니다.
-- **성과 데이터가 얇습니다**: 대화가 어디서 끊기는지, 리드가 광고비를 정당화하는지는 광고주 데이터가 쌓여야 판단할 수 있습니다.
-- **클릭 단가가 오를 수 있습니다**: 새 지면에 광고주가 몰리면 단가가 올라가고, 지금의 저렴한 구간은 짧아집니다.
-- **미국 밖 일정이 남아 있습니다**: Shopify 앱의 다른 시장 개방이 9월 23일로 예정돼 있어, 미국 외 판매자는 자기 시장 일정을 따로 확인해야 합니다.
+HubSpot은 첫 CRM 파트너, Shopify는 첫 이커머스 파트너다. 9월 16일부터 HubSpot 계정에서 ChatGPT Ads 계정을 연결해 광고 생성과 성과 추적, 리드 후속 조치를 한 화면에서 처리한다. 미국 Shopify 판매자는 Shopify Catalog에 이미 연결한 상품으로 바로 광고를 돌리고, 나머지 ChatGPT Ads 시장에는 9월 23일부터 앱이 열린다. [TNW](https://thenextweb.com/news/openai-chatgpt-sponsored-agents-ads-manager-hubspot-shopify)
+
+여기까지 온 경로도 짧다. OpenAI는 4월에 클릭당 과금으로 옮겼고, 8월 31일 연환산 매출 10억 달러를 넘겼다. 9월 11일에는 아마존 광고주가 ChatGPT 지면을 사는 파일럿이 시작됐다. [TNW](https://thenextweb.com/news/openai-chatgpt-sponsored-agents-ads-manager-hubspot-shopify)
+
+## 인디 제품의 첫인상이 첫 답변으로 옮겨갑니다
+
+작은 제품 팀에는 광고 채널 하나가 늘었다는 소식으로 끝나지 않는다. 클릭 뒤에 페이지가 열리는 대신 대화가 시작되면, 히어로 문구와 첫 답변이 같이 전환을 맡는다. 광고 문구가 "배송은 빠릅니다"라고 약속했는데 에이전트가 배송 지역과 기간을 못 답하면 전환은 그 자리에서 식죠.
+
+Shopify 판매자는 카탈로그가 이미 연결돼 있어 앱을 켜는 쪽에 가깝다. HubSpot을 쓰는 팀은 광고와 리드 후속 조치를 같은 화면에서 본다. 새 지면을 시험하려고 스택을 다시 짜는 부담은 줄고 제품 정보가 얼마나 잘 정리돼 있는지가 더 빨리 드러난다.
+
+카피 작성도 예전과 달라진다. 랜딩 페이지에서 문구와 이미지 초안이 나오면 병목은 작성이 아니라 검토와 측정에 가까워진다. 직접 쓴 문구와 자동 생성 문구를 같은 랜딩 페이지에서 뽑아 나란히 돌리고 클릭률과 대화 중단 지점을 같이 봐야 한다.
+
+하나만 먼저 한다면 제품을 답하는 작은 에이전트를 만들어 보는 편이 낫다. 제품 데이터에 치수와 호환성, 배송과 관리 방법, 자주 받는 질문을 넣고 광고 문구가 약속한 내용을 실제로 답하는지 확인한다. 질문 몇 개로 시작하는 대화형 착지면과 기존 랜딩 페이지를 같은 광고에 붙여 보면 사용자가 어디서 빠지는지도 보인다.
+
+아직 검증되지 않은 경계도 있다. 후원 대화가 분명히 표시돼도 사용자가 그 답을 ChatGPT의 일반 답변처럼 읽을 수 있다. 대화가 어디서 끊기고 리드가 광고비를 정당화하는지는 광고주 데이터가 쌓여야 알 수 있다. 새 지면에 광고주가 몰리면 클릭 단가가 오를 수 있고 미국 밖 판매자는 9월 23일 이후 자기 시장 일정을 따로 확인해야 한다.
 
 ## 오늘의 다른 소식 (한 줄)
 - **Anthropic이 Claude 채팅과 Cowork를 한 화면으로 합칩니다**: 문서와 슬라이드 작성 기능도 붙었고, Pro와 Max 요금제부터 순차 적용됩니다. [TechCrunch](https://techcrunch.com/2026/09/16/anthropic-merges-claude-chat-and-cowork-in-one-interface/)
