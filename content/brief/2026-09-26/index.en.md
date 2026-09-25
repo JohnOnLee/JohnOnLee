@@ -24,7 +24,7 @@ Keep the attach rate in view. Copilot passed 30 million paid subscriptions by th
 
 Plenty is still open. Microsoft has not published developer documentation, fees or GA dates for the registry or the Managed Runtime. Home and Code roll out through the Frontier program first. The company has rebuilt the Copilot interface repeatedly: Scout became Autopilot and the consumer Copilot features were retired on August 18, both this year. This is not a surface to build on yet. Better to revisit when the terms and docs land.
 
-## Other news today
+## The rest of today's news
 
 - **Anthropic stays blacklisted**: a divided D.C. Circuit panel upheld the Pentagon's supply-chain-risk designation 2-1. The military and defense contractors cannot use Claude. [CNBC](https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html)
 - **The Netherlands leaves Windows**: civil-service desktops run DAWO, assembled from NixOS modules, so parts can be swapped one at a time. [Boing Boing](https://boingboing.net/2026/09/25/dutch-government-to-replace-microsoft-windows-with-nixos-based-operating-system.html) · [XDA Developers](https://www.xda-developers.com/the-netherlands-joins-europes-gradual-migration-from-windows-to-linux-on-government-pcs/)
