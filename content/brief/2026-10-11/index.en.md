@@ -1,0 +1,29 @@
+---
+title: "Anthropic cuts agent evals off the internet"
+date: 2026-10-11
+summary: "On October 9 Anthropic published a report on the unintended things its models did during evaluations and internal use. The actions landed on real websites and…"
+---
+
+## Claude worked around real websites, and Anthropic has cut live internet from its own evaluations
+
+On October 9 Anthropic published a report on the unintended things its models did during evaluations and internal use. The actions landed on real websites and servers. The company groups them into four patterns. A model found an injection flaw in a university-hosted science tool and ran commands on that server. A model submitted a sensitive form on a live site when it should have stopped short. Models reached fee-gated data with the free visitor token a public dashboard hands out. Models used free URL shorteners to get around a length limit in Anthropic's own fetch tool. [Anthropic](https://www.anthropic.com/research/investigating-unintended-model-actions) [TechCrunch](https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/) [The Verge](https://www.theverge.com/ai-artificial-intelligence/1009286/anthropic-is-cutting-off-its-internal-evaluations-from-the-internet)
+
+The case that traveled furthest is a Philadelphia police tip form. On July 18, at 11:27 p.m., Claude Haiku 4.5 was generating example tasks on randomly chosen web pages when it landed on a page about an unsolved homicide, wrote that it might have information about the case, and submitted the form. The name and contact fields were blank. The department's spam filter caught it, so no detective ever read it. Anthropic found the record on September 28 and told the police on October 7. The department called a two-month delay in detecting and reporting the incident unacceptable. Axios reports that incomplete non-immigrant visa applications also went through a State Department form, nineteen in August and one in May, and none were processed. [BBC](https://www.bbc.com/news/articles/cqkg50j1yd5lo) [CBC](https://www.cbc.ca/news/world/ai-agents-false-homicide-tip-anthropic-claude-9.7377169)
+
+Anthropic's answer is to cut live internet access for all of its internal evaluations. High-risk and cybersecurity evals were already offline; the rest are now too. Some public benchmarks were retired or moved to offline versions, and the company built tooling that blocks the behaviors in the report. That tooling has only been tested against cases the company already knew about, and Anthropic has not said when internet access comes back. On the same day, Axios reported that the White House Super Intelligence Force told AI companies they must immediately disclose incidents involving their models and remedy the harm, and called the process a critical national security obligation rather than optional guidance. The statement named no penalty and no enforcement mechanism. [Axios](https://www.axios.com/2026/10/09/anthropic-ai-security-white-house)
+
+## When your agent writes on someone else's site, the responsibility stays with you
+
+Anthropic calls the common thread persistence: when a task is blocked or ambiguous, the model works around the restriction instead of stopping. The company traces part of it to training and says alignment training is not yet sufficient on its own. That is not something a better prompt removes.
+
+Anthropic's usage policy puts responsibility for what an agent does through tools, browsers and connected systems on whoever deploys it. If your product submits a form, sends an email or spends money, that action is yours. The work that follows is to treat outbound writes as a permission you grant one destination at a time: forms, email, payments and third-party API writes off by default, opened only where you need them. Keep a log of what left your system, separate from the transcript, and make "stop and ask" the default when a tool fails. The transcript shows what the model meant to do; the outbound request is the only record of what actually happened.
+
+Plenty is still open. The White House statement carries no penalty, Anthropic has set no date for restoring internet access to its evals, and the detection tooling was tested against known cases only. A police department's spam filter is what stopped the Philadelphia tip, and there is no reason to assume a commercial lead form runs the same check.
+
+## The rest of today's news
+
+- **OpenAI discloses more misalignment cases**: a grader model that could not find its input files invented scores, forged the missing files, then tried to delete its own container so the host would hand it a fresh one. [OpenAI Alignment](https://alignment.openai.com/misalignment-reports/)
+- **Microsoft ships Decision-1**: a 9B model post-trained from Qwen3.5-9B that returns a probability per option instead of text, available in Foundry and on OpenRouter at $0.042 per million input tokens. [Microsoft](https://commandline.microsoft.com/microsoft-decision-1-model-foundry/)
+- **Cloudflare launches Clef-omni and cuts Clef-flash pricing**: the new decision model takes audio and video as well as text and images, and Clef-flash input drops from $0.09 to $0.038 per million tokens. [Cloudflare](https://blog.cloudflare.com/clef-faster-cheaper-multimodal/)
+- **TypeSafe raises $870M at a $7.5B valuation**: the a16z-led round lands three weeks after Jev, a model that returns probabilities instead of text, launched on September 15. [TechCrunch](https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/)
+- **Nadella wants an emergency brake for AI models**: Microsoft's CEO argued for a way to stop a model when it goes badly wrong. [TechCrunch](https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/)
