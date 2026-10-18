@@ -16,7 +16,8 @@ Two severities, because they need different responses:
 There is also a source mode that reads content/ front matter directly, with no
 Hugo build and no dependencies. It exists so whoever *writes* a post — including
 Hermes Agent, which commits the daily brief straight into this repo — can catch
-an overlong title at authoring time instead of after publish.
+an overlong title, a missing translation, or a brief whose required caption
+heading is absent at authoring time instead of after publish.
 
 Usage:
     hugo --minify && python3 scripts/seo_check.py [--public public] [--strict]
@@ -59,6 +60,22 @@ def columns(text):
 
 # Pages that are redirect stubs or error pages: exempt from content rules.
 SKIP_SUFFIXES = ("/404.html",)
+
+# The daily brief closes with one fixed capsule heading per language. Its author
+# is an unattended cron job whose only gate is this script's source mode, and on
+# 2026-09-26 it first shipped "## Other news today" instead of the required line
+# — nothing read the body, so the wrong heading went live (commit bfab9f1) until
+# a follow-up commit 42 s later. The pattern normalises the two apostrophes the
+# writer has produced (straight and curly) and leaves the optional parenthetical
+# off, so the same caption written either way passes. Scoped to the brief tree:
+# a post in another section carries no such heading and must not be flagged.
+BRIEF_SECTION = "brief"
+CAPTION_HEADING = {
+    "ko": (re.compile(r"^## 오늘의 다른 소식", re.MULTILINE),
+           "## 오늘의 다른 소식 (한 줄)"),
+    "en": (re.compile(r"^## The rest of today['’]s news", re.MULTILINE),
+           "## The rest of today's news"),
+}
 
 
 class Head(HTMLParser):
@@ -117,6 +134,22 @@ def front_matter_field(block, key):
     return m.group("p").strip().strip("'")
 
 
+def caption_heading_lang(path, body):
+    """Return the language of a brief whose required caption heading is absent.
+
+    Only a brief *edition* carries the capsule. Two kinds of file are skipped: a
+    post elsewhere in content/ (no such heading was ever meant to be there) and
+    Hugo's `_index.*` section page for /brief/ itself.
+    """
+    base = os.path.basename(path)
+    if base.startswith("_") or f"{os.sep}{BRIEF_SECTION}{os.sep}" not in path:
+        return None
+    for lang, (pattern, _) in CAPTION_HEADING.items():
+        if base.endswith(f".{lang}.md") and not pattern.search(body):
+            return lang
+    return None
+
+
 def check_source(paths):
     """Check content/ front matter without building the site."""
     targets = []
@@ -144,7 +177,16 @@ def check_source(paths):
         if not m:
             continue
         block = m.group(1)
+        body = text[m.end():]
         checked += 1
+
+        # The capsule heading is the brief's one fixed body element across
+        # editions; its absence is what let a wrong one reach the live site.
+        missing = caption_heading_lang(path, body)
+        if missing:
+            issues.append(
+                f"{path}: brief body has no {missing} caption heading; "
+                f"expected a line starting {CAPTION_HEADING[missing][1]!r}")
 
         title = front_matter_field(block, "title")
         if title:
