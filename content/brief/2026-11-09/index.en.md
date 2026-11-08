@@ -1,30 +1,29 @@
 ---
-title: "Coding agents finish 26%"
+title: "DeepSeek plugins need a route in"
 date: 2026-11-09
-summary: "A progress score cannot set a release date. In Co-Design Bench, the strongest of ten model endpoints, GPT-6 Astra, passed an average of 69.9% of acceptance…"
+summary: "DeepSeek says it will add an official plugin marketplace to Harness, its open-source agent app. It reports 1.54 million daily active users as of November 4, up…"
 ---
 
-## Co-Design Bench separates partial credit from finished work
+## DeepSeek plans a plugin market for 1.54 million daily users
 
-A progress score cannot set a release date. In Co-Design Bench, the strongest of ten model endpoints, GPT-6 Astra, passed an average of 69.9% of acceptance criteria per task. It satisfied every requirement on just 26.4% of tasks, according to [The Decoder's November 8 coverage](https://the-decoder.com/ai-coding-agents-still-need-human-cleanup-on-nearly-three-out-of-four-tasks-in-a-real-world-test/).
+DeepSeek says it will add an official plugin marketplace to Harness, its open-source agent app. It reports 1.54 million daily active users as of November 4, up from about 271,000 at the end of September. Harness launched on August 13, so the figures arrive less than three months in. [Bloomberg](https://www.bloomberg.com/news/articles/2026-11-08/deepseek-s-ai-agent-platform-hits-1-54-million-daily-users)
 
-The [Co-Design Bench paper](https://arxiv.org/abs/2610.35138), submitted October 26, evaluates 273 tasks drawn from real user coding sessions, each pairing a normalized request with a runnable application before editing. Experts wrote 2,331 hidden acceptance criteria. One AI judge checks them by testing the finished app in a browser; another challenges positive verdicts, looking for mockups or hardcoded results. There is no reference implementation or target screenshot.
+Daily consumption is about 92 trillion tokens, or roughly 60 million per active user. About 35,000 third-party plugins exist, and around 60% of users have installed or built one, according to the company. These are DeepSeek's own numbers, reported by Bloomberg, not independent measurements.
 
-GPT-6 Astra fully solved about 41% of multimodal tasks and just under 18% of repository tasks, finishing least often on the track closest to actual product work. For someone building and selling a paid product alone, partial credit still leaves work to finish. Extracting an amount from a receipt and updating every dependent total can remain incomplete after several criteria pass. Passing 70% of requirements does not mean 70% of the development time is saved.
+DeepSeek also plans a support programme for Harness plugin makers, offering token grants, technical help and promotion. It has given no launch date and no terms. [Emergent](https://emergent.sh/news/deepseek-harness-hits-1-54m-daily-users-3)
 
-All ten endpoints lost ground once a task combined three or four change types. A single feature change usually moves layout and behaviour together, and a request like that leaves the largest share of the work to the person finishing it.
+## ChatGPT's directory already holds 13,344 apps
 
-Task selection was deliberately hard. The researchers favored requests that users repeatedly rephrased or rolled back. Each task gets one fixed request, excluding follow-up questions and corrections during work. AI judges can also make mistakes, so results for ten endpoints under one harness on those tasks do not predict a particular repository's completion rate.
+OpenApps counted 13,344 listings on November 8. Productivity alone holds 3,206. Business & Operations holds 2,180, and Developer Tools 976. A median of 440 new Apps SDK apps were created each week over the eight settled weeks to September 28.
 
-## Coding agents need a model and harness tested together
+The directory is not emptier elsewhere. Of 1,226 apps that appear in a US top-100 list, 1,160 are listed in all 48 countries with data. Every country's list opens with much the same global set. This third-party crawl counts listings, not usage or revenue, and it cannot say how many customers any app won. [OpenApps](https://theopenapps.com/stats/chatgpt)
 
-On larger overhauls, Qwen3.8-27B scored 75% in one harness and 56% in another. Which of two models performed better also depended on the harness. The authors recommend reporting the model and working environment together.
+Treat a listing as a place people can reach your product, not as acquisition. Distribution starts with people who already know you or the product, and with a reason for them to use the new integration. A plan that waits for the marketplace to surface you has no answer for why anyone would pick this app out of thousands. Decide where those people hear about it and how they run it, and the plan becomes a distribution plan.
 
-Token use affects the bill. On smaller changes, GLM-5.2 used nearly six times the tokens of GPT-6 Astra and still scored significantly worse, so paying more per task bought no better result here.
+Keep the integration small enough to ship quickly, wiring only the part of your product the feature needs. There is no reason to start a large build against a marketplace with no date and no terms.
 
-A tool buyer needs results from actual repository changes rather than leaderboard position. Test the model with the harness you actually use. Separate partial credit from finished tasks, and record the time you spend checking and fixing the result. The benchmark offers no conversion from missing criteria to repair hours, so weekly capacity has to come from the pair's completion rate and the hours you spend finishing what it leaves. A harness that helped here offers no guarantee of the same improvement elsewhere.
+For token-heavy features, run the cost once against the disclosed 60 million tokens per active user per day. Use it as a scenario rather than a forecast for each customer, and do not price as if an unspecified token grant will cover the bill.
 
 ## The rest of today's news
 
-- **DeepSeek Harness usage disclosure**: DeepSeek reported 1.54 million daily active users and about 92 trillion tokens per day, company figures reported by Bloomberg. [Bloomberg](https://www.bloomberg.com/news/articles/2026-11-08/deepseek-s-ai-agent-platform-hits-1-54-million-daily-users)
-- **Anthropic account information notice**: Anthropic notified customers of unauthorized access by an outside security research firm; its notice excludes conversation content and passwords. [CellCog](https://cellcog.ai/blog/anthropic-breach-notice-email/)
+- **Anthropic account breach notice**: Anthropic says an outside security research firm accessed names and emails, plus some enterprise account usage and spend data, without authorization; its notice excludes conversations, passwords and payment details. [CellCog](https://cellcog.ai/blog/anthropic-breach-notice-email/)
