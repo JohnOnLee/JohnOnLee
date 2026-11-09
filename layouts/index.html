@@ -2,7 +2,6 @@
 {{- $lang := .Site.Language.Lang -}}
 {{- $copy := index .Site.Data.home $lang -}}
 {{- $posts := first 4 (where .Site.RegularPages.ByDate.Reverse "Section" "blog") -}}
-{{- $briefs := first 1 (where .Site.RegularPages.ByDate.Reverse "Section" "brief") -}}
 {{- $guides := first 3 (where .Site.RegularPages.ByDate.Reverse "Section" "guides") -}}
 
 <div id="john-home" class="editorial-home">
@@ -52,26 +51,6 @@
       <p class="editorial-sidebar__note">{{ $copy.topics.note }}</p>
     </aside>
   </div>
-
-  <section class="editorial-radar" aria-labelledby="radar-title">
-    <div class="editorial-radar__intro">
-      <p class="editorial-label">{{ $copy.radar.label }}</p>
-      <h2 id="radar-title">{{ $copy.radar.title }}</h2>
-      <p>{{ $copy.radar.description }}</p>
-      <a href="{{ $copy.radar.allUrl }}">{{ $copy.radar.allLabel }} <span aria-hidden="true">→</span></a>
-    </div>
-
-    {{- range $briefs }}
-    <article class="editorial-radar__latest">
-      <p class="editorial-post__meta"><time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "2006.01.02" }}</time></p>
-      <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
-      <p>{{ (.Params.summary | default .Summary) | plainify | truncate 230 }}</p>
-      <a class="editorial-read" href="{{ .RelPermalink }}">{{ $copy.radar.readLabel }} <span aria-hidden="true">→</span></a>
-    </article>
-    {{- else }}
-    <p class="editorial-empty">{{ $copy.radar.empty }}</p>
-    {{- end }}
-  </section>
 
   <section class="editorial-guides" aria-labelledby="guides-title">
     <div class="editorial-guides__intro">

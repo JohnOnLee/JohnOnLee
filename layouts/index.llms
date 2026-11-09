@@ -1,19 +1,12 @@
 # John on Lee
-> Personal site for AI/startup morning briefings, LLMs, and coding agents.
-> Daily briefings curated by Hermes Agent.
+> Personal site for LLMs and coding agents.
 
 {{ range hugo.Sites }}
-## Briefs ({{ upper .Language.Lang }})
-{{ range where .RegularPages "Section" "brief" }}
-- [Brief — {{ .Date.Format "2006-01-02" }}]({{ .Permalink }}){{ end }}
-
 ## Blog Posts ({{ upper .Language.Lang }})
 {{ range where .RegularPages "Section" "blog" }}
 - [{{ .Title }}]({{ .Permalink }}) — {{ .Date.Format "2006-01-02" }}{{ end }}
 {{ end }}
 
 ## Feeds
-- KO Brief RSS: {{ .Site.BaseURL }}brief/index.xml
 - KO Blog RSS: {{ .Site.BaseURL }}blog/index.xml
-- EN Brief RSS: {{ .Site.BaseURL }}en/brief/index.xml
 - EN Blog RSS: {{ .Site.BaseURL }}en/blog/index.xml

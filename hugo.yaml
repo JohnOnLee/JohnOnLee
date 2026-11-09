@@ -12,15 +12,11 @@ languages:
     weight: 1
     title: John on Lee
     params:
-      description: "AI 뉴스가 빌더에게 무슨 뜻인지 짚는 AI 레이더, 그리고 LLM과 코딩 에이전트 사용기."
+      description: "LLM과 코딩 에이전트를 직접 써본 기록."
       footer:
         text: "[개인정보처리방침](/privacy/)"
     menu:
       main:
-        - identifier: brief
-          name: AI 레이더
-          url: /brief/
-          weight: 10
         - identifier: blog
           name: 인사이트
           url: /blog/
@@ -35,7 +31,7 @@ languages:
           weight: 40
         - identifier: rss
           name: RSS
-          url: /brief/index.xml
+          url: /blog/index.xml
           weight: 50
   en:
     label: English
@@ -43,15 +39,11 @@ languages:
     weight: 2
     title: John on Lee
     params:
-      description: "AI Radar on what AI news means for builders, plus field notes on LLMs and coding agents from someone building with them."
+      description: "Field notes on LLMs and coding agents from someone building with them."
       footer:
         text: "[Privacy Policy](/en/privacy/)"
     menu:
       main:
-        - identifier: brief
-          name: AI Radar
-          url: /brief/
-          weight: 10
         - identifier: blog
           name: Insights
           url: /blog/
@@ -66,7 +58,7 @@ languages:
           weight: 40
         - identifier: rss
           name: RSS
-          url: /en/brief/index.xml
+          url: /en/blog/index.xml
           weight: 50
 
 googleAnalytics: G-XQLLNDLGC0
@@ -129,7 +121,7 @@ params:
       SiteVerificationTag: "beb6cc7f22d782ea0281dc35aaed8ba3bf432851"
   # Per-language overrides live under languages.*.params.description; this is
   # the fallback only. Without the overrides the English pages inherit Korean.
-  description: "AI 뉴스가 빌더에게 무슨 뜻인지 짚는 AI 레이더, 그리고 LLM과 코딩 에이전트 사용기."
+  description: "LLM과 코딩 에이전트를 직접 써본 기록."
   author: John Lee
   ShowReadingTime: false
   ShowRssButtonInSectionTermList: true
